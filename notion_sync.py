@@ -50,8 +50,7 @@ class NotionSync:
             "Channel": {"rich_text": [{"text": {"content": item.get('source', {}).get('channel', 'Unknown')}}]},
             "Relevance": {"number": item.get('relevance', 0)},
             "Status": {"select": {"name": "New"}},
-            "Hot Take": {"rich_text": [{"text": {"content": item.get('hot_take', '')}}]},
-            "Date": {"date": {"start": item.get('source', {}).get('timestamp', datetime.now().isoformat())}}
+            "Hot Take": {"rich_text": [{"text": {"content": item.get('hot_take', '')}}]}
         }
         
         # Add link if exists
