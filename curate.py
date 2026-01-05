@@ -78,10 +78,16 @@ Please curate them according to your instructions.
             print(f"  OpenAI response received!", flush=True)
             
             content = response.choices[0].message.content
+            print(f"  Raw content length: {len(content)} chars", flush=True)
+            print(f"  Content preview: {content[:500]}...", flush=True)
+            
             result = json.loads(content)
+            print(f"  Parsed JSON type: {type(result)}", flush=True)
             
             # Ensure result is a list
             items = result.get('items', []) if isinstance(result, dict) else result
+            print(f"  Items from 'items' key: {len(items) if isinstance(items, list) else 'not a list'}", flush=True)
+            
             if isinstance(items, dict): # Handle edge case where single item returned
                  items = [items]
                  
