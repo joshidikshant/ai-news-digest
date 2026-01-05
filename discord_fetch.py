@@ -170,7 +170,7 @@ class DiscordFetcher:
         if not self.config.TOKEN:
             print("Error: DISCORD_TOKEN environment variable not set")
             return
-        self.client.run(self.config.TOKEN, bot=False)
+        self.client.run(self.config.TOKEN)
 
 def main():
     config = Config()
