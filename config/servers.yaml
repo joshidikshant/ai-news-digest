@@ -1,0 +1,39 @@
+# Discord server and channel configuration
+servers:
+  - name: "OpenAI"
+    # server_id optional if we just use channel IDs
+    channels:
+      - id: "CHANNEL_ID_HERE"
+        name: "announcements"
+        priority: high
+      - id: "CHANNEL_ID_HERE"
+        name: "api-announcements"
+        priority: high
+
+  - name: "Anthropic"
+    channels:
+      - id: "CHANNEL_ID_HERE"
+        name: "announcements"
+        priority: high
+      - id: "CHANNEL_ID_HERE"
+        name: "changelog"
+        priority: high
+
+  - name: "Google Labs"
+    channels:
+      - id: "CHANNEL_ID_HERE"
+        name: "announcements"
+        priority: high
+      - id: "CHANNEL_ID_HERE"
+        name: "gemini"
+        priority: high
+
+  - name: "xAI"
+    channels:
+      - id: "CHANNEL_ID_HERE"
+        name: "announcements"
+        priority: high
+
+schedule:
+  frequency_hours: 6
+  timezone: "Asia/Kolkata"

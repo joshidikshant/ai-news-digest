@@ -2,14 +2,19 @@ import discord
 import json
 import os
 import argparse
-from datetime import datetime, timedelta, UTC
+import yaml
+from datetime import datetime, timedelta, timezone as python_timezone
 from typing import List, Dict, Optional
 
 class Config:
     """Centralized configuration"""
     TOKEN = os.getenv("DISCORD_TOKEN")
-    CHANNEL_ID = 1326603270893867064
     DATA_DIR = "data"
+    
+    @staticmethod
+    def load_servers():
+        with open("config/servers.yaml", "r") as f:
+            return yaml.safe_load(f)
 
 class MessageParser:
     """Handles message parsing and formatting"""
@@ -19,65 +24,72 @@ class MessageParser:
         return dt.strftime("%Y-%m-%d %H:%M:%S")
     
     @staticmethod
-    def create_content_key(data: Dict) -> str:
-        desc = data.get('description', '') or ''
-        return desc[:100]
-    
-    @staticmethod
-    def parse_embed(embed: discord.Embed, timestamp: datetime) -> Dict:
-        data = {
-            "timestamp": MessageParser.normalize_timestamp(timestamp),
-            "description": embed.description if embed.description else None
+    def parse_message(message: discord.Message) -> Dict:
+        # Handle regular content
+        content = message.content or ""
+        
+        # Handle embeds if present
+        if message.embeds:
+            for embed in message.embeds:
+                if embed.title:
+                    content += f"\n# {embed.title}"
+                if embed.description:
+                    content += f"\n{embed.description}"
+                # Add fields if needed
+                for field in embed.fields:
+                    content += f"\n**{field.name}**: {field.value}"
+
+        return {
+            "id": str(message.id),
+            "timestamp": MessageParser.normalize_timestamp(message.created_at),
+            "content": content,
+            "author": str(message.author),
+            "link": message.jump_url,
+            "attachments": [a.url for a in message.attachments]
         }
-        if embed.title:
-            data["description"] = f"# {embed.title}\n\n{data['description']}" if data["description"] else f"# {embed.title}"
-        data["content_key"] = MessageParser.create_content_key(data)
-        return data
 
 class DataManager:
-    """Manages data storage and deduplication"""
+    """Manages data storage"""
     
     def __init__(self, data_dir: str):
         self.data_dir = data_dir
     
-    def load_existing(self, filename: str, clear: bool) -> List[Dict]:
-        filepath = os.path.join(self.data_dir, filename)
-        if clear or not os.path.exists(filepath):
-            return []
+    def save_data(self, server_name: str, date_str: str, data: List[Dict]) -> None:
+        # Create directory structure: data/raw/{server_name}/
+        server_dir = os.path.join(self.data_dir, "raw", server_name.lower().replace(" ", "_"))
+        os.makedirs(server_dir, exist_ok=True)
         
-        try:
-            with open(filepath, "r", encoding="utf-8") as f:
-                data = json.load(f)
-                for item in data:
-                    item["content_key"] = MessageParser.create_content_key(item)
-                print(f"Loaded {len(data)} existing entries from {filename}")
-                return data
-        except json.JSONDecodeError:
-            print(f"Invalid JSON in {filename}. Starting fresh.")
-            return []
-    
-    def save_data(self, filename: str, data: List[Dict]) -> None:
-        os.makedirs(self.data_dir, exist_ok=True)
+        filename = f"{date_str}.json"
+        filepath = os.path.join(server_dir, filename)
         
-        # Save JSON
-        json_filepath = os.path.join(self.data_dir, filename)
-        json_data = [{"timestamp": item["timestamp"], "description": item["description"]} 
-                    for item in data]
-        with open(json_filepath, "w", encoding="utf-8") as f:
-            json.dump(json_data, f, indent=2, ensure_ascii=False)
-        print(f"Saved {len(data)} unique entries to {json_filepath}")
+        # Load existing if exists to merge/dedupe
+        existing_data = []
+        if os.path.exists(filepath):
+            try:
+                with open(filepath, "r", encoding="utf-8") as f:
+                    existing_data = json.load(f)
+            except:
+                pass
         
-        # Save Markdown
-        md_filename = os.path.splitext(filename)[0] + ".md"
-        md_filepath = os.path.join(self.data_dir, md_filename)
-        with open(md_filepath, "w", encoding="utf-8") as f:
-            # Add header with date
-            date_str = os.path.splitext(filename)[0]
-            f.write(f"# Daily Summary for {date_str}\n\n")
-            for item in data:
-                f.write(f"## {item['timestamp']}\n\n")
-                f.write(f"{item['description']}\n\n")
-        print(f"Exported {len(data)} entries to {md_filepath}")
+        # Merge and dedupe by ID
+        seen_ids = {item["id"] for item in existing_data}
+        merged = existing_data.copy()
+        
+        new_count = 0
+        for item in data:
+            if item["id"] not in seen_ids:
+                merged.append(item)
+                seen_ids.add(item["id"])
+                new_count += 1
+        
+        # Sort by timestamp
+        merged.sort(key=lambda x: x["timestamp"])
+        
+        with open(filepath, "w", encoding="utf-8") as f:
+            json.dump(merged, f, indent=2, ensure_ascii=False)
+            
+        if new_count > 0:
+            print(f"[{server_name}] Saved {new_count} new messages to {filepath}")
 
 class DiscordFetcher:
     """Handles Discord interactions and message fetching"""
@@ -86,7 +98,7 @@ class DiscordFetcher:
         self.config = config
         self.data_manager = data_manager
         intents = discord.Intents.default()
-        intents.messages = True
+        intents.message_content = True # Needed for content reading
         self.client = discord.Client(intents=intents)
         self._register_events()
     
@@ -94,83 +106,70 @@ class DiscordFetcher:
         @self.client.event
         async def on_ready():
             print(f'Logged in as {self.client.user}')
-            await self._fetch_messages()
+            await self._fetch_all()
             await self.client.close()
     
-    async def _fetch_messages(self):
-        channel = self.client.get_channel(self.config.CHANNEL_ID)
-        if not channel:
-            print(f"Channel {self.config.CHANNEL_ID} not found")
-            return
-        
+    async def _fetch_all(self):
+        servers_config = self.config.load_servers()
         args = self._parse_args()
-        end_date = (datetime.strptime(args.date, "%Y-%m-%d").replace(tzinfo=UTC) 
-                   if args.date else datetime.now(UTC))
-        start_date = end_date - timedelta(days=args.days - 1)  # Include end_date
         
-        print(f"Fetching messages from {start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}")
+        end_date = datetime.now(python_timezone.utc)
+        start_date = end_date - timedelta(days=args.days)
         
-        messages_by_date = await self._collect_messages(channel, start_date, end_date)
-        
-        for date_str, messages in messages_by_date.items():
-            filename = f"{date_str}.json"
-            existing_data = self.data_manager.load_existing(filename, args.clear)
-            all_data = messages if args.clear else existing_data + messages
-            filtered_data = self._filter_and_sort(all_data)
-            self.data_manager.save_data(filename, filtered_data)
-    
-    async def _collect_messages(self, channel: discord.TextChannel, 
-                              start_date: datetime, 
-                              end_date: datetime) -> Dict[str, List[Dict]]:
-        messages_by_date = {}
-        content_keys_by_date = {d.strftime("%Y-%m-%d"): set() 
-                              for d in (start_date + timedelta(n) for n in range((end_date - start_date).days + 1))}
-        
-        async for msg in channel.history(limit=None, after=start_date - timedelta(days=1), before=end_date + timedelta(days=1)):
-            date_str = msg.created_at.strftime("%Y-%m-%d")
-            if date_str not in content_keys_by_date:
-                continue
+        print(f"Fetching messages since {start_date.strftime('%Y-%m-%d')}")
+
+        for server in servers_config['servers']:
+            server_name = server['name']
+            print(f"\nScanning server: {server_name}")
             
-            if date_str not in messages_by_date:
-                messages_by_date[date_str] = []
+            all_messages = []
             
-            for embed in msg.embeds:
-                msg_data = MessageParser.parse_embed(embed, msg.created_at)
-                if msg_data["content_key"] not in content_keys_by_date[date_str]:
-                    messages_by_date[date_str].append(msg_data)
-                    content_keys_by_date[date_str].add(msg_data["content_key"])
-        
-        total_new = sum(len(msgs) for msgs in messages_by_date.values())
-        print(f"Found {total_new} new messages across {len(messages_by_date)} days")
-        return messages_by_date
-    
-    def _filter_and_sort(self, data: List[Dict]) -> List[Dict]:
-        filtered = []
-        seen_keys = set()
-        for item in data:
-            if "content_key" not in item:
-                item["content_key"] = MessageParser.create_content_key(item)
-            if item["content_key"] not in seen_keys:
-                filtered.append(item)
-                seen_keys.add(item["content_key"])
-        
-        # Sort from start of day to end of day (earliest to latest)
-        filtered.sort(key=lambda x: x["timestamp"])  # Changed to ascending order
-        removed = len(data) - len(filtered)
-        if removed > 0:
-            print(f"Filtered out {removed} duplicate entries")
-        return filtered
-    
+            for channel_config in server.get('channels', []):
+                channel_id = int(channel_config['id'])
+                channel_name = channel_config['name']
+                
+                try:
+                    channel = self.client.get_channel(channel_id)
+                    if not channel:
+                        # Attempt to fetch if not in cache
+                        try:
+                            channel = await self.client.fetch_channel(channel_id)
+                        except:
+                            print(f"  Cannot access channel {channel_name} ({channel_id})")
+                            continue
+                            
+                    print(f"  Fetching {channel_name}...")
+                    
+                    async for msg in channel.history(limit=None, after=start_date):
+                        parsed = MessageParser.parse_message(msg)
+                        parsed['channel_name'] = channel_name
+                        all_messages.append(parsed)
+                        
+                except Exception as e:
+                    print(f"  Error fetching {channel_name}: {e}")
+            
+            if all_messages:
+                # Group by date for saving
+                by_date = {}
+                for msg in all_messages:
+                    date_str = msg['timestamp'].split(' ')[0]
+                    if date_str not in by_date:
+                        by_date[date_str] = []
+                    by_date[date_str].append(msg)
+                
+                for date_str, msgs in by_date.items():
+                    self.data_manager.save_data(server_name, date_str, msgs)
+
     def _parse_args(self) -> argparse.Namespace:
         parser = argparse.ArgumentParser(description='Fetch Discord messages')
-        parser.add_argument('--date', help='End date to fetch (YYYY-MM-DD), defaults to today')
         parser.add_argument('--days', type=int, default=1, 
-                          help='Number of days to fetch, ending at target date (default: 1)')
-        parser.add_argument('--clear', action='store_true',
-                          help='Clear existing files before adding new data')
+                          help='Number of days to fetch history for (default: 1)')
         return parser.parse_args()
     
     def run(self):
+        if not self.config.TOKEN:
+            print("Error: DISCORD_TOKEN environment variable not set")
+            return
         self.client.run(self.config.TOKEN)
 
 def main():
