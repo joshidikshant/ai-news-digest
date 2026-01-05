@@ -1,0 +1,36 @@
+[
+  {
+    "headline": "Claude Skills Feature Impresses Over MCP",
+    "bullets": [
+      "Users report replacing MCPs with Claude's 'skills' feature for better efficiency.",
+      "Skills offer a more streamlined way to handle commands and scripts."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-05 05:22:52"
+    },
+    "relevance": 70,
+    "hot_take": "Is Claude's 'skills' feature the future of AI interaction?",
+    "category": "insight",
+    "curated_at": "2026-01-05T20:39:04.137559+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "User Frustration Over Claude's Context Compression",
+    "bullets": [
+      "Some users find Claude's intrusive context compression makes it unusable.",
+      "Complaints suggest potential areas for improvement in user experience."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-05 07:49:27"
+    },
+    "relevance": 60,
+    "hot_take": "Is context compression crippling AI usability?",
+    "category": "insight",
+    "curated_at": "2026-01-05T20:39:04.137571+00:00",
+    "original_server": "Anthropic"
+  }
+]
