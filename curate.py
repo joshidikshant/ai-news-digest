@@ -87,7 +87,9 @@ Please curate them according to your instructions.
             return items
             
         except Exception as e:
+            import traceback
             print(f"Error curating {server_name}: {e}")
+            traceback.print_exc()
             return []
 
     def run(self, date_str: str = None):
