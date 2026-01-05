@@ -1,4 +1,4 @@
-discord.py-self>=2.3.0
+discord.py-self
 openai>=1.0.0
 notion-client>=2.0.0
 pyyaml>=6.0
