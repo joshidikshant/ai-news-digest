@@ -97,9 +97,8 @@ class DiscordFetcher:
     def __init__(self, config: Config, data_manager: DataManager):
         self.config = config
         self.data_manager = data_manager
-        intents = discord.Intents.default()
-        intents.message_content = True # Needed for content reading
-        self.client = discord.Client(intents=intents)
+        # discord.py-self doesn't use Intents for user accounts
+        self.client = discord.Client()
         self._register_events()
     
     def _register_events(self):
