@@ -1,53 +1,70 @@
 [
   {
-    "headline": "Skills Feature in Claude: A Game-Changer for Efficiency",
+    "headline": "Claude's Skills Feature Gains Traction, Outshines MCP",
     "bullets": [
-      "Users praise Claude's 'skills' for replacing MCPs with more efficiency.",
-      "Skills provide scripts and code, offering robust functionality without overloading."
+      "Users report Claude's 'skills' feature is more efficient than MCPs, offering better performance and less context waste.",
+      "Skills are now integrated into Claude Code, enabling command execution and automation."
     ],
     "source": {
-      "server": "Anthropic",
+      "server": "Anthropic Discord",
       "channel": "general",
-      "timestamp": "2026-01-05 05:32:39"
+      "timestamp": "2026-01-05"
     },
     "relevance": 90,
-    "hot_take": "Explore how Claude's skills are transforming the way users interact with AI by cutting down context waste and boosting productivity.",
+    "hot_take": "Explore how Claude's 'skills' feature could redefine productivity tools.",
     "category": "insight",
-    "curated_at": "2026-01-05T20:51:40.088760+00:00",
+    "curated_at": "2026-01-05T20:55:58.383140+00:00",
     "original_server": "Anthropic"
   },
   {
-    "headline": "Claude Desktop Faces Usability Issues on Windows",
+    "headline": "Persistent Issues with Claude Desktop on Windows",
     "bullets": [
-      "Users report Claude Desktop turning into a blank window on Windows.",
-      "The issue persists and seems to be getting worse over time."
+      "Users experience Claude Desktop app turning into a blank window on Windows machines.",
+      "Issue seems isolated to Windows; Mac users report no such problems."
     ],
     "source": {
-      "server": "Anthropic",
+      "server": "Anthropic Discord",
       "channel": "general",
-      "timestamp": "2026-01-05 15:06:24"
+      "timestamp": "2026-01-05"
     },
     "relevance": 75,
-    "hot_take": "Dive into the technical hitches plaguing Claude Desktop on Windows and what can be done to resolve them.",
+    "hot_take": "Investigate cross-platform stability issues in AI applications.",
     "category": "discussion",
-    "curated_at": "2026-01-05T20:51:40.088776+00:00",
+    "curated_at": "2026-01-05T20:55:58.383154+00:00",
     "original_server": "Anthropic"
   },
   {
-    "headline": "Opus vs. Sonnet: Balancing Features and Usage Limits",
+    "headline": "Efficiency or Expense? Opus vs. Sonnet Usage Costs",
     "bullets": [
-      "Opus praised but criticized for quickly maxing out usage limits.",
-      "Users weigh the trade-offs between Sonnet with thinking and Opus without extended thinking."
+      "Users debate between Opus and Sonnet for handling medium-sized prompts, with Opus consuming resources faster.",
+      "Higher subscription plans are necessary for effective usage of Opus."
     ],
     "source": {
-      "server": "Anthropic",
+      "server": "Anthropic Discord",
       "channel": "general",
-      "timestamp": "2026-01-05 19:25:27"
+      "timestamp": "2026-01-05"
     },
     "relevance": 80,
-    "hot_take": "Examine the cost-benefit analysis of using Opus versus Sonnet for AI tasks without hitting daily usage caps.",
+    "hot_take": "Analyze the true cost of using advanced AI tools like Opus.",
     "category": "discussion",
-    "curated_at": "2026-01-05T20:51:40.088780+00:00",
+    "curated_at": "2026-01-05T20:55:58.383158+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Intrusive Context Compression Makes Claude Unusable",
+    "bullets": [
+      "Users report Claude's context compression as overly intrusive, affecting usability.",
+      "This could impact user adoption if not addressed by Anthropic."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-05"
+    },
+    "relevance": 85,
+    "hot_take": "Could context compression be Claude's Achilles heel?",
+    "category": "insight",
+    "curated_at": "2026-01-05T20:55:58.383160+00:00",
     "original_server": "Anthropic"
   }
 ]
