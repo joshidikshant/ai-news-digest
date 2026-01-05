@@ -1,13 +1,17 @@
 # AI News Digest 🤖📰
 
-A powerful, automated pipeline that turns raw Discord conversations into curated, high-quality news digests in Notion and ready-to-post content drafts.
+A powerful, automated pipeline for tech-savvy curators. It turns raw Discord conversations into curated, high-quality news digests in Notion and ready-to-post content drafts for Twitter/LinkedIn.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 ## 🚀 Overview
 
-This engine monitors multiple Discord servers for AI news, uses OpenAI (GPT-4) to curate and summarize the most important updates, syncs them to a structured Notion database, and automatically generates Twitter/LinkedIn content drafts.
+This engine monitors multiple Discord servers for AI news, uses OpenAI (GPT-4o) to curate and summarize the most important updates, syncs them to a structured Notion database, and automatically generates social media drafts.
 
 **Workflow:**
-`Discord (Raw Sources)` → `Python Fetcher` → `OpenAI Curation (Relevance Filter)` → `Notion Database` + `Content Drafts`
+`Discord (Raw Sources)` → `Python Fetcher` → `OpenAI Curation` → `Notion Database` + `Content Drafts`
 
 ## ✨ Features
 
@@ -19,87 +23,124 @@ This engine monitors multiple Discord servers for AI news, uses OpenAI (GPT-4) t
 - **📝 Notion Integration**:
   - Syncs curated items to a Notion Database.
   - **Duplicate Prevention**: Tracks synced items to ensure your database stays clean.
-  - **Adaptive Sync**: Handles missing columns gracefully (though full schema is recommended).
+  - **Adaptive Schema**: Automatically handles missing columns to prevent crashes.
 - **✍️ Auto-Content Generation**:
   - Creates Markdown drafts for Twitter threads and LinkedIn posts.
   - Saved to `data/content/YYYY-MM-DD/` and downloadable as GitHub Artifacts.
 - **Automated Pipeline**: Runs on a schedule via GitHub Actions.
 
-## 🛠️ Setup
+---
+
+## 🛠️ Detailed Setup
 
 ### 1. Prerequisites
-- **Discord User Token**: To read messages (Self-bot mode).
-- **OpenAI API Key**: For curation and content generation.
-- **Notion Integration Token**: To write to your database.
-- **Notion Database ID**: The target database.
+- **Python 3.11+**
+- **Notion Account**
+- **Discord Account**
+- **OpenAI API Key**
 
-### 2. Configuration
-The project is driven by `config/servers.yaml`. Add your target channels here:
+### 2. Discord Configuration
+You need a Discord User Token to read messages (Self-bot mode).
+1. Open Discord in Browser.
+2. Open DevTools (`Ctrl+Shift+I` / `Cmd+Opt+I`) -> Network Tab.
+3. Filter by `messages`.
+4. Click a channel. Copy the `authorization` header from the request.
+   > **⚠️ Warning**: Keep this token secret. Do not share it.
 
-```yaml
-servers:
-  - name: "Anthropic"
-    channels:
-      - id: 123456789012345678 # "Announcements"
-        type: announcement
-  - name: "OpenAI"
-    channels:
-      - id: 987654321098765432
-        type: discussion
-```
-
-### 3. Notion Database Schema
-Create a Notion Database with the following properties for full functionality:
+### 3. Notion Configuration
+1. Create a new Integration at [Notion Developers](https://www.notion.so/my-integrations).
+2. Create a new Database in Notion.
+3. Share the Database with your Integration (meatball menu -> Connections).
+4. **Crucial**: Ensure your Database has these properties:
 
 | Property Name | Type | Description |
 |---------------|------|-------------|
-| **Title** | Title | The headline of the news item |
+| **Title** | Title | Headline |
 | **Category** | Select | Announcement, Insight, Tutorial, Discussion |
-| **Source** | Select | Server name (e.g., OpenAI, Google) |
-| **Relevance** | Number | AI-assigned score (0-100) |
+| **Source** | Select | Server name (e.g., OpenAI) |
+| **Relevance** | Number | Score (0-100) |
 | **Status** | Status | New, Reviewed, Published |
-| **Hot Take** | Text | An engagement hook |
-| **Date** | Date | When the message was sent |
-| **Original Link** | URL | Direct link to the Discord message |
+| **Hot Take** | Text | Engagement hook |
+| **Date** | Date | Message timestamp |
+| **Original Link** | URL | Link to Discord message |
 
-### 4. GitHub Secrets
-Add the following secrets to your repository:
+*Tip: You can use the included `setup_notion_db.py` script to inspect your database schema if needed.*
+
+### 4. GitHub Configuration
+Fork this repo and add these Secrets (`Settings` -> `Secrets and variables` -> `Actions`):
 - `DISCORD_TOKEN`
 - `OPENAI_API_KEY`
 - `NOTION_API_KEY`
 - `NOTION_DATABASE_ID`
 
+---
+
 ## 🏃‍♂️ Usage
 
 ### Automated (GitHub Actions)
-The pipeline runs automatically based on the schedule in `.github/workflows/discord-fetch.yml`.
-You can also trigger it manually:
-1. Go to **Actions** tab.
-2. Select **AI News Digest Pipeline**.
-3. Click **Run workflow**.
+The pipeline runs automatically daily at 7:10 AM PST.
+You can also trigger it manually via the **Actions** tab -> **AI News Digest Pipeline**.
 
 ### Local Run
-```bash
-# Install dependencies
-pip install -r requirements.txt
+1. Clone the repo.
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Set Environment Variables:
+   ```bash
+   export DISCORD_TOKEN="your_token"
+   export OPENAI_API_KEY="sk-..."
+   export NOTION_API_KEY="secret_..."
+   export NOTION_DATABASE_ID="your_db_id"
+   ```
+4. Run the full pipeline:
+   ```bash
+   # 1. Fetch
+   python discord_fetch.py
+   
+   # 2. Curate (Cost optimized: skips existing)
+   python curate.py
+   
+   # 3. Sync (Cost optimized: skips existing)
+   python notion_sync.py
+   
+   # 4. Generate Content
+   python generate_content.py
+   ```
 
-# Run the full pipeline
-python discord_fetch.py
-python curate.py
-python notion_sync.py
-python generate_content.py
+---
+
+## 🔧 Customization
+
+### Modifying Prompts
+Edit `config/prompts.yaml` to change the AI's persona or output format.
+- `curation.system`: Controls how the AI filters and summarizes news.
+- `content_generation.twitter`: Controls the style of generated Tweets.
+
+### Adding Servers
+Edit `config/servers.yaml` to add more sources.
+```yaml
+servers:
+  - name: "Stability AI"
+    channels:
+      - id: 123456789
+        type: announcement
 ```
 
-## 📂 Project Structure
+---
 
-- `discord_fetch.py`: Connects to Discord and saves raw messages to `data/raw/`.
-- `curate.py`: Sends raw data to OpenAI for processing. Checks `data/state/processed_messages.json` to avoid duplication. Saves to `data/curated/`.
-- `notion_sync.py`: Pushes curated data to Notion. Checks `data/state/synced_items.json` to prevent duplicates.
-- `generate_content.py`: Creates social media drafts from high-relevance items.
-- `config/`: Configuration files for prompts and server lists.
+## ❓ Troubleshooting
 
-## 🤝 Contributing
-Feel free to fork and submit PRs!
+**"No curated data found"**
+- Check `data/raw/` to see if Discord fetch worked.
+- Check `curate.py` logs. If messages were fetched but not curated, they might have been filtered out by the "Cost Optimization" check (delete `data/state/processed_messages.json` to force re-run).
+
+**Notion Sync Errors**
+- Ensure your property names match EXACTLY (case-sensitive).
+- Use `setup_notion_db.py` to debug schema issues.
+
+---
 
 ## ⚠️ Disclaimer
 This tool uses a user token to read Discord messages. Automating user accounts is technically against Discord TOS. Use responsibly and at your own risk.
