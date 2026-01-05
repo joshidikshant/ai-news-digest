@@ -31,11 +31,41 @@ class NotionSync:
             
         print(f"Syncing {len(items)} items to Notion...")
         
-        for item in items:
+        # Load state of synced items to prevent duplication
+        synced_state_file = os.path.join(Config.DATA_DIR, "state", "synced_items.json")
+        os.makedirs(os.path.dirname(synced_state_file), exist_ok=True)
+        
+        synced_ids = set()
+        if os.path.exists(synced_state_file):
             try:
-                self._create_page(item)
+                with open(synced_state_file, "r") as f:
+                    synced_ids = set(json.load(f))
+            except: pass
+        
+        new_synced_count = 0
+        for item in items:
+            # Create a unique signature for deduplication
+            # Using headline + first few chars of bullet or just headline if unique enough
+            # Ideally use a hash, but headline is readable
+            item_sig = f"{item.get('headline', '')}_{item.get('source', {}).get('timestamp', '')}"
+            if item_sig in synced_ids:
+                print(f"Skipping duplicate: {item.get('headline')}")
+                continue
+                
+            try:
+                if self._create_page(item):
+                    synced_ids.add(item_sig)
+                    new_synced_count += 1
             except Exception as e:
                 print(f"Error syncing item {item.get('headline', 'Unknown')}: {e}")
+
+        # Save synced state
+        if new_synced_count > 0:
+            with open(synced_state_file, "w") as f:
+                json.dump(list(synced_ids), f)
+                print(f"Successfully synced {new_synced_count} new items.")
+        else:
+            print("No new items to sync.")
 
     def _create_page(self, item: Dict):
         # Construct summary text block
@@ -94,7 +124,7 @@ class NotionSync:
                     children=children
                 )
                 print(f"Synced: {item.get('headline')}")
-                return # Success!
+                return True # Success!
                 
             except Exception as e:
                 error_msg = str(e)
@@ -122,6 +152,8 @@ class NotionSync:
                 # If we get here, it's an unhandled error or we failed to extract property name
                 print(f"Error syncing item {item.get('headline', 'Unknown')}: {e}")
                 break
+        
+        return False
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

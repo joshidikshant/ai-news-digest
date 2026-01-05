@@ -141,9 +141,79 @@ Please curate them according to your instructions.
             
             with open(file_path, "r", encoding="utf-8") as f:
                 messages = json.load(f)
+            
+            # Load existing curated items for this day to avoid re-processing (Cost Optimization)
+            existing_curated_ids = set()
+            curated_file_path = os.path.join(Config.DATA_DIR, "curated", f"{date_str}.json")
+            if os.path.exists(curated_file_path):
+                try:
+                    with open(curated_file_path, "r", encoding="utf-8") as f:
+                        existing_items = json.load(f)
+                        for item in existing_items:
+                            # Assuming source.message_id or we track processed IDs. 
+                            # Since we don't have message_id in curated item root, we check source metadata or content hash
+                            # Let's check if we can match by content or just skip if we have items?
+                            # Better: Modify the curation prompt to return the Message ID, or match by source.message_link if unique
+                            pass
+                        # Actually, let's look at the implementation plan. 
+                        # Simplest robust way: 
+                        # 1. We should ideally store the 'source_ids' that generated this curated item. 
+                        # 2. But simpler for now: checks keys of messages against a "processed_messages.json" log?
+                        pass
+                except:
+                    pass
+
+            # WAIT, deeper fix: We need to know WHICH messages were already curated.
+            # The current curated output doesn't explicitly list source message IDs in a machine readable way strictly reliable for 1:1 mapping (since one curated item might come from multiple messages, though current prompt implies 1:1 or N:1).
+            # To be safe and simple: We will compare the list of 'processed_ids' from a local state file.
+            
+            # New Strategy: load state of processed message IDs
+            processed_state_file = os.path.join(Config.DATA_DIR, "state", "processed_messages.json")
+            os.makedirs(os.path.dirname(processed_state_file), exist_ok=True)
+            
+            processed_ids = set()
+            if os.path.exists(processed_state_file):
+                try:
+                    with open(processed_state_file, "r") as f:
+                        processed_ids = set(json.load(f))
+                except: pass
                 
-            curated = self.curate_server_day(server_name.replace("_", " ").title(), date_str, messages)
-            all_curated_items.extend(curated)
+            # Filter messages
+            new_messages = [m for m in messages if m['id'] not in processed_ids]
+            
+            if not new_messages:
+                print(f"  No new messages to curate for {server_name}")
+                continue
+                
+            print(f"  Found {len(new_messages)} new messages (skipped {len(messages) - len(new_messages)} processed)")
+                
+            curated = self.curate_server_day(server_name.replace("_", " ").title(), date_str, new_messages)
+            
+            # If successful, mark IDs as processed
+            if curated:
+                all_curated_items.extend(curated)
+                processed_ids.update(m['id'] for m in new_messages)
+                
+                # Save updated state
+                with open(processed_state_file, "w") as f:
+                    json.dump(list(processed_ids), f)
+            
+        # Merge with existing curated file for the day instead of overwriting valid old data
+        output_dir = os.path.join(Config.DATA_DIR, "curated")
+        json_path = os.path.join(output_dir, f"{date_str}.json")
+        
+        if os.path.exists(json_path):
+            try:
+                with open(json_path, "r", encoding="utf-8") as f:
+                    existing_day_items = json.load(f)
+                    # Avoid duplication if we somehow re-ran
+                    existing_titles = {i.get('headline') for i in existing_day_items}
+                    for item in all_curated_items:
+                        if item.get('headline') not in existing_titles:
+                            existing_day_items.append(item)
+                    all_curated_items = existing_day_items
+            except:
+                pass # If read fails, just use new items (better than nothing)
             
         if all_curated_items:
             self._save_results(date_str, all_curated_items)
