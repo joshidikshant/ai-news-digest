@@ -49,9 +49,9 @@ class NotionSync:
             "Source": {"select": {"name": item.get('source', {}).get('server', 'Unknown')}},
             "Channel": {"rich_text": [{"text": {"content": item.get('source', {}).get('channel', 'Unknown')}}]},
             "Relevance": {"number": item.get('relevance', 0)},
-            "Status": {"status": {"name": "New"}},
+            "Status": {"select": {"name": "New"}},
             "Hot Take": {"rich_text": [{"text": {"content": item.get('hot_take', '')}}]},
-            "Captured At": {"date": {"start": item.get('source', {}).get('timestamp', datetime.now().isoformat())}}
+            "Date": {"date": {"start": item.get('source', {}).get('timestamp', datetime.now().isoformat())}}
         }
         
         # Add link if exists
