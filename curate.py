@@ -61,6 +61,10 @@ Please curate them according to your instructions.
 """
 
         try:
+            import sys
+            print(f"  Calling OpenAI API with model {self.model}...", flush=True)
+            sys.stdout.flush()
+            
             response = self.client.chat.completions.create(
                 model=self.model,
                 messages=[
@@ -70,6 +74,8 @@ Please curate them according to your instructions.
                 response_format={"type": "json_object"},
                 temperature=0.7
             )
+            
+            print(f"  OpenAI response received!", flush=True)
             
             content = response.choices[0].message.content
             result = json.loads(content)
@@ -83,13 +89,16 @@ Please curate them according to your instructions.
             for item in items:
                 item['curated_at'] = datetime.now(python_timezone.utc).isoformat()
                 item['original_server'] = server_name
-                
+            
+            print(f"  Curated {len(items)} items", flush=True)
             return items
             
         except Exception as e:
             import traceback
-            print(f"Error curating {server_name}: {e}")
+            print(f"Error curating {server_name}: {e}", flush=True)
             traceback.print_exc()
+            sys.stdout.flush()
+            sys.stderr.flush()
             return []
 
     def run(self, date_str: str = None):
