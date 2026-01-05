@@ -46,6 +46,7 @@ ID: {msg['id']}
 Author: {msg['author']}
 Channel: {msg.get('channel_name', 'unknown')}
 Timestamp: {msg['timestamp']}
+Link: {msg.get('link', 'N/A')}
 Content:
 {msg['content']}
 ---

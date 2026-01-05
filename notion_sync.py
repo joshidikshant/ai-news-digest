@@ -43,6 +43,7 @@ class NotionSync:
         summary_text = "\n".join([f"• {b}" for b in summary_bullets])
         
         # Prepare properties
+        # Prepare properties
         properties = {
             "Title": {"title": [{"text": {"content": item.get('headline', 'Untitled')}}]},
             "Category": {"select": {"name": item.get('category', 'Discussion').title()}},
@@ -50,7 +51,8 @@ class NotionSync:
             "Channel": {"rich_text": [{"text": {"content": item.get('source', {}).get('channel', 'Unknown')}}]},
             "Relevance": {"number": item.get('relevance', 0)},
             "Status": {"select": {"name": "New"}},
-            "Hot Take": {"rich_text": [{"text": {"content": item.get('hot_take', '')}}]}
+            "Hot Take": {"rich_text": [{"text": {"content": item.get('hot_take', '')}}]},
+            "Date": {"date": {"start": item.get('source', {}).get('timestamp', datetime.now().isoformat())}}
         }
         
         # Add link if exists
