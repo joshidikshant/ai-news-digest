@@ -124,8 +124,15 @@ class DiscordFetcher:
             all_messages = []
             
             for channel_config in server.get('channels', []):
-                channel_id = int(channel_config['id'])
+                channel_id_str = str(channel_config['id'])
                 channel_name = channel_config['name']
+                
+                # Skip placeholder IDs
+                if not channel_id_str.isdigit():
+                    print(f"  Skipping {channel_name} (no valid ID configured)")
+                    continue
+                    
+                channel_id = int(channel_id_str)
                 
                 try:
                     channel = self.client.get_channel(channel_id)
