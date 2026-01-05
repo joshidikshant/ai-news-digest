@@ -535,5 +535,14 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1457828317242724403",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1457844494090113186",
+    "timestamp": "2026-01-05 21:13:32",
+    "content": "what is going on with Claude limits (MAX) any update on this one ?\n\nhttps://github.com/anthropics/claude-code/issues/16157",
+    "author": "osskary#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1457844494090113186",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]
