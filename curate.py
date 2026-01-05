@@ -84,12 +84,28 @@ Please curate them according to your instructions.
             result = json.loads(content)
             print(f"  Parsed JSON type: {type(result)}", flush=True)
             
-            # Ensure result is a list
-            items = result.get('items', []) if isinstance(result, dict) else result
-            print(f"  Items from 'items' key: {len(items) if isinstance(items, list) else 'not a list'}", flush=True)
-            
-            if isinstance(items, dict): # Handle edge case where single item returned
-                 items = [items]
+            # Handle multiple response formats
+            if isinstance(result, list):
+                # Direct array of items
+                items = result
+            elif isinstance(result, dict):
+                if 'items' in result:
+                    # Wrapped in items array (expected format)
+                    items = result['items']
+                elif 'headline' in result:
+                    # Single item without wrapper
+                    items = [result]
+                else:
+                    # Unknown format, try to find array values
+                    items = []
+                    for val in result.values():
+                        if isinstance(val, list):
+                            items = val
+                            break
+            else:
+                items = []
+                
+            print(f"  Extracted items count: {len(items)}", flush=True)
                  
             # Add metadata
             for item in items:

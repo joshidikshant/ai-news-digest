@@ -22,15 +22,20 @@ prompts:
       Prioritize: actual capabilities > pricing changes > credible benchmarks > tutorials
       
     output_format: |
-      For each significant item, output JSON:
+      Output a JSON object with an "items" array containing all significant items:
       {
-        "headline": "Short punchy headline",
-        "bullets": ["Key point 1", "Key point 2"],
-        "source": {"server": "...", "channel": "...", "timestamp": "..."},
-        "relevance": 85,
-        "hot_take": "Angle for content creation",
-        "category": "announcement|insight|tutorial|discussion"
+        "items": [
+          {
+            "headline": "Short punchy headline",
+            "bullets": ["Key point 1", "Key point 2"],
+            "source": {"server": "...", "channel": "...", "timestamp": "..."},
+            "relevance": 85,
+            "hot_take": "Angle for content creation",
+            "category": "announcement|insight|tutorial|discussion"
+          }
+        ]
       }
+      If no items are worth curating, return: {"items": []}
 
   content_generation:
     twitter:
