@@ -12,11 +12,11 @@ servers:
 
   - name: "Anthropic"
     channels:
-      - id: "CHANNEL_ID_HERE"
+      - id: "1072197729276657744"
         name: "announcements"
         priority: high
-      - id: "CHANNEL_ID_HERE"
-        name: "changelog"
+      - id: "1114305545478877377"
+        name: "general"
         priority: high
 
   - name: "Google Labs"
