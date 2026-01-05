@@ -1,0 +1,24 @@
+name: Setup Notion Database
+
+on:
+  workflow_dispatch:
+
+jobs:
+  setup-db:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Install dependencies
+        run: pip install notion-client
+        
+      - name: Run setup script
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+        run: python setup_notion_db.py
