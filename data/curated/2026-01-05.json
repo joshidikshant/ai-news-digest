@@ -1,36 +1,53 @@
 [
   {
-    "headline": "Claude Skills Feature Impresses Over MCP",
+    "headline": "Skills Feature in Claude: A Game-Changer for Efficiency",
     "bullets": [
-      "Users report replacing MCPs with Claude's 'skills' feature for better efficiency.",
-      "Skills offer a more streamlined way to handle commands and scripts."
+      "Users praise Claude's 'skills' for replacing MCPs with more efficiency.",
+      "Skills provide scripts and code, offering robust functionality without overloading."
     ],
     "source": {
-      "server": "Anthropic Discord",
+      "server": "Anthropic",
       "channel": "general",
-      "timestamp": "2026-01-05 05:22:52"
+      "timestamp": "2026-01-05 05:32:39"
     },
-    "relevance": 70,
-    "hot_take": "Is Claude's 'skills' feature the future of AI interaction?",
+    "relevance": 90,
+    "hot_take": "Explore how Claude's skills are transforming the way users interact with AI by cutting down context waste and boosting productivity.",
     "category": "insight",
-    "curated_at": "2026-01-05T20:39:04.137559+00:00",
+    "curated_at": "2026-01-05T20:51:40.088760+00:00",
     "original_server": "Anthropic"
   },
   {
-    "headline": "User Frustration Over Claude's Context Compression",
+    "headline": "Claude Desktop Faces Usability Issues on Windows",
     "bullets": [
-      "Some users find Claude's intrusive context compression makes it unusable.",
-      "Complaints suggest potential areas for improvement in user experience."
+      "Users report Claude Desktop turning into a blank window on Windows.",
+      "The issue persists and seems to be getting worse over time."
     ],
     "source": {
-      "server": "Anthropic Discord",
+      "server": "Anthropic",
       "channel": "general",
-      "timestamp": "2026-01-05 07:49:27"
+      "timestamp": "2026-01-05 15:06:24"
     },
-    "relevance": 60,
-    "hot_take": "Is context compression crippling AI usability?",
-    "category": "insight",
-    "curated_at": "2026-01-05T20:39:04.137571+00:00",
+    "relevance": 75,
+    "hot_take": "Dive into the technical hitches plaguing Claude Desktop on Windows and what can be done to resolve them.",
+    "category": "discussion",
+    "curated_at": "2026-01-05T20:51:40.088776+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Opus vs. Sonnet: Balancing Features and Usage Limits",
+    "bullets": [
+      "Opus praised but criticized for quickly maxing out usage limits.",
+      "Users weigh the trade-offs between Sonnet with thinking and Opus without extended thinking."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-05 19:25:27"
+    },
+    "relevance": 80,
+    "hot_take": "Examine the cost-benefit analysis of using Opus versus Sonnet for AI tasks without hitting daily usage caps.",
+    "category": "discussion",
+    "curated_at": "2026-01-05T20:51:40.088780+00:00",
     "original_server": "Anthropic"
   }
 ]
