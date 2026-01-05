@@ -42,9 +42,8 @@ class NotionSync:
         summary_bullets = item.get('bullets', [])
         summary_text = "\n".join([f"• {b}" for b in summary_bullets])
         
-        # Prepare properties
-        # Prepare properties
-        properties = {
+        # Prepare all possible properties
+        all_properties = {
             "Title": {"title": [{"text": {"content": item.get('headline', 'Untitled')}}]},
             "Category": {"select": {"name": item.get('category', 'Discussion').title()}},
             "Source": {"select": {"name": item.get('source', {}).get('server', 'Unknown')}},
@@ -58,7 +57,7 @@ class NotionSync:
         # Add link if exists
         link = item.get('source', {}).get('message_link')
         if link:
-            properties["Original Link"] = {"url": link}
+            all_properties["Original Link"] = {"url": link}
 
         # Page Children (Content)
         children = [
@@ -82,12 +81,47 @@ class NotionSync:
             }
         ]
 
-        self.client.pages.create(
-            parent={"database_id": self.db_id},
-            properties=properties,
-            children=children
-        )
-        print(f"Synced: {item.get('headline')}")
+        # Try to sync, removing invalid properties on failure
+        # We'll make a copy of properties to modify
+        current_properties = all_properties.copy()
+        max_retries = 5
+        
+        for attempt in range(max_retries):
+            try:
+                self.client.pages.create(
+                    parent={"database_id": self.db_id},
+                    properties=current_properties,
+                    children=children
+                )
+                print(f"Synced: {item.get('headline')}")
+                return # Success!
+                
+            except Exception as e:
+                error_msg = str(e)
+                # Check for "Property does not exist" type errors
+                # Example error: "Date is not a property that exists."
+                if "is not a property that exists" in error_msg:
+                    # Extract property name
+                    prop_name = error_msg.split(" is not a property")[0].strip()
+                    # It might be part of a larger string, e.g. "Error syncing...: Date is not..."
+                    if ": " in prop_name:
+                         prop_name = prop_name.split(": ")[-1]
+                         
+                    if prop_name in current_properties:
+                        print(f"  Warning: Property '{prop_name}' missing in Notion. Removing and retrying...")
+                        del current_properties[prop_name]
+                        continue
+                
+                # If error is about Status type mismatch, try to fix it
+                if "Status is expected to be" in error_msg:
+                    print(f"  Warning: Status type mismatch. Removing Status property...")
+                    if "Status" in current_properties:
+                        del current_properties["Status"]
+                        continue
+
+                # If we get here, it's an unhandled error or we failed to extract property name
+                print(f"Error syncing item {item.get('headline', 'Unknown')}: {e}")
+                break
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
