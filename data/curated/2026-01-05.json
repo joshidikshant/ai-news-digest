@@ -1,53 +1,56 @@
 [
   {
-    "headline": "Claude's Skills Feature: More Versatile Than MCPs",
+    "headline": "Claude's 'Skills' Feature: A Game Changer?",
     "bullets": [
-      "Users are finding Claude's 'skills' feature more capable than traditional MCPs.",
-      "Skills allow for scripts/code execution, enhancing Claude's functionality without overloading."
+      "Users report replacing MCPs with 'skills' for better capability and efficiency.",
+      "Skills allow for progressively disclosed functionality, enhancing Claude's usability."
     ],
     "source": {
-      "server": "Anthropic",
+      "server": "Anthropic Discord",
       "channel": "general",
-      "timestamp": "2026-01-05 05:23:26"
+      "timestamp": "2026-01-05 05:29:15",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1457606858096508976"
     },
     "relevance": 90,
-    "hot_take": "Explore how Claude's 'skills' could revolutionize task automation and replace traditional MCPs.",
+    "hot_take": "Could Claude's 'skills' feature redefine how we interact with AI tools?",
     "category": "insight",
-    "curated_at": "2026-01-05T21:00:37.935389+00:00",
+    "curated_at": "2026-01-05T21:09:15.433650+00:00",
     "original_server": "Anthropic"
   },
   {
-    "headline": "Grok 4.20 Disappoints: Fails to Impress Against Opus",
+    "headline": "Claude Desktop for Windows Experiencing Critical Usability Issues",
     "bullets": [
-      "Grok 4.20 underperforms compared to Opus, especially struggling with Tailwind.",
-      "Consistent feedback suggests Grok is not meeting user expectations."
+      "Users report persistent issues with Claude Desktop on Windows, including blank screens.",
+      "Problem isolated to Windows, with no similar reports from Mac users."
     ],
     "source": {
-      "server": "Anthropic",
+      "server": "Anthropic Discord",
       "channel": "general",
-      "timestamp": "2026-01-05 05:47:29"
-    },
-    "relevance": 75,
-    "hot_take": "Is Grok 4.20 the Windows Vista of AI models? Users think so.",
-    "category": "discussion",
-    "curated_at": "2026-01-05T21:00:37.935403+00:00",
-    "original_server": "Anthropic"
-  },
-  {
-    "headline": "Intrusive Context Compression: Claude Faces Usability Issues",
-    "bullets": [
-      "Users report Claude's context compression is becoming intrusive, affecting usability.",
-      "Concerns are rising about the tool's effectiveness in maintaining user context."
-    ],
-    "source": {
-      "server": "Anthropic",
-      "channel": "general",
-      "timestamp": "2026-01-05 07:49:27"
+      "timestamp": "2026-01-05 15:06:24",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1457752101454086330"
     },
     "relevance": 80,
-    "hot_take": "Can Claude overcome the challenge of context compression without sacrificing usability?",
+    "hot_take": "Will Windows users abandon Claude if usability issues persist?",
+    "category": "discussion",
+    "curated_at": "2026-01-05T21:09:15.433662+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Intrusive Context Compression: Claude's Achilles' Heel?",
+    "bullets": [
+      "Users complain about intrusive context compression making Claude 'unusable'.",
+      "Could affect Claude's competitive edge if not addressed."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-05 07:49:27",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1457642136852758582"
+    },
+    "relevance": 85,
+    "hot_take": "Is Claude's context compression a necessary evil or a critical flaw?",
     "category": "insight",
-    "curated_at": "2026-01-05T21:00:37.935406+00:00",
+    "curated_at": "2026-01-05T21:09:15.433678+00:00",
     "original_server": "Anthropic"
   }
 ]
