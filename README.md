@@ -103,3 +103,8 @@ Feel free to fork and submit PRs!
 
 ## ⚠️ Disclaimer
 This tool uses a user token to read Discord messages. Automating user accounts is technically against Discord TOS. Use responsibly and at your own risk.
+
+## 👏 Credits
+- **Original Inspiration**: [KingBootoshi](https://x.com/KingBootoshi), creator of SILK.
+- **Base Logic**: Adapted from the original `daily-silk` fetcher.
+- Built with assistance from Google DeepMind's Antigravity Agent.
