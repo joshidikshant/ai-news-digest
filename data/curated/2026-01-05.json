@@ -34,5 +34,59 @@
     "category": "discussion",
     "curated_at": "2026-01-05T21:23:19.583736+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude Skills Feature is a Game Changer",
+    "bullets": [
+      "Users are replacing MCPs with Claude's 'skills' for more efficiency.",
+      "Skills provide scripts/code execution, making Claude more capable."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-05 05:29:15",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1457606858096508976"
+    },
+    "relevance": 80,
+    "hot_take": "Why Claude's 'skills' are set to revolutionize AI-driven workflows.",
+    "category": "insight",
+    "curated_at": "2026-01-06T12:22:02.061377+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude Desktop Issues on Windows",
+    "bullets": [
+      "Users report Claude Desktop becoming a blank window on Windows.",
+      "The issue seems specific to Windows, not affecting Mac users."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-05 15:06:24",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1457752101454086330"
+    },
+    "relevance": 70,
+    "hot_take": "Is Claude Desktop on Windows the new Internet Explorer?",
+    "category": "discussion",
+    "curated_at": "2026-01-06T12:22:02.061392+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude Usage Limits Stirring User Frustration",
+    "bullets": [
+      "Users complain about rapid consumption of usage limits on Claude Max.",
+      "High demand for extended functionality leads to increased subscription costs."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-05 19:15:14",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1457814723176304640"
+    },
+    "relevance": 75,
+    "hot_take": "Claude Max: The price of AI progress or just another cash grab?",
+    "category": "discussion",
+    "curated_at": "2026-01-06T12:22:02.061396+00:00",
+    "original_server": "Anthropic"
   }
 ]

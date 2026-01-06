@@ -43,5 +43,193 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1457977689683001354",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1458014382922530826",
+    "timestamp": "2026-01-06 08:28:37",
+    "content": "Hey",
+    "author": "fightagainstevil#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458014382922530826",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458014426643824660",
+    "timestamp": "2026-01-06 08:28:47",
+    "content": "A Silly question, is thre anything i can do to make claude on vscode studio extension faster?",
+    "author": "fightagainstevil#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458014426643824660",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458024945312596089",
+    "timestamp": "2026-01-06 09:10:35",
+    "content": "Please fix usage already. Im on max5 but my usage is going away like im on pro",
+    "author": "timjuice#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458024945312596089",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458025270023028842",
+    "timestamp": "2026-01-06 09:11:53",
+    "content": "I will also need a free month when this is fixed. 2x usage after christmas was nice but I couldnt reach 50% then anyway so it didnt help much",
+    "author": "timjuice#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458025270023028842",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458046279178387601",
+    "timestamp": "2026-01-06 10:35:22",
+    "content": "What are you doing to hit usage so fast? Maybe you're pulling in a massive amount of irrelevant context? Are you a full stack dev?",
+    "author": "subether#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458046279178387601",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458046429317566598",
+    "timestamp": "2026-01-06 10:35:57",
+    "content": "I'm on 5x and usage has been great for me",
+    "author": "subether#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458046429317566598",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458046500906205299",
+    "timestamp": "2026-01-06 10:36:15",
+    "content": "But I am a cpp dev",
+    "author": "subether#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458046500906205299",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458048310618226906",
+    "timestamp": "2026-01-06 10:43:26",
+    "content": "What is that?",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458048310618226906",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1458048310358311055/Screenshot_2026-01-06-12-42-46-742_com.anthropic.claude-edit.jpg?ex=695e38ce&is=695ce74e&hm=e2051b6521546057d5cc89381f22cf4ec48230563e2a15abc153815c772f0114&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458054007288500420",
+    "timestamp": "2026-01-06 11:06:04",
+    "content": "json",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458054007288500420",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458055542965670082",
+    "timestamp": "2026-01-06 11:12:10",
+    "content": "Im barely doing anything, some light development",
+    "author": "timjuice#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458055542965670082",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458056118126514371",
+    "timestamp": "2026-01-06 11:14:27",
+    "content": "How is this possible?\nhttps://epoch.ai/benchmarks/terminal-bench\n\nOn other benchmarks too\n# Terminal-Bench 2.0\nA benchmark of tasks which require a model to complete tasks using a computer terminal, testing its ability to understand and employ the programs available to it.",
+    "author": "boas_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458056118126514371",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1458056118193360946/image.png?ex=695e4013&is=695cee93&hm=bf4c4d0ca3b5f4c5751d4423d9280bd6f9110b9559c5e2f2c16f67dbc19e3af6&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458061201941594224",
+    "timestamp": "2026-01-06 11:34:40",
+    "content": "thinking does not always mean better.",
+    "author": "fidesratioque#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458061201941594224",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458061632650346683",
+    "timestamp": "2026-01-06 11:36:22",
+    "content": "the model's trained to 'think first' = better output, but that only applies for the use cases where they trained it that way. if it didn't get trained to think in other areas you might get worse output regardless. e.g.: model got a lot of training about thinking about writing tasks, so think mode works well for that. but if it didn't get training for coding tasks, it'll not know how to use think mode to good effect. the training is basically: you run tasks for x-number of times, and each time it thinks first + gets better output, you reward the model, so if it didn't get that done to it, you won't see the benefit from think mode.",
+    "author": "fidesratioque#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458061632650346683",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458061673867903016",
+    "timestamp": "2026-01-06 11:36:32",
+    "content": "(sorry if I'm missing the point of your question btw)",
+    "author": "fidesratioque#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458061673867903016",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458062773303906366",
+    "timestamp": "2026-01-06 11:40:54",
+    "content": "True but you would expect thinking to help on math/coding tests, and this is one of those coding tests",
+    "author": "boas_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458062773303906366",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458063494472663277",
+    "timestamp": "2026-01-06 11:43:46",
+    "content": "My old message got deleted it seems so I'll send it again:",
+    "author": "boas_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458063494472663277",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1458063494564806729/image.png?ex=695e46f2&is=695cf572&hm=d445014b01f3dd6cb2041a213678c2dd560f68d16633438c6f549e55a474402b&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458063662001557546",
+    "timestamp": "2026-01-06 11:44:26",
+    "content": "This is FrontierMath, you'd expect models without thinking to score 0% if there is no benchmark contamination",
+    "author": "boas_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458063662001557546",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458064491299209236",
+    "timestamp": "2026-01-06 11:47:44",
+    "content": "This is OTIS Mock AIME 2024-2025, this is what you would expect on a math/coding benchmark.",
+    "author": "boas_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458064491299209236",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1458064490863136891/image.png?ex=695e47e0&is=695cf660&hm=65c3953396031c6ef83e7dfcf972f7d8a03be08394f7081ff6abe4097a0e623d&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458065315551510619",
+    "timestamp": "2026-01-06 11:51:00",
+    "content": "Limit problem",
+    "author": "coldercolder#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458065315551510619",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458066890957131935",
+    "timestamp": "2026-01-06 11:57:16",
+    "content": "wdym?",
+    "author": "boas_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458066890957131935",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]

@@ -1,0 +1,38 @@
+[
+  {
+    "headline": "Anthropic Users Discuss Potential Token Usage Bug",
+    "bullets": [
+      "Users speculate cached tokens might be incorrectly counted towards usage limits.",
+      "Complaints about unexpected usage spikes are growing, suggesting a potential oversight."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-06 05:27:28",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1457968796512817245"
+    },
+    "relevance": 75,
+    "hot_take": "Is your AI tool behaving like a data-hungry monster? Anthropic users report token issues.",
+    "category": "discussion",
+    "curated_at": "2026-01-06T12:22:06.775841+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Model Training Insights: Thinking Mode Not Always Beneficial",
+    "bullets": [
+      "Users discuss how 'thinking mode' in AI models doesn't universally improve performance.",
+      "Training specificity is crucial; models excel only in tasks they were specifically trained for."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-06 11:36:22",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458061632650346683"
+    },
+    "relevance": 65,
+    "hot_take": "AI isn't a one-size-fits-all genius: Why 'thinking mode' doesn't guarantee success across tasks.",
+    "category": "insight",
+    "curated_at": "2026-01-06T12:22:06.775853+00:00",
+    "original_server": "Anthropic"
+  }
+]
