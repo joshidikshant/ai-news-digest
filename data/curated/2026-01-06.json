@@ -34,5 +34,24 @@
     "category": "insight",
     "curated_at": "2026-01-06T12:22:06.775853+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "AI Outperforms Humans in AtCoder Heuristic Contest",
+    "bullets": [
+      "Sakana AI's ALE-Agent takes first place, beating 804 human coders.",
+      "Utilized GPT-5.2 and Gemini 3 Pro for parallel solution generation.",
+      "Marks a significant milestone with AI surpassing human capabilities in real-time optimization contests."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-06 16:41:26",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458138405723701330"
+    },
+    "relevance": 90,
+    "hot_take": "Is this the dawn of AI dominance in competitive programming?",
+    "category": "announcement",
+    "curated_at": "2026-01-06T18:16:14.015294+00:00",
+    "original_server": "Anthropic"
   }
 ]
