@@ -49,8 +49,13 @@ class ContentGenerator:
             # Save individual drafts
             safe_title = "".join([c for c in item['headline'] if c.isalnum() or c in (' ', '-', '_')]).strip().replace(" ", "_").lower()
             filename = f"{safe_title}.md"
+            filepath_out = os.path.join(output_dir, filename)
             
-            with open(os.path.join(output_dir, filename), "w", encoding="utf-8") as f:
+            if os.path.exists(filepath_out):
+                print(f"Skipping existing draft: {filename}")
+                continue
+            
+            with open(filepath_out, "w", encoding="utf-8") as f:
                 f.write(f"# Content Drafts: {item['headline']}\n\n")
                 f.write(f"**Source:** {item.get('source', {}).get('server')} | **Relevance:** {item.get('relevance')}\n")
                 f.write(f"**Hot Take:** {item.get('hot_take')}\n\n")
@@ -65,7 +70,7 @@ class ContentGenerator:
                     f.write("## 💼 LinkedIn\n\n")
                     f.write(drafts['linkedin'])
                     f.write("\n\n---\n\n")
-
+            
             generated_count += 1
             print(f"Generated drafts for: {item['headline']}")
 
@@ -105,6 +110,20 @@ if __name__ == "__main__":
     parser.add_argument("--date", help="Date to generate for (YYYY-MM-DD)")
     args = parser.parse_args()
     
-    date_str = args.date if args.date else datetime.now(python_timezone.utc).strftime("%Y-%m-%d")
     generator = ContentGenerator()
-    generator.generate_day(date_str)
+    
+    if args.date:
+        generator.generate_day(args.date)
+    else:
+        # Auto-mode: Process all curated files
+        curated_files = glob.glob(os.path.join(Config.DATA_DIR, "curated", "*.json"))
+        curated_files.sort()
+        
+        if not curated_files:
+            print("No curated data found.")
+        else:
+            print(f"Found {len(curated_files)} curated days to process.")
+            for f in curated_files:
+                date_str = os.path.splitext(os.path.basename(f))[0]
+                print(f"\n=== Generating Content for {date_str} ===")
+                generator.generate_day(date_str)
