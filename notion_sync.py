@@ -156,10 +156,31 @@ class NotionSync:
         return False
 
 if __name__ == "__main__":
+    import glob
+    
     parser = argparse.ArgumentParser()
     parser.add_argument("--date", help="Date to sync (YYYY-MM-DD)")
     args = parser.parse_args()
     
-    date_str = args.date if args.date else datetime.now().strftime("%Y-%m-%d")
     syncer = NotionSync()
-    syncer.sync_day(date_str)
+    
+    if args.date:
+        # Specific date
+        syncer.sync_day(args.date)
+    else:
+        # Auto-mode: Process all curated files (Smart Catch-up)
+        curated_files = glob.glob(os.path.join(Config.DATA_DIR, "curated", "*.json"))
+        curated_files.sort()
+        
+        if not curated_files:
+            print("No curated data found.")
+        else:
+            print(f"Starting Notion Sync (Smart Catch-up)...")
+            print(f"Found {len(curated_files)} curated days to process.\n")
+            
+            for f in curated_files:
+                date_str = os.path.splitext(os.path.basename(f))[0]
+                print(f"=== Syncing {date_str} ===")
+                syncer.sync_day(date_str)
+                print()  # blank line for readability
+
