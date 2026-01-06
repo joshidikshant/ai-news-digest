@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1457940785801592957",
+    "timestamp": "2026-01-06 03:36:10",
+    "content": "anyone able to assist with trying to whip up Context7 on Claude Web?",
+    "author": "mynameistito#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1457940785801592957",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1457965825116995656",
+    "timestamp": "2026-01-06 05:15:40",
+    "content": "Can’t",
+    "author": "______nick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1457965825116995656",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1457967497151250533",
+    "timestamp": "2026-01-06 05:22:19",
+    "content": "Oh you just can't use context7 on web?",
+    "author": "mynameistito#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1457967497151250533",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1457968796512817245",
+    "timestamp": "2026-01-06 05:27:28",
+    "content": "hmm is it possible that the max limit thing is due to a problem with cached tokens not being excluded from token usage? based on the api docs it says that cached tokens are not counted against the limits but bugs happen.. Just thinking out loud..",
+    "author": "fng_1969#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1457968796512817245",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1457977689683001354",
+    "timestamp": "2026-01-06 06:02:49",
+    "content": "probably just vibe coded a solution",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1457977689683001354",
+    "attachments": [],
+    "channel_name": "general"
+  }
+]
