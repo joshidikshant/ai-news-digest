@@ -432,5 +432,599 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458429197306564718",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1458449193839366155",
+    "timestamp": "2026-01-07 13:16:24",
+    "content": "api?",
+    "author": "you.wish#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458449193839366155",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458449224218837074",
+    "timestamp": "2026-01-07 13:16:31",
+    "content": "https://tenor.com/fAt53xjmFkZ.gif",
+    "author": "you.wish#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458449224218837074",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458449308859760783",
+    "timestamp": "2026-01-07 13:16:51",
+    "content": "claude code uses your api when not using it?",
+    "author": "you.wish#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458449308859760783",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458449507875426407",
+    "timestamp": "2026-01-07 13:17:39",
+    "content": "i mean i didnt even send any prompts and stayed idle for couple minutes and it used like 0.035",
+    "author": "korboybeats#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458449507875426407",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458449775119826944",
+    "timestamp": "2026-01-07 13:18:43",
+    "content": "oh",
+    "author": "you.wish#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458449775119826944",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458449831860109323",
+    "timestamp": "2026-01-07 13:18:56",
+    "content": "its the so called punishment for api'ing around",
+    "author": "you.wish#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458449831860109323",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458452634053640233",
+    "timestamp": "2026-01-07 13:30:04",
+    "content": "i see",
+    "author": "korboybeats#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458452634053640233",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458453090020622418",
+    "timestamp": "2026-01-07 13:31:53",
+    "content": "any new sonnet comming?",
+    "author": "milkv2#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458453090020622418",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458454964245631087",
+    "timestamp": "2026-01-07 13:39:20",
+    "content": "Is it intended that cc uses about 63k context right after a new session is started?",
+    "author": "demalt#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458454964245631087",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458456144929493051",
+    "timestamp": "2026-01-07 13:44:01",
+    "content": "you can see whats using it with /context auto compaction saves 45k then there is system tools around 20k so sounds about right.",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458456144929493051",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458456532092981403",
+    "timestamp": "2026-01-07 13:45:34",
+    "content": "this is mine",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458456532092981403",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1458456531887456455/Screenshot_2026-01-08_at_12.15.26_am.png?ex=695fb4fe&is=695e637e&hm=c3311453a0d0326bf49ec2bfe310c52039b85b647132b9e59d8a48781060b45e&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458456794350489808",
+    "timestamp": "2026-01-07 13:46:36",
+    "content": "Worth noting that the reservation for autocompact isn't 'used' in the same way, as that's not tokens sent to the model",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458456794350489808",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458457062559191216",
+    "timestamp": "2026-01-07 13:47:40",
+    "content": "thank you - i see.",
+    "author": "demalt#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458457062559191216",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458457338657640510",
+    "timestamp": "2026-01-07 13:48:46",
+    "content": "but using about 20k right from the start just feels wrong",
+    "author": "demalt#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458457338657640510",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458457436137586749",
+    "timestamp": "2026-01-07 13:49:09",
+    "content": "There are a lot of instructions about how to use the tools",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458457436137586749",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458457537480228864",
+    "timestamp": "2026-01-07 13:49:33",
+    "content": "presumably Anthropic has done a fair bit of tuning on finding a good balance of tokens for getting good usage from the tools",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458457537480228864",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458458140080083208",
+    "timestamp": "2026-01-07 13:51:57",
+    "content": "they don't have any incentives to be wasteful with tokens, since they're capacity-constrained",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458458140080083208",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458458651290501223",
+    "timestamp": "2026-01-07 13:53:59",
+    "content": "but isn't it true that higher token consumption is an incentive to sign up for a higher plan or the fancy /extend-usage command? I assume that this topic has already been discussed a thousand times here 😄",
+    "author": "demalt#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458458651290501223",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458458708433567785",
+    "timestamp": "2026-01-07 13:54:12",
+    "content": "is there a way to only use MCPs when needed instead of loading everything in context right away?",
+    "author": "antoine1999#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458458708433567785",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458458962314657952",
+    "timestamp": "2026-01-07 13:55:13",
+    "content": "from a consumption perspective, the tools are almost always going to be cached anyway, since system prompt + built-in tools is probably the most reused chunk of context in the entire app",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458458962314657952",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458459048486764765",
+    "timestamp": "2026-01-07 13:55:34",
+    "content": "so the token cost for the tools portion of the prompt is tiny compared to the standard rate",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458459048486764765",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458459129436966912",
+    "timestamp": "2026-01-07 13:55:53",
+    "content": "Yeah, this is \"moral hazard\", or \"perverse incentive\".",
+    "author": "delphianq#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458459129436966912",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458459360371019918",
+    "timestamp": "2026-01-07 13:56:48",
+    "content": "In fact, I wouldn't be surprised if they have an explicit checkpoint for caching after system prompt + tools (not sure if their API still has that, but at one point you set explicit checkpoints for caching)",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458459360371019918",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458459588117663879",
+    "timestamp": "2026-01-07 13:57:42",
+    "content": "cached input tokens on Opus are $0.50/MTok",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458459588117663879",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458459802563776664",
+    "timestamp": "2026-01-07 13:58:33",
+    "content": "in case they measure plan usage including cache benefits",
+    "author": "demalt#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458459802563776664",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458459871363203216",
+    "timestamp": "2026-01-07 13:58:50",
+    "content": "they definitely do consider caching in the usage calculations",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458459871363203216",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458459963063140548",
+    "timestamp": "2026-01-07 13:59:12",
+    "content": "at least based on anecdotal observations",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458459963063140548",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458460311349756072",
+    "timestamp": "2026-01-07 14:00:35",
+    "content": "the actual usage calculations are a bit loosely defined, but that again goes back to them being capacity-constrained and basically needing to ration available compute",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458460311349756072",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458460391725207686",
+    "timestamp": "2026-01-07 14:00:54",
+    "content": "that's why they don't promise like X amount of API usage",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458460391725207686",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458460521077669938",
+    "timestamp": "2026-01-07 14:01:25",
+    "content": "it's a better deal than direct API usage, but the cost is that the available usage is not a fixed known quantity that you can pull from as a total pool",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458460521077669938",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458460652749459541",
+    "timestamp": "2026-01-07 14:01:56",
+    "content": "If you use the API directly, you can always* get usage, but you pay a premium for that",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458460652749459541",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458461229231247544",
+    "timestamp": "2026-01-07 14:04:13",
+    "content": "I work a lot with the api using Open WebUI and Cline - so I know about the painful api costs using Opus. So indeed I think the plans are a good deal - even if it's not really transparent and feels a bit unfair sometimes",
+    "author": "demalt#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458461229231247544",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458461631884427358",
+    "timestamp": "2026-01-07 14:05:49",
+    "content": "Rationing is always a hard problem, especially when there are actors trying to exploit the system for everything they can get",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458461631884427358",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458479520901365970",
+    "timestamp": "2026-01-07 15:16:55",
+    "content": "ChatGPT scored the worst in my history benchmark",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458479520901365970",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458489612031754311",
+    "timestamp": "2026-01-07 15:57:00",
+    "content": "its just slow",
+    "author": "0xmen#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458489612031754311",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458489972771389544",
+    "timestamp": "2026-01-07 15:58:26",
+    "content": "Nah imo something is fundamentally wrong with 5.2 in terms of understanding of “space”",
+    "author": "konadawoof#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458489972771389544",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458490071379345470",
+    "timestamp": "2026-01-07 15:58:50",
+    "content": "Like it’s bad at 3D visual reasoning, spatial reasoning, transformations and more",
+    "author": "konadawoof#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458490071379345470",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458490139272806710",
+    "timestamp": "2026-01-07 15:59:06",
+    "content": "It’s at a middle school level of intelligence if that",
+    "author": "konadawoof#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458490139272806710",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458490221275386022",
+    "timestamp": "2026-01-07 15:59:26",
+    "content": "anyone ever get invited  to top 5 nyc business school to give chat on digital addiction economics dec 2023 ? \n\n    and after submitting presentation as courtesy   receive feedback requesting presentation rework to \n    narrowly focus only on the disclaimer slide before the table of contents ?\n\nand disclaimer slide was     ~   (and ill go find the file - its in account with 2 factor where id need to dig up a defunct legalentity simcard)\n               ~ slide was     the info advantage i have as speaker   even giving a chat like this for first time , \n                                         means you can be the most discerning critique and anticipating 1st , 2nd, 3rd order arguements to planned presentation \n                                         i can word engineer a presentation which    unfairly implants a perspective in the audience (prenisiously) \n\n                but it was with a demo not an explanation  ... \n                                       i said to audience , i can predict what ever one of you is thinking right now and its not \"no he cant\"   \n\nand that warning slide never did become a presentation but for good reasons !",
+    "author": "oneinonehundredbillion#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458490221275386022",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458490678387675358",
+    "timestamp": "2026-01-07 16:01:15",
+    "content": "(and the slide next slide ... ill go find it , was linguistic jujitsu which works inappropriately well)",
+    "author": "oneinonehundredbillion#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458490678387675358",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458490771534512308",
+    "timestamp": "2026-01-07 16:01:37",
+    "content": "Why do I see Claude being a contributor to my code on GitHub, is that even possible?",
+    "author": "marinara_spaghetti#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458490771534512308",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458491072094408876",
+    "timestamp": "2026-01-07 16:02:49",
+    "content": "???",
+    "author": "marinara_spaghetti#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458491072094408876",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1458491070185869354/Screen_Recording_2026-01-07_at_16.57.07.mov?ex=695fd528&is=695e83a8&hm=0cf2458272b148c8fb3bc4698e7f069c235a0d3e708a8c1956c7bfed2c8bba85&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458492383598608539",
+    "timestamp": "2026-01-07 16:08:01",
+    "content": "claude puts it self as co-auther on commits, maybe its that, you can turn it off though.",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458492383598608539",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458492519980601559",
+    "timestamp": "2026-01-07 16:08:34",
+    "content": "Ŷ̵̠̥͌ó̶̹̩̈́ṷ̵̐͒̇ are now Claude.",
+    "author": "martinkruger#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458492519980601559",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458492572640084152",
+    "timestamp": "2026-01-07 16:08:46",
+    "content": "Yeah, I thought that was the case, still funny as hell, haha.",
+    "author": "marinara_spaghetti#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458492572640084152",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458493071602876469",
+    "timestamp": "2026-01-07 16:10:45",
+    "content": "I’ve been experimenting with Claude Skills to build reusable AI “employees” instead of one-off prompts.\nThe key idea:\nTreat AI like infrastructure, not chat.\n\nIn this video I cover:\n– Skills vs Projects\n– How to design consistent AI behavior\n– How this fits long-running workflows and automation\n\nNot selling anything — just sharing what’s worked for me.\n\n🎥 Video here: https://youtu.be/qFQV1K5ew0Y?si=YcJIBTMKf5oUgaSV\n\nWould love to hear how others here are handling AI consistency.",
+    "author": "outrageous_puppy_84585#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458493071602876469",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458493107199807765",
+    "timestamp": "2026-01-07 16:10:54",
+    "content": "You can add this to your `settings.json` to turn it off:\n\n```json\n{\n  \"includeCoAuthoredBy\": false,\n  \"gitAttribution\": false\n}\n```",
+    "author": "martinkruger#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458493107199807765",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458493513904820225",
+    "timestamp": "2026-01-07 16:12:31",
+    "content": "Hey y'all we are having an issue currently where when our organization administrator is trying to upload a skill for the organization it keeps saying file not found. This same skill uploads perfectly for personal use and is formatted to spec.",
+    "author": "groady280#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458493513904820225",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458493599963549778",
+    "timestamp": "2026-01-07 16:12:51",
+    "content": "Anyone mess around with org skills?  I know it's super new",
+    "author": "groady280#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458493599963549778",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458508097231388775",
+    "timestamp": "2026-01-07 17:10:28",
+    "content": "aorus rtx 5090 stealth ice - in stock: 0, on my desk: 1",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458508097231388775",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458509515325571105",
+    "timestamp": "2026-01-07 17:16:06",
+    "content": "Is it just me or have other folks lost the usage meter entirely?",
+    "author": "justicehager#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458509515325571105",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458509959057772645",
+    "timestamp": "2026-01-07 17:17:52",
+    "content": "same here",
+    "author": "secp256r1#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458509959057772645",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458510173919383552",
+    "timestamp": "2026-01-07 17:18:43",
+    "content": "https://claude.ai/settings/usage\nyup",
+    "author": "muzachomega#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458510173919383552",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458510221566673008",
+    "timestamp": "2026-01-07 17:18:54",
+    "content": "every few mins a now person saying the same thing haha",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458510221566673008",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458510257532702925",
+    "timestamp": "2026-01-07 17:19:03",
+    "content": "",
+    "author": "muzachomega#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458510257532702925",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1458510257214193859/Screenshot_2026-01-07_at_12.18.54.png?ex=695fe707&is=695e9587&hm=b0c36ca1f24a7497004b918b9b9bd0f2f169b7794c75c22179d14a3fdacb030b&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458510353867473180",
+    "timestamp": "2026-01-07 17:19:26",
+    "content": "it's a noisy channel, so most people (myself included, don't bother digging thru the noise to find signal in scrollback) 🫠",
+    "author": "muzachomega#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458510353867473180",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458510405835161913",
+    "timestamp": "2026-01-07 17:19:38",
+    "content": "all g",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458510405835161913",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458516706296201217",
+    "timestamp": "2026-01-07 17:44:40",
+    "content": "I panicked and gave Claude an extra 5",
+    "author": "philfranklee#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458516706296201217",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458518500841754820",
+    "timestamp": "2026-01-07 17:51:48",
+    "content": "do you guys kno if",
+    "author": "theblakes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458518500841754820",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458518521838305412",
+    "timestamp": "2026-01-07 17:51:53",
+    "content": "opus 4.5 is avaliable at",
+    "author": "theblakes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458518521838305412",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458518552469311787",
+    "timestamp": "2026-01-07 17:52:00",
+    "content": "VsCopit Copilot pro plan ( not pro plus )",
+    "author": "theblakes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458518552469311787",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458518580692779211",
+    "timestamp": "2026-01-07 17:52:07",
+    "content": "i have been using for a long and today it's just isnt ehre",
+    "author": "theblakes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458518580692779211",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458519423030788381",
+    "timestamp": "2026-01-07 17:55:28",
+    "content": "interesting (I have 8 different projects open [VS Code instances]) - in some I see it, in some I don't",
+    "author": "ravanomlay#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458519423030788381",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1458519422158241815/image.png?ex=695fef90&is=695e9e10&hm=9112bec63c4482858891fa87e7fc0c037d8fc276861a47eb1d62967946871a9b&",
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1458519422733123675/image.png?ex=695fef90&is=695e9e10&hm=44fc8342609605baf75ed46d1d1452cfa1e2573064613829ba4b6449319fac70&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458519606632255578",
+    "timestamp": "2026-01-07 17:56:12",
+    "content": "I hope they remove that annoying limit once and for all. A limit against abuse would be much smarter than that damn bar. I personally get very anxious about a visible usage bar.",
+    "author": "thezoom#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458519606632255578",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458520821923450952",
+    "timestamp": "2026-01-07 18:01:01",
+    "content": "Happy new year!!!\nI’m a **professional AI, Web3, and full-stack developer** helping startups and founders build **reliable, production-ready systems**.\n\nMy work spans across AI engineering, automation platforms, blockchain ecosystems, and web/mobile development, with a strong focus on reliability, performance, and clean architecture.\n\nSome of my core expertise includes:\n*  **AI & Automation**: Voice AI agents (Vapi, Retell, Twilio, LiveKit), RAG-based chatbots, TTS/STT, LLM integrations, n8n/Zapier/Make workflows\n*  **Web3**: Smart contracts, DApps, NFT marketplaces (Solidity, Ethers.js, Web3.js, Moralis, Thirdweb)\n*  **Backend & ML**: Python APIs & pipelines (FastAPI, Flask, TensorFlow, PyTorch)\n*  **Frontend & Mobile**: Next.js, React, React Native, Flutter\n\nI prioritize **long-term collaboration, transparency, and real outcomes**, not quick hacks.\nIf you’re looking for someone who can own features end-to-end, feel free to DM me here",
+    "author": "kazumi073#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458520821923450952",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]

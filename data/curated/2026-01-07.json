@@ -34,5 +34,59 @@
     "category": "discussion",
     "curated_at": "2026-01-07T12:22:27.712691+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude AI Context Management Raises Eyebrows",
+    "bullets": [
+      "Users report initial high token usage in Claude AI sessions.",
+      "Concerns about potential incentives for upselling higher plans."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-07 13:39:20",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458454964245631087"
+    },
+    "relevance": 80,
+    "hot_take": "Is Anthropic subtly nudging users to upgrade plans through initial token consumption?",
+    "category": "discussion",
+    "curated_at": "2026-01-07T18:17:39.609641+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "GitHub Integration: Claude AI as Co-Author",
+    "bullets": [
+      "Users find Claude AI listed as a contributor on GitHub.",
+      "Feature can be disabled with settings adjustments."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-07 16:08:01",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458492383598608539"
+    },
+    "relevance": 60,
+    "hot_take": "Claude AI: The unexpected team member on your GitHub projects.",
+    "category": "discussion",
+    "curated_at": "2026-01-07T18:17:39.609656+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude Skills: The Future of AI Workflows",
+    "bullets": [
+      "Users are developing reusable AI 'employees' with Claude Skills.",
+      "Emphasizes treating AI as infrastructure for consistent workflows."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-07 16:10:45",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458493071602876469"
+    },
+    "relevance": 75,
+    "hot_take": "Are AI 'employees' the next step in automation evolution?",
+    "category": "tutorial",
+    "curated_at": "2026-01-07T18:17:39.609658+00:00",
+    "original_server": "Anthropic"
   }
 ]
