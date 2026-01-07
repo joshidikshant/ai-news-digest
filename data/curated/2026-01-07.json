@@ -1,0 +1,38 @@
+[
+  {
+    "headline": "Discord Users Frustrated with AI Assistants",
+    "bullets": [
+      "Users express dissatisfaction with current AI assistants like Alexa and Google.",
+      "Discussion on the need for more capable AI tech that understands and executes complex requests."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-07 04:36:11",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458318279062847661"
+    },
+    "relevance": 70,
+    "hot_take": "AI assistants are still lacking; is it time for a disruptive player?",
+    "category": "discussion",
+    "curated_at": "2026-01-07T12:22:27.712669+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Discord Users Complain About High API Costs",
+    "bullets": [
+      "API usage costs are unexpectedly high, even for minimal usage.",
+      "Concerns over API costs idling in CLI mode."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-07 11:54:01",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458428461847810165"
+    },
+    "relevance": 60,
+    "hot_take": "High API costs could drive users to seek cheaper alternatives.",
+    "category": "discussion",
+    "curated_at": "2026-01-07T12:22:27.712691+00:00",
+    "original_server": "Anthropic"
+  }
+]
