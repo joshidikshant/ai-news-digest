@@ -53,5 +53,59 @@
     "category": "announcement",
     "curated_at": "2026-01-06T18:16:14.015294+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Confusion Over Claude Pro Pricing Sparks User Frustration",
+    "bullets": [
+      "Users report being charged $200 instead of the expected $17/month for Claude Pro.",
+      "Miscommunication and unclear pricing details lead to billing mishaps."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-06 19:09:06",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458175564081926349"
+    },
+    "relevance": 70,
+    "hot_take": "Are subscription models becoming too convoluted for their own good?",
+    "category": "discussion",
+    "curated_at": "2026-01-07T00:53:10.131886+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude's Usage Limits Frustrate Power Users",
+    "bullets": [
+      "Users find Claude's Pro usage limits restrict heavy use despite its utility for light tasks.",
+      "Advice shared on optimizing usage by managing document size and interaction."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-06 19:18:15",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458177867836952809"
+    },
+    "relevance": 65,
+    "hot_take": "Is Claude's pricing model undermining its potential as a development tool?",
+    "category": "insight",
+    "curated_at": "2026-01-07T00:53:10.131908+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude Browser Extension: Slow But Promising",
+    "bullets": [
+      "Users appreciate the human-like interaction of Claude's browser extension.",
+      "Performance issues noted, but potential seen for future improvements."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-06 21:31:47",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458211473854566470"
+    },
+    "relevance": 60,
+    "hot_take": "Can Claude's browser extension redefine user interaction with AI?",
+    "category": "insight",
+    "curated_at": "2026-01-07T00:53:10.131912+00:00",
+    "original_server": "Anthropic"
   }
 ]
