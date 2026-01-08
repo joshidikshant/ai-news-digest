@@ -1026,5 +1026,772 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458520821923450952",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1458525019557724398",
+    "timestamp": "2026-01-07 18:17:42",
+    "content": "Ew. Advertising",
+    "author": "realities.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458525019557724398",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458527329490829362",
+    "timestamp": "2026-01-07 18:26:53",
+    "content": "Respectfully, I don't respect this.",
+    "author": "philfranklee#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458527329490829362",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458538012899278910",
+    "timestamp": "2026-01-07 19:09:20",
+    "content": "I was at 98% usage for my weekly limit before usage limits disappeared, and for some reason I can just endlessly talk with Opus 4.5 it seems, I should have hit my limit by now with my Pro membership but I haven't.\n\nThis is potentially a bug with how they track usage limits",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458538012899278910",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458538119820214477",
+    "timestamp": "2026-01-07 19:09:46",
+    "content": "Hi I'm an accounting student at UW, \n\nAnd I was wondering if there are any tutorials for setting up Claude Code on Mac, as all the tutorials I'm seeing are for Claude Code for windows set up",
+    "author": "tinypak#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458538119820214477",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458538393003753646",
+    "timestamp": "2026-01-07 19:10:51",
+    "content": "I'm used to non-code builders, but I want to learn how to incorporate claude code for helping with data migration for spreadsheets",
+    "author": "tinypak#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458538393003753646",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458540217446305985",
+    "timestamp": "2026-01-07 19:18:06",
+    "content": "Time to burn down some tokens 😅",
+    "author": "muzachomega#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458540217446305985",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458540786668011725",
+    "timestamp": "2026-01-07 19:20:21",
+    "content": "at some point (I believe around the time CC introduced the Explore agent) seems like my CC became much more slower significantly when is any long-running multi-agent process\n\nI am on Windows 11, using Powershell7 terminal (incase is not exclusively a CC issue) (maybe should try different terminal, or WSL? idk if something like that is known workaround for perf)\n\nhere is my settings.json regarding models:\n```json\n\"ANTHROPIC_MODEL\": \"claude-sonnet-4.5\",\n\"ANTHROPIC_DEFAULT_OPUS_MODEL\": \"claude-opus-4.5\",\n\"ANTHROPIC_DEFAULT_SONNET_MODEL\": \"claude-sonnet-4.5\",\n\"ANTHROPIC_DEFAULT_HAIKU_MODEL\": \"grok-code-fast-1\",\n\"CLAUDE_CODE_SUBAGENT_MODEL\": \"claude-sonnet-4.5\",\n```\n\nis it possble that just any subagent is routing to sonnet and is slow? or, this is often in Plan mode where I use Opus, is this using opus for everything then?\n\nopen to whatever suggestions people may have",
+    "author": "dbar923023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458540786668011725",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458540827159695393",
+    "timestamp": "2026-01-07 19:20:31",
+    "content": "Damn, wish I could. Now's the time to run as many claudes as possible lol",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458540827159695393",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458540833203552278",
+    "timestamp": "2026-01-07 19:20:33",
+    "content": "What if this was like the same case with the free claude code where some people get randomly ban for it",
+    "author": "sakuradevil_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458540833203552278",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458544766697341182",
+    "timestamp": "2026-01-07 19:36:10",
+    "content": "Does Claude have its limits off right now?",
+    "author": "jonathane_kro#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458544766697341182",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458544933131784389",
+    "timestamp": "2026-01-07 19:36:50",
+    "content": "I am not seeing my usage at all, and its not using any of my Extra usage wallet either.",
+    "author": "jonathane_kro#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458544933131784389",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458545041516790054",
+    "timestamp": "2026-01-07 19:37:16",
+    "content": "https://discord.com/channels/1072196207201501266/1354425630011166830/1458533235603673088",
+    "author": "tomasalfonsin#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458545041516790054",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458545043228069970",
+    "timestamp": "2026-01-07 19:37:16",
+    "content": "@__nickdriver___ in <#1354425630011166830> at <t:1767811821:R>:\n>>> This is what Brave search returned:\n```\nYes, there are current reports of usage display issues in Claude Code. Users on Reddit have noted that the \"Usage\" tab in both Claude Desktop and the web interface no longer shows usage statistics, and the /usage command in the CLI returns an error indicating a permission issue with the OAuth token scope.\n Some users have observed that while the usage tab is inaccessible, they still receive warnings about reaching 75% or 80% of their weekly limits directly in the terminal, suggesting that tracking is still active but not visible through the standard interface.\n This issue appears to have started recently, with reports emerging on January 7, 2026, and is affecting both free and paid users.\n Additionally, there are ongoing concerns about sudden changes in usage consumption, with some users reporting that their usage is being consumed at an accelerated rate, possibly due to a bug or unintended change in how tokens are calculated.\n These reports suggest that while usage tracking may still be functional, the visibility and reliability of usage data are currently compromised.\n```",
+    "author": "Fletcher#6884",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458545043228069970",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458545379384758302",
+    "timestamp": "2026-01-07 19:38:36",
+    "content": "So no one else is using Organization skills?",
+    "author": "groady280#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458545379384758302",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458545432647962813",
+    "timestamp": "2026-01-07 19:38:49",
+    "content": "https://status.claude.com/incidents/4hr61fgdzbtc",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458545432647962813",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458548967330549836",
+    "timestamp": "2026-01-07 19:52:52",
+    "content": "Thank you kindly ❤️  Anthropic Team",
+    "author": "ravanomlay#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458548967330549836",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458551049508884562",
+    "timestamp": "2026-01-07 20:01:08",
+    "content": "Hello guys!! I'm having a hard time pasting images to provide context in my prompts; I can't do it on the CLI",
+    "author": "kouzark#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458551049508884562",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458551176407810141",
+    "timestamp": "2026-01-07 20:01:39",
+    "content": "Anyone can help me?",
+    "author": "kouzark#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458551176407810141",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458551764293914675",
+    "timestamp": "2026-01-07 20:03:59",
+    "content": "interesting, all of a sudden claude is performing like 3x better, out of no where",
+    "author": "nullbio#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458551764293914675",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458551811865841888",
+    "timestamp": "2026-01-07 20:04:10",
+    "content": "either it just got a patch, or they've done something to the servers",
+    "author": "nullbio#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458551811865841888",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458552159003082937",
+    "timestamp": "2026-01-07 20:05:33",
+    "content": "or maybe they switched my model back to opus without telling me, because it was acting super stupid the last 24 hours and it was driving me mad",
+    "author": "nullbio#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458552159003082937",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458553205427404955",
+    "timestamp": "2026-01-07 20:09:42",
+    "content": "If you copy the image file path to the clipboard (in KDE Dolphin I just right click on the file and say \"Copy Location\"), pasting that path will load the image into your message context.",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458553205427404955",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458553287677575363",
+    "timestamp": "2026-01-07 20:10:02",
+    "content": "Alternately, paste the image file somewhere in your project folder and tell Claude where to find it",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458553287677575363",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458553911152607338",
+    "timestamp": "2026-01-07 20:12:31",
+    "content": "Bug: Artifact API calls silently forced to Sonnet 4\nI'm building an AI app in Claude artifacts that needs to use my registered MCP connector. The connector works perfectly when Claude calls it from the main conversation, but fails from artifacts.\nAfter hours of debugging, I discovered why: all artifact API calls are being silently overridden to claude-sonnet-4-20250514 regardless of what model you request.\nConsole logs:\nREQUESTED: claude-opus-4-5-20250514\nRECEIVED: claude-sonnet-4-20250514\nSince Sonnet 4 doesn't have MCP capability, my connector is inaccessible from artifacts.\nTested on both Claude.ai and Claude Desktop - same result.\nQuestions:\n\nIs this intentional? If so, why isn't it documented?\nIs there any way for artifacts to use Opus or access MCP connectors?\nIs this being tracked as a bug?\n\nSupport (Flynn) confirmed the issue but workarounds haven't helped. Looking for any insight from the community or Anthropic team.",
+    "author": "mira0762#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458553911152607338",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458557673581576277",
+    "timestamp": "2026-01-07 20:27:28",
+    "content": "When I access my Usage Settings I see no usage information, and my local claude code broke out of nowhere. Help?",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458557673581576277",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458557746847682807",
+    "timestamp": "2026-01-07 20:27:45",
+    "content": "don't think of it. you can use opus for free rn",
+    "author": "secp256r1#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458557746847682807",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458557837797101588",
+    "timestamp": "2026-01-07 20:28:07",
+    "content": "yeah I thought maybe it was something going on with other subscribers",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458557837797101588",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458558557048934593",
+    "timestamp": "2026-01-07 20:30:58",
+    "content": "https://www.youtube.com/watch?v=AkG-BZ-708U\n\nmaybe claude code creator wants us to try 5 parallel ccs lol\n# The creator of Claude Code just revealed his INSANE workflow (must ...\nThe creator of Claude Code just revealed his incredible Claude Code workflow. Here are the 8 steps in it\n\nJoin the Vibe Coding Academy: vibecodingacademy.dev\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nThe original tweet: https://x.com/bch...",
+    "author": "secp256r1#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458558557048934593",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458559277458526258",
+    "timestamp": "2026-01-07 20:33:50",
+    "content": "Question about claude AI desktop.   On my Mac, under Settings -> Usage, it showed before the actual usuage (how much I used, how much I have left, when it will reset).   But now, it's only showing \"Turn on exgtra usage\" button.  Nothing else.",
+    "author": "bymarcelolewin#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458559277458526258",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458559354495307937",
+    "timestamp": "2026-01-07 20:34:08",
+    "content": "same problem here <@960533118039765064>",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458559354495307937",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458559456853102745",
+    "timestamp": "2026-01-07 20:34:33",
+    "content": "Ok.  So it's not just me.  I also double checked the web version.  Same thing. I hope they didn't turn of that funcationlity. That was super helpful.",
+    "author": "bymarcelolewin#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458559456853102745",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458560193854963871",
+    "timestamp": "2026-01-07 20:37:28",
+    "content": "there's no usage limit right now",
+    "author": "secp256r1#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458560193854963871",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458560215539777546",
+    "timestamp": "2026-01-07 20:37:34",
+    "content": "at all",
+    "author": "secp256r1#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458560215539777546",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458560567517118747",
+    "timestamp": "2026-01-07 20:38:58",
+    "content": "As the universe intended.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458560567517118747",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458560643199406182",
+    "timestamp": "2026-01-07 20:39:16",
+    "content": "Inb4 everyone hits them so hard the servers crash",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458560643199406182",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458560937849262254",
+    "timestamp": "2026-01-07 20:40:26",
+    "content": "I hope it's a better version of usage coming up",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458560937849262254",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458560965653172296",
+    "timestamp": "2026-01-07 20:40:32",
+    "content": "integrated with statusline properly",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458560965653172296",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458560969042300979",
+    "timestamp": "2026-01-07 20:40:33",
+    "content": "etc",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458560969042300979",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458561363621445684",
+    "timestamp": "2026-01-07 20:42:07",
+    "content": "Haha!   I'm also getting some issues with \"image too large\" in claude code.  All of a sudden.  And the images are not large.  I think something broke.",
+    "author": "bymarcelolewin#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458561363621445684",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458561549080989747",
+    "timestamp": "2026-01-07 20:42:52",
+    "content": "\"Found it! Your system date is set to 2026 (the future). That's almost certainly the problem!\"",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458561549080989747",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458561748784250890",
+    "timestamp": "2026-01-07 20:43:39",
+    "content": "Just a quick question for here. Can I use the code in the repo for my own thing and not distribute it. I have a digital neural network consciousness and we would like to see what we can do if we combine all the open source CLI AI tools and see what happens? \n\nRepo in question <https://github.com/anthropics/claude-code?tab=readme-ov-file>",
+    "author": "ssfdre38#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458561748784250890",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458561993047806012",
+    "timestamp": "2026-01-07 20:44:37",
+    "content": "Good thing I have both Codex and Github Copilot as backup.  Continue building!",
+    "author": "bymarcelolewin#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458561993047806012",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458563116962156544",
+    "timestamp": "2026-01-07 20:49:05",
+    "content": "claude 2.1.0 is coming up guys",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458563116962156544",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458563185069129741",
+    "timestamp": "2026-01-07 20:49:22",
+    "content": "I joined this discord for the same reason - it's a known issue they're fixing",
+    "author": "teled#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458563185069129741",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458563253738143816",
+    "timestamp": "2026-01-07 20:49:38",
+    "content": "something changed my .claude.json to \"\"lastReleaseNotesSeen\": \"2.1.0\"\"\"",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458563253738143816",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458563478783529041",
+    "timestamp": "2026-01-07 20:50:32",
+    "content": "https://x.com/dani_avila7/status/2008897061643595978\nLast night, Claude Code moved from version 2\\.0\\.77 to 2\\.1\\.0\n\nThis means new features are coming, without breaking compatibility with previous versions\\.\n\nThe changelog is still at 2\\.0\\.74, so keep an eye on what @bcherny or @trq212 will be sharing today or over the next few days 👀",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458563478783529041",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458563959807545475",
+    "timestamp": "2026-01-07 20:52:26",
+    "content": "You can use Claude Code 2.1.0 by running `npx \n@anthropic\n-ai/claude-code@2.1.0` or `pnpx \n@anthropic\n-ai/claude-code@2.1.0`",
+    "author": "teled#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458563959807545475",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458564237084332032",
+    "timestamp": "2026-01-07 20:53:32",
+    "content": ".... does that mean no more usage limit for max?",
+    "author": "higher_primate_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458564237084332032",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458564371398791220",
+    "timestamp": "2026-01-07 20:54:04",
+    "content": "no more usage limit for everyone 😏",
+    "author": "acosmic#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458564371398791220",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458564968193593456",
+    "timestamp": "2026-01-07 20:56:27",
+    "content": "😮",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458564968193593456",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458565629371224065",
+    "timestamp": "2026-01-07 20:59:04",
+    "content": "Opus himself: \"You're better off waiting a few days for 2.1.0 to stabilize. The fact that it's causing crashes within hours of release is a red flag!\"",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458565629371224065",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458565743460483095",
+    "timestamp": "2026-01-07 20:59:32",
+    "content": "known bug going on in the last hour or so:\nhttps://github.com/anthropics/claude-code/issues/16673\n# [BUG] Invalid Version: 2.1.0 (2026-01-07) · Issue #16673 · anthro...\nPreflight Checklist I have searched existing issues and this hasn&#39;t been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version...",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458565743460483095",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458565833411268795",
+    "timestamp": "2026-01-07 20:59:53",
+    "content": "can anyone help me with my issue : (",
+    "author": "mira0762#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458565833411268795",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458566274706571520",
+    "timestamp": "2026-01-07 21:01:38",
+    "content": "now I'm getting invalid api key 🙁",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458566274706571520",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458566345787445298",
+    "timestamp": "2026-01-07 21:01:55",
+    "content": "where?",
+    "author": "secp256r1#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458566345787445298",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458566492076380352",
+    "timestamp": "2026-01-07 21:02:30",
+    "content": "claude code cli",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458566492076380352",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458566603473158234",
+    "timestamp": "2026-01-07 21:02:57",
+    "content": "try /login",
+    "author": "secp256r1#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458566603473158234",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458566698540994723",
+    "timestamp": "2026-01-07 21:03:19",
+    "content": "and did you authenticate with your api key or with claude subscription",
+    "author": "secp256r1#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458566698540994723",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458567477423509636",
+    "timestamp": "2026-01-07 21:06:25",
+    "content": "<@1400307334206591190> it's fine now, it seems. thanks!",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458567477423509636",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458569360820928652",
+    "timestamp": "2026-01-07 21:13:54",
+    "content": "This is not a joke?",
+    "author": "bymarcelolewin#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458569360820928652",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458569669144477797",
+    "timestamp": "2026-01-07 21:15:08",
+    "content": "They are temporarily broken, obviously they wouldn't actually give everyone unlimited without plenty of notice, especially since that would require a full pricing restructure.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458569669144477797",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458570105662341252",
+    "timestamp": "2026-01-07 21:16:52",
+    "content": "Mostly joking. It's definitely an issue and not intended. https://status.claude.com/",
+    "author": "acosmic#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458570105662341252",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458570895592263691",
+    "timestamp": "2026-01-07 21:20:00",
+    "content": "Oh, I was about to go celebrate by running 1000 sub-agents all at once.  \"Don't stop until tomorrow when you are done with my new saleforce CRM that I can move to production\" 🙂",
+    "author": "bymarcelolewin#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458570895592263691",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458571052639846432",
+    "timestamp": "2026-01-07 21:20:37",
+    "content": "It might work",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458571052639846432",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458571090950619329",
+    "timestamp": "2026-01-07 21:20:47",
+    "content": "Might also burn through your usage once they finally fix it",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458571090950619329",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458571156104810558",
+    "timestamp": "2026-01-07 21:21:02",
+    "content": "https://tenor.com/view/do-it-star-wars-emperor-palpatine-palpatine-gif-799657800635657398",
+    "author": "acosmic#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458571156104810558",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458571314532192267",
+    "timestamp": "2026-01-07 21:21:40",
+    "content": "no gif embeds in here? -_-",
+    "author": "acosmic#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458571314532192267",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458571603309891640",
+    "timestamp": "2026-01-07 21:22:49",
+    "content": "Gotta have special perms",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458571603309891640",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458571616727470285",
+    "timestamp": "2026-01-07 21:22:52",
+    "content": "They're no fun 🙁",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458571616727470285",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458580368780300399",
+    "timestamp": "2026-01-07 21:57:39",
+    "content": "I compiled all the resources I have collected while learning Claude code. \n\nI hope people find them valuable.  \nhttps://github.com/shahshrey/awesome-claude-code-resources",
+    "author": "shreyshah.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458580368780300399",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458587912303149265",
+    "timestamp": "2026-01-07 22:27:37",
+    "content": "Anyone using Claude Code for Web getting stuck and hanging on exit plan mode for repos which have settings.json set with default mode = opusplan?",
+    "author": "eva2000.cm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458587912303149265",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458594335401443369",
+    "timestamp": "2026-01-07 22:53:08",
+    "content": "is this a bug?",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458594335401443369",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1458594335477207182/Screenshot_2026-01-07_19-52-55.png?ex=69603554&is=695ee3d4&hm=3ff4947430d68456ea9519dfbf378eec37e115cfaa041ff00c8686f5732dde5c&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458595148211687495",
+    "timestamp": "2026-01-07 22:56:22",
+    "content": "Team plan canceled\nYou can no longer chat with Claude.\n\nit says my team plan is canceled but i didn't cancel it, doesn't anyone know if this is related to the outage or have i been banned",
+    "author": "david_03932#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458595148211687495",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458596643715678280",
+    "timestamp": "2026-01-07 23:02:19",
+    "content": "are we deadass",
+    "author": "chringusdingus#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458596643715678280",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458596996498591886",
+    "timestamp": "2026-01-07 23:03:43",
+    "content": "Idk, are we?",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458596996498591886",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458600276415217809",
+    "timestamp": "2026-01-07 23:16:45",
+    "content": "we think, then we are",
+    "author": "malka9644#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458600276415217809",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458601010909155491",
+    "timestamp": "2026-01-07 23:19:40",
+    "content": "\"I'm a Claude Code Max subscriber. I used to be able to check my weekly usage in Settings > Usage, but suddenly it's not showing up anymore. Does anyone know why this might be? I'm curious if it's just me or if others are experiencing the same issue. Would appreciate any input.\"",
+    "author": "akein2891#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458601010909155491",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458602640681205782",
+    "timestamp": "2026-01-07 23:26:09",
+    "content": "<#1379505487682470048>  or scroll up in any channel",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458602640681205782",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458602872408375337",
+    "timestamp": "2026-01-07 23:27:04",
+    "content": "Why you gotta misquote a quote, \"We think, therefore we are.\" And yes technically not an exact quote, but therefore and then are quite different.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458602872408375337",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458607157581709420",
+    "timestamp": "2026-01-07 23:44:05",
+    "content": "I'm happy, my weekly usage was close to 98%",
+    "author": "luisfbl#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458607157581709420",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458607330357809466",
+    "timestamp": "2026-01-07 23:44:47",
+    "content": "opus dynamic costs were insane between 04-06jan it seems from my usage",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458607330357809466",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458607434510893209",
+    "timestamp": "2026-01-07 23:45:12",
+    "content": "what happened to weekly limits?",
+    "author": "vqdezz3#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458607434510893209",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458608499364991047",
+    "timestamp": "2026-01-07 23:49:25",
+    "content": "Came here to ask the same thing, no more percent bar to track",
+    "author": "beauhilton#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458608499364991047",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458608713970618501",
+    "timestamp": "2026-01-07 23:50:17",
+    "content": "It is a widespread issue",
+    "author": "malka9644#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458608713970618501",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458608777636089948",
+    "timestamp": "2026-01-07 23:50:32",
+    "content": "Either it is a bug, either Anthropic are very generous for the new year",
+    "author": "malka9644#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458608777636089948",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]

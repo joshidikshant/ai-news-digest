@@ -88,5 +88,59 @@
     "category": "tutorial",
     "curated_at": "2026-01-07T18:17:39.609658+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Anthropic's Usage Tracking Goes AWOL, Unlimited Claude Access Rumored",
+    "bullets": [
+      "Multiple users report that usage statistics for Claude are not displaying, leading to speculation of unlimited access.",
+      "Reports suggest a bug affecting both free and paid users, with warnings about usage limits not appearing."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-07 19:37:16",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458545043228069970"
+    },
+    "relevance": 90,
+    "hot_take": "Unlimited AI usage: Bug or the best New Year's gift ever?",
+    "category": "discussion",
+    "curated_at": "2026-01-08T00:52:56.821846+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude Code Update to Version 2.1.0 Sparks Mixed Reactions",
+    "bullets": [
+      "Claude Code has updated from version 2.0.77 to 2.1.0, promising new features without breaking compatibility.",
+      "Users report crashes and issues immediately after the update, suggesting instability."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-07 20:50:32",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458563478783529041"
+    },
+    "relevance": 85,
+    "hot_take": "Claude Code 2.1.0: Cutting-edge update or a glitchy nightmare?",
+    "category": "announcement",
+    "curated_at": "2026-01-08T00:52:56.821866+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Artifact API Calls Misdirected to Sonnet 4, Breaking User Apps",
+    "bullets": [
+      "Artifact API calls are being overridden to use the claude-sonnet-4 model, causing compatibility issues.",
+      "Users confirm that this affects the functionality of MCP connectors in Claude artifacts."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-07 20:12:31",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458553911152607338"
+    },
+    "relevance": 80,
+    "hot_take": "When APIs go rogue: How Anthropic's Sonnet 4 switch is wreaking havoc.",
+    "category": "insight",
+    "curated_at": "2026-01-08T00:52:56.821869+00:00",
+    "original_server": "Anthropic"
   }
 ]
