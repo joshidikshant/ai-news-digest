@@ -1,0 +1,56 @@
+[
+  {
+    "headline": "Anthropic Updates Moderation Policy for Better Community Experience",
+    "bullets": [
+      "Anthropic released updates to their moderation policy.",
+      "Changes aim to improve the Discord server environment for all users."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "announcements",
+      "timestamp": "2026-01-08 02:05:50",
+      "message_link": "https://discord.com/channels/1072196207201501266/1072197729276657744/1458642826647699642"
+    },
+    "relevance": 70,
+    "hot_take": "Explore how moderation changes can impact user engagement and community health.",
+    "category": "announcement",
+    "curated_at": "2026-01-08T06:18:01.960739+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude AI Users Complain About Unreliable Memory and Chat Length Issues",
+    "bullets": [
+      "Users report difficulties with Claude AI remembering project constraints.",
+      "Long chat sessions are causing frustration due to memory limitations."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-08 04:54:33",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458685287474401291"
+    },
+    "relevance": 80,
+    "hot_take": "Discuss the importance of persistent memory in AI for complex workflows.",
+    "category": "insight",
+    "curated_at": "2026-01-08T06:18:01.960761+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude Pro Users Dissatisfied with New Session and Weekly Limits",
+    "bullets": [
+      "Users find current usage limits too restrictive, impacting productivity.",
+      "Concerns over value for money as limits seem more stringent post-holidays."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-08 05:20:39",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458691855045754890"
+    },
+    "relevance": 85,
+    "hot_take": "Evaluate how AI subscription models balance cost and usability.",
+    "category": "discussion",
+    "curated_at": "2026-01-08T06:18:01.960764+00:00",
+    "original_server": "Anthropic"
+  }
+]
