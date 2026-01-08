@@ -70,5 +70,41 @@
     "category": "announcement",
     "curated_at": "2026-01-08T12:22:32.619258+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Users Frustrated with Claude's Usage Limits and Support Response Times",
+    "bullets": [
+      "Users report hitting usage limits quickly, with enforced lockouts.",
+      "Complaints about slow or unresponsive support, despite high subscription costs."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-08",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458825986559836171"
+    },
+    "relevance": 90,
+    "hot_take": "Is Anthropic prioritizing new features over customer satisfaction? A deep dive into user frustrations.",
+    "category": "discussion",
+    "curated_at": "2026-01-08T18:15:26.347091+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Anthropic's Claude Experiences Performance Issues and Delays",
+    "bullets": [
+      "Reports of substantial delays and system instability in Claude 4.5 sessions.",
+      "Batch jobs and responses taking significantly longer than expected."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-08",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458871615155732645"
+    },
+    "relevance": 80,
+    "hot_take": "Claude 4.5: Cutting-edge AI or cutting corners? Users weigh in on recent performance hiccups.",
+    "category": "discussion",
+    "curated_at": "2026-01-08T18:15:26.347109+00:00",
+    "original_server": "Anthropic"
   }
 ]
