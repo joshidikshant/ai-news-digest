@@ -52,5 +52,23 @@
     "category": "discussion",
     "curated_at": "2026-01-08T06:18:01.960764+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Oops! Anthropic's Internal Model Briefly Exposed Online",
+    "bullets": [
+      "An internal model from Anthropic was accidentally exposed for 10 minutes.",
+      "The leak revealed the model was trained on TPUs."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-08 06:18:44",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458706471662391424"
+    },
+    "relevance": 90,
+    "hot_take": "Explore the risks and implications of accidental AI model leaks in the tech industry.",
+    "category": "announcement",
+    "curated_at": "2026-01-08T12:22:32.619258+00:00",
+    "original_server": "Anthropic"
   }
 ]
