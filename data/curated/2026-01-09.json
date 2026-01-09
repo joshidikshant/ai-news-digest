@@ -1,0 +1,38 @@
+[
+  {
+    "headline": "Radware Exposes Zero-Click Vulnerability in ChatGPT",
+    "bullets": [
+      "Radware has discovered a zero-click vulnerability affecting ChatGPT's Deep Research agent.",
+      "The flaw allows attackers to extract sensitive data without user interaction."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-09 01:31:27",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458996563388010618"
+    },
+    "relevance": 90,
+    "hot_take": "Are AI vulnerabilities the new frontier for cybersecurity threats?",
+    "category": "announcement",
+    "curated_at": "2026-01-09T06:18:27.355915+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Grok 4.20: A New Model on Par with Gemini 3.0?",
+    "bullets": [
+      "Grok 4.20 is reportedly performing well, comparable to Gemini 3.0 in frontend design.",
+      "There's mixed feedback on the model's capabilities, especially in frontend aesthetics."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-09 03:54:28",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459033270447636622"
+    },
+    "relevance": 75,
+    "hot_take": "Is Grok 4.20 the unexpected contender in AI model wars?",
+    "category": "insight",
+    "curated_at": "2026-01-09T06:18:27.355930+00:00",
+    "original_server": "Anthropic"
+  }
+]

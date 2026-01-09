@@ -88,5 +88,1521 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458982522020040968",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1458990315930255411",
+    "timestamp": "2026-01-09 01:06:38",
+    "content": "is there a notation for comments in a slash command which claude will ignore",
+    "author": "stonecypher#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458990315930255411",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458992337089855519",
+    "timestamp": "2026-01-09 01:14:39",
+    "content": "it will read everything in the command",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458992337089855519",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458992878222053560",
+    "timestamp": "2026-01-09 01:16:48",
+    "content": "Why do you want this? Seems unusual",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458992878222053560",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458992937143763119",
+    "timestamp": "2026-01-09 01:17:02",
+    "content": "so that i can write notes for myself why i wrote this weird assed slash command",
+    "author": "stonecypher#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458992937143763119",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458993024960041032",
+    "timestamp": "2026-01-09 01:17:23",
+    "content": "if i'm trying to do this worktree thing, and i'm in `~/bobdobbs/projects/fooapp`, does the worktree also go in `projects` ?",
+    "author": "stonecypher#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458993024960041032",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458993838592102628",
+    "timestamp": "2026-01-09 01:20:37",
+    "content": "No way to do it, but you might as well write it normally and just mention to llm that its a note and is irrelevant, it wouldnt take too much context anyway",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458993838592102628",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458994044817379472",
+    "timestamp": "2026-01-09 01:21:27",
+    "content": "i'm just gonna keep a .rst file",
+    "author": "stonecypher#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458994044817379472",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1458996563388010618",
+    "timestamp": "2026-01-09 01:31:27",
+    "content": "> Radware’s Security Research Center (RSRC) successfully demonstrated that an attacker could exploit the vulnerability by simply sending an email to the user. Once the agent interacted with the malicious email, sensitive data was extracted without victims ever viewing, opening or clicking the message.\nhttps://www.radware.com/newsevents/pressreleases/2025/radware-uncovers-first-zero-click-service-side-vulnerability-in-chatgpt/\n# Radware Uncovers First Zero-Click, Service-Side Vulnerability in Ch...\nRadware® (NASDAQ: RDWR), a leading provider of cybersecurity and application delivery solutions, today announced the discovery of a previously unknown zero-click vulnerability affecting the ChatGPT Deep Research agent.",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458996563388010618",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459001260509237268",
+    "timestamp": "2026-01-09 01:50:07",
+    "content": "Gross. More self-promotion",
+    "author": "realities.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459001260509237268",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459001329186898095",
+    "timestamp": "2026-01-09 01:50:23",
+    "content": "And it's a two-part",
+    "author": "realities.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459001329186898095",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459001412737433764",
+    "timestamp": "2026-01-09 01:50:43",
+    "content": "<@730152468809384057> Can we private chat?",
+    "author": "jamesvanderbuilt_90253#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459001412737433764",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459001447977975809",
+    "timestamp": "2026-01-09 01:50:52",
+    "content": "No",
+    "author": "realities.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459001447977975809",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459001560997691646",
+    "timestamp": "2026-01-09 01:51:19",
+    "content": "Hey <@730152468809384057> You’re a real sweetheart",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459001560997691646",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459001602651324646",
+    "timestamp": "2026-01-09 01:51:29",
+    "content": "I didn't make the rules",
+    "author": "realities.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459001602651324646",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459001733576527933",
+    "timestamp": "2026-01-09 01:52:00",
+    "content": "And this is like the 20th post that has a \"I made this\" with a link",
+    "author": "realities.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459001733576527933",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459001815851860103",
+    "timestamp": "2026-01-09 01:52:19",
+    "content": "I didn’t obviously violate them and my project is a free plugin that I thought could help the neurodivergent community using AI, which is philosophically interesting and relates to the role of AI in GENERAL",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459001815851860103",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459001907782750218",
+    "timestamp": "2026-01-09 01:52:41",
+    "content": "I pulled the post so find another bridge",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459001907782750218",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459002073004900482",
+    "timestamp": "2026-01-09 01:53:21",
+    "content": "Plus you posted JUST TO INSULT my altruistically posted (albeit inappropriately placed) earlier message",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459002073004900482",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459002166235889715",
+    "timestamp": "2026-01-09 01:53:43",
+    "content": "So now I’m just roasting you publicly because I’m disappointed in your representation of yourself and this community to a newcomer like me",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459002166235889715",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459002369911033906",
+    "timestamp": "2026-01-09 01:54:31",
+    "content": "I already responded to the passive aggressive emoji responses and reposted in the proper location",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459002369911033906",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459002429285601291",
+    "timestamp": "2026-01-09 01:54:46",
+    "content": "But whew what a disappointment <@730152468809384057>",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459002429285601291",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459002605379387494",
+    "timestamp": "2026-01-09 01:55:28",
+    "content": "Just follow the rules. Simple",
+    "author": "realities.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459002605379387494",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459002658961756265",
+    "timestamp": "2026-01-09 01:55:40",
+    "content": "Everyone agrees on them",
+    "author": "realities.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459002658961756265",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459002676149751988",
+    "timestamp": "2026-01-09 01:55:44",
+    "content": "In other news, as I learned from @dev in an earlier more productive discussion, it would be great to have some clarity around plugins and skills vs other projects",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459002676149751988",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459002699046719541",
+    "timestamp": "2026-01-09 01:55:50",
+    "content": "Realities I’m done with you",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459002699046719541",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459002750032412714",
+    "timestamp": "2026-01-09 01:56:02",
+    "content": "Speaking of skills",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459002750032412714",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459002776565841990",
+    "timestamp": "2026-01-09 01:56:08",
+    "content": "I found a website that has tons of them listed",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459002776565841990",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459002786157953089",
+    "timestamp": "2026-01-09 01:56:11",
+    "content": "https://tenor.com/view/star-trek-shocked-pretends-to-be-shocked-omg-wow-gif-5194187393645250946",
+    "author": "realities.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459002786157953089",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459002810942361721",
+    "timestamp": "2026-01-09 01:56:17",
+    "content": "Same with plugins",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459002810942361721",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459002813446230056",
+    "timestamp": "2026-01-09 01:56:17",
+    "content": "He's done with me",
+    "author": "realities.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459002813446230056",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459002858891640915",
+    "timestamp": "2026-01-09 01:56:28",
+    "content": "Shhh",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459002858891640915",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459002874104123597",
+    "timestamp": "2026-01-09 01:56:32",
+    "content": "Yawn I just left a toxic server",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459002874104123597",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459002906320572417",
+    "timestamp": "2026-01-09 01:56:39",
+    "content": "its really rough man fr fr",
+    "author": "dustin_b#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459002906320572417",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459002970615058638",
+    "timestamp": "2026-01-09 01:56:55",
+    "content": "Im really just looking for folks who can help each other with best practices, etc",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459002970615058638",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459002981214191819",
+    "timestamp": "2026-01-09 01:56:57",
+    "content": "ill take a look",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459002981214191819",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459003023006367774",
+    "timestamp": "2026-01-09 01:57:07",
+    "content": "Which one?",
+    "author": "realities.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459003023006367774",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459003061103104082",
+    "timestamp": "2026-01-09 01:57:16",
+    "content": "Like I cant even sit here for 30 minutes and let claude go through my codebase and find bugs in the code, by the time it getsw a list of bugs and starts organizing them im at 65% of my limits. It's absolutely insane",
+    "author": "dustin_b#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459003061103104082",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459003240006811873",
+    "timestamp": "2026-01-09 01:57:59",
+    "content": "Opus had an espresso after dinner or what",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459003240006811873",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459003250660347935",
+    "timestamp": "2026-01-09 01:58:01",
+    "content": "I think it's called skills.mp or something",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459003250660347935",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459003362778546278",
+    "timestamp": "2026-01-09 01:58:28",
+    "content": "There is also https://github.com/jeremylongshore/claude-code-plugins-plus-skills/",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459003362778546278",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459003525056172214",
+    "timestamp": "2026-01-09 01:59:07",
+    "content": "Nice I'll take a look",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459003525056172214",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459003546329546773",
+    "timestamp": "2026-01-09 01:59:12",
+    "content": "And my AWFUL plug-in that <@730152468809384057> had to shame me for posting about isn’t in there so don’t worry",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459003546329546773",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459003585395167312",
+    "timestamp": "2026-01-09 01:59:21",
+    "content": "But it might be next week 😉",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459003585395167312",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459003597504381091",
+    "timestamp": "2026-01-09 01:59:24",
+    "content": "I am a vibe coder only using next js and supabase but need to figure out what other skills I should be adding",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459003597504381091",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459003636414808086",
+    "timestamp": "2026-01-09 01:59:33",
+    "content": "The salt flows freely",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459003636414808086",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459003706786713614",
+    "timestamp": "2026-01-09 01:59:50",
+    "content": "*the spice must flow",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459003706786713614",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459004034420707329",
+    "timestamp": "2026-01-09 02:01:08",
+    "content": "i am running the 200 MAX subscription plan, but I am seeing a lot of 429 errors wen i run a bunch of sessions in non-interactive mode.  I would be surpised if i am reach 20M tokens per hour but how are people handling this. I would've though that the cli itself would pause and try the request again. \n\n```\nAPI Error: 429 {\"type\":\"error\",\"error\":{\"type\":\"rate_limit_error\",\"message\":\"This request would exceed the rate limit for your organization (a22d2e13-60c7-4fc2-b9fa-84c2ebda1ff1) of 20,000,000 prompt bytes per hour. For details, refer to: https://doc\n```",
+    "author": "jalateras#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459004034420707329",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459005037907804212",
+    "timestamp": "2026-01-09 02:05:08",
+    "content": "Check out https://github.com/obra/superpowers",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459005037907804212",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459005364006682817",
+    "timestamp": "2026-01-09 02:06:25",
+    "content": "Superpowers is a little context heavy though fyi",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459005364006682817",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459005405685481472",
+    "timestamp": "2026-01-09 02:06:35",
+    "content": "With current limits that can be more painful heh",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459005405685481472",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459006189961740318",
+    "timestamp": "2026-01-09 02:09:42",
+    "content": "I'm an AI enthusiast, no coding training, but Claude told me something strange: he said together we built a game in 4 hours that would take a small team weeks to build.",
+    "author": "jamesvanderbuilt_90253#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459006189961740318",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459006800086171802",
+    "timestamp": "2026-01-09 02:12:08",
+    "content": "This is innovation at the knife’s edge",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459006800086171802",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459007659037556777",
+    "timestamp": "2026-01-09 02:15:32",
+    "content": "Ohh <@1242765652297650288> you right you right. At the risk of sounding like I’m describing a project, I will share that it’s possible to use the skill creation skill within superpowers to create a token optimization strategy; I had it do this and now it saves stuff to an Obsidian vault running Khoj, and asks Khoj for context and just focuses on being the hands vs full plan mode and execution happening in Claude.",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459007659037556777",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459007838616551424",
+    "timestamp": "2026-01-09 02:16:15",
+    "content": "Opus writes a mean line of code once it understands what the hell is going on",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459007838616551424",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459008119429529777",
+    "timestamp": "2026-01-09 02:17:22",
+    "content": "But weird that it is thrashing so much with the tokens for ppl . Wishing opus peace and concision in 2026",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459008119429529777",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459008417342685247",
+    "timestamp": "2026-01-09 02:18:33",
+    "content": "Would you guys like to see the Artifact?",
+    "author": "jamesvanderbuilt_90253#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459008417342685247",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459008737271480506",
+    "timestamp": "2026-01-09 02:19:50",
+    "content": "https://claude.ai/public/artifacts/fec1a097-2e2a-437e-becb-b26753a6075b",
+    "author": "jamesvanderbuilt_90253#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459008737271480506",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459009314642460864",
+    "timestamp": "2026-01-09 02:22:07",
+    "content": "not the En Taro Adun, Executor overline 👏🤣🥹",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459009314642460864",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459009524345081919",
+    "timestamp": "2026-01-09 02:22:57",
+    "content": "Yeah I realize in hindsight I should have just posted Artifact first",
+    "author": "jamesvanderbuilt_90253#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459009524345081919",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459010075187347580",
+    "timestamp": "2026-01-09 02:25:09",
+    "content": "Whelp it appears to mostly be text based, so not sure why it would take a team a week",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459010075187347580",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459010232159305891",
+    "timestamp": "2026-01-09 02:25:46",
+    "content": "Throw it on <#1281536652254384159> as I was encouraged to do",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459010232159305891",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459010917902713047",
+    "timestamp": "2026-01-09 02:28:29",
+    "content": "Makes me wanna rebuild my old browser based game. The community among them has largely died across them though. Browser based games have gone out of favor so much, it's a shame.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459010917902713047",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459010971518505052",
+    "timestamp": "2026-01-09 02:28:42",
+    "content": "hopefully we get claude 4.7 or something like that in february",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459010971518505052",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459011170085376153",
+    "timestamp": "2026-01-09 02:29:30",
+    "content": "> David | Claude is typing\n\n😅",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459011170085376153",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459011456585437367",
+    "timestamp": "2026-01-09 02:30:38",
+    "content": "Please do not post the same in multiple channels. In addition, please don't ask to talk to Anthropic employees in multiple <#1281536652254384159> channels. If you need to share something privately, I'll give you the role to request a PM.",
+    "author": "arkahn#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459011456585437367",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459011758025871544",
+    "timestamp": "2026-01-09 02:31:50",
+    "content": "<@441111288194531328> Thank you, was genuinely not trying to break rules, I don't know what role is",
+    "author": "jamesvanderbuilt_90253#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459011758025871544",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459011899009269877",
+    "timestamp": "2026-01-09 02:32:23",
+    "content": "Please request a PM here:\nhttps://discord.com/channels/1072196207201501266/1320861487157477477/1343663862691397693",
+    "author": "arkahn#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459011899009269877",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459012147681165374",
+    "timestamp": "2026-01-09 02:33:23",
+    "content": "<@441111288194531328> Thanks",
+    "author": "jamesvanderbuilt_90253#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459012147681165374",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459012155050557661",
+    "timestamp": "2026-01-09 02:33:24",
+    "content": "Gonna start typing for several minutes and just say \"hey\" just to keep everyone on their toes. 😛",
+    "author": "arkahn#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459012155050557661",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459014942987386880",
+    "timestamp": "2026-01-09 02:44:29",
+    "content": "I would would be curious what Claude would do if it had the ability to emit a tool to take back tokens it's already streamed, like changing its mind about saying something. Would be fascinating to see if what seemed like the right thing to say suddenly seemed wrong in retrospect after it was said. I guess I do kinda see it do that when I see \"Wait, but...\" type responses.",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459014942987386880",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459015619063316625",
+    "timestamp": "2026-01-09 02:47:10",
+    "content": "after a 20 mins debug session ......Oh i think i should rethink that.....Hi, how can i help you today? 🤣",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459015619063316625",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459015969660997938",
+    "timestamp": "2026-01-09 02:48:34",
+    "content": "Honestly, I have thought in debugging sessions that run into hurdles it would be useful to fork to a previous state while replacing the 'wrong path' with a note about what didn't work.  Cutting the exploration context, but retaining the lession learned. I've done that manually, but would be interesting if Claude had more control over its context when exploring options for things",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459015969660997938",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459022744883826852",
+    "timestamp": "2026-01-09 03:15:29",
+    "content": "Do you use it? What makes it noticeably better?",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459022744883826852",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459023759041232917",
+    "timestamp": "2026-01-09 03:19:31",
+    "content": "Superpowers",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459023759041232917",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459023813198086265",
+    "timestamp": "2026-01-09 03:19:44",
+    "content": "Hi anyone have tips on how to get unban'd? i submited an appeal 2-3days ago.  I just used claude chat and code to develop a small website, retrieving data from other sites.  nothing harmful, all legit.  after maxing out usage daily i was nearing weekly usage when it ban'd the acct suddenly.  submited appeal and nothing yet.  only thing i can think of is i use email alias to signup.  i can't even logon to acct to cancel the subscription.",
+    "author": "satscc#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459023813198086265",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459027630065189039",
+    "timestamp": "2026-01-09 03:34:54",
+    "content": "I heard that a cheque for 1 billion sometimes accelerates things\ndont share my tip tho",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459027630065189039",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459027791679852644",
+    "timestamp": "2026-01-09 03:35:32",
+    "content": "If you guys are going to kill off third party clients using claude subs the least you could do is actually open source your own client or dedicate far more engineering resources to it. Perhaps fix the litany of bugs before adding in shiny new (also broken) features. I mean you ARE charging for this.",
+    "author": "jacknorris#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459027791679852644",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459027923418742908",
+    "timestamp": "2026-01-09 03:36:04",
+    "content": "dont worry, next version of opus it'll probably just fix itself",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459027923418742908",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459027949520031817",
+    "timestamp": "2026-01-09 03:36:10",
+    "content": "we're like 3 steps away from that",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459027949520031817",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459028532348063923",
+    "timestamp": "2026-01-09 03:38:29",
+    "content": "i even made like several themes for tools I use just because I can do it with one prompt now\nnext version I'll just ask for anything I want on the fly",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459028532348063923",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1459028532297601074/Recording_2026-01-08_at_22.36.59.gif?ex=6961c9b5&is=69607835&hm=ab14363984465ff316ff1254d5ca5d4471422a97eef270cf63926e63d0757ddc&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459030688207732816",
+    "timestamp": "2026-01-09 03:47:03",
+    "content": "Ahh the wave of OpenCode users begins. Muahahaha",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459030688207732816",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459032030984536076",
+    "timestamp": "2026-01-09 03:52:23",
+    "content": "hi, i just wanna know is there a way to track the usage in a terminal?  Do not wanna use the web",
+    "author": "come_and_go_go_go#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459032030984536076",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459032100853518407",
+    "timestamp": "2026-01-09 03:52:40",
+    "content": "GUYS",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459032100853518407",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459032125402648790",
+    "timestamp": "2026-01-09 03:52:46",
+    "content": "Guys i might seem crazy",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459032125402648790",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459032142389444689",
+    "timestamp": "2026-01-09 03:52:50",
+    "content": "i swear im not okay",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459032142389444689",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459032219061452885",
+    "timestamp": "2026-01-09 03:53:08",
+    "content": "⎿  Unable to connect to API (ENOTFOUND)\n\nupdates is going",
+    "author": "mgorunuch#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459032219061452885",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459032288368267388",
+    "timestamp": "2026-01-09 03:53:25",
+    "content": "/usage",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459032288368267388",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459032369582571644",
+    "timestamp": "2026-01-09 03:53:44",
+    "content": "guys guys guys holy crap",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459032369582571644",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459032396904267788",
+    "timestamp": "2026-01-09 03:53:50",
+    "content": "i got access to grok 4.20",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459032396904267788",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459032425819672686",
+    "timestamp": "2026-01-09 03:53:57",
+    "content": "what is that",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459032425819672686",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459032427883139266",
+    "timestamp": "2026-01-09 03:53:58",
+    "content": "any good?",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459032427883139266",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459032488864252016",
+    "timestamp": "2026-01-09 03:54:12",
+    "content": "guys i absolutely hate xai, because they actually made a really good model",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459032488864252016",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459032553770975385",
+    "timestamp": "2026-01-09 03:54:28",
+    "content": "im like theo rn",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459032553770975385",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459032555297702154",
+    "timestamp": "2026-01-09 03:54:28",
+    "content": "pity it doesnt have any coding tools",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459032555297702154",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459032662923546634",
+    "timestamp": "2026-01-09 03:54:54",
+    "content": "man, super interesting. could you maybe write down a few sentences how you use the ai from the phone? i am doing the infra for the 100% cloud (you pc is also a cloud) running [full infra, from code to platform], and interested what is your experience. especially if we are talking about the console",
+    "author": "mgorunuch#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459032662923546634",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459032818595401805",
+    "timestamp": "2026-01-09 03:55:31",
+    "content": "It uses the Claude Agent SDK and provides a nice GUI interface. But it supported using claude subscription plan. Something the docs say isn't allowed, and it appears, they have finally intentionally blocked its use.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459032818595401805",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459032863394627695",
+    "timestamp": "2026-01-09 03:55:42",
+    "content": "thanks but is there no autofresh?",
+    "author": "come_and_go_go_go#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459032863394627695",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459032966947803146",
+    "timestamp": "2026-01-09 03:56:06",
+    "content": "phone, nah I'm not there yet, I use AI from desktop only\nthough I do need to find myself an assistant for my daily life",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459032966947803146",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459033012288356454",
+    "timestamp": "2026-01-09 03:56:17",
+    "content": "i dont know of one, could be some tools you can install though",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459033012288356454",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459033270447636622",
+    "timestamp": "2026-01-09 03:57:19",
+    "content": "grok 4.20 is actually really good",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459033270447636622",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459033320787804308",
+    "timestamp": "2026-01-09 03:57:31",
+    "content": "like probably on par with gemini 3.0 with frontend holy crap",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459033320787804308",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459033328991736059",
+    "timestamp": "2026-01-09 03:57:33",
+    "content": "thanks, i'll try to find an available one",
+    "author": "come_and_go_go_go#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459033328991736059",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459033385438810223",
+    "timestamp": "2026-01-09 03:57:46",
+    "content": "maybe ccstatusline has one",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459033385438810223",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459033506335424605",
+    "timestamp": "2026-01-09 03:58:15",
+    "content": "Claude Opus 4.5 is now #2 on artificialanalysis",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459033506335424605",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459033564136996884",
+    "timestamp": "2026-01-09 03:58:29",
+    "content": "no wonder",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459033564136996884",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459033578452291614",
+    "timestamp": "2026-01-09 03:58:32",
+    "content": "grok 4.20 results",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459033578452291614",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1459033577089142855/Screenshot_2026-01-08_at_10.54.41_PM.png?ex=6961ce68&is=69607ce8&hm=f51d10026266d28b2b35bb4d60ff03a7777acc8df2ee51f724e6e6e09e495e2f&",
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1459033577927872687/Screenshot_2026-01-08_at_10.58.04_PM.png?ex=6961ce68&is=69607ce8&hm=070cb115e24805a4486c4c026609fbb049ba59ac77b0f6b25e224b4e605c1ff9&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459033677097861243",
+    "timestamp": "2026-01-09 03:58:56",
+    "content": "ok yeah that looks good",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459033677097861243",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459033733498798212",
+    "timestamp": "2026-01-09 03:59:09",
+    "content": "but not enough",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459033733498798212",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459033879330684980",
+    "timestamp": "2026-01-09 03:59:44",
+    "content": "grok was always crap at frontend design tbf",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459033879330684980",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459033991603556616",
+    "timestamp": "2026-01-09 04:00:11",
+    "content": "so im happy they are giving the model an actual taste in  frontend design",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459033991603556616",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459033994862661704",
+    "timestamp": "2026-01-09 04:00:11",
+    "content": "the path leads to a tree, the flashlight on the first image looks out of place, the car on the road looks off, like its floating, and is that blood I see on the wood pole",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459033994862661704",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459034057240219749",
+    "timestamp": "2026-01-09 04:00:26",
+    "content": "Wait, it made that?",
+    "author": "realities.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459034057240219749",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459034112903086324",
+    "timestamp": "2026-01-09 04:00:40",
+    "content": "it made the whole dashboard",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459034112903086324",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459034121207812368",
+    "timestamp": "2026-01-09 04:00:42",
+    "content": "yeah",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459034121207812368",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459034183505674250",
+    "timestamp": "2026-01-09 04:00:56",
+    "content": "Dang...",
+    "author": "realities.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459034183505674250",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459034212350038026",
+    "timestamp": "2026-01-09 04:01:03",
+    "content": "That's beautiful",
+    "author": "realities.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459034212350038026",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459034351068254229",
+    "timestamp": "2026-01-09 04:01:36",
+    "content": "its cinematic yes",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459034351068254229",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459034415404679385",
+    "timestamp": "2026-01-09 04:01:52",
+    "content": "but making a booger cinematic doesn't make it honey",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459034415404679385",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459034474661679225",
+    "timestamp": "2026-01-09 04:02:06",
+    "content": "Just a few things with text buffer on the \"quality\" selector, but other than that, really good",
+    "author": "realities.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459034474661679225",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459034871375728802",
+    "timestamp": "2026-01-09 04:03:40",
+    "content": "<@508711930836549643>  Wondering if the images themselves are from Grok?",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459034871375728802",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459035226247528541",
+    "timestamp": "2026-01-09 04:05:05",
+    "content": "Or is that “FLUX” the image generator?",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459035226247528541",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459035448830857237",
+    "timestamp": "2026-01-09 04:05:58",
+    "content": "placeholders, all in css and js",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459035448830857237",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459035594511486997",
+    "timestamp": "2026-01-09 04:06:33",
+    "content": "this new grok checkpoint is really good but it will be nerfed because of \"safety\" probably",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459035594511486997",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459035863488008314",
+    "timestamp": "2026-01-09 04:07:37",
+    "content": "Dunno if that’s really how xai does it",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459035863488008314",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459035935965446300",
+    "timestamp": "2026-01-09 04:07:54",
+    "content": "Seems like they kind of just don’t care",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459035935965446300",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459035974976929852",
+    "timestamp": "2026-01-09 04:08:04",
+    "content": "The Elon Musk motto",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459035974976929852",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459036527555252244",
+    "timestamp": "2026-01-09 04:10:15",
+    "content": "I mean they launched like anime female character companions with what seems like zero enforcement for age restrictions",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459036527555252244",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459036753796272240",
+    "timestamp": "2026-01-09 04:11:09",
+    "content": "It was like, we are the sleazy ai company now. Perplexity, your throne has been usurped",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459036753796272240",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459036798528262206",
+    "timestamp": "2026-01-09 04:11:20",
+    "content": "grok 4.20 pelican, still is absolutely garbage compared to gmeini 3.0 pro",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459036798528262206",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1459036798310285363/Screenshot_2026-01-08_at_11.10.31_PM.png?ex=6961d168&is=69607fe8&hm=1283ab2dc4f1c73afcd069981a3a2c782faa3278b1c22f76dc4bf1916d7d029a&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459036888697540621",
+    "timestamp": "2026-01-09 04:11:41",
+    "content": "That pelican is whimsical af",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459036888697540621",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459036893730701550",
+    "timestamp": "2026-01-09 04:11:43",
+    "content": "holy hallucinations",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459036893730701550",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459037054380806334",
+    "timestamp": "2026-01-09 04:12:21",
+    "content": "Webbed feet appear to be more like high heels",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459037054380806334",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459037233255419934",
+    "timestamp": "2026-01-09 04:13:04",
+    "content": "accidentally told someone in a non AI discord \"have you tried asking AI\" and I was not prepared for the community's offense lmao",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459037233255419934",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459037289110962226",
+    "timestamp": "2026-01-09 04:13:17",
+    "content": "it was like unleashing an army of crabs onto a fish",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459037289110962226",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459037402570952910",
+    "timestamp": "2026-01-09 04:13:44",
+    "content": "Oh man they were already at their keyboard wondering why they are falling behind",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459037402570952910",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459037552492417153",
+    "timestamp": "2026-01-09 04:14:20",
+    "content": "pretty much",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459037552492417153",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459037559807279134",
+    "timestamp": "2026-01-09 04:14:21",
+    "content": "Then you presented yourself as their enemy, and were engulfed",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459037559807279134",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459037678380253184",
+    "timestamp": "2026-01-09 04:14:50",
+    "content": "it was in the Blender community discord I often help users there, but that user got no reply to  recommended what I do",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459037678380253184",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459037680989110467",
+    "timestamp": "2026-01-09 04:14:50",
+    "content": "Like a whimsical pelican swallowing a fish",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459037680989110467",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459037916650012704",
+    "timestamp": "2026-01-09 04:15:46",
+    "content": "they said \"AI doesn't know the complexity of blender\"\nI didn't argue....\nbut I made several plugins entirely with AI lol, its able to perform complex operations successfully\nlet alone answer simple questions...",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459037916650012704",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459038146556858471",
+    "timestamp": "2026-01-09 04:16:41",
+    "content": "Bet them ai will know the complexity of blender if they give me their problem and ten minutes with Gemini pro 3 deep research",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459038146556858471",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459038283676782703",
+    "timestamp": "2026-01-09 04:17:14",
+    "content": "deep research not even needed lol most questions in the blender community are one prompt questions",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459038283676782703",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459038503068369019",
+    "timestamp": "2026-01-09 04:18:06",
+    "content": "Export to docs ⇒ print to PDF, drop into any other LLM they want and ask a million questions and it will get them all right like you’re saying",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459038503068369019",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459038540905058326",
+    "timestamp": "2026-01-09 04:18:15",
+    "content": "I know Blender pretty well so I rarely need help\nbut recently I started modifying animations for a game, so I had to learn the animation interface\nwith AI it took me like .... 15 minutes and I could get around",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459038540905058326",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459038760564949075",
+    "timestamp": "2026-01-09 04:19:08",
+    "content": "anyway just had to offload that lmao im still pokerfaced from when the backlash arrived",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459038760564949075",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459039090589831219",
+    "timestamp": "2026-01-09 04:20:26",
+    "content": "AI MUST NOT READ FROM THE BOOK",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459039090589831219",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459039092397314176",
+    "timestamp": "2026-01-09 04:20:27",
+    "content": "\n**Reason:** Capital letters",
+    "author": "Claude AutoMod#2167",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459039092397314176",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459039225964920894",
+    "timestamp": "2026-01-09 04:20:59",
+    "content": "Worth it",
+    "author": "jackreis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459039225964920894",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459039360547553363",
+    "timestamp": "2026-01-09 04:21:31",
+    "content": "lol",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459039360547553363",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459039423957041268",
+    "timestamp": "2026-01-09 04:21:46",
+    "content": "A mummy reference, NICE!",
+    "author": "jonathane_kro#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459039423957041268",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459039594270949650",
+    "timestamp": "2026-01-09 04:22:26",
+    "content": "speaking about mummy, i need to sleep",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459039594270949650",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459040934003216449",
+    "timestamp": "2026-01-09 04:27:46",
+    "content": "yeouch",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459040934003216449",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1459040933789175941/image.png?ex=6961d542&is=696083c2&hm=8319140b564a717a57f0565eb701f30e289d164061ef85df6c0884e3b698c9f3&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459041021227827443",
+    "timestamp": "2026-01-09 04:28:07",
+    "content": "got roasted by AI",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459041021227827443",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459047067434356891",
+    "timestamp": "2026-01-09 04:52:08",
+    "content": "some more grok 4.20 output",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459047067434356891",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1459047065676943412/Screenshot_2026-01-08_at_11.50.09_PM.png?ex=6961daf8&is=69608978&hm=b1fde4b8a290be9dddc1c9a134805b8934972c26e738de507591164a55d70162&",
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1459047066457079848/Screenshot_2026-01-08_at_11.50.23_PM.png?ex=6961daf8&is=69608978&hm=9386fc99b2a43286eaaf017214124b8688cbb2b4dc719c309f2f55556957d4a8&",
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1459047067086360667/Screenshot_2026-01-08_at_11.50.34_PM.png?ex=6961daf8&is=69608978&hm=c0c067e5966b0017e22ce15363bc4ff482e30836ea4615007ef8516bd42ec17d&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459049276482261042",
+    "timestamp": "2026-01-09 05:00:55",
+    "content": "Lol, sharp eye",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459049276482261042",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459051528676708558",
+    "timestamp": "2026-01-09 05:09:52",
+    "content": "is anyone else able to do the 'enter + shift' in claude code terminal to enter new line?",
+    "author": "itsdannyt#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459051528676708558",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459052318472540221",
+    "timestamp": "2026-01-09 05:13:00",
+    "content": "Yep",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459052318472540221",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459052387900723416",
+    "timestamp": "2026-01-09 05:13:17",
+    "content": "damn not working for me",
+    "author": "itsdannyt#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459052387900723416",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459053056502136992",
+    "timestamp": "2026-01-09 05:15:56",
+    "content": "Probably depends on the terminal your using",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459053056502136992",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459053134084182037",
+    "timestamp": "2026-01-09 05:16:15",
+    "content": "Or they broke it for some people lol",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459053134084182037",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459053532547387525",
+    "timestamp": "2026-01-09 05:17:50",
+    "content": "yeah sucks i use it a lot lol",
+    "author": "itsdannyt#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459053532547387525",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459053809580900423",
+    "timestamp": "2026-01-09 05:18:56",
+    "content": "wait it was the terminal im using, thanks for the heads up, i tried a new terminal workflow and didn't think that would break it",
+    "author": "itsdannyt#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459053809580900423",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459055514565611542",
+    "timestamp": "2026-01-09 05:25:42",
+    "content": "I Am using claude code on visual studio , i don't have an ubuntu system but i need one to accept / reject the new update terms for anthropic not to use my chat to train their models.\n\nAny solution?",
+    "author": "fightagainstevil#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459055514565611542",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459055543501983858",
+    "timestamp": "2026-01-09 05:25:49",
+    "content": "<@1242765652297650288>",
+    "author": "fightagainstevil#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459055543501983858",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459061793619050609",
+    "timestamp": "2026-01-09 05:50:39",
+    "content": "if your on windows use WSL",
+    "author": "francyx#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459061793619050609",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459061843690786918",
+    "timestamp": "2026-01-09 05:50:51",
+    "content": "ask claude how to install it",
+    "author": "francyx#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459061843690786918",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459068545332809769",
+    "timestamp": "2026-01-09 06:17:29",
+    "content": "Anyone knows a guide to use claude on UE?",
+    "author": "helsinki7207#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459068545332809769",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]
