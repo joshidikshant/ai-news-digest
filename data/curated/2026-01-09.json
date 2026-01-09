@@ -88,5 +88,59 @@
     "category": "insight",
     "curated_at": "2026-01-09T12:21:59.316356+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Anthropic Faces Backlash Over Blocking OpenCode Access",
+    "bullets": [
+      "Users are frustrated with Anthropic's decision to block Claude Max in third-party wrappers like OpenCode.",
+      "The move is criticized as short-sighted and counterintuitive, sparking discussions about vendor lock-in and user frustration."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-09 15:11:27",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459202924696829997"
+    },
+    "relevance": 90,
+    "hot_take": "Explore the implications of vendor lock-in and user freedom in AI tools.",
+    "category": "discussion",
+    "curated_at": "2026-01-09T18:17:21.753229+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Anthropic's AI Support Bot Criticized for Poor Performance",
+    "bullets": [
+      "Users report issues with the AI support bot, Fin, failing to escalate to human support.",
+      "Complaints highlight the need for improved AI-human support integration."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-09 15:57:43",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459214564200546469"
+    },
+    "relevance": 75,
+    "hot_take": "Delve into the pitfalls and challenges of AI-driven customer support.",
+    "category": "insight",
+    "curated_at": "2026-01-09T18:17:21.753265+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Discord Debate: Claude Code vs. OpenCode Features",
+    "bullets": [
+      "Users are split on whether OpenCode offers superior features compared to Claude Code.",
+      "The debate centers around user interface bugs and the flexibility of open-source software."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-09 18:04:58",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459246590794399765"
+    },
+    "relevance": 80,
+    "hot_take": "Analyze the pros and cons of open-source vs. proprietary software in AI tools.",
+    "category": "discussion",
+    "curated_at": "2026-01-09T18:17:21.753269+00:00",
+    "original_server": "Anthropic"
   }
 ]
