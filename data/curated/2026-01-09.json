@@ -34,5 +34,59 @@
     "category": "insight",
     "curated_at": "2026-01-09T06:18:27.355930+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Debate on LLM Memory and Context Windows Heats Up",
+    "bullets": [
+      "Discussion on the limitations of context windows in LLMs, with a focus on memory and the technical challenges of maintaining context.",
+      "Participants explore various methods to enhance AI memory without changing the base model, using techniques like RAG stacks and semantic connections."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-09 11:22:44",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459145364555956305"
+    },
+    "relevance": 75,
+    "hot_take": "Can AI memory ever match human memory? A deep dive into context windows and the future of persistent AI memory.",
+    "category": "discussion",
+    "curated_at": "2026-01-09T12:21:59.316330+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Concerns Over AI Deleting User Data and Privacy Issues",
+    "bullets": [
+      "Users express frustration over AI systems deleting conversations and lacking persistent memory.",
+      "Debate centers around the balance between privacy concerns and the technical feasibility of persistent memory in AI."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-09 11:28:38",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459146847686758421"
+    },
+    "relevance": 60,
+    "hot_take": "Are privacy concerns stifling AI progress? Exploring the trade-offs in AI memory retention.",
+    "category": "discussion",
+    "curated_at": "2026-01-09T12:21:59.316352+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Exploring the Role of AI in Social Media Integration",
+    "bullets": [
+      "Grok and Gemini highlighted as leading AIs in social media interaction and integration.",
+      "Discussion on the potential for AI to act as 'little entities' with persistent characteristics."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-09 11:35:37",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459148604756332671"
+    },
+    "relevance": 65,
+    "hot_take": "Is AI the new social media influencer? Evaluating Grok and Gemini's roles in digital society.",
+    "category": "insight",
+    "curated_at": "2026-01-09T12:21:59.316356+00:00",
+    "original_server": "Anthropic"
   }
 ]
