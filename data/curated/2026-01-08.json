@@ -106,5 +106,77 @@
     "category": "discussion",
     "curated_at": "2026-01-08T18:15:26.347109+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Anthropic Tests New Agentic Tasks Mode for Claude",
+    "bullets": [
+      "Anthropic is testing a new Agentic Tasks Mode for Claude.",
+      "New interface aims to enhance research, analysis, and writing capabilities."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-08 21:21:25",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458933642104537230"
+    },
+    "relevance": 90,
+    "hot_take": "Is this the start of Claude AI's transformation into a full-fledged digital assistant?",
+    "category": "announcement",
+    "curated_at": "2026-01-09T00:53:14.026281+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "CC Version 2.1.0 Faces Immediate Patch with 2.1.1",
+    "bullets": [
+      "CC version 2.1.0 released and faced issues.",
+      "Version 2.1.1 was quickly deployed to address problems."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-08 19:20:21",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458903173065609287"
+    },
+    "relevance": 75,
+    "hot_take": "Rapid patch releases: efficiency or a sign of shaky QA?",
+    "category": "announcement",
+    "curated_at": "2026-01-09T00:53:14.026302+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Neurodivergent Visual Org Tool for Enhanced Productivity",
+    "bullets": [
+      "New tool offers ADHD-friendly visual organization.",
+      "Features include energy-aware planning and colorblind-safe modes."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-08 23:20:44",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458963669126873372"
+    },
+    "relevance": 70,
+    "hot_take": "Are we finally seeing AI tools catering to neurodivergent needs effectively?",
+    "category": "announcement",
+    "curated_at": "2026-01-09T00:53:14.026306+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Community Reactions to Claude Code Improvements",
+    "bullets": [
+      "Users report improved performance in Claude Code 2.1.x.",
+      "Cleaning out tools contributed to better user experience."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-08 19:38:07",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1458907643711066333"
+    },
+    "relevance": 65,
+    "hot_take": "Is user feedback driving more polished AI updates?",
+    "category": "discussion",
+    "curated_at": "2026-01-09T00:53:14.026309+00:00",
+    "original_server": "Anthropic"
   }
 ]
