@@ -1,0 +1,20 @@
+[
+  {
+    "headline": "Claude Code Update: Default Model Switch",
+    "bullets": [
+      "Claude Code (v2.1.3) changes its default model from Opus to Sonnet.",
+      "Implications for developers relying on Claude's default settings."
+    ],
+    "source": {
+      "server": "1072196207201501266",
+      "channel": "1114305545478877377",
+      "timestamp": "2026-01-10 00:04:22",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459337034798731386"
+    },
+    "relevance": 75,
+    "hot_take": "Explore how changing the default model can affect AI behavior and user experience.",
+    "category": "announcement",
+    "curated_at": "2026-01-10T00:51:29.635268+00:00",
+    "original_server": "Anthropic"
+  }
+]

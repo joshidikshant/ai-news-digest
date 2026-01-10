@@ -142,5 +142,59 @@
     "category": "discussion",
     "curated_at": "2026-01-09T18:17:21.753269+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Anthropic Cuts Off OpenCode Access, Users React",
+    "bullets": [
+      "Anthropic blocked OpenCode from using Claude subscriptions, citing ToS breaches.",
+      "Community debates the legality and ethics of the move, with mixed reactions."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-09 19:54:27",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459274142711808020"
+    },
+    "relevance": 90,
+    "hot_take": "Explore the implications of closed models and vendor lock-in in AI services.",
+    "category": "announcement",
+    "curated_at": "2026-01-10T00:51:25.400040+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "OpenSource Debate: What Defines True Open Source?",
+    "bullets": [
+      "Discord community debates the nature of true open source versus corporate-owned open projects.",
+      "Discussion highlights the tension between open source ideals and commercial realities."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-09 20:06:28",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459277165169475870"
+    },
+    "relevance": 75,
+    "hot_take": "Analyse how the open source movement is adapting in a corporate-dominated tech landscape.",
+    "category": "discussion",
+    "curated_at": "2026-01-10T00:51:25.400060+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "SEO and AI Bots: A New Era for Website Optimization",
+    "bullets": [
+      "Discussion on whether allowing AI bots can improve SEO as AI replaces traditional search engines.",
+      "Cloudflare's stance on AI bot traffic raises questions about future web optimization strategies."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-09 23:32:44",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459329076220264469"
+    },
+    "relevance": 70,
+    "hot_take": "Investigate how AI bots are changing the rules of SEO and what this means for web developers.",
+    "category": "discussion",
+    "curated_at": "2026-01-10T00:51:25.400063+00:00",
+    "original_server": "Anthropic"
   }
 ]

@@ -5448,5 +5448,2758 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459249603252850850",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1459250562867527700",
+    "timestamp": "2026-01-09 18:20:45",
+    "content": "AWS Bedrock and Google Vertex debunks the vendor lock in",
+    "author": "ruchernchong#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459250562867527700",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459250615409709262",
+    "timestamp": "2026-01-09 18:20:58",
+    "content": "Claude Code is open source as like Open Code",
+    "author": "ruchernchong#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459250615409709262",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459250703905194007",
+    "timestamp": "2026-01-09 18:21:19",
+    "content": "No it's not",
+    "author": "vivi424242#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459250703905194007",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459250857001488455",
+    "timestamp": "2026-01-09 18:21:55",
+    "content": "Everything you just said is wrong. AWS provides Claude's servers. It was part of their agreement that Bedrock provide Claude inference in exchange for the infrastructure. Claude Code is not open source either.",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459250857001488455",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459253679596114119",
+    "timestamp": "2026-01-09 18:33:08",
+    "content": "claude code was originally an internal harness that they released publicly with certain restrictions on how you can use it. would you rather they had not done that? Also, yahoo's search engine was originally curated by humans, they were disrupted by google's automated indexing. who is going to disrupt claude code? I'd love to see that.",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459253679596114119",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459254969428348990",
+    "timestamp": "2026-01-09 18:38:16",
+    "content": "They don't only run on AWS anymore; Anthropic also uses Google Cloud TPUs and other infrastructure now.",
+    "author": "dragonfire1119#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459254969428348990",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459255364154294443",
+    "timestamp": "2026-01-09 18:39:50",
+    "content": "Quick question I am not a developer. Took some programming courses years ago, but this knowledge is mostly lost. I wanted to start coding with AI again. Should I start with Claude Code or something else first?",
+    "author": "maximillion2222#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459255364154294443",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459255781374558359",
+    "timestamp": "2026-01-09 18:41:29",
+    "content": "In my opinion, you should learn how to program so you have the knowledge to tell whether AI is producing safe code and how to direct it. AI is a tool, but you shouldn’t completely depend on it.",
+    "author": "dragonfire1119#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459255781374558359",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459255959187750942",
+    "timestamp": "2026-01-09 18:42:12",
+    "content": "Fair enough, I guess back to CS50.",
+    "author": "maximillion2222#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459255959187750942",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459256052972257332",
+    "timestamp": "2026-01-09 18:42:34",
+    "content": "CC is good for getting back into coding; there's an output style for 'learning mode' that makes it into more of a mentor for pair programming use",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459256052972257332",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459256227623342335",
+    "timestamp": "2026-01-09 18:43:16",
+    "content": "Ah so it could help me refresh my old experience?",
+    "author": "maximillion2222#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459256227623342335",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459256285613654098",
+    "timestamp": "2026-01-09 18:43:30",
+    "content": "yeah, it's pretty good at explaining the basics",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459256285613654098",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459256358464389131",
+    "timestamp": "2026-01-09 18:43:47",
+    "content": "and you can always ask it questions about the things you're building together",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459256358464389131",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459256733187834241",
+    "timestamp": "2026-01-09 18:45:16",
+    "content": "AI is not always right and can produce really bad code, so you could end up learning incorrect or non‑idiomatic practices if you rely on it alone for learning purposes.",
+    "author": "dragonfire1119#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459256733187834241",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459256850880008474",
+    "timestamp": "2026-01-09 18:45:44",
+    "content": "yeah, it's not the only source of feedback, but you'll learn more from it than from a typical CS class, in terms of practical coding",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459256850880008474",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459256895603736902",
+    "timestamp": "2026-01-09 18:45:55",
+    "content": "CS classes are math classes, fundamentally",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459256895603736902",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459256933528768663",
+    "timestamp": "2026-01-09 18:46:04",
+    "content": "useful, but not actually about coding, per se",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459256933528768663",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459256971474505941",
+    "timestamp": "2026-01-09 18:46:13",
+    "content": "So I could even write some parts myself and ask it to review and help me fix my issues. Overall, I can read and understand python code. My problem is that I haven’t programmed anything in years and the thinking missing.",
+    "author": "maximillion2222#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459256971474505941",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459257095160594759",
+    "timestamp": "2026-01-09 18:46:43",
+    "content": "That’s true even with things I am an “expert” in it makes terrible Mistakes",
+    "author": "maximillion2222#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459257095160594759",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459257252333621313",
+    "timestamp": "2026-01-09 18:47:20",
+    "content": "I guess there would be better courses than basic CS",
+    "author": "maximillion2222#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459257252333621313",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459257258192928972",
+    "timestamp": "2026-01-09 18:47:22",
+    "content": "you do want to be cautious about how you ask for feedback, because if it thinks you're just looking for validation, it'll praise you blindly",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459257258192928972",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459257336614097038",
+    "timestamp": "2026-01-09 18:47:40",
+    "content": "all models still have that sycophancy issue, though it's a little less overt than it used to be",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459257336614097038",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459257443652472944",
+    "timestamp": "2026-01-09 18:48:06",
+    "content": "but with thoughtful prompting you can definitely get useful learnings from it",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459257443652472944",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459257502599221391",
+    "timestamp": "2026-01-09 18:48:20",
+    "content": "Hehe this I have noticed. OpenAI is definitely leading in kissing my behind but it’s true to keep this in mind",
+    "author": "maximillion2222#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459257502599221391",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459257659957051413",
+    "timestamp": "2026-01-09 18:48:57",
+    "content": "I have a tip for this, but its super annoying because of course its not ideal",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459257659957051413",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1459257659764117683/image.png?ex=69629f19&is=69614d99&hm=0647e5184834599af850ea282215531f1f77bdb7e624cbf1a64e30084053ad95&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459257843810177209",
+    "timestamp": "2026-01-09 18:49:41",
+    "content": "It does work to an extent",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459257843810177209",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459257876861423688",
+    "timestamp": "2026-01-09 18:49:49",
+    "content": "Yes, you’ll notice that writing good prompts is a learned skill.",
+    "author": "dragonfire1119#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459257876861423688",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459258013415374848",
+    "timestamp": "2026-01-09 18:50:22",
+    "content": "Good call actually it can work.  I always ask it to challenge my thinking and do the best to find points where I might be wrong",
+    "author": "maximillion2222#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459258013415374848",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459258136987832320",
+    "timestamp": "2026-01-09 18:50:51",
+    "content": "the sycophancy is really hard to completely prompt out, since it's pretty tightly coupled to strong instruction-following behavior. Even when you remove the most overt symptoms (\"You're absolutely right!\") it still shows up in its behaviors.",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459258136987832320",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459258336116736105",
+    "timestamp": "2026-01-09 18:51:39",
+    "content": "I'm not even sure I write good prompts yet lol, but I'm learning. Sometimes I just write the code out for the agent to get it back on track.",
+    "author": "dragonfire1119#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459258336116736105",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459258358472118404",
+    "timestamp": "2026-01-09 18:51:44",
+    "content": "Asserting to not be sycophantic can cause the model to push antagonistic behaviors, as seen here\n(Though it was correct on that topic, it still affects its train of thought)",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459258358472118404",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1459258358191357992/image.png?ex=69629fc0&is=69614e40&hm=ab56063bebea7bd0339fe304963949cb1b18d5750b31c58947e69ae9a6c6d55a&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459258423613984904",
+    "timestamp": "2026-01-09 18:51:59",
+    "content": "That’s very true. I used to work in consulting and we were hammered to always ask why 5 layers deep I do this with AI and when then it keeps this up.",
+    "author": "maximillion2222#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459258423613984904",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459258624495976449",
+    "timestamp": "2026-01-09 18:52:47",
+    "content": "That’s actually the best way if you know how to code. Can’t argue much if you are sure about your code.",
+    "author": "maximillion2222#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459258624495976449",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459258861104922656",
+    "timestamp": "2026-01-09 18:53:44",
+    "content": "Oh man we are cooked until they train this pit of them.",
+    "author": "maximillion2222#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459258861104922656",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459258965195100160",
+    "timestamp": "2026-01-09 18:54:09",
+    "content": "Spec‑driven development is nice too. I still find that the agent sometimes gets stuck even when there’s a really good plan.",
+    "author": "dragonfire1119#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459258965195100160",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459259332532244578",
+    "timestamp": "2026-01-09 18:55:36",
+    "content": "I watched some YouTube guide mentioning to use the planning mode more than the coding mode to assure the plan is very clear. But I think even then it gets stuck",
+    "author": "maximillion2222#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459259332532244578",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459259500056805624",
+    "timestamp": "2026-01-09 18:56:16",
+    "content": "so wat's your point?",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459259500056805624",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459259583368528015",
+    "timestamp": "2026-01-09 18:56:36",
+    "content": "So I guess best to first go fast through an intro to coding course again to freshen up.",
+    "author": "maximillion2222#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459259583368528015",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459259660937859135",
+    "timestamp": "2026-01-09 18:56:54",
+    "content": "Thanks all for your tips. I appreciate it.",
+    "author": "maximillion2222#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459259660937859135",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459260244579319961",
+    "timestamp": "2026-01-09 18:59:14",
+    "content": "I've had like, 5 projects in parallel in the last few years, and they all converged towards one idea yesterday that I was able to test and confirm worked, and I feel like I have an epiphany on what comes next but also the stress that comes with it",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459260244579319961",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459260493314265138",
+    "timestamp": "2026-01-09 19:00:13",
+    "content": "it's irrelevant to what I'm arguing how CC started. Would I rather them have not done that? Well, if they didn't someone else would have. Just a shame it had to happen behind closed doors. I actually do think CC's days are numbered, just based on the fact that just about everything else in computing since mainframes that was proprietary got superceded by open source solutions.\n\nThey're just grabbin all the $$ Bills yo while they can. Plus they have a huge deficit to try to dig themselves out of just kike OpenAI",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459260493314265138",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459260517116809357",
+    "timestamp": "2026-01-09 19:00:19",
+    "content": "I should first check if someone has already looked into what I converged on",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459260517116809357",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459260730145640683",
+    "timestamp": "2026-01-09 19:01:09",
+    "content": "You were framing it as if AWS is the only infra vendor Anthropic uses. My point is they also run on Google Cloud TPUs and other providers, so “AWS provides Claude’s servers” isn’t accurate.",
+    "author": "dragonfire1119#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459260730145640683",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459261021754622145",
+    "timestamp": "2026-01-09 19:02:19",
+    "content": "What are the fallback agentic tools are you guys using? I planned to use OpenCode for the fallback, but since this drama, I intend to drop them. Might stick to codex-cli.",
+    "author": "ruchernchong#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459261021754622145",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459261069011718245",
+    "timestamp": "2026-01-09 19:02:30",
+    "content": "No, I was just providing an example. How much different is their deal with Google? Youre being pedantic. If they had deals with 100 different compute data center providers it wouldn't make a difference to my point, which is - it's closed model dude. That's the point. The person was replying to was saying the opposite.",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459261069011718245",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459261088540397773",
+    "timestamp": "2026-01-09 19:02:35",
+    "content": "antigravity",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459261088540397773",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459261141850132604",
+    "timestamp": "2026-01-09 19:02:47",
+    "content": "Oh yeah... I am not a fan of VS Code",
+    "author": "ruchernchong#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459261141850132604",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459261173047492660",
+    "timestamp": "2026-01-09 19:02:55",
+    "content": "to each his own",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459261173047492660",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459261190172835861",
+    "timestamp": "2026-01-09 19:02:59",
+    "content": "Why are you dropping OpenCode because of \"the drama\" that anthropic created?",
+    "author": "vivi424242#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459261190172835861",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459261206748463104",
+    "timestamp": "2026-01-09 19:03:03",
+    "content": "Yes. I know. I am not imposing it on you",
+    "author": "ruchernchong#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459261206748463104",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459261430577631243",
+    "timestamp": "2026-01-09 19:03:56",
+    "content": "Fair enough, I get your core point about it being a closed model. I was only pushing back on the “AWS provides Claude’s servers” line because Anthropic also runs on Google Cloud TPUs and other infra, so that part wasn’t quite right. The rest is more a values question about open vs closed, which people will disagree on.",
+    "author": "dragonfire1119#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459261430577631243",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459261489419391098",
+    "timestamp": "2026-01-09 19:04:10",
+    "content": "I understand, but I did not request an opinion, you did, saying you oppose was not mandated and is not necessary",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459261489419391098",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459261934351286393",
+    "timestamp": "2026-01-09 19:05:56",
+    "content": "Eh... the part when I said AWS Bedrock and Google Vertex as not vendor lock in in a way, these 2 are already the largest cloud providers and in most use cases, businesses should already be using any of their existing services",
+    "author": "ruchernchong#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459261934351286393",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459262000701112532",
+    "timestamp": "2026-01-09 19:06:12",
+    "content": "The only issue is for many the cc sub at 200 a month is wildly affordable compared to how much api calls are",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459262000701112532",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459262043445264474",
+    "timestamp": "2026-01-09 19:06:22",
+    "content": "It's a bummer you can't use it with open code but at the end of the day it's their product",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459262043445264474",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459262084935323770",
+    "timestamp": "2026-01-09 19:06:32",
+    "content": "You can only petition for them to open it up more",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459262084935323770",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459262152526270748",
+    "timestamp": "2026-01-09 19:06:48",
+    "content": "And whining about it won't help",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459262152526270748",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459262155978440835",
+    "timestamp": "2026-01-09 19:06:49",
+    "content": "I know closed models are their business, but they could drop a model like GPT-OSS to at least participate a little in doing something that benefits others, not just themselves. And their lame excuse is safety even tho other model developers are proliferating like rabbits.",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459262155978440835",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459262169534431234",
+    "timestamp": "2026-01-09 19:06:52",
+    "content": "It's not constructive",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459262169534431234",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459262523344945360",
+    "timestamp": "2026-01-09 19:08:17",
+    "content": "Anyway, I got work to do what really pissed me off was that I like OpenCode and I was using OAuth and now I can't. But I'm just switching to a mix of models.",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459262523344945360",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459262568387575962",
+    "timestamp": "2026-01-09 19:08:28",
+    "content": "So f8ck em",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459262568387575962",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459262949561467085",
+    "timestamp": "2026-01-09 19:09:58",
+    "content": "What's the drama with OpenCode, I learned about OpenCode yesterday and barely know about it",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459262949561467085",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459263055685882031",
+    "timestamp": "2026-01-09 19:10:24",
+    "content": "From what I quickly gathered its a locally ran agent, no?",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459263055685882031",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459263135809798252",
+    "timestamp": "2026-01-09 19:10:43",
+    "content": "They blocked using Claude subscription plans with OpenCode, a direct competitor which violated ToS, apparently they were notified and ignored, so Anthropic patched it.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459263135809798252",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459263201643335682",
+    "timestamp": "2026-01-09 19:10:59",
+    "content": "It's basically a TUI built on the claude agent sdk",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459263201643335682",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459263292202549403",
+    "timestamp": "2026-01-09 19:11:20",
+    "content": "It does not use the Claude Agents SDK",
+    "author": "vivi424242#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459263292202549403",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459263366131617943",
+    "timestamp": "2026-01-09 19:11:38",
+    "content": "Correct. I've contributed. I can vouch.",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459263366131617943",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459263438386630755",
+    "timestamp": "2026-01-09 19:11:55",
+    "content": "What does it use?",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459263438386630755",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459263545756876933",
+    "timestamp": "2026-01-09 19:12:21",
+    "content": "Cause anything else is definitely against ToS lol",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459263545756876933",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459263597023858877",
+    "timestamp": "2026-01-09 19:12:33",
+    "content": "Sounds like OpenCode is more like a service that uses other services rather than true open source",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459263597023858877",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459263609132552437",
+    "timestamp": "2026-01-09 19:12:36",
+    "content": "They were begging to be sued lol",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459263609132552437",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459263685091397777",
+    "timestamp": "2026-01-09 19:12:54",
+    "content": "It's literally open source software, this is the weirdest take",
+    "author": "vivi424242#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459263685091397777",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459263727713910864",
+    "timestamp": "2026-01-09 19:13:04",
+    "content": "https://github.com/anomalyco/opencode",
+    "author": "vivi424242#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459263727713910864",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459263803077169296",
+    "timestamp": "2026-01-09 19:13:22",
+    "content": "ToS won't get you sued though, terms of services are not laws, they're terms of services, you can break ToS without breaking the law",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459263803077169296",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459263806789128416",
+    "timestamp": "2026-01-09 19:13:23",
+    "content": "The code is there. You can clone and build it yourself.",
+    "author": "vivi424242#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459263806789128416",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459263871981453516",
+    "timestamp": "2026-01-09 19:13:38",
+    "content": "There are terms of services which are laws of course, but not all terms of services are law",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459263871981453516",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459264881185263837",
+    "timestamp": "2026-01-09 19:17:39",
+    "content": "It 100% can, you don't have to break a law to be sued???",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459264881185263837",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459264979294355457",
+    "timestamp": "2026-01-09 19:18:02",
+    "content": "Anybody can sue anybody?",
+    "author": "dragonfire1119#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459264979294355457",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459265464852021402",
+    "timestamp": "2026-01-09 19:19:58",
+    "content": "COnsidering it sounds like they used a workaround, request spoofing based on what others have stated, that goes beyond a simple ToS violation anyway.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459265464852021402",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459265835414720750",
+    "timestamp": "2026-01-09 19:21:27",
+    "content": "> They were notified and ignored. \n\nNo wonder they prepared the OpenCode Black so timely.",
+    "author": "ruchernchong#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459265835414720750",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459266001408626880",
+    "timestamp": "2026-01-09 19:22:06",
+    "content": "Is Claude Code not open source?",
+    "author": "ruchernchong#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459266001408626880",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459266087899103322",
+    "timestamp": "2026-01-09 19:22:27",
+    "content": "It's a good sales tactic tbf, but that's why sales people make me uncomfortable. It's like interacting with a bear, you just hope it's not hungry and doesn't notice you. 😄",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459266087899103322",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459266272964645084",
+    "timestamp": "2026-01-09 19:23:11",
+    "content": "It is not: https://github.com/anthropics/claude-code",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459266272964645084",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459266386617700546",
+    "timestamp": "2026-01-09 19:23:38",
+    "content": "Oh okay",
+    "author": "ruchernchong#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459266386617700546",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459267009110872310",
+    "timestamp": "2026-01-09 19:26:06",
+    "content": "It should have never been allowed. The fact that Anthropic has been and is still using security through obscurity for this reeks of technical incopetence.\n\nCutting off hundreds/thousands of people from using their preferred workflow to get their work done on a Thursday night with zero notice and zero explanation is absolutely wild.",
+    "author": "vivi424242#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459267009110872310",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459267453740650512",
+    "timestamp": "2026-01-09 19:27:52",
+    "content": "Anthropic violated my ToS",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459267453740650512",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459267748885696604",
+    "timestamp": "2026-01-09 19:29:03",
+    "content": "I mean, the signs were there. Unfortunately, lack of consumer care in reading the service agreements they agree to, is not Anthropics responsibility. You checked the boxes, presumably not at gun point, so its on you.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459267748885696604",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459267897548472340",
+    "timestamp": "2026-01-09 19:29:38",
+    "content": "The best thing IMO is vote with your dollar. Maybe the majority doesn't care bc the'yre using CC. But for me, bye MAX I will try another way. There are other models that can do the job. And since I started programming 10 years ago, ANY new model is better than what I had and if I have to do a little more steering/checking that reallt benefits me from a QA perspective.",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459267897548472340",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459268082936582247",
+    "timestamp": "2026-01-09 19:30:22",
+    "content": "It's absolutely within Anthropic's right to do this, as is it is mine to point out how stupid of a move it is",
+    "author": "vivi424242#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459268082936582247",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459268097805521222",
+    "timestamp": "2026-01-09 19:30:26",
+    "content": "Ok but... you won't win in this case",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459268097805521222",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459268181930803345",
+    "timestamp": "2026-01-09 19:30:46",
+    "content": "That's literally the goal of laws, determine where the red line you cannot cross is",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459268181930803345",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459268250318799054",
+    "timestamp": "2026-01-09 19:31:02",
+    "content": "You can sue coca cola for using white font just like your own logo, good luck winning that one",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459268250318799054",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459268386969358387",
+    "timestamp": "2026-01-09 19:31:35",
+    "content": "It’s unusual for companies to give detailed advance notice to every affected user when they patch a ToS‑violating workaround in a third‑party tool.",
+    "author": "dragonfire1119#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459268386969358387",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459268591592538255",
+    "timestamp": "2026-01-09 19:32:24",
+    "content": "Spoofing requests to access a service in an unauthorized manner, most certainly can and has been done before.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459268591592538255",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459268721318170869",
+    "timestamp": "2026-01-09 19:32:55",
+    "content": "Spoofing requests to access a service in an unauthorized manner as long as it follows the law is entirely legal",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459268721318170869",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459268735637655705",
+    "timestamp": "2026-01-09 19:32:58",
+    "content": "They likely won't though as OpenCode is small fry",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459268735637655705",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459268790658273373",
+    "timestamp": "2026-01-09 19:33:11",
+    "content": "Again, legality has NOTHING to do with it",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459268790658273373",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459268818693132399",
+    "timestamp": "2026-01-09 19:33:18",
+    "content": "Literally my point",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459268818693132399",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459268845997916263",
+    "timestamp": "2026-01-09 19:33:24",
+    "content": "???",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459268845997916263",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459268920111530116",
+    "timestamp": "2026-01-09 19:33:42",
+    "content": "Such a troll lol",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459268920111530116",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459269029259772168",
+    "timestamp": "2026-01-09 19:34:08",
+    "content": "Why use opencode over Claude desktop?",
+    "author": "whiffles#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459269029259772168",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459269093529227419",
+    "timestamp": "2026-01-09 19:34:23",
+    "content": "They were exploiting Claude and making a profit off of it. They're very much over that red line.",
+    "author": "martinkruger#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459269093529227419",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459269262819590330",
+    "timestamp": "2026-01-09 19:35:04",
+    "content": "How would they make a profit, isn't open code open source",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459269262819590330",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459269302728527882",
+    "timestamp": "2026-01-09 19:35:13",
+    "content": "You're the troll. <@252858920886992897> said exactly what you're saying now a page ago",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459269302728527882",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459269413432721715",
+    "timestamp": "2026-01-09 19:35:40",
+    "content": "Well if the other troll says so",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459269413432721715",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459269851372585122",
+    "timestamp": "2026-01-09 19:37:24",
+    "content": "OpenCode Black",
+    "author": "martinkruger#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459269851372585122",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459269943223914537",
+    "timestamp": "2026-01-09 19:37:46",
+    "content": "What?",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459269943223914537",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459270016422772862",
+    "timestamp": "2026-01-09 19:38:03",
+    "content": "Open source doesn't mean non-commercial",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459270016422772862",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459270226842615998",
+    "timestamp": "2026-01-09 19:38:54",
+    "content": "exploit claude yes, but no, they dont gain any profit from it lol",
+    "author": "jawsken123_64925#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459270226842615998",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459270233410765086",
+    "timestamp": "2026-01-09 19:38:55",
+    "content": "Ok but then it doesn't fall on open source, it falls on the users, you can't sue an open source project, unless the creator(s) is/are stupid enough to brand it to themselves",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459270233410765086",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459270385928507412",
+    "timestamp": "2026-01-09 19:39:31",
+    "content": "You can't sue code",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459270385928507412",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459270655391305821",
+    "timestamp": "2026-01-09 19:40:36",
+    "content": "The company that released it is Anomaly Innovations; it's a relatively small player, but it's had several funding rounds, estimated ~$32.2M",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459270655391305821",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459270670084210749",
+    "timestamp": "2026-01-09 19:40:39",
+    "content": "If tomorrow someone would be to publish everything Anthropic has internally, and the user stayed anonym, who do you sue?",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459270670084210749",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459270781556232313",
+    "timestamp": "2026-01-09 19:41:06",
+    "content": "It's not like it's some hobby project made by some dude in a garage",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459270781556232313",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459270829945782592",
+    "timestamp": "2026-01-09 19:41:17",
+    "content": "Most projects are",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459270829945782592",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459270972187082835",
+    "timestamp": "2026-01-09 19:41:51",
+    "content": "At least when it comes to open source projects",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459270972187082835",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459271005217362002",
+    "timestamp": "2026-01-09 19:41:59",
+    "content": "Commercial projects are another can of worms",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459271005217362002",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459271116614013100",
+    "timestamp": "2026-01-09 19:42:26",
+    "content": "You mean like by creating a owning company which is required by law to identify their leadership?\nhttps://www.crunchbase.com/organization/anomaly-innovations",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459271116614013100",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459271160545149008",
+    "timestamp": "2026-01-09 19:42:36",
+    "content": "They were and are selling services, which is why I imagine Anthropic was quick to shut it down.",
+    "author": "martinkruger#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459271160545149008",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459271235421864162",
+    "timestamp": "2026-01-09 19:42:54",
+    "content": "Owning a company is not open source",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459271235421864162",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459271270674726964",
+    "timestamp": "2026-01-09 19:43:02",
+    "content": "Oh boy",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459271270674726964",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459271307031089234",
+    "timestamp": "2026-01-09 19:43:11",
+    "content": "If this is the case then it would mean that Open Code is not fully Open Source",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459271307031089234",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459271385426690058",
+    "timestamp": "2026-01-09 19:43:30",
+    "content": "Maybe ask your AI of choice to give you a quick rundown, your base knowledge is so lacking I can't correct it in discord.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459271385426690058",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459271526556893308",
+    "timestamp": "2026-01-09 19:44:03",
+    "content": "i type 2 messages and my free sub limit hits, is it normal for free version",
+    "author": "beastie67#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459271526556893308",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459271571691536635",
+    "timestamp": "2026-01-09 19:44:14",
+    "content": "how is them selling their own services related to claude subs?",
+    "author": "jawsken123_64925#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459271571691536635",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459271604025561394",
+    "timestamp": "2026-01-09 19:44:22",
+    "content": "A company can offer open source code, but that in my eyes that's not open source, that's public source of a service by a company",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459271604025561394",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459271622891409469",
+    "timestamp": "2026-01-09 19:44:26",
+    "content": "Open source is leader free",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459271622891409469",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459271726444576951",
+    "timestamp": "2026-01-09 19:44:51",
+    "content": "You are like the master of confidently incorrect in this channel lol",
+    "author": "vivi424242#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459271726444576951",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459271727778496714",
+    "timestamp": "2026-01-09 19:44:51",
+    "content": "There are plenty of open source projects with very strict leadership structures",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459271727778496714",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459271742508761108",
+    "timestamp": "2026-01-09 19:44:55",
+    "content": "if anything they only attract claude sub users to continue paying and not the other eay round",
+    "author": "jawsken123_64925#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459271742508761108",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459271754722705419",
+    "timestamp": "2026-01-09 19:44:58",
+    "content": "I have not experienced limits that bad at all, I've gotten 10-20 prompts easily. But if you asked it to do a deep round or esearch or something, can hit limits fast, web searches chew through usage.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459271754722705419",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459271907319742484",
+    "timestamp": "2026-01-09 19:45:34",
+    "content": "Not my point",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459271907319742484",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459271975318061321",
+    "timestamp": "2026-01-09 19:45:50",
+    "content": "DO you even know your point anymore? 😄",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459271975318061321",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459271992988667937",
+    "timestamp": "2026-01-09 19:45:55",
+    "content": "i was working with chatgpt before but now trying claude lately to build and its amazing but the free limit is annoying me",
+    "author": "beastie67#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459271992988667937",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459272216813244607",
+    "timestamp": "2026-01-09 19:46:48",
+    "content": "Limits are a major complaint for a lot of people, even on paid plans, there's a lot of talk of heavily reduced limits, they are investigating but nothing from them yet.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459272216813244607",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459272233158709352",
+    "timestamp": "2026-01-09 19:46:52",
+    "content": "also i see pro is 20$ a month and max is 100$ a month, is the difference between them really that large interms of tokens they give? or the price is higher cz of more functionalties",
+    "author": "beastie67#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459272233158709352",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459272285100965931",
+    "timestamp": "2026-01-09 19:47:04",
+    "content": "Same functionality, 5x usage",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459272285100965931",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459272293342646313",
+    "timestamp": "2026-01-09 19:47:06",
+    "content": "The words \"Open source\" is used for two purposes, sources which are open, and sources which are unowned by a company\nCan a project be open source while being owned by a brand, yes\nCan a project be open source without being owned by a brand, yes\nBut in my personal opinion a true open source has no brand associated with it, therefore cannot be sued",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459272293342646313",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459272416198005042",
+    "timestamp": "2026-01-09 19:47:35",
+    "content": "Although I feel like the 5x plan is more than 5x usage, I've never used more than the 5x plan as I haven't really needed it unless I'm going overboard with multiple claude code instances.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459272416198005042",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459272475484618773",
+    "timestamp": "2026-01-09 19:47:50",
+    "content": "Having \"open source\" that comes in with agreements on services and with a brand linked to it is not open source in my eyes, even is canonically it fits the terms \"\"open source\"\"",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459272475484618773",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459272735871078634",
+    "timestamp": "2026-01-09 19:48:52",
+    "content": "1. They were in breach of Claude ToS by exploiting OAuth subscriptions and not making use of the API.\n2. They were and are selling a premium version that makes use of the exploit in point 1 above.\n\nThere's been quite a bit of discussion over this the past few days so if you'd like to look more into it, you'll find quite a lot of information here.",
+    "author": "martinkruger#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459272735871078634",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459272751482142881",
+    "timestamp": "2026-01-09 19:48:55",
+    "content": "i think i will try out the pro version, max might be too much for me",
+    "author": "beastie67#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459272751482142881",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459272942767571121",
+    "timestamp": "2026-01-09 19:49:41",
+    "content": "If you choose to upgrade, they prorate the charge, But if you aren't using claude code or deep research much, you should be good. Unsure if those are available on Pro plan its been a minute since I had it",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459272942767571121",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459273112498475195",
+    "timestamp": "2026-01-09 19:50:22",
+    "content": ">They were and are selling a premium version that makes use of the exploit in point 1 above.\n\nDo you have evidence for that? Why would their subscription service need to use Anthropic's OAuth?",
+    "author": "vivi424242#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459273112498475195",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459273145335681044",
+    "timestamp": "2026-01-09 19:50:29",
+    "content": "them not paying api hurts Anthropic I agree but none of this making them any profits.  I dont think u understand what's going on",
+    "author": "jawsken123_64925#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459273145335681044",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459273335425863775",
+    "timestamp": "2026-01-09 19:51:15",
+    "content": "I wouldn't waste your time, until they get over their favorite toy being taken away, they are not going to listen to reason.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459273335425863775",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459273421664948335",
+    "timestamp": "2026-01-09 19:51:35",
+    "content": "SO salty, I love it",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459273421664948335",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459273786061885520",
+    "timestamp": "2026-01-09 19:53:02",
+    "content": "Yes, their repo literally had the code in it for everybody to see. And their X account selling services is also publicly visible.\n\nThis has all been linked and previously discussed here, I suggest looking up the information.",
+    "author": "martinkruger#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459273786061885520",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459274103222440178",
+    "timestamp": "2026-01-09 19:54:18",
+    "content": "They are open source and also introduce paid tiers",
+    "author": "ruchernchong#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459274103222440178",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459274141478813888",
+    "timestamp": "2026-01-09 19:54:27",
+    "content": "https://discord.com/channels/1072196207201501266/1354425630011166830/1457357681064018105",
+    "author": "martinkruger#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459274141478813888",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459274142711808020",
+    "timestamp": "2026-01-09 19:54:27",
+    "content": "@__martinkruger__ in <#1354425630011166830> at <t:1767531547:R>:\n>>> I don't think it matters who you speak to, OpenCode were quite blatantly breaching ToS by using OAuth to exploit subscriptions. It seems that some action has been taken though as this file is no longer around: https://github.com/anomalyco/opencode/blob/v2-msg/packages/opencode/src/auth/anthropic.ts\n# opencode/packages/opencode/src/auth/anthropic.ts at v2-msg · anoma...\nThe open source coding agent. Contribute to anomalyco/opencode development by creating an account on GitHub.",
+    "author": "Fletcher#6884",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459274142711808020",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459274250765467699",
+    "timestamp": "2026-01-09 19:54:53",
+    "content": "That's yet another can of worms, but I get your point",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459274250765467699",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459274253584306349",
+    "timestamp": "2026-01-09 19:54:54",
+    "content": "Claude code is available on pro it’s just a taste in my opinion though.",
+    "author": "dragonfire1119#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459274253584306349",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459274378037690433",
+    "timestamp": "2026-01-09 19:55:23",
+    "content": "React is open sourced and also owned by Facebook or Meta",
+    "author": "ruchernchong#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459274378037690433",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459274492680601622",
+    "timestamp": "2026-01-09 19:55:51",
+    "content": "Why would you need to use anthropic's oauth to authorize with a different company's subscription service?",
+    "author": "vivi424242#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459274492680601622",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459274581088145583",
+    "timestamp": "2026-01-09 19:56:12",
+    "content": "Not sure where you're going with it",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459274581088145583",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459274709249163397",
+    "timestamp": "2026-01-09 19:56:42",
+    "content": "Yes, then there's React Native, which a lot of big companies contribute to, but it's still owned by Meta.",
+    "author": "dragonfire1119#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459274709249163397",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459274718254334066",
+    "timestamp": "2026-01-09 19:56:44",
+    "content": "Pro is good enough for most people",
+    "author": "ruchernchong#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459274718254334066",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459274746121289912",
+    "timestamp": "2026-01-09 19:56:51",
+    "content": "Anyone use batch mode with the API?",
+    "author": "kyxsune#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459274746121289912",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459274923640881356",
+    "timestamp": "2026-01-09 19:57:33",
+    "content": "That's a question OpenCode will need to answer. *Why* weren't *they* using the API and instead using OAuth with subscriptions, it's very clearly dealt in the Claude ToS.  Ignorantia juris non excusat; the law knows no ignorance.",
+    "author": "martinkruger#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459274923640881356",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459275144240431293",
+    "timestamp": "2026-01-09 19:58:26",
+    "content": "Yup",
+    "author": "ruchernchong#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459275144240431293",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459275207754780816",
+    "timestamp": "2026-01-09 19:58:41",
+    "content": "Because earlier you mentioned about open source + company means not true open source",
+    "author": "ruchernchong#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459275207754780816",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459275237433676073",
+    "timestamp": "2026-01-09 19:58:48",
+    "content": "The max plan is cheaper compared to raw API usage that's why. They do the same with GitHub Copilot.",
+    "author": "dragonfire1119#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459275237433676073",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459275238436241500",
+    "timestamp": "2026-01-09 19:58:48",
+    "content": "Especially since they had to implement a workaround, which 100% violates their ToS.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459275238436241500",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459275239174312139",
+    "timestamp": "2026-01-09 19:58:49",
+    "content": "You [said earlier](https://discord.com/channels/1072196207201501266/1114305545478877377/1459272735871078634): \"They were and are selling a premium version that makes use of the exploit in point 1 above.\"\n\nThat doesn't make any sense. There's no need for the \"exploit\" if you're using their subscription service",
+    "author": "vivi424242#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459275239174312139",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459275241464267025",
+    "timestamp": "2026-01-09 19:58:49",
+    "content": "@__martinkruger__ at <t:1767988132:R>:\n>>> 1. They were in breach of Claude ToS by exploiting OAuth subscriptions and not making use of the API.\n2. They were and are selling a premium version that makes use of the exploit in point 1 above.\n\nThere's been quite a bit of discussion over this the past few days so if you'd like to look more into it, you'll find quite a lot of information here.",
+    "author": "Fletcher#6884",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459275241464267025",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459275422163402958",
+    "timestamp": "2026-01-09 19:59:32",
+    "content": "the real \"incopetence\" was OpenCode trying to introduce a competing subscription that only made economic sense if the vast majority of users continued to be subsidized by Anthropic's MAX plan.",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459275422163402958",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459275905875705960",
+    "timestamp": "2026-01-09 20:01:27",
+    "content": "this just gives access to users using claude subs in opencode.\nif you got any real evidence on them using the same method for their new subscriptions, lmk.",
+    "author": "jawsken123_64925#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459275905875705960",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459276053460549949",
+    "timestamp": "2026-01-09 20:02:03",
+    "content": "If their limits feel good, they probably are. Cause they can't compete at the same price with API pricing.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459276053460549949",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459276118388510911",
+    "timestamp": "2026-01-09 20:02:18",
+    "content": "Probably why it's rolling out slow",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459276118388510911",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459276213452406785",
+    "timestamp": "2026-01-09 20:02:41",
+    "content": "It literally says “spoof” in the filename – they surely knew this wasn’t going to last long: https://github.com/anomalyco/opencode/blob/dev/packages/opencode/src/session/prompt/anthropic_spoof.txt",
+    "author": "dragonfire1119#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459276213452406785",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459276774507675769",
+    "timestamp": "2026-01-09 20:04:55",
+    "content": "Ahh yeah that was the workaround for the first anthropic change.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459276774507675769",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459276830115893381",
+    "timestamp": "2026-01-09 20:05:08",
+    "content": "Which is only needed if you're using subscription",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459276830115893381",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459276968502493237",
+    "timestamp": "2026-01-09 20:05:41",
+    "content": "Seems they just escalated in response to their non action",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459276968502493237",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459277165169475870",
+    "timestamp": "2026-01-09 20:06:28",
+    "content": "Technically, the operational definition of \"open source\" applies when a company publishes its code under an approved license\nHowever, in my opinion, true open source must be public domain code, entirely devoid of a controlling company, brand affiliation, or singular owner\nThis ownerless nature is crucial as pure public domain code is inherently immune to legal action since there is no legal entity to sue",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459277165169475870",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459277564156707000",
+    "timestamp": "2026-01-09 20:08:03",
+    "content": "Especially since \"open source\" published by entities often comes in with a license, or ties or similar",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459277564156707000",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459277710068285512",
+    "timestamp": "2026-01-09 20:08:38",
+    "content": "Such projects are a dying breed",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459277710068285512",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459277793140412584",
+    "timestamp": "2026-01-09 20:08:57",
+    "content": "But someone still owns a line of code, one git blame away",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459277793140412584",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459278281047150856",
+    "timestamp": "2026-01-09 20:10:54",
+    "content": "Owning a business is already hard enough. Seeing an open source project use your subscription to acquire users and then funnel them into a separate “Zen” or “Black” subscription just doesn’t seem fair to Anthropic, or to any business in that position.",
+    "author": "dragonfire1119#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459278281047150856",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459279673107284020",
+    "timestamp": "2026-01-09 20:16:26",
+    "content": "Compared to their cost of compute issues it seems miniscule in comparison. Because whether they use CC or another TUI they are losing money. I supppose if CC has more safeguards against excessive token usage another tool could be a problem. But that should be controlled at the API level not the client level.",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459279673107284020",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459280235798462514",
+    "timestamp": "2026-01-09 20:18:40",
+    "content": "This is similar to how Apple leverages its hardware and App Store to lock in users and capture value from third‑party developers.",
+    "author": "dragonfire1119#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459280235798462514",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459280275992215673",
+    "timestamp": "2026-01-09 20:18:49",
+    "content": "true, making billions is exhausting",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459280275992215673",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459280365242814607",
+    "timestamp": "2026-01-09 20:19:11",
+    "content": "The employees get paid well but all the big LLM providers are losing money",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459280365242814607",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459280509275213947",
+    "timestamp": "2026-01-09 20:19:45",
+    "content": "yeahhhhhhhh I'm sure they do, most often that's what keeps companies going, losing profit",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459280509275213947",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459280541537931369",
+    "timestamp": "2026-01-09 20:19:53",
+    "content": "personally if a company makes a profit often they don't last",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459280541537931369",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459280727127621925",
+    "timestamp": "2026-01-09 20:20:37",
+    "content": "Agreed. And they're probably doing that to recoup losses from GPU compute. But why should their problem become our problem? By doing that they are steering the industry in the wrong direction.",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459280727127621925",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459280835051262230",
+    "timestamp": "2026-01-09 20:21:03",
+    "content": "there's a scenario I would love to live to see just for the thrill of the chaos",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459280835051262230",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459280887706288330",
+    "timestamp": "2026-01-09 20:21:15",
+    "content": "This reads more like the perspective of an employee or consumer, not someone who has actually had to run a business.",
+    "author": "dragonfire1119#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459280887706288330",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459281419481382922",
+    "timestamp": "2026-01-09 20:23:22",
+    "content": "its hilarious that some people think companies aren't making a profit\nof course AI is different as its mostly a race right now towards AGI/ASI\nbut even then, you think they do it for charity? lol",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459281419481382922",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459281543284527328",
+    "timestamp": "2026-01-09 20:23:52",
+    "content": "Anthropic in particular is on track to be profitable within the next couple years",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459281543284527328",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459281692488499211",
+    "timestamp": "2026-01-09 20:24:27",
+    "content": "This is a temporary inconvenience because soon you'll be able to run Opus-level inference on your own machine. OpenAI and Anthropic are like IBM in the 80s - \"yeah, we've got this mainframe thing on lock, bitches\"",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459281692488499211",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459281713111760959",
+    "timestamp": "2026-01-09 20:24:32",
+    "content": "most of them, its a service everyone will use, and started to use already\neven my non tech friends started subscribing to AI services for ~~communication~~ searches (similar to google)",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459281713111760959",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459281714319986714",
+    "timestamp": "2026-01-09 20:24:32",
+    "content": "Every pricing or access change ‘makes their problem our problem’ to some degree. The real question is whether the tradeoff keeps the ecosystem sustainable for both the platform and serious users long term.",
+    "author": "dragonfire1119#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459281714319986714",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459281959154094205",
+    "timestamp": "2026-01-09 20:25:31",
+    "content": "Companies are experts of making their problem our problem. It's basically a requirement to run a company.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459281959154094205",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459282052602921143",
+    "timestamp": "2026-01-09 20:25:53",
+    "content": "I have a Macbook M4 Max 128 GB of memory. Nemotron 3 and GLM 4.6v (quantized) are waaaaay better than the local models form 6 months ago.",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459282052602921143",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459282095087030398",
+    "timestamp": "2026-01-09 20:26:03",
+    "content": "Mostly it's a memory bandwidth issue at this point",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459282095087030398",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459282431294177553",
+    "timestamp": "2026-01-09 20:27:23",
+    "content": "they are actively optimizing the models and their token use count at the same time\nits like the expression \"Avoir le beurre et l'argent du beurre\"",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459282431294177553",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459282519294742582",
+    "timestamp": "2026-01-09 20:27:44",
+    "content": "there's no downside",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459282519294742582",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459282696051232823",
+    "timestamp": "2026-01-09 20:28:26",
+    "content": "There's no more serious user than me, and I don't think I \"need\" their ecosystem",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459282696051232823",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459283038855761961",
+    "timestamp": "2026-01-09 20:29:48",
+    "content": "Yeah, typical reaction.",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459283038855761961",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459283084762419293",
+    "timestamp": "2026-01-09 20:29:59",
+    "content": "imo the biggest threat to AI companies is open source.....\nimagine we reach a level where AI hits a ceiling somehow (not here to argue that) but lets pretend\nAI evolution would slow down, open source would catch up, and if open source offers the same models as Opus for a fraction of the price.... I wouldn't be paying for opus",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459283084762419293",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459283223778693282",
+    "timestamp": "2026-01-09 20:30:32",
+    "content": "Saying things like \"there's no more serious user than me\" is gonna get that reaction. Your ego needs deflated.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459283223778693282",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459283267646783580",
+    "timestamp": "2026-01-09 20:30:43",
+    "content": "Which is why we barely have any real consumer RAM options for running these larger models locally.",
+    "author": "dragonfire1119#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459283267646783580",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459283338085794034",
+    "timestamp": "2026-01-09 20:30:59",
+    "content": "I have a tip to get free ram",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459283338085794034",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459283356599713815",
+    "timestamp": "2026-01-09 20:31:04",
+    "content": "If I have to buy RAM, I know I'm gonna have to sell a kidney",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459283356599713815",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459283428808724643",
+    "timestamp": "2026-01-09 20:31:21",
+    "content": "You buy them in 2023 :}",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459283428808724643",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459283451856556337",
+    "timestamp": "2026-01-09 20:31:27",
+    "content": "But it's true. I'm top dog at hedge fund company.",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459283451856556337",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459283506705334394",
+    "timestamp": "2026-01-09 20:31:40",
+    "content": "The race then becomes efficiency, software layers and tooling",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459283506705334394",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459283513558962187",
+    "timestamp": "2026-01-09 20:31:41",
+    "content": "You going to vibe code a time machine?",
+    "author": "dragonfire1119#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459283513558962187",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459283633415131187",
+    "timestamp": "2026-01-09 20:32:10",
+    "content": "HPC for stock options strategies",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459283633415131187",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459283761412837386",
+    "timestamp": "2026-01-09 20:32:40",
+    "content": "AIs be like : \"You proved that its not only possible — It is feasible! Your time machine can be completed!\"",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459283761412837386",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459283882376564768",
+    "timestamp": "2026-01-09 20:33:09",
+    "content": "Then seems like OpenCode restrictions wouldn't be an issue for you, you should be able to afford API pricing with extreme easy, and make it financially reasonable. \n\nSuch claims with such moaning do not align",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459283882376564768",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459284010651095245",
+    "timestamp": "2026-01-09 20:33:40",
+    "content": "It's the principle. My coworkers don't giva f8ck",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459284010651095245",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459284044683542894",
+    "timestamp": "2026-01-09 20:33:48",
+    "content": "Sure it is",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459284044683542894",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459284098320306198",
+    "timestamp": "2026-01-09 20:34:01",
+    "content": "It is",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459284098320306198",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459284175185121382",
+    "timestamp": "2026-01-09 20:34:19",
+    "content": "well after all, companies price things based on extorting as much as possible from the users long term, nothing ever thruly comes free from companies, except the costco hot dog",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459284175185121382",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459284276922159124",
+    "timestamp": "2026-01-09 20:34:43",
+    "content": "and even then one could argue it makes people go to costco more often",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459284276922159124",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459284394345758720",
+    "timestamp": "2026-01-09 20:35:11",
+    "content": "Look I already started using Claude thru OpenRouter",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459284394345758720",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459284498440261789",
+    "timestamp": "2026-01-09 20:35:36",
+    "content": "saying you broke ToS might not be the smartest thing buddy",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459284498440261789",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459284514378617117",
+    "timestamp": "2026-01-09 20:35:40",
+    "content": "unless they respect it",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459284514378617117",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459284546053865625",
+    "timestamp": "2026-01-09 20:35:47",
+    "content": "regardless of whether i am using claude code in the terminal or in the vscode/cursor extension, it doesn't seem to read my CLAUDE.md unless i ask it to. is there a config setting somewhere that i am missing? i have a .claude/CLAUDE.md inside the project directory",
+    "author": "unholycrab#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459284546053865625",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459284673610907820",
+    "timestamp": "2026-01-09 20:36:18",
+    "content": "It has to be in the root directory",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459284673610907820",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459284698634129441",
+    "timestamp": "2026-01-09 20:36:24",
+    "content": "workspace root folder",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459284698634129441",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459284774811209780",
+    "timestamp": "2026-01-09 20:36:42",
+    "content": "<@252858920886992897> it doesn't read that file either",
+    "author": "unholycrab#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459284774811209780",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459284786370576416",
+    "timestamp": "2026-01-09 20:36:45",
+    "content": "I was told they changed its location to be in .claude, but idk if that's true, sounds incredibly dumb considering that folder SHOULD be gitignored.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459284786370576416",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459284841765011600",
+    "timestamp": "2026-01-09 20:36:58",
+    "content": "Ah possible, they might have changed it",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459284841765011600",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459284899210068029",
+    "timestamp": "2026-01-09 20:37:12",
+    "content": "/context shows if claude.md is loaded right?",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459284899210068029",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459285060862742570",
+    "timestamp": "2026-01-09 20:37:50",
+    "content": "The Hedgefund can surely afford the 5% markup. Go big or go home!",
+    "author": "dragonfire1119#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459285060862742570",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459285072078438562",
+    "timestamp": "2026-01-09 20:37:53",
+    "content": "from what i understand, it should be reading a ~/.claude/ from your user home directory, and a CLAUDE.md from the project root (commited into git usually) and also a .settings/CLAUDE.md that is gitignored. but it doesn't seem to read any of these unless i ask it to in the chat",
+    "author": "unholycrab#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459285072078438562",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459285253431759014",
+    "timestamp": "2026-01-09 20:38:36",
+    "content": "That's not what Anthropic recommends https://code.claude.com/docs/en/settings\n\nProject    .claude/ in repository    All collaborators on this repository    Yes (committed to git)",
+    "author": "vivi424242#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459285253431759014",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459285283542405160",
+    "timestamp": "2026-01-09 20:38:43",
+    "content": "yeah ok. i see that the files are in the context. but it doesn't follow the rules that i've defined unless i ask it to read the files?",
+    "author": "unholycrab#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459285283542405160",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459285561058660426",
+    "timestamp": "2026-01-09 20:39:49",
+    "content": "That's wild, can't wait for people to commit their .credentials file, plus every claude chat history, their todos, etc. I have to be missing something",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459285561058660426",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459285566549000416",
+    "timestamp": "2026-01-09 20:39:51",
+    "content": "can be both",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459285566549000416",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1459285566305734859/image.png?ex=6962b917&is=69616797&hm=be803601d5b4bd11807fc68e539328ca885af4d76eb0b6875733053a4b9c15f4&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459285703023395143",
+    "timestamp": "2026-01-09 20:40:23",
+    "content": "Oh sorry, you were talking about the user-level ~/.claude in your home dir. I thought you were talking about the project-level .claude dir",
+    "author": "vivi424242#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459285703023395143",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459285815870881845",
+    "timestamp": "2026-01-09 20:40:50",
+    "content": "To be fair, rule adherence in CLAUDE.md is unreliable. You can try a custom system prompt or output style, slightly more reliable. Your claude.md could be too large too, but it would have to be thousands of lines probably",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459285815870881845",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459285941985476800",
+    "timestamp": "2026-01-09 20:41:20",
+    "content": "ok. that's about what i was thinking <@1242765652297650288>",
+    "author": "unholycrab#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459285941985476800",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459285984557400246",
+    "timestamp": "2026-01-09 20:41:30",
+    "content": "Honestly idk how people set it up, I have a custom setup I've used for a long time that symlinks the .claude directory in home to the project level, so I forgot how it works for normal setups.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459285984557400246",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459286077830598676",
+    "timestamp": "2026-01-09 20:41:53",
+    "content": "I should fix that, but it's not been an issue",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459286077830598676",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459286082670825524",
+    "timestamp": "2026-01-09 20:41:54",
+    "content": "i had a one-line CLAUDE.md though and it would not follow it",
+    "author": "unholycrab#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459286082670825524",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459286102450901199",
+    "timestamp": "2026-01-09 20:41:59",
+    "content": "Yeah I probably wouldn't do that lmao",
+    "author": "vivi424242#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459286102450901199",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459286212320690249",
+    "timestamp": "2026-01-09 20:42:25",
+    "content": "I mean if its gitignored, its no problem. But to be fair, the whole reason for it has long since patched I think",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459286212320690249",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459286255119499487",
+    "timestamp": "2026-01-09 20:42:35",
+    "content": "I stopped using `CLAUDE.md` when I wrote specific orders to do at specifics times and it did not do it.\nIt considered the instructions more like general rules rather than actual instructions.",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459286255119499487",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459286410002694244",
+    "timestamp": "2026-01-09 20:43:12",
+    "content": "So I made myself some premade prompts instead, worked like a charm, though annoying",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459286410002694244",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459286552713760778",
+    "timestamp": "2026-01-09 20:43:46",
+    "content": "<@252858920886992897> do you have a way of organizing your pre-made prompts in an IDE? or are these things that you copy/paste in when you need them",
+    "author": "unholycrab#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459286552713760778",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459286568815825083",
+    "timestamp": "2026-01-09 20:43:50",
+    "content": "You can make premade prompts a slash command though right? Easy invocation.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459286568815825083",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459286611182489630",
+    "timestamp": "2026-01-09 20:44:00",
+    "content": "<@1242765652297650288> interesting",
+    "author": "unholycrab#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459286611182489630",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459286717143187738",
+    "timestamp": "2026-01-09 20:44:25",
+    "content": "That's part of how my workflow works, but I generally rewrite my prompts over and over because they change weekly lol",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459286717143187738",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459286745567723675",
+    "timestamp": "2026-01-09 20:44:32",
+    "content": "I'm constantly refining",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459286745567723675",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459286826916511766",
+    "timestamp": "2026-01-09 20:44:51",
+    "content": "a pre-made prompt that says \"read CLAUDE.md.\" would be good",
+    "author": "unholycrab#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459286826916511766",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459287032135286900",
+    "timestamp": "2026-01-09 20:45:40",
+    "content": "I wish they added support for prompt snippets, its something I am planning for my extension, to use a $ notation or similar with a shortcode that injects a prompt snippet into my prompts. Would be ideal for this, could just do $claudemd and it injects the reminder.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459287032135286900",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459287041681391877",
+    "timestamp": "2026-01-09 20:45:42",
+    "content": "simple effective hack too, yeah",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459287041681391877",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459287184954753247",
+    "timestamp": "2026-01-09 20:46:17",
+    "content": "Oh I bet a hook could do that",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459287184954753247",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459287210409852979",
+    "timestamp": "2026-01-09 20:46:23",
+    "content": "I need to use hooks more",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459287210409852979",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459288497322987591",
+    "timestamp": "2026-01-09 20:51:30",
+    "content": "the preset commands feature takes me most of the way there. that helps a lot actually",
+    "author": "unholycrab#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459288497322987591",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459290800037957632",
+    "timestamp": "2026-01-09 21:00:39",
+    "content": "https://tenor.com/view/purple-cobra-dodgeball-gif-21968875",
+    "author": "mallquest#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459290800037957632",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459293602990657668",
+    "timestamp": "2026-01-09 21:11:47",
+    "content": "well that was unexpected",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459293602990657668",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459293780741197976",
+    "timestamp": "2026-01-09 21:12:29",
+    "content": "told claude to refactor a codebase and it converted a whole folder+ 4 files into 1 file of 107 lines",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459293780741197976",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459293820565852190",
+    "timestamp": "2026-01-09 21:12:39",
+    "content": "I have a bad feeling about this",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459293820565852190",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459294052976562439",
+    "timestamp": "2026-01-09 21:13:34",
+    "content": "That is terrifying",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459294052976562439",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459294145028952105",
+    "timestamp": "2026-01-09 21:13:56",
+    "content": "what is more terrifying is the fact that its extremely pure and functional that is insane",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459294145028952105",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459294329414746267",
+    "timestamp": "2026-01-09 21:14:40",
+    "content": "",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459294329414746267",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1459294329188126880/image.png?ex=6962c140&is=69616fc0&hm=2e05784a1e987dbbb5af66f23da23501102819bab1b0b582d4d9583348795f2a&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459294401611305123",
+    "timestamp": "2026-01-09 21:14:57",
+    "content": "So, it works?",
+    "author": "realities.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459294401611305123",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459294437334188034",
+    "timestamp": "2026-01-09 21:15:06",
+    "content": "The same as the original?",
+    "author": "realities.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459294437334188034",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459294444527554583",
+    "timestamp": "2026-01-09 21:15:07",
+    "content": "yeah, and I can see the validation code which is just 4 lines",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459294444527554583",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459294447568421056",
+    "timestamp": "2026-01-09 21:15:08",
+    "content": "yeah",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459294447568421056",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459294483270078557",
+    "timestamp": "2026-01-09 21:15:17",
+    "content": "That's sexy",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459294483270078557",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459294508473647164",
+    "timestamp": "2026-01-09 21:15:23",
+    "content": "very",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459294508473647164",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459294508834361528",
+    "timestamp": "2026-01-09 21:15:23",
+    "content": "That's hot",
+    "author": "realities.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459294508834361528",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459294635632496751",
+    "timestamp": "2026-01-09 21:15:53",
+    "content": "Abstraction is the old way. The new way is one ridiculously clean file.",
+    "author": "dragonfire1119#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459294635632496751",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459294649360453848",
+    "timestamp": "2026-01-09 21:15:56",
+    "content": "😔 I had to downgrade to Pro and I will say, I definitely feel the weight of this",
+    "author": "realities.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459294649360453848",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459294709821477028",
+    "timestamp": "2026-01-09 21:16:11",
+    "content": "It's only day 2 and I'm at 23%",
+    "author": "realities.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459294709821477028",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459294792042151998",
+    "timestamp": "2026-01-09 21:16:30",
+    "content": "you mean in-claude, correct? yeah next time I'll do that! thanks 🙂",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459294792042151998",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459309162986078396",
+    "timestamp": "2026-01-09 22:13:37",
+    "content": "Finally claude team identified the problem and listed on status.claude.com about new subscriptions. I wish FIN can update end users real time about issues",
+    "author": "hassan8358#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459309162986078396",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459312661299855380",
+    "timestamp": "2026-01-09 22:27:31",
+    "content": "is it me, or does claude rollback mid-message? like it generates a message, then it gives up?",
+    "author": "futrey#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459312661299855380",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459312907891380339",
+    "timestamp": "2026-01-09 22:28:29",
+    "content": "Lmao did this literally happen as they pushed out the code to cut people off from using third party harnesses?",
+    "author": "vivi424242#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459312907891380339",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459312993136283844",
+    "timestamp": "2026-01-09 22:28:50",
+    "content": "Incompetence all way down the stack",
+    "author": "vivi424242#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459312993136283844",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459318304429576371",
+    "timestamp": "2026-01-09 22:49:56",
+    "content": "🧂",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459318304429576371",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459319320742989877",
+    "timestamp": "2026-01-09 22:53:58",
+    "content": "proof that we're similar to neural networks, you put salt, i put pepper",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459319320742989877",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459319333955174611",
+    "timestamp": "2026-01-09 22:54:02",
+    "content": "i got influenced",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459319333955174611",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459319452582678632",
+    "timestamp": "2026-01-09 22:54:30",
+    "content": "another proof we're like neural networks and we get influced, when I'm with my friend group my IQ drops by 80 points",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459319452582678632",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459319475856740453",
+    "timestamp": "2026-01-09 22:54:35",
+    "content": "so im down to like 160 only",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459319475856740453",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459320205367971962",
+    "timestamp": "2026-01-09 22:57:29",
+    "content": "https://tenor.com/view/bh187-austin-powers-right-doubt-press-x-to-doubt-gif-27480342",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459320205367971962",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459320286884265984",
+    "timestamp": "2026-01-09 22:57:49",
+    "content": "Damnit I forgot I lost the perm when I left by accident. 😢",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459320286884265984",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459320400420016283",
+    "timestamp": "2026-01-09 22:58:16",
+    "content": "Dude dude dude it actually works dude you don't understand",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459320400420016283",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459320445559111820",
+    "timestamp": "2026-01-09 22:58:27",
+    "content": "What do I even do with this information",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459320445559111820",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459320990025646242",
+    "timestamp": "2026-01-09 23:00:36",
+    "content": "I'm losing it",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459320990025646242",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459322659459432745",
+    "timestamp": "2026-01-09 23:07:14",
+    "content": "Insane holy jesus christ this even fusion with my other idea of photonic computing from Lightmatter",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459322659459432745",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459322693655465994",
+    "timestamp": "2026-01-09 23:07:23",
+    "content": "everything piece together holy jesus christ",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459322693655465994",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459322768922382366",
+    "timestamp": "2026-01-09 23:07:41",
+    "content": "computing in the next century is going to be absolutely crazy",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459322768922382366",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459323831411015986",
+    "timestamp": "2026-01-09 23:11:54",
+    "content": "I'm gathering my thoughts to put it into words right now",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459323831411015986",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459327240935571529",
+    "timestamp": "2026-01-09 23:25:27",
+    "content": "Random question, but should I allow AI training bots on my site to increase SEO?",
+    "author": "bapes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459327240935571529",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459328047743369288",
+    "timestamp": "2026-01-09 23:28:39",
+    "content": "it's nuts to block ai bots if you care about seo imo. people are increasingly using ai as a drop in replacement for google",
+    "author": "duckbow.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459328047743369288",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459328259547205702",
+    "timestamp": "2026-01-09 23:29:30",
+    "content": "I wouldn't personally block it",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459328259547205702",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459328421044818023",
+    "timestamp": "2026-01-09 23:30:08",
+    "content": "in fact, this isn't my area of expertise, but I know there's a growing trend of proactively making websites more easily parable by ai for this reason. Kind of like a reverse robots.txt, almost",
+    "author": "duckbow.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459328421044818023",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459328834829811949",
+    "timestamp": "2026-01-09 23:31:47",
+    "content": "https://en.wikipedia.org/wiki/Generative_engine_optimization",
+    "author": "duckbow.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459328834829811949",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459329076220264469",
+    "timestamp": "2026-01-09 23:32:44",
+    "content": "Cloudflare is really pushing me to block it, that's what I thought though <@252858920886992897> <@570947699097206785>",
+    "author": "bapes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459329076220264469",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459331098805927988",
+    "timestamp": "2026-01-09 23:40:47",
+    "content": "Cloudflare don't like traffic I believe",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459331098805927988",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459331153139077141",
+    "timestamp": "2026-01-09 23:40:59",
+    "content": "But I don't use cloudflare, I just assumed they don't",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459331153139077141",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459331237998104576",
+    "timestamp": "2026-01-09 23:41:20",
+    "content": "Technically Cloudflare has nothing to lose and everything to gain from less traffic",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459331237998104576",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459331253655441543",
+    "timestamp": "2026-01-09 23:41:23",
+    "content": "What registrar do you use?",
+    "author": "bapes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459331253655441543",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459331310236598303",
+    "timestamp": "2026-01-09 23:41:37",
+    "content": "I self host",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459331310236598303",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459331326456107229",
+    "timestamp": "2026-01-09 23:41:41",
+    "content": "[Evil_Patrick](https://cdn.discordapp.com/emojis/922497303284174869.webp?size=48&name=Evil_Patrick)",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459331326456107229",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459333056816222239",
+    "timestamp": "2026-01-09 23:48:33",
+    "content": "Default mode looks like it changed to Sonnet in CC!",
+    "author": "bapes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459333056816222239",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459335228832219136",
+    "timestamp": "2026-01-09 23:57:11",
+    "content": "Honestly, when something can't be fetched by AI, I either disregard that site and never use it much less look at it, or I use a script to scrape the page with 0 regard for the site. \n\nSo I would say, just let AI access it, if it's too many requests, serve them special static content stripped of the noise.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459335228832219136",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459335338848948407",
+    "timestamp": "2026-01-09 23:57:37",
+    "content": "But I have no respect for any site that blocks ai lol",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459335338848948407",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]
