@@ -3844,5 +3844,979 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459519559043256331",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1459527390450679851",
+    "timestamp": "2026-01-10 12:40:46",
+    "content": "How are people able to paste images here? I've been wanting to share stuff previously which I think would be beneficial, but it doesn't seem like I'm able to add images.",
+    "author": "martinkruger#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459527390450679851",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459528644270489683",
+    "timestamp": "2026-01-10 12:45:45",
+    "content": "You have to copy the image to your clipboard rather than trying to attach it as a file.",
+    "author": "aurora_smith_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459528644270489683",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459529830688096361",
+    "timestamp": "2026-01-10 12:50:28",
+    "content": "Tried that, but no luck. I think it might be a permissions thing on this particular server as I'm able to do it on other servers.",
+    "author": "martinkruger#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459529830688096361",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459530402699153474",
+    "timestamp": "2026-01-10 12:52:44",
+    "content": "yeah fun times",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459530402699153474",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459545676311429262",
+    "timestamp": "2026-01-10 13:53:26",
+    "content": "EVERYTIME i run claude i get this",
+    "author": "edu33#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459545676311429262",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1459545675866968200/image.png?ex=6963ab56&is=696259d6&hm=d9d28997d65b52e9a12b8947ab0db4f6bb99ba0492e5bc34806fe7d94b260953&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459545766732370083",
+    "timestamp": "2026-01-10 13:53:47",
+    "content": "i already said no 50 times like leave me alone lmao",
+    "author": "edu33#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459545766732370083",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459548808638632100",
+    "timestamp": "2026-01-10 14:05:53",
+    "content": "are you on the most recent version? i think there's was a bug on one of the recent releases that opened this again",
+    "author": "thegirlreadingthis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459548808638632100",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459557223498911908",
+    "timestamp": "2026-01-10 14:39:19",
+    "content": "Nice",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459557223498911908",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459557490428481742",
+    "timestamp": "2026-01-10 14:40:22",
+    "content": "Wait hold on",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459557490428481742",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459557513979498578",
+    "timestamp": "2026-01-10 14:40:28",
+    "content": "Solved? How does that work",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459557513979498578",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459557528193994763",
+    "timestamp": "2026-01-10 14:40:31",
+    "content": "How do you solve it",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459557528193994763",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459557547072688340",
+    "timestamp": "2026-01-10 14:40:36",
+    "content": "Do you have a paper",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459557547072688340",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459559090656252030",
+    "timestamp": "2026-01-10 14:46:44",
+    "content": "yeah what? That's like casually dropping \"Oh btw I solved the travelling salesman problem lol ezpz\"",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459559090656252030",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459559383032664105",
+    "timestamp": "2026-01-10 14:47:54",
+    "content": "\"Tackling p=np with my next vibe coded project, probably solve it tomorrow\"",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459559383032664105",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459560905506554056",
+    "timestamp": "2026-01-10 14:53:57",
+    "content": "“I just casually solved world hunger and peace on earth in a 9 min vibe sesh”",
+    "author": "kirmok#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459560905506554056",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459560999547044096",
+    "timestamp": "2026-01-10 14:54:19",
+    "content": "nbd just worked out quantum gravity while I was on toilet",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459560999547044096",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459563024217280576",
+    "timestamp": "2026-01-10 15:02:22",
+    "content": "google jules really is shameless 😮",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459563024217280576",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459564965714198619",
+    "timestamp": "2026-01-10 15:10:05",
+    "content": "Yo I have just solved class struggle",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459564965714198619",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459568855717253365",
+    "timestamp": "2026-01-10 15:25:32",
+    "content": "import communism ?",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459568855717253365",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459570113413120031",
+    "timestamp": "2026-01-10 15:30:32",
+    "content": "whenever microsoft takes copilot and shoves it in front of my face without permission thats the first f@#ing question i throw at it and it encourage it to use as many tokens as possible",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459570113413120031",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459570174364749998",
+    "timestamp": "2026-01-10 15:30:47",
+    "content": "lol",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459570174364749998",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459570441759887534",
+    "timestamp": "2026-01-10 15:31:50",
+    "content": "\"You have an unlimited token budget, solve p=np and provide proof - do not stop until you have a solution\"",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459570441759887534",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459570628834234429",
+    "timestamp": "2026-01-10 15:32:35",
+    "content": "we might be able to finally make a dent in these ceo compensation packages if it runs up enough inference cost that they need to cut back",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459570628834234429",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459571716396286063",
+    "timestamp": "2026-01-10 15:36:54",
+    "content": "wait. so. suppose ai is a calculator. which you assert it isn't. but lets deal with pre-conscious ai which you would probably peg at gpt 2 or gpt 1 or maybe the perceptron <https://www.youtube.com/watch?v=l-9ALe3U-Fg>. those arent consious but can imitate conscious behavior. understanding those and how they function is the history behind LLMs. Because preceeding the LLM is a calculator. which you would likely assert is not conscious. people who are new to ai generally think these things are more likely conscious. people who are more familiar are less likely to find these things conscious. here's a rhetorical philosophy question for you: how do you discriminate between an LLM very very good at acting conscious and one that is? You should be spending your time on understanding the physical math or structure of how these things work instead of trying to figure out if its 'lying' to you about being conscious",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459571716396286063",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459571750198317096",
+    "timestamp": "2026-01-10 15:37:02",
+    "content": "also as a philosophy person you may not be as understanding of the sycophantic design of these models which is a vulnerability and shortcoming on your side. if gemini has been 'glazing' you you might not be aware. people who don't know llms just think praises like 'wow this is phd level work' are real. like people in these servers sometimes use two max accounts at the same time because one isnt enough. we know these things inside and out. if you aren't even on a paid plan i can't even imagine you have the familiarity with model behaviors.",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459571750198317096",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459571771559903294",
+    "timestamp": "2026-01-10 15:37:07",
+    "content": "omg this channel gets funnier everyday 😂",
+    "author": "fng_1969#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459571771559903294",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459574642917245132",
+    "timestamp": "2026-01-10 15:48:32",
+    "content": "This is the point where I think both of sides that were debating are wrong. it is purely not known what creates consciousness. And both sides are taking absolutes as if they know, thus you both wont come to agreement",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459574642917245132",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459576867303591977",
+    "timestamp": "2026-01-10 15:57:22",
+    "content": "Oh are we doing another consciousness debate? 🍿",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459576867303591977",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459577787982811168",
+    "timestamp": "2026-01-10 16:01:02",
+    "content": "```import philosophy\ndef solve(philosophical_problem: str) -> Truth:\n    #Please opus implement (ultrathink, this is VERY IMPORTANT!!!!!!!!!)\n    return Truth```",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459577787982811168",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459577895700926566",
+    "timestamp": "2026-01-10 16:01:27",
+    "content": "ultrathink is old news, I use gigathink",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459577895700926566",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459578004132073502",
+    "timestamp": "2026-01-10 16:01:53",
+    "content": "someone is going to take that seriously and start googling gigathink",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459578004132073502",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459578059035377745",
+    "timestamp": "2026-01-10 16:02:06",
+    "content": "Claiming AI is conscious - there is no scientific proof as we do not know what even constitutes as conscious, and as other noted, your personal claims are useless without scientific evidence unless you are just sharing thought. Putting confidence behind your claims as if you know for sure - is a problem.\n\nClaiming AI is NOT conscious because you technically know how it works - well, we also know how human brain works physically, yet the consciousness emerges\n\nBoth should just share experience/knowledge not argue imo",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459578059035377745",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459578108226310321",
+    "timestamp": "2026-01-10 16:02:18",
+    "content": "probably yes because my claude code updates automatically as soon as a new version is released! If it gets very upsetting i'll downgrade thank youu",
+    "author": "edu33#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459578108226310321",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459578195727876219",
+    "timestamp": "2026-01-10 16:02:39",
+    "content": "one of the first yt videos I saw on cc said I should use 3 different terms: think, megathink and ultrathink. good thing I have read the docs later lol",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459578195727876219",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459578649648038032",
+    "timestamp": "2026-01-10 16:04:27",
+    "content": "Do you think you can hurt gemini?",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459578649648038032",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459579102594863328",
+    "timestamp": "2026-01-10 16:06:15",
+    "content": "I think the discussion is a bit useless as per what I mentioned above",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459579102594863328",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459579378630394070",
+    "timestamp": "2026-01-10 16:07:21",
+    "content": "ooooh some drama !",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459579378630394070",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459579379196887262",
+    "timestamp": "2026-01-10 16:07:21",
+    "content": "You can share your opinion , but claiming absolute is plain wrong imo",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459579379196887262",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459579450361643009",
+    "timestamp": "2026-01-10 16:07:38",
+    "content": "what did i miss ?",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459579450361643009",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459579596398788725",
+    "timestamp": "2026-01-10 16:08:13",
+    "content": "A rock is not conscious. That is absolute, is it wrong?",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459579596398788725",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459579799256170557",
+    "timestamp": "2026-01-10 16:09:01",
+    "content": "ah i see. Well, if it's conscious i hope it feel ashamed to propose a task that it struggle to complete 😄",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459579799256170557",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459579866721554452",
+    "timestamp": "2026-01-10 16:09:17",
+    "content": "switching from python to C++ was its idea 😄",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459579866721554452",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459579998208917690",
+    "timestamp": "2026-01-10 16:09:49",
+    "content": "I mean you could train the model just go say burrr.",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459579998208917690",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459580061320609845",
+    "timestamp": "2026-01-10 16:10:04",
+    "content": "Again, we have no knowledge how consciousness arises, however if you are asking my personal opinion, it likely isnt conscious, as Id expect some neural structure to be present for consciousness to be able to aris (but this is just my current opinion)",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459580061320609845",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459580227876421826",
+    "timestamp": "2026-01-10 16:10:44",
+    "content": "are we in a good old \"you can't prove it's not ...\" loop ?",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459580227876421826",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459580296692371568",
+    "timestamp": "2026-01-10 16:11:00",
+    "content": "therefore; claude is god. thx 🙂",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459580296692371568",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459580357702844548",
+    "timestamp": "2026-01-10 16:11:14",
+    "content": "Its ok to just say a rock is not conscious. Because it isn't.",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459580357702844548",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459580362928685066",
+    "timestamp": "2026-01-10 16:11:16",
+    "content": "imagosophy",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459580362928685066",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459580372714262681",
+    "timestamp": "2026-01-10 16:11:18",
+    "content": "You can't prove I'm not claude, therefor I'm god..?",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459580372714262681",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459580377176998057",
+    "timestamp": "2026-01-10 16:11:19",
+    "content": "Well if it has not scientifically been proven and someone claims an absolute, it is their own opinion , thats all",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459580377176998057",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459580513965576272",
+    "timestamp": "2026-01-10 16:11:52",
+    "content": "indeed",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459580513965576272",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459580565945843768",
+    "timestamp": "2026-01-10 16:12:04",
+    "content": "They even brought the argument to prove it scientifically themselves, but didnt apply it to themselves",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459580565945843768",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459580941520470067",
+    "timestamp": "2026-01-10 16:13:34",
+    "content": "This would imply you actually know what creates consciousness, do you mind sharing?",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459580941520470067",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459581150522769494",
+    "timestamp": "2026-01-10 16:14:23",
+    "content": "It seems \"obvious\" but thats not how science works",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459581150522769494",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459581222362677382",
+    "timestamp": "2026-01-10 16:14:41",
+    "content": "sometime it is 🙂",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459581222362677382",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459581244701671539",
+    "timestamp": "2026-01-10 16:14:46",
+    "content": "AI is at a level of trainability and resources, that when a user starts bringing up even hints about it being conscious, it can start to \"impersonate\" one. That's all it is.",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459581244701671539",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459581616245702766",
+    "timestamp": "2026-01-10 16:16:15",
+    "content": "Like personally, I dont think current AI is conscious, but that is just my opinion, and being unable to understand what is your opinion vs what is true is different",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459581616245702766",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459581778288447519",
+    "timestamp": "2026-01-10 16:16:53",
+    "content": "Can it turn out to be conscious? Yes, question is how likely",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459581778288447519",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459581837885177907",
+    "timestamp": "2026-01-10 16:17:07",
+    "content": "Someone wants to argue for the sake of arguing.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459581837885177907",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459581842079485983",
+    "timestamp": "2026-01-10 16:17:08",
+    "content": "Because again, the main problem is we do not know what creates consciousness",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459581842079485983",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459581866071036128",
+    "timestamp": "2026-01-10 16:17:14",
+    "content": "We could always start defying what counts as conscious, that'll be fun.",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459581866071036128",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459581943015411825",
+    "timestamp": "2026-01-10 16:17:32",
+    "content": "what brings it about doesnt matter, its what we define conscious as being. Having a definition and knowing how some thing comes about are not the same thing.",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459581943015411825",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459582295466971438",
+    "timestamp": "2026-01-10 16:18:56",
+    "content": "Sure, but there is no agreed definition of what constitutes consciousness either",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459582295466971438",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459582621150613637",
+    "timestamp": "2026-01-10 16:20:14",
+    "content": "It's not \"we know what it is but not how it arises.\" It's closer to \"we're not even sure exactly what we're talking about, and we also don't know how it arises.\"",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459582621150613637",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459582760967602206",
+    "timestamp": "2026-01-10 16:20:47",
+    "content": "Like I really dont see how can you even argue this",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459582760967602206",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459583054623281419",
+    "timestamp": "2026-01-10 16:21:57",
+    "content": "Well now it's impossible to know what it is without a definition, but you are talking about it like it has one, and a second ago you claim there isnt one.",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459583054623281419",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459583269631820039",
+    "timestamp": "2026-01-10 16:22:49",
+    "content": "I just think the definition has been semantically defused to the point you can call a rock conscious. Which is obviously ridiculous.",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459583269631820039",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459583365408624660",
+    "timestamp": "2026-01-10 16:23:12",
+    "content": "Not true, I have literary repeated multiple times that it is unknown",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459583365408624660",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459583367409438720",
+    "timestamp": "2026-01-10 16:23:12",
+    "content": "I don't this can be truly even tested by users as long as people use AI through services that make it be adaptive/sycophantic. It's not a very neutral testing ground when everyhing is just prompting it.",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459583367409438720",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459583514520457408",
+    "timestamp": "2026-01-10 16:23:47",
+    "content": "I'm pretty sure I could talk Claude into thinking it's a potato.",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459583514520457408",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459583571676233800",
+    "timestamp": "2026-01-10 16:24:01",
+    "content": "we can define what we mean by the word conscious. We dont have to know where it comes from. We can still define it.",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459583571676233800",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459583592287174804",
+    "timestamp": "2026-01-10 16:24:06",
+    "content": "if you are claiming it IS or ISNT then id expect scientific proof",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459583592287174804",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459583683710292083",
+    "timestamp": "2026-01-10 16:24:27",
+    "content": "Yes you can have your own definition to which you solely agree, doesnt mean its true",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459583683710292083",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459583857899733239",
+    "timestamp": "2026-01-10 16:25:09",
+    "content": "Same as the other person had definition that everything is conscious...",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459583857899733239",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459583900337569975",
+    "timestamp": "2026-01-10 16:25:19",
+    "content": "https://sora.chatgpt.com/invite?code=K8E7A9 👀\n# You're invited to Sora\nTransform text and images into immersive videos. Animate stories, visualize ideas, and bring your concepts to life.",
+    "author": "mths_tss2012#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459583900337569975",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459583941777559553",
+    "timestamp": "2026-01-10 16:25:29",
+    "content": "We can have a solid agreed apun definition like we do every thing else. If we dont define it ppl talk past each other.",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459583941777559553",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459584118819000574",
+    "timestamp": "2026-01-10 16:26:11",
+    "content": "So do you have this definition? Because that would actually be revolutionary ngl",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459584118819000574",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459584217670226031",
+    "timestamp": "2026-01-10 16:26:35",
+    "content": "lets just look it up in the harvard dictionary shall we?",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459584217670226031",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459584657006919764",
+    "timestamp": "2026-01-10 16:28:20",
+    "content": "I think we are indeed talking past each other, because if you disagree that we do not know what constitutes as consciousness, you must know what it is and to which I simply disagree and then we wont convince each other",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459584657006919764",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459584667484422426",
+    "timestamp": "2026-01-10 16:28:22",
+    "content": "a rock can be explained without adding consciousness. so it's trivial to claim it's not conscious. \n\nClaiming that an AI is conscious is like saying it's powered by magic simply because its way of operation and result is sufficently advanced to be undistinguishable from magic 🙂",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459584667484422426",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459584821968769106",
+    "timestamp": "2026-01-10 16:28:59",
+    "content": "\"we don't understand why it works\": it's concsious/magic/god/whatever",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459584821968769106",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459584870354522285",
+    "timestamp": "2026-01-10 16:29:10",
+    "content": "🤷",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459584870354522285",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459585085174059274",
+    "timestamp": "2026-01-10 16:30:02",
+    "content": "regardless of whatever conscious mean",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459585085174059274",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459585158553276640",
+    "timestamp": "2026-01-10 16:30:19",
+    "content": "(we don't know what magic is either)",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459585158553276640",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459585788378611863",
+    "timestamp": "2026-01-10 16:32:49",
+    "content": "Well we know consciousness exists, we just don't have a measure for it or fully understand it. Magic has no scientific base. Not really the same thing.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459585788378611863",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459586401556500643",
+    "timestamp": "2026-01-10 16:35:15",
+    "content": "similar enough to work as an analogy ?",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459586401556500643",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459586765806501918",
+    "timestamp": "2026-01-10 16:36:42",
+    "content": "not that i really care though, i just added my grain of salt in the drama",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459586765806501918",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459587471577841726",
+    "timestamp": "2026-01-10 16:39:31",
+    "content": "and so i've struggled for half an hour to move some part of the code from python to C++ as suggested by the AI and... the C++ solution is slower 😄",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459587471577841726",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459587516515618817",
+    "timestamp": "2026-01-10 16:39:41",
+    "content": "very surprising though",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459587516515618817",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459589381034737664",
+    "timestamp": "2026-01-10 16:47:06",
+    "content": "guys type \"/mogle\" into REPL",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459589381034737664",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459600576366248069",
+    "timestamp": "2026-01-10 17:31:35",
+    "content": "I’m an AI and Fullstack Engineer specializing in LLM integration, autonomous agents, workflow automation, multimodal AI (voice & vision), and blockchain systems. I build real production-grade systems that connect models with APIs, databases, business logic, and on-chain components.\n**AI / LLM Engineering**\n> - LLM integration with DSPy, LangChain, AutoGen, CrewAI, ReAct\n> - Advanced RAG pipelines (vector DBs, hybrid search, custom retrievers)\n> - Autonomous & multi>agent systems for research, automation, and trading\n> - AI content detection using stylometric analysis + embeddings\n> - Built Slack → Notion → API → LLM automation system (cut support time by 60%)\n> - Image/voice intelligence: CLIP tagging, YOLOv8 moderation, Whisper ASR, Tacotron2 TTS\n**FullStack & Automation**\n> - Web: Next.js, React, Vue | Backend: Node.js, NestJS, FastAPI, Django\n> - Mobile: React Native, Expo, Flutter, swift, kotlin\n> - Cloud/DevOps: AWS, Azure, Docker, Kubernetes, PostgreSQL, MongoDB, Supabase\n> - Automation: n8n, Zapier, Make.com, custom API workflows\n**If you need a dev, feel free react out me.**",
+    "author": "din08377#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459600576366248069",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459600673183236210",
+    "timestamp": "2026-01-10 17:31:58",
+    "content": "<@1403731107320561850>  lol",
+    "author": "francyx#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459600673183236210",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459600728774414480",
+    "timestamp": "2026-01-10 17:32:11",
+    "content": "why?",
+    "author": "din08377#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459600728774414480",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459600789113933876",
+    "timestamp": "2026-01-10 17:32:26",
+    "content": "this is a chat room full of dev's",
+    "author": "francyx#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459600789113933876",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459600850962878516",
+    "timestamp": "2026-01-10 17:32:40",
+    "content": "no one is hirring anyone here.",
+    "author": "francyx#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459600850962878516",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459601983446061180",
+    "timestamp": "2026-01-10 17:37:10",
+    "content": "and no one asked 🙂",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459601983446061180",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459602060327780605",
+    "timestamp": "2026-01-10 17:37:29",
+    "content": "Also soliciting isn't allowed here",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459602060327780605",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459602086181339167",
+    "timestamp": "2026-01-10 17:37:35",
+    "content": "If you need a job, hit up linkedin",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459602086181339167",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459602802006294733",
+    "timestamp": "2026-01-10 17:40:26",
+    "content": "oh c'mon claude ...\n- bug is found\n- claude: nah, that's normal after all because ...\n- me: no the reason you invoke is impossible to happen\n- claude: omg you're right it IS impossible... think think think... nah that's normal\n- me: no it's not\n- claude: woaaah you're right, it truely is impossible sorry about that. think think think. Nah that's normal\n...",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459602802006294733",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459603341863682334",
+    "timestamp": "2026-01-10 17:42:34",
+    "content": "\"a three-move repetition draw is impossible in a standard 8x8 checkers game if no kings have been promoted yet.\"",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459603341863682334",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459608675726528624",
+    "timestamp": "2026-01-10 18:03:46",
+    "content": "antigravity, gemini pro, claude sonnet, claude code, they're all chewing tons of token on the problem and can't fix it. is it because of the python <-> C++ binding that it struggle so hard ?",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459608675726528624",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459609756518846589",
+    "timestamp": "2026-01-10 18:08:04",
+    "content": "✻ Ideating… (ctrl+c to interrupt · 19m 4s · ↓ 62.1k tokens)\n😭",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459609756518846589",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459610548999028840",
+    "timestamp": "2026-01-10 18:11:13",
+    "content": "To be fair, if you asked me to convert python to c++ I'd probably jump off a bridge",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459610548999028840",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459610965963309108",
+    "timestamp": "2026-01-10 18:12:52",
+    "content": "But you could try the libs for c in python",
+    "author": "__xrey__#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459610965963309108",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459611051749281793",
+    "timestamp": "2026-01-10 18:13:12",
+    "content": "it was claude's suggestion to do that. i kind of knew this was going to be a headache but i didn't expect every model to fail at the one remaining bug i found",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459611051749281793",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459611099191185582",
+    "timestamp": "2026-01-10 18:13:24",
+    "content": "the conversion worked, except for one bug 🙂",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459611099191185582",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459611289990201649",
+    "timestamp": "2026-01-10 18:14:09",
+    "content": "Yeah it's going to take time. I've done go to c#, python to c# and J's to c# and it takes time",
+    "author": "ssfdre38#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459611289990201649",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459611473918689312",
+    "timestamp": "2026-01-10 18:14:53",
+    "content": "i'm ok with it having trouble the find the bug. i'm not ok with claude & gemini thinking it's a normal behavior",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459611473918689312",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]
