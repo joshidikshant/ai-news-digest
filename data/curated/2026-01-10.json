@@ -16,5 +16,59 @@
     "category": "announcement",
     "curated_at": "2026-01-10T00:51:29.635268+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude Models Gain Context Awareness Feature",
+    "bullets": [
+      "Claude Sonnet 4.5 and Claude Haiku 4.5 can now track token usage in conversations.",
+      "Opus model does not currently support this feature, causing some user confusion."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-10 01:32:37",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459359246180417683"
+    },
+    "relevance": 70,
+    "hot_take": "Can context awareness be the game-changer for AI model efficiency?",
+    "category": "announcement",
+    "curated_at": "2026-01-10T06:15:42.876344+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Third-Party Tool Restrictions on Claude Subscriptions",
+    "bullets": [
+      "Users face restrictions using Claude subscriptions with external tools like IDEs.",
+      "API users remain unaffected by these changes."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-10 01:46:34",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459362756049371136"
+    },
+    "relevance": 75,
+    "hot_take": "Are we seeing the beginning of a locked ecosystem for AI tools?",
+    "category": "announcement",
+    "curated_at": "2026-01-10T06:15:42.876360+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Skills Revolutionize Claude's Code Management",
+    "bullets": [
+      "Skills offer a new way to enhance code quality and fill training gaps.",
+      "Composability and modularity of skills highlighted as key benefits."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-10 03:15:33",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459385150302322729"
+    },
+    "relevance": 80,
+    "hot_take": "Could skills be the silver bullet for AI-driven development?",
+    "category": "insight",
+    "curated_at": "2026-01-10T06:15:42.876362+00:00",
+    "original_server": "Anthropic"
   }
 ]

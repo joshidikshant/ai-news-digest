@@ -326,5 +326,349 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459343168318341120",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1459359246180417683",
+    "timestamp": "2026-01-10 01:32:37",
+    "content": "\"Claude Sonnet 4.5 and Claude Haiku 4.5 feature context awareness, enabling these models to track their remaining context window (i.e. \"token budget\") throughout a conversation\" --> why not Opus ?",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459359246180417683",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459359762427805790",
+    "timestamp": "2026-01-10 01:34:40",
+    "content": "Where does it say that? 95% sure Opus is also context aware, if you ask it what the current context window is it used to work",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459359762427805790",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459359881420083211",
+    "timestamp": "2026-01-10 01:35:09",
+    "content": "Wut",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459359881420083211",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459359898679771348",
+    "timestamp": "2026-01-10 01:35:13",
+    "content": "It doesn't work now",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459359898679771348",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459359926328754208",
+    "timestamp": "2026-01-10 01:35:20",
+    "content": ":riot:",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459359926328754208",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459361324537483486",
+    "timestamp": "2026-01-10 01:40:53",
+    "content": "After each tool call, Claude receives an update on remaining capacity:\n<system_warning>Token usage: 35000/200000; 165000 remaining</system_warning> -> Opus dont get it.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459361324537483486",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459361475645935738",
+    "timestamp": "2026-01-10 01:41:29",
+    "content": "some people are saying on X that they are getting blocked on Claude Code using within other IDEs like Cursor.\n\nIs that true? For me it is working normally",
+    "author": "marciob#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459361475645935738",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459362756049371136",
+    "timestamp": "2026-01-10 01:46:34",
+    "content": "They may be referencing recent restrictions on using your claude.ai subscription with third party tools. Presumably those people used some patch to make this work, which is against ToS and is now actively being blocked.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459362756049371136",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459362837544570963",
+    "timestamp": "2026-01-10 01:46:54",
+    "content": "I don't know if it affects other tools though, I know only of OpenCode currently being affectd.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459362837544570963",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459362882012577844",
+    "timestamp": "2026-01-10 01:47:04",
+    "content": "If you're using API, then you're golden,",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459362882012577844",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459363011088220281",
+    "timestamp": "2026-01-10 01:47:35",
+    "content": "confirmed that sonnet 4.5 gets the token usage after a tool call. project files shows \"4% usage\" but it must be related to a file max upload (10mb?), per project, because its using prob > 30% of my ctx injecting full file contents (But at least I know that now, its not just summary or doc refs on /mnt/data",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459363011088220281",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459364540444577792",
+    "timestamp": "2026-01-10 01:53:40",
+    "content": "Any recommendations on workflows for converting natural language/specs to full architecture diagrams drawio or miro diagrams? Opus + mcp?",
+    "author": "yevgenypringles#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459364540444577792",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459379496653422665",
+    "timestamp": "2026-01-10 02:53:05",
+    "content": "ive actually been wondering that myself",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459379496653422665",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459379561912467680",
+    "timestamp": "2026-01-10 02:53:21",
+    "content": "honestly skills have just replaced mcps",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459379561912467680",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459379918486896864",
+    "timestamp": "2026-01-10 02:54:46",
+    "content": "I haven't touched MCP since December, and have missed nothing 😄",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459379918486896864",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459381380281794733",
+    "timestamp": "2026-01-10 03:00:35",
+    "content": "I use one occasionally for an olap database, but that's pretty much it now that the claude chrome extension is a thing",
+    "author": "duckbow.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459381380281794733",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459381651284164713",
+    "timestamp": "2026-01-10 03:01:39",
+    "content": "even documentation is easier to just web search for if needed intermittently, or put in a skill if it's somethign that needs to be frequently referenced",
+    "author": "duckbow.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459381651284164713",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459383280200843346",
+    "timestamp": "2026-01-10 03:08:08",
+    "content": "I'm working on something that uses cucumber/gherkin plus claude code integration - but it's for source code targets... I suppose it could be modified to do who diagrams -- it doesn't really work yet for code gen, but... diagrams would be easier; I could always try cleaning it up and releasing it if it's something you're interested it?",
+    "author": "jaesharp#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459383280200843346",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459385150302322729",
+    "timestamp": "2026-01-10 03:15:33",
+    "content": "i found skills is a really good way to fill the gaps in training and have up to date packages etc. I made a plugin that makes skills from a claude.ai research document.\nAs a proof of concept for composability of skills and how effect topical skills are at increasing code quality i made a plugin for writing unit tests that using those two concepts. The core is agnostic and skills bolt on to it for language support. \nFirst language it supports is type script is flutter, with generated skills i can write good idiomatic unit tests. I am about to try typescript with jest as a bolt on.\nI pushed it as well, i ran the skills with opus, sonnet, haiku, glm and minimax. Minimax is the only one that had problems, haiku gives slightly more verbose outputs with 5-7 more unneeded tests. the other 3 work perfectly. \nBecause this is composable i swapped the planning and redundancy checks in the haiku runs to use opus and that fixed it, those are agents that rely only on training - no skills needed, haiku handled the implementation using the skills no porblems.",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459385150302322729",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459386019454517289",
+    "timestamp": "2026-01-10 03:19:01",
+    "content": "this is a bit of a tangent, but it might be interesting to try using skills for self documentation. Almost like an FAQ for the agent to compliment CLAUDE.md's",
+    "author": "duckbow.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459386019454517289",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459387155569971544",
+    "timestamp": "2026-01-10 03:23:31",
+    "content": "though i suppose maybe that's worse than just having it reference actual documentation",
+    "author": "duckbow.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459387155569971544",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459387652158521428",
+    "timestamp": "2026-01-10 03:25:30",
+    "content": "I also did this in the topical skills creation plugin, what it does is takes in a concept and then it searches your code base and writes an architecture document about your code base and puts the document into documents/architecture/ then from that document generates a skill putting that information at the finger tips of claude.\nI automated it to the point where you can have it investigate your entire code base come back to you and suggest concepts to build documents for, you choose the ones one want it then generates the the documentation and a skill for each.\nThis is a fantastic way to burn all your tokens o.0. hahah\nThere is a balance to this one you don't want to add these before architecture is established and wont change anymore other wise you get stale data quickly. It's good for established brownfield where you dont expect the styling system or layers etc to change much.",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459387652158521428",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459387849043480770",
+    "timestamp": "2026-01-10 03:26:17",
+    "content": "It is also composable, so you can just do one concept if you like",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459387849043480770",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459387892244680745",
+    "timestamp": "2026-01-10 03:26:27",
+    "content": "ah interesting. Honestly, might be worth trying with haiku. It may be good enough + savings",
+    "author": "duckbow.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459387892244680745",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459387932115996798",
+    "timestamp": "2026-01-10 03:26:37",
+    "content": "good point",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459387932115996798",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459389536177098772",
+    "timestamp": "2026-01-10 03:32:59",
+    "content": "removing files from project then having sonnet check system warning for tokens used -> immediate reduction next turn. nice.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459389536177098772",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459389628904767621",
+    "timestamp": "2026-01-10 03:33:21",
+    "content": "sometimes I wish claude code could just \"unload\" files like that",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459389628904767621",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459395879550324838",
+    "timestamp": "2026-01-10 03:58:11",
+    "content": "Crazy... Using neural network to rediscover boolean logic by brute force is fascinating",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459395879550324838",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459401159432208599",
+    "timestamp": "2026-01-10 04:19:10",
+    "content": "starting to get this like weird errors ever since claude code was updated using nextjs it's  like there's two servers running even though I'm only running one server and somehow I  deleted a file and brought updates to file and it brought back the old file and it tries  to become the old file and the new file at the same time it's really weird",
+    "author": "francyx#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459401159432208599",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459401922086699018",
+    "timestamp": "2026-01-10 04:22:12",
+    "content": "the problem might be cursor and not claude",
+    "author": "francyx#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459401922086699018",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459403125839626368",
+    "timestamp": "2026-01-10 04:26:59",
+    "content": "anyone know if you get ban'd do they automatically cancel the renewal ? cuz i can't even login.  i'm not a dev and used claude to built out a cvd/oi app to calculate bias.  only thing i can think of was using an email alias for signup.",
+    "author": "satscc#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459403125839626368",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459404641828602082",
+    "timestamp": "2026-01-10 04:33:01",
+    "content": "Is it just me or is the Claude code website super laggy and buggy. Like when you open other LLM you can instantly paste your prompt and everything works",
+    "author": "mastergrinder._#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459404641828602082",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459404682408624210",
+    "timestamp": "2026-01-10 04:33:10",
+    "content": "With Claude you need to wait a bit for the site to fully load",
+    "author": "mastergrinder._#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459404682408624210",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459407818045263873",
+    "timestamp": "2026-01-10 04:45:38",
+    "content": "it does a few async loads; you notice it on slower internet connections",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459407818045263873",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459421257387737160",
+    "timestamp": "2026-01-10 05:39:02",
+    "content": "time to absolutely SLAM my weekly limit",
+    "author": "cantcrit#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459421257387737160",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1459421257127956500/image.png?ex=69633776&is=6961e5f6&hm=263e3f34b0895c50a2851a8abfdb866cd2df9cd75cde8edfee9a8df7d2dc6f67&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459426212870099039",
+    "timestamp": "2026-01-10 05:58:43",
+    "content": "my weekly limits are going so fast - I'm only doing normal dev work. is that common? Im on max subscription",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459426212870099039",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459429260442996766",
+    "timestamp": "2026-01-10 06:10:50",
+    "content": "I can't believe Opus is not capable of setting up Login with google on an android app. i wasted 30% of my weekly limit on it and it and it still won't work",
+    "author": "edu33#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459429260442996766",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459429401023353070",
+    "timestamp": "2026-01-10 06:11:24",
+    "content": "I did it with sonnet 3.5 on a flutter app last year and copy pasting lol",
+    "author": "edu33#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459429401023353070",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]
