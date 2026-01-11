@@ -1,0 +1,56 @@
+[
+  {
+    "headline": "LLM Robotics: New Frontiers or Just a Fad?",
+    "bullets": [
+      "Users are experimenting with LLMs for robotic control using camera inputs and outputs.",
+      "Potential for advanced agentic capabilities but practical benefits remain under scrutiny."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-11 02:59:00",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459743372230000682"
+    },
+    "relevance": 75,
+    "hot_take": "Will LLMs drive the next wave of robotics innovation, or are we just over-hyping again?",
+    "category": "discussion",
+    "curated_at": "2026-01-11T06:16:41.596251+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude Code vs Plan Mode: A User's Perspective",
+    "bullets": [
+      "Users report significant preference for Claude Code over Plan Mode.",
+      "Plan Mode's performance lags behind, particularly in code testing."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-11 03:00:22",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459743713742815232"
+    },
+    "relevance": 70,
+    "hot_take": "Is Plan Mode the underdog in AI-driven coding, or is it just missing the mark?",
+    "category": "insight",
+    "curated_at": "2026-01-11T06:16:41.596273+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "The Email Token Economy: AI's New Gold Rush?",
+    "bullets": [
+      "Users criticize the inefficiency of using AI to expand and then condense emails.",
+      "This practice fuels token consumption, likened to a 'money glitch' for AI services."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-11 05:47:27",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459785765377806428"
+    },
+    "relevance": 60,
+    "hot_take": "Is AI email expansion a boon or a bane for productivity—and who's really cashing in?",
+    "category": "discussion",
+    "curated_at": "2026-01-11T06:16:41.596277+00:00",
+    "original_server": "Anthropic"
+  }
+]
