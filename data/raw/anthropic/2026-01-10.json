@@ -4818,5 +4818,689 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459611473918689312",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1459611687174017085",
+    "timestamp": "2026-01-10 18:15:44",
+    "content": "they even agree that it's not normal. until they fail to fix it then default back to \"nah, it's a feature\"",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459611687174017085",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459612051386269961",
+    "timestamp": "2026-01-10 18:17:11",
+    "content": "Anthropic cuted acess to claude max?",
+    "author": "theblakes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459612051386269961",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459612064841601256",
+    "timestamp": "2026-01-10 18:17:14",
+    "content": "I do one section at a time and test that section.",
+    "author": "ssfdre38#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459612064841601256",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459612324704030929",
+    "timestamp": "2026-01-10 18:18:16",
+    "content": "Me: Claude there is a bug it should not be happening\nClaude: Ahhh no.. I am sure you are running the wongre version of the file\nMe: Claude i am running but the output is incorrect!!\nClaude: Trust me bro",
+    "author": "theblakes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459612324704030929",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459612590895530228",
+    "timestamp": "2026-01-10 18:19:19",
+    "content": "aaah it found something !!\n```\n\n⏺ CRITICAL FINDING: The debug file has 47,735 lines but ZERO \"🚨\" markers! This means the C++ is_terminal() function is NEVER detecting a 3-fold repetition, yet games are ending and being reported as \"DRAW (3-fold repetition)\"!\n\n  The bug must be in how Python determines the termination reason. Let me check the _get_termination_reason() function in self_play.py more carefully. I think it's incorrectly labeling all early draws as \"3-fold repetition\" when they might be something else!\n```",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459612590895530228",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459612879002140713",
+    "timestamp": "2026-01-10 18:20:28",
+    "content": "please don't run out of quota 🙏",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459612879002140713",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459615315079200999",
+    "timestamp": "2026-01-10 18:30:09",
+    "content": "Is there still not fix for UTF-8 emojis corruption when uploading files to claude using browser ?",
+    "author": "sibercat#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459615315079200999",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459620588447338546",
+    "timestamp": "2026-01-10 18:51:06",
+    "content": "Is claude down? I tried to use Opus and it says conversation doesn't exist at the start of a new conversation!",
+    "author": "seb0412#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459620588447338546",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459621213218541629",
+    "timestamp": "2026-01-10 18:53:35",
+    "content": "Genuine question: You say energy IS consciousness. But what does calling it \"consciousness\" add that physics doesn't already tell us? If the answer is \"subjective experience\" - the feeling of being something - then you still need to explain why energy feels like anything at all. You've shown everything is energy. You haven't shown energy experiences. That's exactly why your own AI response called it \"unsubstantiated and not scientifically provable\" - it's not that you're wrong, it's that \"energy = consciousness\" is an assertion, not an argument. Notice the AI pointed you toward Integrated Information Theory (IIT) at the end - that's because IIT actually tries to do the work you're skipping - it doesn't just say \"everything is conscious,\" it specifies what about a system's structure produces consciousness (integrated information, measured as Phi). A rock has very low integration; a brain has high integration. Your view has no equivalent - it's just \"energy exists, therefore experience exists\" with nothing bridging the gap. To be clear: what you're actually arguing is closer to idealism or panentheism - the view that mind/consciousness is the fundamental substrate of reality. That's a legitimate metaphysical position with a long philosophical history. But you're presenting it as if E=mc² proves it, when really you're using physics vocabulary to dress up a theistic worldview. The physics just says energy exists and transforms. The leap to \"and it experiences\" is your metaphysics, not Einstein's.",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459621213218541629",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459621915835633890",
+    "timestamp": "2026-01-10 18:56:23",
+    "content": "Aaaand after hours :\n```\n⏺ I found the root cause! The action encoding system assumes all moves can be represented as (from_square, direction) where direction is one of 4 diagonals. But multi-jumps can ZIG-ZAG, resulting in an overall displacement that isn't diagonal!\n\n  For example, a jump from square 22 (row 5, col 4) to square 6 (row 1, col 4) goes straight up (dc=0), which happens when you jump NE then NW, resulting in net zero column change.\n```\nThat was a difficult one indeed 🙂",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459621915835633890",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459624720667250748",
+    "timestamp": "2026-01-10 19:07:31",
+    "content": "working fine here",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459624720667250748",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459624759900770314",
+    "timestamp": "2026-01-10 19:07:41",
+    "content": "wrong dir?",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459624759900770314",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459626682284769534",
+    "timestamp": "2026-01-10 19:15:19",
+    "content": "Probably. I was using the desktop app. It worked fine on the browser so Idk what happened. Thanks for answering my question though!",
+    "author": "seb0412#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459626682284769534",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459629577742581870",
+    "timestamp": "2026-01-10 19:26:49",
+    "content": "uh i swear claude got an upgrade over the last few days",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459629577742581870",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459630088994816101",
+    "timestamp": "2026-01-10 19:28:51",
+    "content": "like ive never seen this man try so hard sonnet 45",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459630088994816101",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459630454243070197",
+    "timestamp": "2026-01-10 19:30:18",
+    "content": "nah this is too much, 3 prompts to modify a small section of an aritfact, sonnet 4.5 without extended thinking I'm at 27% of my session",
+    "author": "justaeris#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459630454243070197",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459630623709724723",
+    "timestamp": "2026-01-10 19:30:59",
+    "content": "and when i say modifications are small we're talking about +18 -19, +13 -18, +13 -13",
+    "author": "justaeris#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459630623709724723",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459630668362420375",
+    "timestamp": "2026-01-10 19:31:09",
+    "content": "and this used more than a quarter of my session",
+    "author": "justaeris#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459630668362420375",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459631306269786327",
+    "timestamp": "2026-01-10 19:33:42",
+    "content": "i bet i have less usage now as a pro user than what we had as free users one year ago",
+    "author": "justaeris#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459631306269786327",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459635883434053733",
+    "timestamp": "2026-01-10 19:51:53",
+    "content": "Am I allowed to share an app i've built to get some honest feedback?",
+    "author": "cristiannn#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459635883434053733",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459635977072148613",
+    "timestamp": "2026-01-10 19:52:15",
+    "content": "<#1281536652254384159>",
+    "author": "dictateurpampers#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459635977072148613",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459636605601185956",
+    "timestamp": "2026-01-10 19:54:45",
+    "content": "Point Claude at it, and go like this: \"Conduct an adversarial review of the contents of this directory. Find at least ten things to fix or improve. Be skeptical, don't trust anything.\"",
+    "author": "redherring0828#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459636605601185956",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459636819174883471",
+    "timestamp": "2026-01-10 19:55:36",
+    "content": "If your ego can take it,  add \"in the voice of Linus Torvalds\"",
+    "author": "redherring0828#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459636819174883471",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459636995503689983",
+    "timestamp": "2026-01-10 19:56:18",
+    "content": "Repeat until it runs out of real things to complain about. Haha only serious, this actually works.",
+    "author": "redherring0828#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459636995503689983",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459637244523712757",
+    "timestamp": "2026-01-10 19:57:17",
+    "content": "actually.. that makes sense. pretending to be Linus Torvalds is a great inductive bias.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459637244523712757",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459637506524975155",
+    "timestamp": "2026-01-10 19:58:20",
+    "content": "Only for professionals, no one in their right mind should try it at home. 🙂",
+    "author": "redherring0828#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459637506524975155",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459637515442196604",
+    "timestamp": "2026-01-10 19:58:22",
+    "content": "hahaha",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459637515442196604",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459637563458588802",
+    "timestamp": "2026-01-10 19:58:33",
+    "content": "is it possible your chat is really long already",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459637563458588802",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459637589874311402",
+    "timestamp": "2026-01-10 19:58:40",
+    "content": "that is the only good explanation",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459637589874311402",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459637610514350334",
+    "timestamp": "2026-01-10 19:58:45",
+    "content": "I should use it on the code delivered by our contractors lol",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459637610514350334",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459637741074645072",
+    "timestamp": "2026-01-10 19:59:16",
+    "content": "\"Requirement: your code must pass teh Linus Torvalds AI sniff test, or delivery is not accepted\"",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459637741074645072",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459637915452707050",
+    "timestamp": "2026-01-10 19:59:57",
+    "content": "\"you are a jaded, cynical code reviewer\" and somewhere at the end \"Use cold professional tone. Avoid personal insults and profanity\" is easier",
+    "author": "redherring0828#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459637915452707050",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459638051683963054",
+    "timestamp": "2026-01-10 20:00:30",
+    "content": "nah I will use the chatgpt \"Wednesday\" personality. haha",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459638051683963054",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459638129836294410",
+    "timestamp": "2026-01-10 20:00:48",
+    "content": "\"You are a frickin moron. anyone could have seen that <technical explaination of issue>\"",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459638129836294410",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459638222324764785",
+    "timestamp": "2026-01-10 20:01:10",
+    "content": "It's your ego, man. Whatever rocks it. 🙂",
+    "author": "redherring0828#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459638222324764785",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459638346484547768",
+    "timestamp": "2026-01-10 20:01:40",
+    "content": "It's lying to me haha, exagerating thing, saying undo doesn't work in my text editor which is false by default haha",
+    "author": "cristiannn#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459638346484547768",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459638346845393091",
+    "timestamp": "2026-01-10 20:01:40",
+    "content": "I'm a manager. we need to harden our devs. 😛",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459638346845393091",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459638444195184864",
+    "timestamp": "2026-01-10 20:02:03",
+    "content": "If it doesn't kill them, it sure as hell will make the survivors stronger.",
+    "author": "redherring0828#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459638444195184864",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459639670261678183",
+    "timestamp": "2026-01-10 20:06:56",
+    "content": "I actually had a grizzled engineer monitoring my coding and commenting over tts at one point\n`Kid, I've seen databases vanish from string concatenation. Use parameterized queries`\n`Future you will curse present you for that variable name`\n`That'll blow up at 3am. Trust me, add the try-catch`\n`This'll melt under load. Cache it or explain the outage`\n`Seen this movie before, doesn't end well. Try dependency injection`",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459639670261678183",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459639700322259169",
+    "timestamp": "2026-01-10 20:07:03",
+    "content": "even AI does better when the \"QA thread\" is diff than the \"Dev thread\" -- seperation of egos (and duties)",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459639700322259169",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459639890433151200",
+    "timestamp": "2026-01-10 20:07:48",
+    "content": "^ heh use that as a voice example and hav the AI mimic that",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459639890433151200",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459640407410475238",
+    "timestamp": "2026-01-10 20:09:51",
+    "content": "Except when it causes a damn seizure",
+    "author": "drewsni#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459640407410475238",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459640522804166951",
+    "timestamp": "2026-01-10 20:10:19",
+    "content": "fix limit problem.,",
+    "author": "colderxr#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459640522804166951",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459640914472341586",
+    "timestamp": "2026-01-10 20:11:52",
+    "content": "pls yes",
+    "author": "justaeris#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459640914472341586",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459641287627116667",
+    "timestamp": "2026-01-10 20:13:21",
+    "content": "or change the weekly to a daily limit instead",
+    "author": "justaeris#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459641287627116667",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459643514655608862",
+    "timestamp": "2026-01-10 20:22:12",
+    "content": "I was researching this subject about a month ago; the two best things you can do to code reviews like that are a. run it on a different LLM and b. show it the diff, but don't show why it happened.",
+    "author": "redherring0828#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459643514655608862",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459643725985743001",
+    "timestamp": "2026-01-10 20:23:03",
+    "content": "If Claude is your main driver, Gemini 3 Pro is, in my opinion, the best reviewer right now. It pretty much sucks at everything else, but it reviews well.",
+    "author": "redherring0828#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459643725985743001",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459644826281574470",
+    "timestamp": "2026-01-10 20:27:25",
+    "content": "It's told to find ten things. It will suck them out of its electronic thumb if it has to. It's your job to figure out which is real, which isn't. Two real / eight noise is normal. If it stops giving you anything real, have it focus on a directory where you suspect the problems may be. Stop when it feels like analysis paralysis.",
+    "author": "redherring0828#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459644826281574470",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459651813870534839",
+    "timestamp": "2026-01-10 20:55:11",
+    "content": "lol",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459651813870534839",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459651845268963430",
+    "timestamp": "2026-01-10 20:55:18",
+    "content": "tf",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459651845268963430",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459651951473066087",
+    "timestamp": "2026-01-10 20:55:44",
+    "content": "prompt claude code: Build ASI",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459651951473066087",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459652173196689419",
+    "timestamp": "2026-01-10 20:56:37",
+    "content": "Mekanïk destruktïw kömmandöh 🎶",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459652173196689419",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459652410615271536",
+    "timestamp": "2026-01-10 20:57:33",
+    "content": "I have been doing this manually and finally created a Claude Code plugin to invoke in thread that allows you to dispatch requests/reviews, code reviews, research, whatever. Auto-done for gemini, codex, and spins up a CC task sub-agent for 3 opinions and pulls them back into thread context: https://discord.com/channels/1072196207201501266/1459639584228114678",
+    "author": "nashburch#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459652410615271536",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459652523026677908",
+    "timestamp": "2026-01-10 20:58:00",
+    "content": "someone come get their ai..",
+    "author": "fng_1969#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459652523026677908",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459652568727814357",
+    "timestamp": "2026-01-10 20:58:11",
+    "content": "someone listened to too much Magma 🥰",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459652568727814357",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459653040671031450",
+    "timestamp": "2026-01-10 21:00:03",
+    "content": "There is any number of ways to do it. This is mine:\n\n<https://github.com/bmad-code-org/BMAD-METHOD/blob/main/src/modules/bmm/workflows/bmad-quick-flow/quick-dev/steps/step-05-adversarial-review.md> \nreferring to\n<https://github.com/bmad-code-org/BMAD-METHOD/blob/main/src/core/tasks/review-adversarial-general.xml>",
+    "author": "redherring0828#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459653040671031450",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459654599341375680",
+    "timestamp": "2026-01-10 21:06:15",
+    "content": "Explain how a CNN works in under 30 sec",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459654599341375680",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459654621990748485",
+    "timestamp": "2026-01-10 21:06:20",
+    "content": "Nice, looks cool and will take a look. I selfishly built what i have for general/multi-purpose uses cases beyond just sdlc but i should probably be more disciplined like this! 😎",
+    "author": "nashburch#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459654621990748485",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459654629368528927",
+    "timestamp": "2026-01-10 21:06:22",
+    "content": "\"Auto-done for gemini, codex, and spins up a CC task sub-agent for 3 opinions\" << I like the sound of that. How often do they complement each other in practice?",
+    "author": "redherring0828#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459654629368528927",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459655411102777497",
+    "timestamp": "2026-01-10 21:09:29",
+    "content": "Because the models are so different they always have different opinions or different bents. Codex likes to roast the hell out of things for whatever reason in this setup with gpt-5-codex. I use it to ground research tasks, code review, second opinions on plans and everything. But really it can be used for any purpose. I just tend to use it for whatever comes to mind at the moment. Judgment is the skill of the future and this just gives me some insurance on if I’m headed the right direction on whatever I’m doing.",
+    "author": "nashburch#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459655411102777497",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459655558796804319",
+    "timestamp": "2026-01-10 21:10:04",
+    "content": "nope",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459655558796804319",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459655654489985326",
+    "timestamp": "2026-01-10 21:10:27",
+    "content": "it's been calm all day and they all wake up at a specific timezone ?",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459655654489985326",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459655936590479512",
+    "timestamp": "2026-01-10 21:11:34",
+    "content": "cron jobs all trigger at a specific time",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459655936590479512",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459658340069146728",
+    "timestamp": "2026-01-10 21:21:07",
+    "content": "using gemini while waiting for code quota... it went completely bonkers again...\nFeel like i'm wasting my claude quota to fix gemini 😄\n\n```\nDebugging Evaluation Action Mismatch\nTraining FAILED again. Log: DEBUG: Failed to make action 84. Selected: \n(21, 0)\n -> 21->NE -> 21->17??. Wait 21 neighbor NE is 17. 17 neighbor NE is 14. Wait. Python Legal Moves (Decoded): 21x5 (caps: (9, 17, 17)). It sees a multi-jump! 21 -> 5. Path? 21 -> ?? -> 5. Caps: 17, 17 (DUPLICATE?), 9. Wait. 17 is captured TWICE? This implies a CYCLE or BACKTRACKING into the same square? Or 17 is listed twice because my fix duplicated it? new_captured = sorted(list(captured) + [jumped] + list(move.captured)) If move.captured already has 17. And jumped is 17. Then we add 17 again. This implies recursion returned a path capturing 17. And current step ALSO captures 17. This implies 17 was captured TWICE in the chain. Which is impossible in Checkers? Unless recursion returns relative to landing? If A->B captures X. Recursion from B returns B->C captures Y. We construct A->C captures X, Y. If X == Y? Impossible.\n\nBut here: caps: (9, 17, 17). This implies 17 appears twice. Maybe 17 is the jumped square of the FIRST step. And 17 is somehow in the rest? Or maybe sorted() confuses it?\n\nAction 84: 21*4 + 0 -> 21->NE. Python says legal move 21->5. 21 (Row 5 Col 2). 5 (Row 1 Col 2). Path? 21 -> 17(NE) -> 14. (Jump 17). 14 -> 9(NE)? -> 5. (Jump 9). So path is 21->14->5. Captures: 17, 9. Why does log say \n(9, 17, 17)\n? Because my Fix:\n```",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459658340069146728",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459661023937302743",
+    "timestamp": "2026-01-10 21:31:47",
+    "content": "What exactly is it testing?",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459661023937302743",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459661278581625016",
+    "timestamp": "2026-01-10 21:32:48",
+    "content": "Is it playing checkers?",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459661278581625016",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459661419841847469",
+    "timestamp": "2026-01-10 21:33:21",
+    "content": "oh rereading it your tuple is duplicated so it made an invalid capture path",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459661419841847469",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459661664969429218",
+    "timestamp": "2026-01-10 21:34:20",
+    "content": "Still curious what is being tested though. Are you simulating games to figure something out or making a checkers game with an LLM powered opponent or what?",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459661664969429218",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459664072436875410",
+    "timestamp": "2026-01-10 21:43:54",
+    "content": "yeah i had claude implement a checkers 8x8. then i moved some part to C++ module to speed up self play.\nnow it have a bug with mandatory multicapture in zig zag pattern. it was fixed in the selfplay but the evaluation still generate invalid move",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459664072436875410",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459664898756706460",
+    "timestamp": "2026-01-10 21:47:11",
+    "content": "```\n\nDEBUG: Failed to make action 109\nDEBUG: Selected action details: (27, 1)\nDEBUG: Python Legal Actions (Indices): [100, 109]\nDEBUG: Python Legal Moves (Decoded):\n  25x11 (caps: (22, 15))\n  27x11 (caps: (23, 15))\nDEBUG: Board State:\nDEBUG: player_men: 0b11001010000000110000000000000000\nDEBUG: player_kings: 0b0\nDEBUG: opponent_men: 0b110000001000000001100011\n\nBoard:\n0     M     M     .     . \n1  .     M     M     .    \n2     .     .     .     . \n3  .     .     .     M    \n4     m     m     .     . \n5  .     .     M     M    \n6     .     m     .     m \n7  .     .     m     m    \n   0  1  2  3  4  5  6  7\n```",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459664898756706460",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459665308527628531",
+    "timestamp": "2026-01-10 21:48:48",
+    "content": "or maybe a problem when there is multiple possible multicapture ? Mmmmm....",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459665308527628531",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459665352702169351",
+    "timestamp": "2026-01-10 21:48:59",
+    "content": "😮‍💨",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459665352702169351",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459666313499906071",
+    "timestamp": "2026-01-10 21:52:48",
+    "content": "well i reached gemini quota as well 😄",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459666313499906071",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459673985426915450",
+    "timestamp": "2026-01-10 22:23:17",
+    "content": "i have my claude code quota back and it found the bug immediatly 😄",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459673985426915450",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459679717807358087",
+    "timestamp": "2026-01-10 22:46:04",
+    "content": "https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/\n# Boston Dynamics & Google DeepMind Form New AI Partnership to Bring ...\nA new robotics partnership aims to combine Boston Dynamics’ athletic intelligence with Google DeepMind’s foundational capabilities",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459679717807358087",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459690137137975491",
+    "timestamp": "2026-01-10 23:27:28",
+    "content": "I'm not sure where to put this link but I think it should be part of Claude code by default. \nhttps://youtu.be/jRBiWoSKpIo?si=SW-h9u5Jsi_vDTFd",
+    "author": "dustin2954#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459690137137975491",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]
