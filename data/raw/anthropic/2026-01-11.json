@@ -6063,5 +6063,1143 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459973865601237015",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1459973897368895610",
+    "timestamp": "2026-01-11 18:15:02",
+    "content": "Yesterday was still running on opus",
+    "author": "arceas#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459973897368895610",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459973898463608966",
+    "timestamp": "2026-01-11 18:15:02",
+    "content": "on claude.ai?",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459973898463608966",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459973921708310559",
+    "timestamp": "2026-01-11 18:15:07",
+    "content": "No claude code",
+    "author": "arceas#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459973921708310559",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459974013110452407",
+    "timestamp": "2026-01-11 18:15:29",
+    "content": "all over - its because Opus is now 1.7x cost not 5x",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459974013110452407",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459974047717658645",
+    "timestamp": "2026-01-11 18:15:37",
+    "content": "",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459974047717658645",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1459974047298355412/Screenshot_2026-01-12_at_4.45.29_am.png?ex=69653a49&is=6963e8c9&hm=485d71cf4b2fcd760e958ca9eb582ecae9bc24a1bc52d304628f72087cd88389&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459974066524913876",
+    "timestamp": "2026-01-11 18:15:42",
+    "content": "what subscription level?",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459974066524913876",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459974086917623951",
+    "timestamp": "2026-01-11 18:15:47",
+    "content": "any I think?",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459974086917623951",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459974141167013949",
+    "timestamp": "2026-01-11 18:16:00",
+    "content": "I had updated to 5x for a month so though THAT was the reason but its not.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459974141167013949",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459974166462857293",
+    "timestamp": "2026-01-11 18:16:06",
+    "content": "It could be they made Pro default to Sonnet to reduce people complaining about their usage being eaten up too quickly",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459974166462857293",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459974271349817504",
+    "timestamp": "2026-01-11 18:16:31",
+    "content": "it changed default with specific CC versions I think ?",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459974271349817504",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459974272322638090",
+    "timestamp": "2026-01-11 18:16:31",
+    "content": "I'm on Max",
+    "author": "arceas#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459974272322638090",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459974375729139904",
+    "timestamp": "2026-01-11 18:16:56",
+    "content": "interesting; Opus is still default for me (on 20x)",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459974375729139904",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459974424261296361",
+    "timestamp": "2026-01-11 18:17:07",
+    "content": "yeah on any max plan it absolutely does not burn hard. on plus it might get you an hour vs. 2 hrs of continuous usage - but its also smarter.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459974424261296361",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459974467064303890",
+    "timestamp": "2026-01-11 18:17:17",
+    "content": "Nvm I just did /login again and reauthorised",
+    "author": "arceas#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459974467064303890",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459974483560497172",
+    "timestamp": "2026-01-11 18:17:21",
+    "content": "now it's default opus again",
+    "author": "arceas#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459974483560497172",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459974497678659646",
+    "timestamp": "2026-01-11 18:17:25",
+    "content": "weird",
+    "author": "arceas#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459974497678659646",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459974503256821812",
+    "timestamp": "2026-01-11 18:17:26",
+    "content": "https://github.com/benbasha/Claude-Autopilot , recommended perhaps for $20/mo plans ?",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459974503256821812",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459974611331711047",
+    "timestamp": "2026-01-11 18:17:52",
+    "content": "Yea pro is not nearly enough for me",
+    "author": "arceas#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459974611331711047",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459974635964727326",
+    "timestamp": "2026-01-11 18:17:58",
+    "content": "I'm on the 5x plan",
+    "author": "arceas#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459974635964727326",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459975356122398886",
+    "timestamp": "2026-01-11 18:20:49",
+    "content": "yeah for coding - I was doing some work testing where I needed it this month. when I'm writing fiction its meh, no time rush. taking a week to write a book is still massively faster than anyone else, and isn't the bottleneck.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459975356122398886",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459975651842064677",
+    "timestamp": "2026-01-11 18:22:00",
+    "content": "in claude desktop, the \"desktop commander\" plugin makes it ALMOST as good as claude code for many tasks.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459975651842064677",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459975690022813879",
+    "timestamp": "2026-01-11 18:22:09",
+    "content": "(can run powershell, file ops, etc).",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459975690022813879",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459975769660068189",
+    "timestamp": "2026-01-11 18:22:28",
+    "content": "claude code has an incorrect inductive bias for \"Writing fiction\" otherwise I'd use it.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459975769660068189",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459977263616495728",
+    "timestamp": "2026-01-11 18:28:24",
+    "content": "How so?",
+    "author": "jonathane_kro#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459977263616495728",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459977435608256675",
+    "timestamp": "2026-01-11 18:29:05",
+    "content": "idk exactly I just noticed I get completely different results in terms of writing style using web vs. CLI. same for codex/GPT 5.1",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459977435608256675",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459977608346337474",
+    "timestamp": "2026-01-11 18:29:46",
+    "content": "I'm using web because the project injects all the \"Pen name OS\" files every time. I think in CC it sometimes does not load it all or loses it post compact?",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459977608346337474",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459977678919569462",
+    "timestamp": "2026-01-11 18:30:03",
+    "content": "but there's prob a way to auto inject files other than claude.md ?",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459977678919569462",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459977887963943027",
+    "timestamp": "2026-01-11 18:30:53",
+    "content": "Ahh. Alright, I ask because I use claude, Sonnet 4.5 almost exclusively for writing and roleplay as I have not found one half as good at writing as claude. and I use .md files and then manually run a command to read all .md's every few prompts.",
+    "author": "jonathane_kro#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459977887963943027",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459977949641179280",
+    "timestamp": "2026-01-11 18:31:08",
+    "content": "a bunch of @path/to/other/file in CLAUDE.md does it",
+    "author": "redherring0828#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459977949641179280",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459978056163655896",
+    "timestamp": "2026-01-11 18:31:33",
+    "content": "ah nice. I will have to try that. CC is def better at doing workflows over longer periods.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459978056163655896",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459978158534164705",
+    "timestamp": "2026-01-11 18:31:58",
+    "content": "And if you ask it about your \"Incorrect inductive bias\", it might even tell you what in its system prompt makes it happen",
+    "author": "redherring0828#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459978158534164705",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459978198635909194",
+    "timestamp": "2026-01-11 18:32:07",
+    "content": "book 1-3 were writen by GPT 5.1 (5.2 is mathy and doesnt write well), but I am trying to write book 4 with Opus after analyzing the book style and see if it can mimic it.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459978198635909194",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459978375220170906",
+    "timestamp": "2026-01-11 18:32:49",
+    "content": "well it says the sys prompt - basically the part I cant see or control - is telling it about being a coding agent, and that's causing it to happen (may or may not be true).",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459978375220170906",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459978558922297365",
+    "timestamp": "2026-01-11 18:33:33",
+    "content": "On the subject of creative writing, <https://github.com/bmad-code-org/BMAD-METHOD/tree/main/src/modules/cis> << never used it myself but have heard some people waxing lyrically about it.",
+    "author": "redherring0828#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459978558922297365",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459982644652539975",
+    "timestamp": "2026-01-11 18:49:47",
+    "content": "did you downgreade to Pro",
+    "author": "bghira#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459982644652539975",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459982686419681320",
+    "timestamp": "2026-01-11 18:49:57",
+    "content": "no",
+    "author": "arceas#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459982686419681320",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459982723912569127",
+    "timestamp": "2026-01-11 18:50:06",
+    "content": "o because that would change it",
+    "author": "bghira#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459982723912569127",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459982744019796069",
+    "timestamp": "2026-01-11 18:50:11",
+    "content": "but idk anything else that would",
+    "author": "bghira#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459982744019796069",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459982748591849525",
+    "timestamp": "2026-01-11 18:50:12",
+    "content": ".",
+    "author": "arceas#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459982748591849525",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459984260164485142",
+    "timestamp": "2026-01-11 18:56:12",
+    "content": "whaaaaaaaaaaaaaaaaat",
+    "author": "milkv2#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459984260164485142",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459984286693200095",
+    "timestamp": "2026-01-11 18:56:19",
+    "content": "opus cheape??",
+    "author": "milkv2#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459984286693200095",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459984459603378386",
+    "timestamp": "2026-01-11 18:57:00",
+    "content": "what does it all mean???",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459984459603378386",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459984611198243008",
+    "timestamp": "2026-01-11 18:57:36",
+    "content": "ooeeee interesting",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459984611198243008",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459984701749072145",
+    "timestamp": "2026-01-11 18:57:58",
+    "content": "thanks",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459984701749072145",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459984742920360067",
+    "timestamp": "2026-01-11 18:58:07",
+    "content": "what are you guys building?",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459984742920360067",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459986449511481344",
+    "timestamp": "2026-01-11 19:04:54",
+    "content": "Is there anything as decent as iPadOS’s (what a stupid unnecessary name) Books for Android? Both aesthetically and feature wise.",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459986449511481344",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459986569984344128",
+    "timestamp": "2026-01-11 19:05:23",
+    "content": "oh cool what is it about? how is it architected",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459986569984344128",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459986596559585340",
+    "timestamp": "2026-01-11 19:05:29",
+    "content": "since when",
+    "author": "milkv2#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459986596559585340",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459986658408792315",
+    "timestamp": "2026-01-11 19:05:44",
+    "content": "and does it mean that new sonnet or opus is comming or higher ram prices",
+    "author": "milkv2#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459986658408792315",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459986731095949404",
+    "timestamp": "2026-01-11 19:06:01",
+    "content": "oh",
+    "author": "milkv2#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459986731095949404",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459986911975313621",
+    "timestamp": "2026-01-11 19:06:45",
+    "content": "Which books?",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459986911975313621",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459987126383804477",
+    "timestamp": "2026-01-11 19:07:36",
+    "content": "do you mean deterministic?",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459987126383804477",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459987302280331315",
+    "timestamp": "2026-01-11 19:08:18",
+    "content": "i don't know how to imagine that tbh",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459987302280331315",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459987891462869062",
+    "timestamp": "2026-01-11 19:10:38",
+    "content": "that doesn't says anything to me man",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459987891462869062",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459987961956405480",
+    "timestamp": "2026-01-11 19:10:55",
+    "content": "but I bet that if it excites you. then keep on it",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459987961956405480",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459988557136662744",
+    "timestamp": "2026-01-11 19:13:17",
+    "content": "I have only seen those images with circles and lines",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459988557136662744",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459989039410057412",
+    "timestamp": "2026-01-11 19:15:12",
+    "content": "haha not me ... but someone with a name called binaryalgorithm probably does lol",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459989039410057412",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459989057185517610",
+    "timestamp": "2026-01-11 19:15:16",
+    "content": "Opus is 5 per mil, sonnet is 3 per mil. Thats where i get the 1.7x approx cost.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459989057185517610",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459989289537372262",
+    "timestamp": "2026-01-11 19:16:11",
+    "content": "It used to be like 15 in 4.1 but they distilled opus is what i am guessing to streamline inference cost. Is it less verbose? I hadnt noticed.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459989289537372262",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459989580190322728",
+    "timestamp": "2026-01-11 19:17:21",
+    "content": "For the fiction it learns from failure modes i call out much better so i guess.. self prompting and.in ctx learning better",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459989580190322728",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459990195804967210",
+    "timestamp": "2026-01-11 19:19:47",
+    "content": "Oh. I havent tried gemini with a sub yet. Both gemini and opus are top ranked for creative writinf arena, but that has a strong short form bias i think? For novels you have to build directives for style, contract, lane, outline is the execution plan. And corrections and learning from failures.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459990195804967210",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459990378517368894",
+    "timestamp": "2026-01-11 19:20:31",
+    "content": "A tight 200k ctx will outperform 1m. It sounds good in theory but i think the models cant use it well yet",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459990378517368894",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459990870538588240",
+    "timestamp": "2026-01-11 19:22:28",
+    "content": "With all decisions made in planning, it can execute a book in a couple compactions. I specifixally ask it what it can self prompt to make it flow easier and its smart enough to optimize its workflow. Inhad a workflow for gpt 5.1 but it has to recalibrate for opus",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459990870538588240",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459990962880254169",
+    "timestamp": "2026-01-11 19:22:50",
+    "content": "The thing is to not over specify it.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459990962880254169",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459991247975616574",
+    "timestamp": "2026-01-11 19:23:58",
+    "content": "The reason 5.1 was weaker at code than 5.2 is the same reason it was better at books. I used cc before i had a.qc process in place. No scaffold. Now i am revisiting it since i learned a.few things.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459991247975616574",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459991444054872207",
+    "timestamp": "2026-01-11 19:24:45",
+    "content": "I run multiple models for qc passes but ultimately beta and arc human readers. If it passes as solid romance then its a marketable product.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459991444054872207",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459992247830319117",
+    "timestamp": "2026-01-11 19:27:57",
+    "content": "Yes totally different\n But opus is smart enough to get what im explaining with nuances. Thats why i think it can do it. I still hand write the vampire human sex scenes. It can do passable work with corrective prompting but i actually find it fun to line edit them myself for proper interiority.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459992247830319117",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459992711825199398",
+    "timestamp": "2026-01-11 19:29:47",
+    "content": "Using ai to research what sells bc i suck at marketing. Also disecting amazon a10 algo. The book can be totally average if the marketing is optimized.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459992711825199398",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459993090386300979",
+    "timestamp": "2026-01-11 19:31:18",
+    "content": "90% have basicslly no activity. You cant just kdp publish and.expect reads. You have to build the product graph using promo burst ideally in an optimized way",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459993090386300979",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459993197181669578",
+    "timestamp": "2026-01-11 19:31:43",
+    "content": "Millions of kindle books... only top 100k have 1 dl or sale a day or more.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459993197181669578",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459994483226837083",
+    "timestamp": "2026-01-11 19:36:50",
+    "content": "Yeah having ai research it several times woth deep res requests both gpt and claude. Helps a lot to understand what to do.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459994483226837083",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459994985658056764",
+    "timestamp": "2026-01-11 19:38:49",
+    "content": "Hilarious part? I dont read romance. I read sci fi. But it keeps me from interfering endless so the ai can finish the book. Research also indicates most readers cantbtell ai books and even mislabel human books as ai. Current gen.models can do it. Once its possible... you can easily eventually get a pen name viable on amazon. Just pass quqlity bar and you are in.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459994985658056764",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459995111265009790",
+    "timestamp": "2026-01-11 19:39:19",
+    "content": "Most authors abhor ai and also marketing.. to their detriment.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459995111265009790",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459996020728401951",
+    "timestamp": "2026-01-11 19:42:56",
+    "content": "So my guess based on the research is it IS flooded with ai books but most ppl cant market at all to get momentum organicallt which you must do. but famous authors have been caught with chatgpr prompts in their books. Must run extensive qc for that. My take is it dont matter as long as reader likes the book.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459996020728401951",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459996339889770597",
+    "timestamp": "2026-01-11 19:44:12",
+    "content": "Lol fiction turning test is mostly passed now with the right scaffolding. It takes work. Plugin to random sites that say they one shot a book? Yeah that output is trash.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459996339889770597",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459997494107701248",
+    "timestamp": "2026-01-11 19:48:48",
+    "content": "Where does this figure come from, I keep hearing 1.7 and similar, is it from your personal testing or did I miss an announcement?",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459997494107701248",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459997849004806196",
+    "timestamp": "2026-01-11 19:50:12",
+    "content": "That is correct. Its prob more efficient overall for most use.cases. i now use opus for everything.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459997849004806196",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459997908278706206",
+    "timestamp": "2026-01-11 19:50:26",
+    "content": "Neat",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459997908278706206",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459998017523552393",
+    "timestamp": "2026-01-11 19:50:52",
+    "content": "If sonnet fails at all.. itll burn more there is a video woth like ctx used on a puzzle task sonnet v opus.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459998017523552393",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459999053193679054",
+    "timestamp": "2026-01-11 19:54:59",
+    "content": "Only passively, the work seemed interesting but I wasn't overly invested. What was the fix that worked for you?",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459999053193679054",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459999168113414276",
+    "timestamp": "2026-01-11 19:55:27",
+    "content": "I was also driving for 8 hours yesterday so was in and out a lot",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459999168113414276",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1459999914850386132",
+    "timestamp": "2026-01-11 19:58:25",
+    "content": "Hmm. I have not tried using opus yet in cc to make a test llm with my gpu. Gpt 5.2 did it well, sonnet struggled. I need to use opus for that.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1459999914850386132",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460000731401682974",
+    "timestamp": "2026-01-11 20:01:39",
+    "content": "I'm not well versed on this honestly, but aren't you essentially locking weights which would reduce creativity?",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460000731401682974",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460001247062134979",
+    "timestamp": "2026-01-11 20:03:42",
+    "content": "I made a sampling test where opus picks next 5 to 10 top tokems then calls random prng to pick the token. The output is fun.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460001247062134979",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460001313562824764",
+    "timestamp": "2026-01-11 20:03:58",
+    "content": "Ahh that makes sense",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460001313562824764",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460001425554931712",
+    "timestamp": "2026-01-11 20:04:25",
+    "content": "Is it doing like a kind of circuit design",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460001425554931712",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460001955220029470",
+    "timestamp": "2026-01-11 20:06:31",
+    "content": "Yeah i was considering... well these days you can use a circuit design lang to order custom hardware. And claude is smart enough to i/o that hardware given a simple interface. What is possible? Robot. Custom chip?",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460001955220029470",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460002158870270073",
+    "timestamp": "2026-01-11 20:07:20",
+    "content": "There are many premade componemts already. Fpga? Neural unit on usb?",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460002158870270073",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460004266797437162",
+    "timestamp": "2026-01-11 20:15:42",
+    "content": "Well my thinking is ai is smart controller with context intelligence. You give it some hardware to control to extend it. Not sure what it could do in real world anymore. Exciting for actual enginerrs.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460004266797437162",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460004755697828033",
+    "timestamp": "2026-01-11 20:17:39",
+    "content": "Its amazing how fast using ai to bootstrap yourself in a new area accelerates learning",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460004755697828033",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460005081708757184",
+    "timestamp": "2026-01-11 20:18:57",
+    "content": "First thing i did was demystify what an llm is soing by training locally woth pytorch.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460005081708757184",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460005120585502836",
+    "timestamp": "2026-01-11 20:19:06",
+    "content": "Like 2 yrs ago",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460005120585502836",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460005211535048897",
+    "timestamp": "2026-01-11 20:19:28",
+    "content": "Not to compete.. local just cannot. To understand",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460005211535048897",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460005507052998787",
+    "timestamp": "2026-01-11 20:20:38",
+    "content": "Domain specific yeah you can do it",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460005507052998787",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460005655644733585",
+    "timestamp": "2026-01-11 20:21:13",
+    "content": "I enjoy havong a 5080 ti now",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460005655644733585",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460006652731326515",
+    "timestamp": "2026-01-11 20:25:11",
+    "content": "16gb vram is actually the bottleneck not the compute for me. Forces creative solutipns but ai often forgets to check vram usage at runtime",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460006652731326515",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460010041645203619",
+    "timestamp": "2026-01-11 20:38:39",
+    "content": "Oh yeah it was only for learning qkv cache and tokenization and experimemts",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460010041645203619",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460010216195363058",
+    "timestamp": "2026-01-11 20:39:21",
+    "content": "Llm is not magic but.. stacking enough simple compoments creates intelligence. Just diff type of unit than humans",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460010216195363058",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460010377055305801",
+    "timestamp": "2026-01-11 20:39:59",
+    "content": "I like to argue a simulation of x is functionally the same as x for my purposes.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460010377055305801",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460010497335099561",
+    "timestamp": "2026-01-11 20:40:28",
+    "content": "Alien intelligence. Third hemisphere. We are cybernetic with ai lol",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460010497335099561",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460010769340170466",
+    "timestamp": "2026-01-11 20:41:33",
+    "content": "Opus talks philosophy pretty good too what we know and dont know. I dont get stuck in the weeds. I just focus on what we can do",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460010769340170466",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460011821279871099",
+    "timestamp": "2026-01-11 20:45:43",
+    "content": "I see web ctx reports 190k to sonnet and auto compacts at 10k left. Summaries always seem to fit like 6 7k. I wonder if cc can be set higher it used to be like 40k reserved right",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460011821279871099",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460013522086793399",
+    "timestamp": "2026-01-11 20:52:29",
+    "content": "But  everyntool use in sonmet makes it nuerotic maybe thats why its not given to opus?",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460013522086793399",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460013601799798796",
+    "timestamp": "2026-01-11 20:52:48",
+    "content": "Itll say like omg ctx running low let me skip xyz whixh is wrong",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460013601799798796",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460013761296601364",
+    "timestamp": "2026-01-11 20:53:26",
+    "content": "yeah this is what i think the main reason for stubbing and uncompleted work is",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460013761296601364",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460014488156639233",
+    "timestamp": "2026-01-11 20:56:19",
+    "content": "Cc lets me use ccstatusline to monitor and manual compact. Between turns. When it happens mid turn thats the problem.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460014488156639233",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460014549146013857",
+    "timestamp": "2026-01-11 20:56:34",
+    "content": "That is why despite auto compact in web its an issue",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460014549146013857",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460017340476293314",
+    "timestamp": "2026-01-11 21:07:39",
+    "content": "https://youtu.be/D8GOeCFFby4?si=yiJ6k6MzeXZBYh4s",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460017340476293314",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460017557770731682",
+    "timestamp": "2026-01-11 21:08:31",
+    "content": "it talk about grokking as well",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460017557770731682",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460017824012701979",
+    "timestamp": "2026-01-11 21:09:35",
+    "content": "(or mostly)",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460017824012701979",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460018164917211395",
+    "timestamp": "2026-01-11 21:10:56",
+    "content": "and it on a add-modulo so it's close to what yo do too",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460018164917211395",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460019329255997510",
+    "timestamp": "2026-01-11 21:15:33",
+    "content": "I spent a good 6 mo learning i think im beyond yt now lol. Im at please distill googles latest arxiv now. But im also not trying to make llms anymore",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460019329255997510",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460019528263008572",
+    "timestamp": "2026-01-11 21:16:21",
+    "content": "youtube isn't just vulgarisation video",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460019528263008572",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460019629991919686",
+    "timestamp": "2026-01-11 21:16:45",
+    "content": "I know but like it was just so i knew what llms do under the hood.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460019629991919686",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460019833256018107",
+    "timestamp": "2026-01-11 21:17:34",
+    "content": "Im at a more operational place now like adding failure modes to claude.md and context engineering per task",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460019833256018107",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460020117462061300",
+    "timestamp": "2026-01-11 21:18:41",
+    "content": "I did learn rwkv tho, makes you realize why transformers work better. State based is lossy compression",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460020117462061300",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460020284563390464",
+    "timestamp": "2026-01-11 21:19:21",
+    "content": "We are totally spoiled i feel at current gen models",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460020284563390464",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460034831948709892",
+    "timestamp": "2026-01-11 22:17:10",
+    "content": "Hello, I am Senior Engineer specializing in AI & Full-Stack development. \nI’ve contributed to multiple high-impact projects and consistently receive positive feedback for speed, quality, and reliability. \nOpen to collaborating on Websites, dApps, NFT platforms, Web3 games, AI automations(n8n, make, gohighlevel etc), AI agents(TTS, STT, Voice/Mutli agents etc), trading bots, and mobile apps.",
+    "author": "fiestapotato1019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460034831948709892",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460037322056663163",
+    "timestamp": "2026-01-11 22:27:03",
+    "content": "Anything you're working on right now?",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460037322056663163",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460042253278908529",
+    "timestamp": "2026-01-11 22:46:39",
+    "content": "Are there disadvantages one should be aware of when using a Google Doc for project context in Claude? I want docs added that can be updated without needing to be manually refreshed. It's been working fine for quite a while, but the question always sits at the back of my mind.",
+    "author": "martinkruger#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460042253278908529",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460042503972589651",
+    "timestamp": "2026-01-11 22:47:39",
+    "content": "Here is another music project. https://youtu.be/0mXTOJuuA5U?si=w7t4kZuCVsk6d-oK . This one is more polished and generally useful if you have Bitwig. I started with poor man’s RAG: converted large user guide pdf to large md file, converted nested controller API html files to another large md file, then had claude create two smaller index md files by grepping the headers. Basically python cli to rust proxy to java controller. JSON-RPC over TCP. This worked better than previous projects that used Open Sound Control (OSC) over UDP, fire and forget. The proxy server exists because Bitwig controllers can only connect out for TCP. There are chapters in the YouTube video marking each song’s audio. The narration covers vibe coding in general.",
+    "author": "brian.edwards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460042503972589651",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460053557758918837",
+    "timestamp": "2026-01-11 23:31:34",
+    "content": "anyone else getting this issue when trying to start a new convo on web?",
+    "author": "pakeke#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460053557758918837",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1460053557221916672/image.png?ex=69658456&is=696432d6&hm=5dc2d458b43480693dd30e9e17da1e9d9bfaf9e4b570eddaa8ad595e4b4c8418&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460054489456181259",
+    "timestamp": "2026-01-11 23:35:16",
+    "content": "yeah its annoying but I just refresh",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460054489456181259",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460058224697802752",
+    "timestamp": "2026-01-11 23:50:07",
+    "content": "Anyone getting errors today where claude just randomly starts creating tmpclaude files every few seconds in your project directory?",
+    "author": "_jody_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460058224697802752",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460060241881202839",
+    "timestamp": "2026-01-11 23:58:08",
+    "content": "All they have in them is the path to my project",
+    "author": "_jody_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460060241881202839",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460060292829675561",
+    "timestamp": "2026-01-11 23:58:20",
+    "content": "as a single line",
+    "author": "_jody_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460060292829675561",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]

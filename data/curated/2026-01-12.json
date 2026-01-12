@@ -1,0 +1,38 @@
+[
+  {
+    "headline": "Anthropic Token Usage Reverts After Promo Glitch",
+    "bullets": [
+      "Anthropic's token usage seemed reduced due to an error post-promo.",
+      "The 2x usage promo ended, returning token allowance to standard levels."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-12 00:35:38",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460069681887969481"
+    },
+    "relevance": 70,
+    "hot_take": "Is this a promo hangover or a warning sign for Pro users?",
+    "category": "discussion",
+    "curated_at": "2026-01-12T00:55:45.337045+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude 2.1.5 Bugs Force Downgrade",
+    "bullets": [
+      "Users report stability issues with Claude 2.1.5, opting to downgrade.",
+      "No official fix announced, prompting concerns over update quality."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-12 00:21:49",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460066204000714862"
+    },
+    "relevance": 80,
+    "hot_take": "New isn't always better: When to hold off on AI updates.",
+    "category": "insight",
+    "curated_at": "2026-01-12T00:55:45.337064+00:00",
+    "original_server": "Anthropic"
+  }
+]
