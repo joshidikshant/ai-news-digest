@@ -34,5 +34,77 @@
     "category": "insight",
     "curated_at": "2026-01-12T00:55:45.337064+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Increased Token Usage Noticed in Light Usage of Claude",
+    "bullets": [
+      "Users observing legitimate increases in token usage, not just from heavy users.",
+      "Could indicate underlying changes in how Claude processes requests."
+    ],
+    "source": {
+      "server": "Discord",
+      "channel": "general",
+      "timestamp": "2026-01-12 00:57:15",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460075120046506168"
+    },
+    "relevance": 70,
+    "hot_take": "Is Claude becoming more resource-intensive, or are users just doing more with AI?",
+    "category": "insight",
+    "curated_at": "2026-01-12T06:21:04.072725+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Persistent Timeout Errors Encountered Using Claude Pro Max",
+    "bullets": [
+      "Users experiencing repeated timeouts in Claude's code terminal mode.",
+      "Potential performance issues specific to certain modes; VSCode extension unaffected."
+    ],
+    "source": {
+      "server": "Discord",
+      "channel": "general",
+      "timestamp": "2026-01-12 03:25:07",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460112330607296663"
+    },
+    "relevance": 80,
+    "hot_take": "Is Claude's code terminal mode getting too complex for its own good?",
+    "category": "discussion",
+    "curated_at": "2026-01-12T06:21:04.072750+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Confusion Over Token Limit Alerts for Claude",
+    "bullets": [
+      "Users unsure if Claude notifies when nearing token limits.",
+      "Some believed alerts existed, sparking discussion on limit management."
+    ],
+    "source": {
+      "server": "Discord",
+      "channel": "general",
+      "timestamp": "2026-01-12 04:35:07",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460129947006930956"
+    },
+    "relevance": 60,
+    "hot_take": "Are token limit alerts a missing feature or just misunderstood?",
+    "category": "discussion",
+    "curated_at": "2026-01-12T06:21:04.072758+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude's 1 Million Token Limit: More Than Just a Rumor?",
+    "bullets": [
+      "Discussion grows on the serious nature of Claude's 1 million token limit.",
+      "Previously thought to be exaggerated, now gaining credibility."
+    ],
+    "source": {
+      "server": "Discord",
+      "channel": "general",
+      "timestamp": "2026-01-12 06:13:35",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460154728401997962"
+    },
+    "relevance": 75,
+    "hot_take": "Is Anthropic testing the boundaries with a real 1 million token limit?",
+    "category": "discussion",
+    "curated_at": "2026-01-12T06:21:04.072762+00:00",
+    "original_server": "Anthropic"
   }
 ]

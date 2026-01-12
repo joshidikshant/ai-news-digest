@@ -79,5 +79,208 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460073466568114206",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1460074804928450783",
+    "timestamp": "2026-01-12 00:56:00",
+    "content": "We need a no solicitors sign",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460074804928450783",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460074913590280408",
+    "timestamp": "2026-01-12 00:56:26",
+    "content": "Oh wait, it's in <#1114301961831981107> rules where everyone ignores it 😄",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460074913590280408",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460075120046506168",
+    "timestamp": "2026-01-12 00:57:15",
+    "content": "So anyone else notice legitimate increase in token usage? I dont mean the complainers or abusers, I mean for light usage.",
+    "author": "jonathane_kro#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460075120046506168",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460075326087500090",
+    "timestamp": "2026-01-12 00:58:04",
+    "content": "I'm not here to hire. Most of the people in this server are devs, why would we hire another",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460075326087500090",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460075782226448445",
+    "timestamp": "2026-01-12 00:59:53",
+    "content": "Barking up the wrong tree out of desperation 😄",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460075782226448445",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460077685043757335",
+    "timestamp": "2026-01-12 01:07:27",
+    "content": "the dopamine hit once you type out ultrathink in full and the colors appear",
+    "author": "guy12345#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460077685043757335",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460077731013328958",
+    "timestamp": "2026-01-12 01:07:38",
+    "content": "who can relate 👇",
+    "author": "guy12345#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460077731013328958",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460079207010013236",
+    "timestamp": "2026-01-12 01:13:29",
+    "content": "Did you know they removed that, so ultrathink doesn't actually do anything, other than give you the colors? 😄",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460079207010013236",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460085704510935081",
+    "timestamp": "2026-01-12 01:39:19",
+    "content": "I just spent a few days off and on making a game on Claude. ugh",
+    "author": "toxicwildhog#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460085704510935081",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460094750085484719",
+    "timestamp": "2026-01-12 02:15:15",
+    "content": "claude yesterday created a file called 'hello' in the project's dir. nothing inside. I almost renamed it to 'hi?' but didn't have the balls :lol:",
+    "author": "ginga0143#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460094750085484719",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460102448269099039",
+    "timestamp": "2026-01-12 02:45:51",
+    "content": "good thing because \"?\" isnt allows in file names.",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460102448269099039",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460112330607296663",
+    "timestamp": "2026-01-12 03:25:07",
+    "content": "I seem to be getting\n```\nRead(backend/src/api/forms/submission/submission.router.js)\n  ⎿  Read 44 lines               \n  ⎿  Request timed out. Check your internet connection and proxy settings                                  \n     Retrying in 26 seconds… (attempt 10/10)\n```\nerror over and over. has anyone gotten this? any clue why this might be happening",
+    "author": ".canelex#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460112330607296663",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460112961266782240",
+    "timestamp": "2026-01-12 03:27:37",
+    "content": "started happening about a day ago, no problems before then. using claude pro max plan",
+    "author": ".canelex#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460112961266782240",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460114834380034314",
+    "timestamp": "2026-01-12 03:35:04",
+    "content": "all the time or intermittently? have you set the ANTHROPIC_BASE_URL env?",
+    "author": "duckbow.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460114834380034314",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460114958795931814",
+    "timestamp": "2026-01-12 03:35:33",
+    "content": "now its all the time. and no havent made any changes to env",
+    "author": ".canelex#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460114958795931814",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460115469536198839",
+    "timestamp": "2026-01-12 03:37:35",
+    "content": "it seems to only happen in claude code terminal mode actually, vscode extension seems to work fine. also the CLI app starts being _really really_ slow. im wondering if those 2 problems are connected",
+    "author": ".canelex#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460115469536198839",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460129947006930956",
+    "timestamp": "2026-01-12 04:35:07",
+    "content": "is there a way to have CC let u know when ur like 80% of your limit?",
+    "author": "francyx#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460129947006930956",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460142101848391681",
+    "timestamp": "2026-01-12 05:23:25",
+    "content": "youre kidding me",
+    "author": "guy12345#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460142101848391681",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460142168889884724",
+    "timestamp": "2026-01-12 05:23:41",
+    "content": "i thought its been doign it for me this whole time",
+    "author": "guy12345#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460142168889884724",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460142518107902024",
+    "timestamp": "2026-01-12 05:25:04",
+    "content": "Yeah, it was a tweet from an employee, they left the colors in for nostalgia but it's going to be phased out entirely soon I believe. \n\nIt's a shame honestly, I'll miss it, and I think it still has its place personally, to encourage the model to think much more than usual even with a larger thinking budget.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460142518107902024",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460151655654887568",
+    "timestamp": "2026-01-12 06:01:23",
+    "content": "",
+    "author": "denzo_22#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460151655654887568",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1460151654501580951/image.png?ex=6965dfb2&is=69648e32&hm=15fb318e3b201da3ef02d27bc13bfbf3f9b80b9a0e083ced8ef72851b78950a0&",
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1460151654811832380/image.png?ex=6965dfb2&is=69648e32&hm=4f7997f17db02933ce56dc6baf8d09891cd6359147a53367753e64c546a1c223&",
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1460151655113687100/image.png?ex=6965dfb2&is=69648e32&hm=e29be5c56412599d548039c4e5e25ec58ce9ccae4410788c046de338f0a4903c&",
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1460151655445168139/image.png?ex=6965dfb2&is=69648e32&hm=15a06ef9ee785a5c88e598fc1819a1281c1e65dc34b64d067988c5bbeb108b0d&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460154728401997962",
+    "timestamp": "2026-01-12 06:13:35",
+    "content": "I thought the 1m token limit for Claude is a joke but I've seen people talk about it more seriously lately?",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460154728401997962",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]
