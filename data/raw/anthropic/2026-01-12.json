@@ -282,5 +282,621 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460154728401997962",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1460158431955652680",
+    "timestamp": "2026-01-12 06:28:18",
+    "content": "u mean sonnet 4.5 1MT ?",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460158431955652680",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460158571965845517",
+    "timestamp": "2026-01-12 06:28:51",
+    "content": "Oh, it was only for Sonnet?",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460158571965845517",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460158710231072809",
+    "timestamp": "2026-01-12 06:29:24",
+    "content": "Sonnet 4.5 has a 1MT variant on the API, and so does Sonnet 4 if I recall. I use the 4.5 one.",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460158710231072809",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460158781739761757",
+    "timestamp": "2026-01-12 06:29:42",
+    "content": "I wish Opus had a 500kT variant at least.",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460158781739761757",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460158880784060521",
+    "timestamp": "2026-01-12 06:30:05",
+    "content": "Maybe I've let myself get confused between that and joking that Opus was going to have one too.",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460158880784060521",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460158972815347773",
+    "timestamp": "2026-01-12 06:30:27",
+    "content": "I don't know anything about APIs, I just use the browser version. I don't code.",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460158972815347773",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460159441331556362",
+    "timestamp": "2026-01-12 06:32:19",
+    "content": "It's actually not that bad. in a conversational context, 4.5 sometimes gets confused about what the latest message is, and replies to a previous one. but it can be mitigated to a large extent with some scaffolding and extended thinking. I suppose this behavior stems from lack of training on long contexts? not sure.",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460159441331556362",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460159592041549875",
+    "timestamp": "2026-01-12 06:32:55",
+    "content": "I've seen that exact same thing happen with google's models, too. but it's much worse there.",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460159592041549875",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460164562463625318",
+    "timestamp": "2026-01-12 06:52:40",
+    "content": "it's sonnet only and only for enterprise. It's considerably more expensive",
+    "author": "duckbow.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460164562463625318",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460164789786382571",
+    "timestamp": "2026-01-12 06:53:34",
+    "content": "and also, reportedly, loses a lot in terms of quality of output at higher levels of context (i haven't used)",
+    "author": "duckbow.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460164789786382571",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460164942702444605",
+    "timestamp": "2026-01-12 06:54:10",
+    "content": "yeah loading >200kT context into the cache does cost a fair bit, especially when using 1h cache. but there's no \"enterprise only\" limitation on the API.",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460164942702444605",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460165062772920416",
+    "timestamp": "2026-01-12 06:54:39",
+    "content": "yeah you're right idk why i typed that",
+    "author": "duckbow.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460165062772920416",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460165080166564119",
+    "timestamp": "2026-01-12 06:54:43",
+    "content": "api only**",
+    "author": "duckbow.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460165080166564119",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460165212291203261",
+    "timestamp": "2026-01-12 06:55:15",
+    "content": "though price wise really only realistic for enterprise",
+    "author": "duckbow.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460165212291203261",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460165230486098116",
+    "timestamp": "2026-01-12 06:55:19",
+    "content": "I think enterprise accounts have it in their web interface, too. but not sure.",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460165230486098116",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460175211763601418",
+    "timestamp": "2026-01-12 07:34:59",
+    "content": "anyone getting tmpclaude getting created every few second",
+    "author": "axia3002#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460175211763601418",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460175219594367071",
+    "timestamp": "2026-01-12 07:35:01",
+    "content": "is so annoying",
+    "author": "axia3002#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460175219594367071",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460175279992340555",
+    "timestamp": "2026-01-12 07:35:15",
+    "content": "how do u downgrade",
+    "author": "axia3002#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460175279992340555",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460179712860229667",
+    "timestamp": "2026-01-12 07:52:52",
+    "content": "how do you even get it its been months now on my 5x plan and i still dont have it",
+    "author": "subether#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460179712860229667",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460180285328068723",
+    "timestamp": "2026-01-12 07:55:08",
+    "content": "i feel like the claude chrome extension is useless bc it always hits \"prompt too long\" after a few minutes",
+    "author": "______nick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460180285328068723",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460183610463223920",
+    "timestamp": "2026-01-12 08:08:21",
+    "content": "got access to a few pre release models, not sure what lab i tried asking what lab made you and it doesnt say",
+    "author": "aplex_gg#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460183610463223920",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1460183610085740626/image.png?ex=6965fd75&is=6964abf5&hm=b3e6c6a5e63c4c5da1e76e539f7e2e8d75516090d5fc7c2ae280680da86596f5&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460183634664226846",
+    "timestamp": "2026-01-12 08:08:27",
+    "content": "trying horizon right now",
+    "author": "aplex_gg#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460183634664226846",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460186308570910792",
+    "timestamp": "2026-01-12 08:19:04",
+    "content": "Isn't Horizon from last summer?",
+    "author": "______nick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460186308570910792",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460186873589665917",
+    "timestamp": "2026-01-12 08:21:19",
+    "content": "what even is this?",
+    "author": "subether#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460186873589665917",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460187011288666304",
+    "timestamp": "2026-01-12 08:21:52",
+    "content": "the chatapp is from Scale Ai (meta owns 49%)",
+    "author": "aplex_gg#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460187011288666304",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460187034609254412",
+    "timestamp": "2026-01-12 08:21:58",
+    "content": "you think one of those models is sonnet 4.7?",
+    "author": "subether#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460187034609254412",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460187098744357058",
+    "timestamp": "2026-01-12 08:22:13",
+    "content": "which prob is dropping today",
+    "author": "subether#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460187098744357058",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460187142280974508",
+    "timestamp": "2026-01-12 08:22:23",
+    "content": "i tried horzion and its not amazing",
+    "author": "aplex_gg#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460187142280974508",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460187260912799852",
+    "timestamp": "2026-01-12 08:22:51",
+    "content": "also i remember when Gpt-5 was on lm arena it was named as zenith so this leads me to think these are openai models",
+    "author": "aplex_gg#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460187260912799852",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460187398431440967",
+    "timestamp": "2026-01-12 08:23:24",
+    "content": "🥲",
+    "author": "subether#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460187398431440967",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460187510637592639",
+    "timestamp": "2026-01-12 08:23:51",
+    "content": "anyways im just excited for the new sonnet i feel like they cooked with this one",
+    "author": "subether#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460187510637592639",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460187601565650954",
+    "timestamp": "2026-01-12 08:24:13",
+    "content": "i hope claude eventually upgrades their web search infrastructure too at some point",
+    "author": "subether#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460187601565650954",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460187642489471057",
+    "timestamp": "2026-01-12 08:24:22",
+    "content": "how do you know its coming out today>",
+    "author": "aplex_gg#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460187642489471057",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460187751805878336",
+    "timestamp": "2026-01-12 08:24:49",
+    "content": "just a hunch, and based on a reddit post i saw the other day.",
+    "author": "subether#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460187751805878336",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460187890456727583",
+    "timestamp": "2026-01-12 08:25:22",
+    "content": "the models im trying are hopefully not sonnet they are not great",
+    "author": "aplex_gg#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460187890456727583",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460187891413160020",
+    "timestamp": "2026-01-12 08:25:22",
+    "content": "its also been past the 3 month mark",
+    "author": "subether#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460187891413160020",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460187938624114879",
+    "timestamp": "2026-01-12 08:25:33",
+    "content": "API",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460187938624114879",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460187979330093056",
+    "timestamp": "2026-01-12 08:25:43",
+    "content": "i remember seeing it in claude code tho",
+    "author": "subether#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460187979330093056",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460188013639504039",
+    "timestamp": "2026-01-12 08:25:51",
+    "content": "only some users got it",
+    "author": "subether#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460188013639504039",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460188074435936379",
+    "timestamp": "2026-01-12 08:26:05",
+    "content": "yeah, I have my CC connected via API (not via plan), and it has the 1MT model.",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460188074435936379",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460188083470209187",
+    "timestamp": "2026-01-12 08:26:08",
+    "content": "i thought you can only use claude code with a sub",
+    "author": "subether#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460188083470209187",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460188088415293677",
+    "timestamp": "2026-01-12 08:26:09",
+    "content": "o",
+    "author": "subether#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460188088415293677",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460188116630503437",
+    "timestamp": "2026-01-12 08:26:15",
+    "content": "makes sense then, rip",
+    "author": "subether#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460188116630503437",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460200439902507019",
+    "timestamp": "2026-01-12 09:15:14",
+    "content": "I'm surprised there's no voice channel lounge to get into",
+    "author": "crvcker#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460200439902507019",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460203702274228358",
+    "timestamp": "2026-01-12 09:28:11",
+    "content": "same here! also it's start to pop up from yesterday. Looking for solution with you 🙁",
+    "author": "fosken#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460203702274228358",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460204227098841120",
+    "timestamp": "2026-01-12 09:30:17",
+    "content": "you can use the api, it's just absurdly cheaper to do so via sub",
+    "author": "duckbow.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460204227098841120",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460208325906923644",
+    "timestamp": "2026-01-12 09:46:34",
+    "content": "This bug with requested timeout make my crazy. Dunno what's best solution for now to \"pack\" what's already done and continue from there in new CLI terminal or just in codex..",
+    "author": "fosken#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460208325906923644",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460211335320309792",
+    "timestamp": "2026-01-12 09:58:31",
+    "content": "What is the best linux terminal to run claude code on?",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460211335320309792",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460218458464583703",
+    "timestamp": "2026-01-12 10:26:50",
+    "content": "I switched to WezTerm recently and it worked pretty well",
+    "author": "mkubenka#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460218458464583703",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460223051894624340",
+    "timestamp": "2026-01-12 10:45:05",
+    "content": "Anyone know why when loading this file it also loaded the claude.md files in those other directories?",
+    "author": "lutzenberg#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460223051894624340",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1460223051689099369/Screenshot_2026-01-12_at_12.40.40_PM.png?ex=69662231&is=6964d0b1&hm=601503cdea0c6e3c4888420302beb008141b5c03ff19fab24f1b9b0ac849c107&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460225193434677269",
+    "timestamp": "2026-01-12 10:53:35",
+    "content": "just add the version you want and the current will be overwritten like this: npm install -g @anthropic-ai/claude-code@2.1.3",
+    "author": "_jody_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460225193434677269",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460225602446430270",
+    "timestamp": "2026-01-12 10:55:13",
+    "content": "That is a documented behavior - it always reads the CLAUDE.md files in the folder hierarchy up to the file.",
+    "author": "mprihoda#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460225602446430270",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460226657544700047",
+    "timestamp": "2026-01-12 10:59:24",
+    "content": "did aurora get banned",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460226657544700047",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460226859429134552",
+    "timestamp": "2026-01-12 11:00:12",
+    "content": "but those files are in a different directory?",
+    "author": "lutzenberg#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460226859429134552",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460227456953880720",
+    "timestamp": "2026-01-12 11:02:35",
+    "content": "Oh, I can’t see the whole path of the file, it is not nested? In that case that would not explain it. 😕",
+    "author": "mprihoda#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460227456953880720",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460228498470862919",
+    "timestamp": "2026-01-12 11:06:43",
+    "content": "i think 18th jan",
+    "author": "dictateurpampers#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460228498470862919",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460228622752420011",
+    "timestamp": "2026-01-12 11:07:13",
+    "content": "Correct, its like parent\n-_bmad/ -> epic.md file is in here\n-src/",
+    "author": "lutzenberg#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460228622752420011",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460230115219734616",
+    "timestamp": "2026-01-12 11:13:09",
+    "content": "Why",
+    "author": "subether#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460230115219734616",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460230578057248852",
+    "timestamp": "2026-01-12 11:14:59",
+    "content": "new model would definitely be cool. *crosses fingers*",
+    "author": "fidesratioque#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460230578057248852",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460231362736033896",
+    "timestamp": "2026-01-12 11:18:06",
+    "content": "it's the anniversary of anthropic no ?",
+    "author": "dictateurpampers#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460231362736033896",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460231873417711808",
+    "timestamp": "2026-01-12 11:20:08",
+    "content": "Devs",
+    "author": ".scanci#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460231873417711808",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460232040296484915",
+    "timestamp": "2026-01-12 11:20:48",
+    "content": "I use Claude Pro on phone specifically Android and I can't see Usage AFAIK\n\nCould we maybe add the feature on mobile?",
+    "author": ".scanci#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460232040296484915",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460233240257232923",
+    "timestamp": "2026-01-12 11:25:34",
+    "content": "Bro u had that problem too right",
+    "author": "axia3002#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460233240257232923",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460233246599286807",
+    "timestamp": "2026-01-12 11:25:35",
+    "content": "So annoying",
+    "author": "axia3002#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460233246599286807",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460242327996993620",
+    "timestamp": "2026-01-12 12:01:40",
+    "content": "oh its u okay. i suspected it was you but you know random names on discord, usually i never accept request",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460242327996993620",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460245220724576257",
+    "timestamp": "2026-01-12 12:13:10",
+    "content": "banned again? damn",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460245220724576257",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460246808717426853",
+    "timestamp": "2026-01-12 12:19:29",
+    "content": "Why was she banned though, I thought they only muted for 24h",
+    "author": "sapnis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460246808717426853",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460247399246336155",
+    "timestamp": "2026-01-12 12:21:50",
+    "content": "She's still here. Just muted.",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460247399246336155",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]

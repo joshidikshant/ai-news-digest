@@ -106,5 +106,77 @@
     "category": "discussion",
     "curated_at": "2026-01-12T06:21:04.072762+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Anthropic's Sonnet 4.5 Model Now Available with 1MT Variant",
+    "bullets": [
+      "Sonnet 4.5 and 4 models have a 1MT option on the API.",
+      "While available to everyone via API, the cost makes it realistic mainly for enterprise users."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-12 06:29:24",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460158710231072809"
+    },
+    "relevance": 80,
+    "hot_take": "Is Anthropic pricing itself out of the market with enterprise-only affordability?",
+    "category": "announcement",
+    "curated_at": "2026-01-12T12:22:58.993265+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Sonnet 4.5 Model Faces Challenges with Long Contexts",
+    "bullets": [
+      "Users report that Sonnet 4.5 can get confused in conversational contexts, similar to issues seen in Google's models.",
+      "Extended thinking and scaffolding can mitigate some of these issues."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-12 06:32:19",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460159441331556362"
+    },
+    "relevance": 75,
+    "hot_take": "Are current AI models hitting a wall with context length limitations?",
+    "category": "insight",
+    "curated_at": "2026-01-12T12:22:58.993289+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Speculation on Sonnet 4.7 Model Release",
+    "bullets": [
+      "Rumors suggest the release of Sonnet 4.7, potentially dropping today.",
+      "No official confirmation; based on user hunches and Reddit posts."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-12 08:22:13",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460187098744357058"
+    },
+    "relevance": 70,
+    "hot_take": "Are user-driven rumors sparking unnecessary hype in the AI model release cycle?",
+    "category": "discussion",
+    "curated_at": "2026-01-12T12:22:58.993293+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude Pro Users on Android Seek Usage Feature",
+    "bullets": [
+      "Android users of Claude Pro request a feature to view usage stats.",
+      "Currently, the feature is reportedly unavailable on mobile."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-12 11:20:48",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460232040296484915"
+    },
+    "relevance": 65,
+    "hot_take": "Is the lack of mobile features a blind spot in AI app development?",
+    "category": "discussion",
+    "curated_at": "2026-01-12T12:22:58.993297+00:00",
+    "original_server": "Anthropic"
   }
 ]
