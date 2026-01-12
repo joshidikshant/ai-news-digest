@@ -178,5 +178,41 @@
     "category": "discussion",
     "curated_at": "2026-01-12T12:22:58.993297+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude Experiences System Outages",
+    "bullets": [
+      "Multiple users report Claude.ai being down, experiencing 529 errors.",
+      "Some users speculate overload due to increased popularity, especially in healthcare."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-12 18:09:29",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460334890620026945"
+    },
+    "relevance": 90,
+    "hot_take": "Discuss the impact of AI tool outages on productivity and reliance on cloud services.",
+    "category": "announcement",
+    "curated_at": "2026-01-12T18:17:29.030368+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude's Competitors Struggle to Keep Up",
+    "bullets": [
+      "User feedback suggests Claude outperforms ChatGPT and Gemini.",
+      "Highlights ongoing competition in the AI model space."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-12 17:32:00",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460325455490977865"
+    },
+    "relevance": 80,
+    "hot_take": "Explore what makes Claude stand out in a crowded AI landscape.",
+    "category": "insight",
+    "curated_at": "2026-01-12T18:17:29.030396+00:00",
+    "original_server": "Anthropic"
   }
 ]
