@@ -886,5 +886,482 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460517806360625267",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1460522291812110438",
+    "timestamp": "2026-01-13 06:34:09",
+    "content": "how are the rate limits for the 5x plan for opus",
+    "author": "thegod_25142#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460522291812110438",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460526310710317171",
+    "timestamp": "2026-01-13 06:50:07",
+    "content": "I got a one-year subscription deal about 10 months ago that knocked the price down to about $12 a month. That's expiring in February, I'll have to figure out what I want to do then",
+    "author": "fidesratioque#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460526310710317171",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460526641502617601",
+    "timestamp": "2026-01-13 06:51:26",
+    "content": "I would not be surprised if I go to the Max plan at that point. I get a lot of mileage out of Claude",
+    "author": "fidesratioque#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460526641502617601",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460527463695122432",
+    "timestamp": "2026-01-13 06:54:42",
+    "content": "hm i think here is something very wrong\nThe file path I tried to use isn't in the allowed directories. Let me save this to the /home/claude directory and then move it to outputs so the user can access it.\nError: Path not allowed: /Users/anthonycaggiano/Library/Mobile\nI am not anthony caggiano...",
+    "author": "twilight_eso#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460527463695122432",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460528304015540305",
+    "timestamp": "2026-01-13 06:58:02",
+    "content": "Pretty good now that opus is cheaper on usage than it has been in the past",
+    "author": "secretary_birb#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460528304015540305",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460528315004751925",
+    "timestamp": "2026-01-13 06:58:05",
+    "content": "Happens sometimes after compacting. It usually corrects itself. It is a very strange bug though. I found a way to replicate it over and over with a different directory each time, but forgot how. I think I exited and resumed, or compacted again immediately. \n\nOne dude my friend found had a website url for the user, went to a LinkedIn page. Messaged him on LinkedIn lol.\n\nBased on the paths, it seems to somehow be bleeding from Claude code web version.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460528315004751925",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460528447355879538",
+    "timestamp": "2026-01-13 06:58:37",
+    "content": "connections be flaky today",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460528447355879538",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460528499424231576",
+    "timestamp": "2026-01-13 06:58:49",
+    "content": "You'll run out relatively quick if you do something that spam-reads multiple large files, but if you keep things self contained it lasts a while. I have a hard time hitting usage limit on it",
+    "author": "secretary_birb#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460528499424231576",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460528908771266795",
+    "timestamp": "2026-01-13 07:00:27",
+    "content": "Is it just me or is opus less intelligent today in cc",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460528908771266795",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460529185817624719",
+    "timestamp": "2026-01-13 07:01:33",
+    "content": "There's a lot of variance, not from day to day but conversation to conversation, because of the inherent statistical nature. Might be you've been getting some low-p rolls towards either side of the quality spectrum and are noticing it.",
+    "author": "secretary_birb#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460529185817624719",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460529294911475836",
+    "timestamp": "2026-01-13 07:01:59",
+    "content": "@dario please fix Claude",
+    "author": "plappag_37908#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460529294911475836",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460529369020633300",
+    "timestamp": "2026-01-13 07:02:16",
+    "content": "you should put together an agent that performs very stringent reviews on your plans. 3-4 passes takes a few minutes but you will get very fleshed out excellent plans out the other end",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460529369020633300",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460529440072142929",
+    "timestamp": "2026-01-13 07:02:33",
+    "content": "opus is a lot less dumb when it doesn't have wiggle room to be dumb, if that makes sense",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460529440072142929",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460529538206273558",
+    "timestamp": "2026-01-13 07:02:57",
+    "content": "claude is down",
+    "author": "samson11#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460529538206273558",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460529564714402011",
+    "timestamp": "2026-01-13 07:03:03",
+    "content": "thrives with very detailed specs that don't have holes. but if you're prompting it raw or trying to one shot you're in trouble",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460529564714402011",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460529634180464641",
+    "timestamp": "2026-01-13 07:03:20",
+    "content": "Opus is having high error rates. Sonnet seems to work fine at the moment",
+    "author": "secretary_birb#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460529634180464641",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460529685967667252",
+    "timestamp": "2026-01-13 07:03:32",
+    "content": "its over",
+    "author": "samson11#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460529685967667252",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460529769375600774",
+    "timestamp": "2026-01-13 07:03:52",
+    "content": "Opus derping again?",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460529769375600774",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460529783237640377",
+    "timestamp": "2026-01-13 07:03:55",
+    "content": "yeah lots of dropped connections / retries with Opus 4.5 atm",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460529783237640377",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460530030714163250",
+    "timestamp": "2026-01-13 07:04:54",
+    "content": "Welp. Time to go touch some grass. Or snow in my case.",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460530030714163250",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460530080018075801",
+    "timestamp": "2026-01-13 07:05:06",
+    "content": "Speaking of. I've been torturing Opus by making it play Gnosia. *Comedy* experience. Highly recommend",
+    "author": "secretary_birb#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460530080018075801",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460531043433185373",
+    "timestamp": "2026-01-13 07:08:56",
+    "content": "snowing there where u at rn?",
+    "author": "asapjohn1750#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460531043433185373",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460531228615770134",
+    "timestamp": "2026-01-13 07:09:40",
+    "content": "In Finland. We got all the snow. 9 month long winters usually.",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460531228615770134",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460531428541468800",
+    "timestamp": "2026-01-13 07:10:27",
+    "content": "Admittedly this winter has been mild, real snow didn't come in until late December (usually happens October/November) but it's coming in heavy now.",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460531428541468800",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460531704665215070",
+    "timestamp": "2026-01-13 07:11:33",
+    "content": "I dont like snow.",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460531704665215070",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460531854099742944",
+    "timestamp": "2026-01-13 07:12:09",
+    "content": "Torille",
+    "author": "usdjimbo#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460531854099742944",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460531876421959825",
+    "timestamp": "2026-01-13 07:12:14",
+    "content": "I'm fine with snow. I just don't like the -15 - -20 degree celsius temperatures we've been having lately.",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460531876421959825",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460531915546431518",
+    "timestamp": "2026-01-13 07:12:24",
+    "content": "OMG KYLLÄ",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460531915546431518",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460532100829548661",
+    "timestamp": "2026-01-13 07:13:08",
+    "content": "Meeting another Finn online is always weird xD We usually lurk and hide.",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460532100829548661",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460533641623900322",
+    "timestamp": "2026-01-13 07:19:15",
+    "content": "api down, too",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460533641623900322",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460533662117400616",
+    "timestamp": "2026-01-13 07:19:20",
+    "content": "but only Opus 4.5",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460533662117400616",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460541051382009928",
+    "timestamp": "2026-01-13 07:48:42",
+    "content": "https://status.claude.com/ is very misleading - the \"increased rate of errors\" is not considered to be downtime and the last 24 hours shows \"green\" while the service level has been terrible. If Anthropic can't be honest with themselves about the service level  then they can't fix the root cause(s). It would be nice to see them dealing with reality instead of fantasy.",
+    "author": "red1bean#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460541051382009928",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460544253607542921",
+    "timestamp": "2026-01-13 08:01:25",
+    "content": "agreed",
+    "author": "jumi_n#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460544253607542921",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460550166024294455",
+    "timestamp": "2026-01-13 08:24:55",
+    "content": "greetingss",
+    "author": "fightagainstevil#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460550166024294455",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460550319464513587",
+    "timestamp": "2026-01-13 08:25:31",
+    "content": "what is going on?",
+    "author": "fightagainstevil#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460550319464513587",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460550461785510025",
+    "timestamp": "2026-01-13 08:26:05",
+    "content": "Is it just me or claude yesterday was active like he is dumper. I Saw people mentioning that here before but just wondering (cause i experienced it for the first time yesterday) maybe it was because out chats got longer but he  forgot things like restarting the server etc",
+    "author": "fightagainstevil#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460550461785510025",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460550628928655394",
+    "timestamp": "2026-01-13 08:26:45",
+    "content": "good morning Kris | Claude",
+    "author": "fightagainstevil#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460550628928655394",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460552269555830795",
+    "timestamp": "2026-01-13 08:33:16",
+    "content": "Your github agent found a code set you are not aware of. Most likely it is a piece of code your agent needed and it does not like recreating the wheel",
+    "author": "dracopaladine#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460552269555830795",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460552827230359613",
+    "timestamp": "2026-01-13 08:35:29",
+    "content": "llms love recreating the wheel thats something they do really well unfortunately",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460552827230359613",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460560558007910441",
+    "timestamp": "2026-01-13 09:06:12",
+    "content": "@__hot_town__ in <#1460237271658926144> at <t:1768218095:R>:\n>>> Hey Claude Code people,\n\nI'm Vince, Dev Rel for Wasp.sh (fullstack React/Node/Prisma framework with batteries-included), and I'm working hard on an official Wasp plugin for Claude Code.\n\nWe want to import some Wasp rules/best practices into Claude's memory after the user installs the plugin and uses it within a Wasp project. Is there any way to package rules or a CLAUDE.md from within the plugin so that it automatically gets added to memory after install?\n\nAt the moment, I have a `general-wasp-knowledge.md` doc and a `/wasp:init` slash command that comes with the plugin. The idea is to use the `SessionStart` hook to alert the user to run this command, which just adds an import line to the `general-wasp-knowledge.md` doc in their CLAUDE.md file:\n```md\n  ⎿  SessionStart:startup says:\n    \n     IMPORTANT! The Wasp plugin hasn't been initialized for the current project.\n     Run /wasp:init to get the plugin's full functionality -- or reply \"opt out\" to never see this message again. \n```\n\nI'm wondering if this is a bad practice, or if there's a more efficient way to achieve this result?",
+    "author": "Fletcher#6884",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460560558007910441",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460596913685401656",
+    "timestamp": "2026-01-13 11:30:40",
+    "content": "Hello.",
+    "author": "calvx.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460596913685401656",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460596923512782919",
+    "timestamp": "2026-01-13 11:30:43",
+    "content": "I need help.",
+    "author": "calvx.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460596923512782919",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460596966450008263",
+    "timestamp": "2026-01-13 11:30:53",
+    "content": "I was charged 200$ for an account which is banned",
+    "author": "calvx.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460596966450008263",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460596980605784237",
+    "timestamp": "2026-01-13 11:30:56",
+    "content": "Please help.",
+    "author": "calvx.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460596980605784237",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460597196033495041",
+    "timestamp": "2026-01-13 11:31:48",
+    "content": "<@672706267470626826>",
+    "author": "calvx.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460597196033495041",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460597305219747873",
+    "timestamp": "2026-01-13 11:32:14",
+    "content": "The charge was done in my business card and I was banned for no reason.",
+    "author": "calvx.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460597305219747873",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460597457238102079",
+    "timestamp": "2026-01-13 11:32:50",
+    "content": "I tried emailing and I have gotten no response",
+    "author": "calvx.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460597457238102079",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460597478738104411",
+    "timestamp": "2026-01-13 11:32:55",
+    "content": "If anyone can help would appreciate it",
+    "author": "calvx.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460597478738104411",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460598155224678451",
+    "timestamp": "2026-01-13 11:35:36",
+    "content": "https://media.discordapp.net/attachments/1006341705924087919/1200758925205708870/caption-2-2.gif",
+    "author": "jeneijeonteu#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460598155224678451",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460602534946279489",
+    "timestamp": "2026-01-13 11:53:01",
+    "content": "<@187091180004179968> Hi",
+    "author": "iamkkronly#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460602534946279489",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460608303540207689",
+    "timestamp": "2026-01-13 12:15:56",
+    "content": "<@441111288194531328>",
+    "author": "calvx.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460608303540207689",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460609452242894990",
+    "timestamp": "2026-01-13 12:20:30",
+    "content": "?",
+    "author": "transistors#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460609452242894990",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460609488909373462",
+    "timestamp": "2026-01-13 12:20:38",
+    "content": "Hi",
+    "author": "transistors#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460609488909373462",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]

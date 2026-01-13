@@ -34,5 +34,59 @@
     "category": "discussion",
     "curated_at": "2026-01-13T06:18:36.168503+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Opus Faces High Error Rates and Connection Issues",
+    "bullets": [
+      "Users report significant connection drops and high error rates specifically with Opus 4.5.",
+      "Service status misleadingly shows green despite ongoing issues."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-13 07:19:15",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460533641623900322"
+    },
+    "relevance": 90,
+    "hot_take": "Is Opus 4.5 a beta product in disguise? Users demand transparency!",
+    "category": "discussion",
+    "curated_at": "2026-01-13T12:22:51.619339+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Potential Security Flaw: File Path Bleeding in Claude",
+    "bullets": [
+      "Users report a bug where file paths are incorrectly shared across sessions.",
+      "Possible security concern as paths can reveal user info or internal structures."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-13 06:54:42",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460527463695122432"
+    },
+    "relevance": 85,
+    "hot_take": "Could Claude's bug expose your data? Here's what you should know.",
+    "category": "insight",
+    "curated_at": "2026-01-13T12:22:51.619358+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Opus Gains Traction with Price Reductions",
+    "bullets": [
+      "Users find Opus more accessible thanks to recent cost reductions.",
+      "Despite the improvements in pricing, performance issues remain a concern."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-13 06:58:02",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460528304015540305"
+    },
+    "relevance": 75,
+    "hot_take": "Is cheaper always better? The real cost of using Opus.",
+    "category": "insight",
+    "curated_at": "2026-01-13T12:22:51.619361+00:00",
+    "original_server": "Anthropic"
   }
 ]
