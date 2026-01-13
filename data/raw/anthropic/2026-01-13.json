@@ -151,5 +151,740 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460428668563099909",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1460437857377194098",
+    "timestamp": "2026-01-13 00:58:38",
+    "content": "okay glad i wasnt the only one, it was forgetting closing divs and stuff, crazy",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460437857377194098",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460437860179247117",
+    "timestamp": "2026-01-13 00:58:39",
+    "content": "Hello guys. any recomendations for guides for using claude code / cursor / codex and...  coding in general ? (SDK / MCP, etc? working in loops..?:D)  I already tired of being hallucinated by agents 😄 Wish to buld in background some knowledge 🙂",
+    "author": "fosken#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460437860179247117",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460438337545437194",
+    "timestamp": "2026-01-13 01:00:33",
+    "content": "Perhaps Cowork is stressing the servers",
+    "author": "______nick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460438337545437194",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460439432095072451",
+    "timestamp": "2026-01-13 01:04:54",
+    "content": "is the claude app on windows buggin for anyone else",
+    "author": "kool12342#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460439432095072451",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460439549468475472",
+    "timestamp": "2026-01-13 01:05:22",
+    "content": "like the side bar has been getting stuck like this",
+    "author": "kool12342#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460439549468475472",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1460439549225337135/image.png?ex=6966ebd2&is=69659a52&hm=59292366c3d2f5da135e9836c6ff3985a12c6ebddaab219ca51b8ab7865ce484&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460439594649780397",
+    "timestamp": "2026-01-13 01:05:33",
+    "content": "Same thing on multiple devices",
+    "author": "kool12342#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460439594649780397",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460446696738656297",
+    "timestamp": "2026-01-13 01:33:46",
+    "content": "free claude code for a week in case anyone wants it: https://claude.ai/referral/-0tPYX5a9w",
+    "author": "hechxt#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460446696738656297",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460451478220312782",
+    "timestamp": "2026-01-13 01:52:46",
+    "content": "anthropic has said that they dont quantize their models tho",
+    "author": "pakeke#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460451478220312782",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460463499762340025",
+    "timestamp": "2026-01-13 02:40:32",
+    "content": "Does anyone use local harnesses for claude code (i.e. not using it directly in terminal)? I tried conductor.build cuz it notifies me when things are done running and lets me manage sessions nicely, but it's pretty mid; crashes A LOT. Any suggestions for something better?\nI specifically want those two features (built in notifications and all my sessions nicely stored), ideally more",
+    "author": "fa_111#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460463499762340025",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460465455935524884",
+    "timestamp": "2026-01-13 02:48:18",
+    "content": "unsure if we have anyone from Anthropic in here but wanted to say thanks for addressing this - https://github.com/anthropics/claude-code/issues/2088",
+    "author": ".meefs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460465455935524884",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460466618965430272",
+    "timestamp": "2026-01-13 02:52:56",
+    "content": "They be lurking from time to time",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460466618965430272",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460469890615083100",
+    "timestamp": "2026-01-13 03:05:56",
+    "content": "Any UI UX Designer using claude for suggest layout or brainstroming idea here?",
+    "author": "ferxyz.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460469890615083100",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460475687897923675",
+    "timestamp": "2026-01-13 03:28:58",
+    "content": "artefacts also not showing up for anyone besides in the chat history itself?",
+    "author": "o_4_a#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460475687897923675",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460480872774893628",
+    "timestamp": "2026-01-13 03:49:34",
+    "content": "Does anyone know where and how to use, and how to check the IS_DEMO environment variable?",
+    "author": "blong8806#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460480872774893628",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460486758042177720",
+    "timestamp": "2026-01-13 04:12:57",
+    "content": "yes",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460486758042177720",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460487146455568404",
+    "timestamp": "2026-01-13 04:14:30",
+    "content": "i am a ux/ui designer and ive used claude to create some cool mock-ups",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460487146455568404",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1460487145918566532/Screenshot_2026-01-08_at_9.55.46_PM.png.webp?ex=69671826&is=6965c6a6&hm=a00d509a0cf787e215c8b355516645981e2205ab83df38ae84789cc31f88c9aa&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460489348783804612",
+    "timestamp": "2026-01-13 04:23:15",
+    "content": "",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460489348783804612",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1460489348721148048/Screenshot_2026-01-12_at_11.22.30_PM.png?ex=69671a33&is=6965c8b3&hm=cad3dc7c32ae64addd6dcd96de0190d15ff09f7e09f5715a51501d58cd08eea5&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460491141479928024",
+    "timestamp": "2026-01-13 04:30:22",
+    "content": "What libraries do you use",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460491141479928024",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460492616150814731",
+    "timestamp": "2026-01-13 04:36:14",
+    "content": "SwiftUI",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460492616150814731",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460500177273098363",
+    "timestamp": "2026-01-13 05:06:17",
+    "content": "Installed a custom OS on my phone, disabled real time updates on *all* apps\nit feels to weird and unexpected to lose 3% battery in 3 hours",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460500177273098363",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460500258021834802",
+    "timestamp": "2026-01-13 05:06:36",
+    "content": "My phone is colder than Neptune",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460500258021834802",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460500851285295315",
+    "timestamp": "2026-01-13 05:08:57",
+    "content": "is claude bugging ?",
+    "author": "vixi_vs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460500851285295315",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460500875075125248",
+    "timestamp": "2026-01-13 05:09:03",
+    "content": "with the github",
+    "author": "vixi_vs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460500875075125248",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460500954506858632",
+    "timestamp": "2026-01-13 05:09:22",
+    "content": "speaking of neptune...",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460500954506858632",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460500996508614821",
+    "timestamp": "2026-01-13 05:09:32",
+    "content": "i went insane over the claude neptune conspiracy when it was leaked",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460500996508614821",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460501412139106439",
+    "timestamp": "2026-01-13 05:11:11",
+    "content": "is opus still nerfed today or feeling better?",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460501412139106439",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460501519978856593",
+    "timestamp": "2026-01-13 05:11:37",
+    "content": "the what now",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460501519978856593",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460501593706467531",
+    "timestamp": "2026-01-13 05:11:54",
+    "content": "is claude on neptune or something what did I miss",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460501593706467531",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460501684789710911",
+    "timestamp": "2026-01-13 05:12:16",
+    "content": "also I really wish I could know but i work in less than 8 hours and i cant drive tired goodnight\nbut do tell ill read morrow",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460501684789710911",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460501794160508978",
+    "timestamp": "2026-01-13 05:12:42",
+    "content": "that was a codename for one of the earlier models",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460501794160508978",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460502874126680232",
+    "timestamp": "2026-01-13 05:17:00",
+    "content": "Have you tried the Figma products? Curious what your thoughts are on them.",
+    "author": "martinkruger#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460502874126680232",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460504357177921704",
+    "timestamp": "2026-01-13 05:22:53",
+    "content": "Figma is very useful",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460504357177921704",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460504416481312883",
+    "timestamp": "2026-01-13 05:23:07",
+    "content": "You can have so much control",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460504416481312883",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460508730931286194",
+    "timestamp": "2026-01-13 05:40:16",
+    "content": "hi everyone I have a question ik its pretty basic",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460508730931286194",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460508765659988080",
+    "timestamp": "2026-01-13 05:40:24",
+    "content": "but if I hit my claude weekly limits but I still have my daily limits can I still use claude???",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460508765659988080",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460508821549088789",
+    "timestamp": "2026-01-13 05:40:37",
+    "content": "maybe a little python course if that is your jam",
+    "author": "ixture#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460508821549088789",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460508977778659571",
+    "timestamp": "2026-01-13 05:41:15",
+    "content": "anyone",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460508977778659571",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460509133366366369",
+    "timestamp": "2026-01-13 05:41:52",
+    "content": "there's session limits and weekly limits right? I haven't heard of daily limits",
+    "author": "ixture#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460509133366366369",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460509189532287128",
+    "timestamp": "2026-01-13 05:42:05",
+    "content": "but I would think if you hit your weekly limits you gotta wait until that week restarts",
+    "author": "ixture#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460509189532287128",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460509194267529216",
+    "timestamp": "2026-01-13 05:42:06",
+    "content": "well yea session limits",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460509194267529216",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460509207320199423",
+    "timestamp": "2026-01-13 05:42:09",
+    "content": "the 5 hour ones",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460509207320199423",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460509217176813865",
+    "timestamp": "2026-01-13 05:42:12",
+    "content": "yeah",
+    "author": "ixture#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460509217176813865",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460509229470322834",
+    "timestamp": "2026-01-13 05:42:15",
+    "content": "wtf",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460509229470322834",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460509251679162510",
+    "timestamp": "2026-01-13 05:42:20",
+    "content": "i alr hit 22%",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460509251679162510",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460509283207872719",
+    "timestamp": "2026-01-13 05:42:28",
+    "content": "and it hasnt even been 24 hrs yet",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460509283207872719",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460509320352501823",
+    "timestamp": "2026-01-13 05:42:36",
+    "content": "and ur telling me I wont be able to use it???",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460509320352501823",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460509450552082555",
+    "timestamp": "2026-01-13 05:43:07",
+    "content": "yeah I mean there's ways to change up what you are doing so you go through usage slower",
+    "author": "ixture#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460509450552082555",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460509579174477855",
+    "timestamp": "2026-01-13 05:43:38",
+    "content": "like keeping conversations shorter, using sonnet when it works for what you are doing, etc",
+    "author": "ixture#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460509579174477855",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460509671059361844",
+    "timestamp": "2026-01-13 05:44:00",
+    "content": "ig but still having to wrry about that is insane kind of to me",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460509671059361844",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460509815100014674",
+    "timestamp": "2026-01-13 05:44:34",
+    "content": "does anthropic ever plan on increasing limits",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460509815100014674",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460509865238859890",
+    "timestamp": "2026-01-13 05:44:46",
+    "content": "yeah I mean you might just be using it a bunch if you just started out of excitement, you'll settle into something, and then there's like the free tier on various other services if you run out, it'll be okay",
+    "author": "ixture#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460509865238859890",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460509902932939014",
+    "timestamp": "2026-01-13 05:44:55",
+    "content": "I wouldn't stress it",
+    "author": "ixture#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460509902932939014",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460509946297843722",
+    "timestamp": "2026-01-13 05:45:06",
+    "content": "true true but Im paying 20 bucks per month thats why yk",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460509946297843722",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460509995731914813",
+    "timestamp": "2026-01-13 05:45:17",
+    "content": "Also you can pay ala carte for usage.",
+    "author": "justicehager#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460509995731914813",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460510015541608632",
+    "timestamp": "2026-01-13 05:45:22",
+    "content": "i usually would want to at least a lot more then 3 days out",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460510015541608632",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460510038572662898",
+    "timestamp": "2026-01-13 05:45:28",
+    "content": "ig but still yk",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460510038572662898",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460510116750299209",
+    "timestamp": "2026-01-13 05:45:46",
+    "content": "but the big thing is keeping convos shorter, and like starting a new conversation whenever you can, that will help",
+    "author": "ixture#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460510116750299209",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460510124195053599",
+    "timestamp": "2026-01-13 05:45:48",
+    "content": "what are some usage practices I should keep in mind",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460510124195053599",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460510138090913842",
+    "timestamp": "2026-01-13 05:45:51",
+    "content": "ohh ok",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460510138090913842",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460510168696623104",
+    "timestamp": "2026-01-13 05:45:59",
+    "content": "the $20/mo plan is not really optimized for serious coding, imo.",
+    "author": "justicehager#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460510168696623104",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460510213550637159",
+    "timestamp": "2026-01-13 05:46:09",
+    "content": "it really isn't but IM not a serious coder",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460510213550637159",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460510252259606593",
+    "timestamp": "2026-01-13 05:46:19",
+    "content": "I just need like a sort of tutor, research, and assisntant",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460510252259606593",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460510263290761250",
+    "timestamp": "2026-01-13 05:46:21",
+    "content": "for my schoolwork",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460510263290761250",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460510281720660055",
+    "timestamp": "2026-01-13 05:46:26",
+    "content": "Ah!",
+    "author": "justicehager#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460510281720660055",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460510401375506528",
+    "timestamp": "2026-01-13 05:46:54",
+    "content": "and claude really impressed with its writing and feedback it gave",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460510401375506528",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460510436721168385",
+    "timestamp": "2026-01-13 05:47:03",
+    "content": "it helped me ace my final so i invested in it",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460510436721168385",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460510438575050858",
+    "timestamp": "2026-01-13 05:47:03",
+    "content": "yeah it's neat stuff",
+    "author": "ixture#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460510438575050858",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460510520594403461",
+    "timestamp": "2026-01-13 05:47:23",
+    "content": "ig premium stuff has mroe price to it 🤷‍♂️",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460510520594403461",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460510642204049546",
+    "timestamp": "2026-01-13 05:47:52",
+    "content": "the only good thing is I have school for 6 - 8 hours a day so at least that is not entriely putting me out of bussiness",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460510642204049546",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460510649208672328",
+    "timestamp": "2026-01-13 05:47:53",
+    "content": "with claude",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460510649208672328",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460510655114121308",
+    "timestamp": "2026-01-13 05:47:55",
+    "content": "Well, also using haiku for very easy things. I recommend that. Use projects and store common knowledge stuff across sessions in project files. Basically anything to shorten an individual chat b/c every time you add something it basically has to process the whole chat again if that makes sense?",
+    "author": "justicehager#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460510655114121308",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460510736420831252",
+    "timestamp": "2026-01-13 05:48:14",
+    "content": "ohhhhh ok so just initate new convos everytime right????",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460510736420831252",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460510788576870442",
+    "timestamp": "2026-01-13 05:48:26",
+    "content": "thats something img ood at im like all over the place",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460510788576870442",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460510851110010953",
+    "timestamp": "2026-01-13 05:48:41",
+    "content": "Long chats use more usage.",
+    "author": "justicehager#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460510851110010953",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460511114638135347",
+    "timestamp": "2026-01-13 05:49:44",
+    "content": "The main thing is to use sonnet/haiku though and steer clear of opus unless you’ve got something really complex.",
+    "author": "justicehager#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460511114638135347",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460511186096230491",
+    "timestamp": "2026-01-13 05:50:01",
+    "content": "Haiku uses a lot less and is actually pretty fine for most things.",
+    "author": "justicehager#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460511186096230491",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460511245349425162",
+    "timestamp": "2026-01-13 05:50:15",
+    "content": "ah makes sense claude does impress me with a lot of the stuff it does so ig its fine",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460511245349425162",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460511262436884543",
+    "timestamp": "2026-01-13 05:50:19",
+    "content": "tysm for all the tips here",
+    "author": "soundbytes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460511262436884543",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460511266480328754",
+    "timestamp": "2026-01-13 05:50:20",
+    "content": "For what you’re using it for.",
+    "author": "justicehager#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460511266480328754",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460517359423852645",
+    "timestamp": "2026-01-13 06:14:33",
+    "content": "The usage limits are the reasons why I don't use Claude anymore, but the model itself is really good...",
+    "author": "oudstand#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460517359423852645",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460517806360625267",
+    "timestamp": "2026-01-13 06:16:20",
+    "content": "Folders show 0% on Github Integration. If someone from claude can see this. Thank you",
+    "author": "asapjohn1750#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460517806360625267",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]

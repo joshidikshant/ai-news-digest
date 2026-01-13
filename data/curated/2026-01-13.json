@@ -1,0 +1,38 @@
+[
+  {
+    "headline": "Anthropic's Claude Faces User Frustration Over Usage Limits",
+    "bullets": [
+      "Users express dissatisfaction with Claude's session and weekly limits.",
+      "Anthropic's pricing and limitations are pushing some users away despite the model's capabilities."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-13 05:42:36",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460509320352501823"
+    },
+    "relevance": 75,
+    "hot_take": "Are AI subscription models sustainable with current usage limits?",
+    "category": "discussion",
+    "curated_at": "2026-01-13T06:18:36.168482+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Anthropic's Claude Code: User Issues and Potential Fixes",
+    "bullets": [
+      "Reports of Claude Code's performance issues, including forgetting code syntax.",
+      "Users suggest possible stress on servers as a contributing factor."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-13 00:58:38",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460437857377194098"
+    },
+    "relevance": 70,
+    "hot_take": "Is Claude Code facing a scaling problem?",
+    "category": "discussion",
+    "curated_at": "2026-01-13T06:18:36.168503+00:00",
+    "original_server": "Anthropic"
+  }
+]
