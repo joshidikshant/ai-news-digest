@@ -88,5 +88,59 @@
     "category": "insight",
     "curated_at": "2026-01-13T12:22:51.619361+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Deepseek's Hashmap in LLMs: A Revolutionary Claim",
+    "bullets": [
+      "Deepseek implemented a hashmap in LLMs, claiming it's revolutionary.",
+      "Skepticism around the real impact of this development."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-13 14:19:40",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460639441138745508"
+    },
+    "relevance": 80,
+    "hot_take": "Will this hashmap truly revolutionize LLMs, or is it just another overhyped buzzword?",
+    "category": "announcement",
+    "curated_at": "2026-01-13T18:19:24.357676+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude's Performance and Pricing Under Fire",
+    "bullets": [
+      "Users report Claude code's performance declining, reaching limits mid-task.",
+      "Usage rates are skyrocketing, leading to dissatisfaction."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-13 15:14:41",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460653288109248644"
+    },
+    "relevance": 90,
+    "hot_take": "Is Anthropic's pricing model sustainable, or are users being priced out?",
+    "category": "discussion",
+    "curated_at": "2026-01-13T18:19:24.357703+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Opus Service Reliability: Users Express Frustration",
+    "bullets": [
+      "Frequent service outages and status page inaccuracies are causing user frustration.",
+      "Concerns that Anthropic's service issues are becoming more frequent."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-13 17:01:04",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460680059399442598"
+    },
+    "relevance": 85,
+    "hot_take": "Is Anthropic's status page a facade? Users demand transparency amidst outages.",
+    "category": "discussion",
+    "curated_at": "2026-01-13T18:19:24.357707+00:00",
+    "original_server": "Anthropic"
   }
 ]

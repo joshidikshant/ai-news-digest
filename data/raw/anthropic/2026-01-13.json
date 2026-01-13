@@ -1363,5 +1363,685 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460609488909373462",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1460610906856886327",
+    "timestamp": "2026-01-13 12:26:17",
+    "content": "how do we get assigned the Question of the Week role so that we get the notifications?",
+    "author": "hot_town#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460610906856886327",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460613394603180042",
+    "timestamp": "2026-01-13 12:36:10",
+    "content": "I've got a question about prompt engineering. In React (front-end development), you have components which are similar to HTML tags e.g. `<MyComponent>`. \n\nIf I was to write the following in CC: `> I am working with the <Cell> component`\n\nIs there risk that the left and right angled brackets somehow get misinterpreted and not seen as a React component, or lead to bloat while it tries to figure out what the brackets are? Should this be in quotes e.g. `\"<Cell>\"`?",
+    "author": "martinkruger#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460613394603180042",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460613599776084140",
+    "timestamp": "2026-01-13 12:36:59",
+    "content": "I'd like to test this, but I'm not really sure how as the output I'm going to get is nondeterministic, so I can't really compare prompts with eachother",
+    "author": "martinkruger#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460613599776084140",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460622042469634194",
+    "timestamp": "2026-01-13 13:10:31",
+    "content": "Dude you're way overthinking it.",
+    "author": "plappag_37908#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460622042469634194",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460622091710890222",
+    "timestamp": "2026-01-13 13:10:43",
+    "content": "Prompt engineering in 2026 is more like \"bro u didn't fix that sh\" ?WTF BRO FIX IT NOW",
+    "author": "plappag_37908#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460622091710890222",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460623408588132372",
+    "timestamp": "2026-01-13 13:15:57",
+    "content": "I see it often mess up output when using backticks, so I imagine the same can happen with left and right angled brackets. It's just not visible.",
+    "author": "martinkruger#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460623408588132372",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460623472014135328",
+    "timestamp": "2026-01-13 13:16:12",
+    "content": "First, please do not tag staff here. They aren't support. Unfortunately, none of the staff or mods here have access to account or billing information and we can't assist with those issues. If you have submitted the ban appeal form as found in <#1114301961831981107> then the Trust & Safety team will respond. It can take some time depending on the level of appeals in the queue. If you don't hear back you can also try emailing support@mail.anthropic.com.",
+    "author": "arkahn#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460623472014135328",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460625715249807533",
+    "timestamp": "2026-01-13 13:25:07",
+    "content": "It has been added to the news options in <id:customize>",
+    "author": "arkahn#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460625715249807533",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460628497792897175",
+    "timestamp": "2026-01-13 13:36:11",
+    "content": "This is a very niche problem that happens",
+    "author": "plappag_37908#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460628497792897175",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460628529845768380",
+    "timestamp": "2026-01-13 13:36:18",
+    "content": "Not sure why",
+    "author": "plappag_37908#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460628529845768380",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460628597692698624",
+    "timestamp": "2026-01-13 13:36:34",
+    "content": "But when u have it, it sure is so annoying 🙂",
+    "author": "plappag_37908#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460628597692698624",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460639441138745508",
+    "timestamp": "2026-01-13 14:19:40",
+    "content": "Deepseek implemented a hashmap in LLMs\nand it's revolutionary apparently",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460639441138745508",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460639476316504240",
+    "timestamp": "2026-01-13 14:19:48",
+    "content": "hashmaps can't keep getting away with it",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460639476316504240",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460645177591861322",
+    "timestamp": "2026-01-13 14:42:27",
+    "content": "Hi guys, how to cancel the future subscription",
+    "author": "cypher01223#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460645177591861322",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460653288109248644",
+    "timestamp": "2026-01-13 15:14:41",
+    "content": "I've been disappointed with claude code lately. It's performing poorly, reaching the limits faster and in the middle of a task. It left me with a broken code because it reached the limit in the middle of it. \nChatGPT, which never even held a candle to claude code is actually coming to the rescue surprisingly often lately. Not even a coding agent, just the standard chat.",
+    "author": "diegzumillo#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460653288109248644",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460655237168627879",
+    "timestamp": "2026-01-13 15:22:26",
+    "content": "the standard ChatGPT chat has a *tiny* context so be aware it's probably just getting everything wrong and hallucinating joyful times",
+    "author": "dryhtscipe#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460655237168627879",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460655345918672967",
+    "timestamp": "2026-01-13 15:22:52",
+    "content": "\"everything\" is hyperbole but still",
+    "author": "dryhtscipe#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460655345918672967",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460659842606829771",
+    "timestamp": "2026-01-13 15:40:44",
+    "content": "Wdym mess up output",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460659842606829771",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460659909279486042",
+    "timestamp": "2026-01-13 15:41:00",
+    "content": "if you mean it looks wrong on the webUI, yeah\nThat's not really the model's fault, the webUI can be a bit wonky with it",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460659909279486042",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460659955832193128",
+    "timestamp": "2026-01-13 15:41:11",
+    "content": "you can copy the raw response text and look at it in vscode or something, it's what I do",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460659955832193128",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460667480040149054",
+    "timestamp": "2026-01-13 16:11:05",
+    "content": "Yeah, usage rates are really bad right now. One paragraph input, Three paragraphs output used to cost $0.08-$0.15 now the same costs $0.35",
+    "author": "jonathane_kro#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460667480040149054",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460671384123478040",
+    "timestamp": "2026-01-13 16:26:35",
+    "content": "",
+    "author": "fyruzone#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460671384123478040",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1460671383775219776/image.png?ex=6967c3bb&is=6966723b&hm=95d4b7df7fd3eb476d36c936d1bfe25088ae83a1870644a4b5e7d2dae8c9e1ff&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460671438787706974",
+    "timestamp": "2026-01-13 16:26:48",
+    "content": "i have added 5 dollars in claude for extra usage",
+    "author": "fyruzone#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460671438787706974",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460671468596625460",
+    "timestamp": "2026-01-13 16:26:56",
+    "content": "yet i still cant use that and it asks me to add more money",
+    "author": "fyruzone#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460671468596625460",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460671540923334746",
+    "timestamp": "2026-01-13 16:27:13",
+    "content": "",
+    "author": "fyruzone#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460671540923334746",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1460671540525011152/image.png?ex=6967c3e1&is=69667261&hm=6395548b390f52e28bff5c352d8af8a723757b4451d63312808df70b2773da4a&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460671647588814880",
+    "timestamp": "2026-01-13 16:27:38",
+    "content": "",
+    "author": "fyruzone#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460671647588814880",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1460671647345410242/image.png?ex=6967c3fa&is=6966727a&hm=f25ee06bfa9bd6da3119988b2137b2adc6a894a4ca6f6692edfd6978bf32785f&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460672172711477328",
+    "timestamp": "2026-01-13 16:29:43",
+    "content": "oh its a visual bag i can still keep chatting lol",
+    "author": "fyruzone#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460672172711477328",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460672216785096866",
+    "timestamp": "2026-01-13 16:29:54",
+    "content": "it just doesnt get rid of the \"youve hit your session limit\"",
+    "author": "fyruzone#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460672216785096866",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460672253866807366",
+    "timestamp": "2026-01-13 16:30:03",
+    "content": "claude code is being incredibly dumb for me today, is a new model incoming?",
+    "author": "octagonautopilot#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460672253866807366",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460673058539966474",
+    "timestamp": "2026-01-13 16:33:15",
+    "content": "Yeah same issue for me yesterday",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460673058539966474",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460673490356142212",
+    "timestamp": "2026-01-13 16:34:58",
+    "content": "Part of me worries that Anthropic is trying to shift their business model to a larger market to be more profitable and since they have great underlying agent tech (Claude code) they're going to allocate a lot more compute to the cowork feature and beyond",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460673490356142212",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460673656626876489",
+    "timestamp": "2026-01-13 16:35:37",
+    "content": "thats always a fear but at least there is competition",
+    "author": "octagonautopilot#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460673656626876489",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460674906038468822",
+    "timestamp": "2026-01-13 16:40:35",
+    "content": "",
+    "author": "erakrypton#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460674906038468822",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1460674905728352490/Snimek_obrazovky_2026-01-13_v_17.40.29.png?ex=6967c703&is=69667583&hm=2ef59fc7b2a622fe66719ce580421b26a31ce5c6efa48cec1c1797fc6d8d24ae&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460675015354880335",
+    "timestamp": "2026-01-13 16:41:01",
+    "content": "?",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460675015354880335",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1460675015006617854/Screenshot_2026-01-13-18-40-19-593_com.anthropic.claude-edit.jpg?ex=6967c71d&is=6966759d&hm=f2f9f68800ec7fe8445463565852458e441b0984f88637da04ee741ab600fadf&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460675049198719189",
+    "timestamp": "2026-01-13 16:41:09",
+    "content": "yeah its down",
+    "author": "erakrypton#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460675049198719189",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460675175556059323",
+    "timestamp": "2026-01-13 16:41:39",
+    "content": "Not again.",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460675175556059323",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460675186688004137",
+    "timestamp": "2026-01-13 16:41:42",
+    "content": "Opus down again?",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460675186688004137",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460675201401487441",
+    "timestamp": "2026-01-13 16:41:46",
+    "content": "Yup.",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460675201401487441",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460675227066437693",
+    "timestamp": "2026-01-13 16:41:52",
+    "content": "",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460675227066437693",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1460675226785288366/image0.gif?ex=6967c750&is=696675d0&hm=02f5477ae66df236025188e156a1f9ebdc03ad522d27e03a574fe7ebebddb9b9&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460675245005476002",
+    "timestamp": "2026-01-13 16:41:56",
+    "content": "It's been a lot recently.",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460675245005476002",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460675247953936525",
+    "timestamp": "2026-01-13 16:41:57",
+    "content": "i dont know if this is only me or had claude a lot more problems since Christmas ?",
+    "author": "twilight_eso#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460675247953936525",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460675294422896671",
+    "timestamp": "2026-01-13 16:42:08",
+    "content": "Why is it whenever I have a chance to do ANYTHING its fing down. Please anthropic. Your timing is the worst.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460675294422896671",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460675367483211863",
+    "timestamp": "2026-01-13 16:42:25",
+    "content": "I feel like they're watching me",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460675367483211863",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460675373460226110",
+    "timestamp": "2026-01-13 16:42:27",
+    "content": "Definitely more issues. Nothing devastating but these last couple days have been A LOT. Hopefully they haven't broken something 😂",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460675373460226110",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460675495917260922",
+    "timestamp": "2026-01-13 16:42:56",
+    "content": "So it's your fault. Get away from your computer, slowly, so the rest of us can have Opus back.",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460675495917260922",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460675579404620042",
+    "timestamp": "2026-01-13 16:43:16",
+    "content": "alone the compacting is my nemesis. A lot of times did this crash the action (Claude Desktop)",
+    "author": "twilight_eso#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460675579404620042",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460675617660993728",
+    "timestamp": "2026-01-13 16:43:25",
+    "content": "Well my only plan today was to get work done, so I probably will.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460675617660993728",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460675709298020612",
+    "timestamp": "2026-01-13 16:43:47",
+    "content": "down again?",
+    "author": "pteromaple#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460675709298020612",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460675727468003566",
+    "timestamp": "2026-01-13 16:43:51",
+    "content": "Yep",
+    "author": "chadgpt#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460675727468003566",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460678397385773311",
+    "timestamp": "2026-01-13 16:54:28",
+    "content": "is it fixed?",
+    "author": "sukru.1905#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460678397385773311",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460678572392976661",
+    "timestamp": "2026-01-13 16:55:09",
+    "content": "This isnt working right now",
+    "author": "timjuice#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460678572392976661",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460678601086341325",
+    "timestamp": "2026-01-13 16:55:16",
+    "content": "you can try again later",
+    "author": "timjuice#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460678601086341325",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460678757957501072",
+    "timestamp": "2026-01-13 16:55:53",
+    "content": "It's fixed now, it's writing.",
+    "author": "sukru.1905#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460678757957501072",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460678765876220207",
+    "timestamp": "2026-01-13 16:55:55",
+    "content": "grrr and down again",
+    "author": "twilight_eso#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460678765876220207",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460678892397264930",
+    "timestamp": "2026-01-13 16:56:26",
+    "content": "",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460678892397264930",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1460678892082696376/image0.gif?ex=6967cab9&is=69667939&hm=98cd5fe2cb81a561149a5da3a1f2294f8f344de6f8b363153ee3d4b9639f0727&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460678949397987494",
+    "timestamp": "2026-01-13 16:56:39",
+    "content": "and the fun status page as everytime nice green 😄",
+    "author": "twilight_eso#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460678949397987494",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460679075986407671",
+    "timestamp": "2026-01-13 16:57:09",
+    "content": "The developers are probably still sleeping.",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460679075986407671",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460679205837738107",
+    "timestamp": "2026-01-13 16:57:40",
+    "content": "50/50",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460679205837738107",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460679845443797235",
+    "timestamp": "2026-01-13 17:00:13",
+    "content": "So is Sonnet working okay?",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460679845443797235",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460679914914316328",
+    "timestamp": "2026-01-13 17:00:29",
+    "content": "I've been using Opus but if Sonnet's okay, I might switch to a Sonnet project",
+    "author": "youshouldwritethisdown#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460679914914316328",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460679915484483676",
+    "timestamp": "2026-01-13 17:00:29",
+    "content": "reddit also down",
+    "author": "erakrypton#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460679915484483676",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460680059399442598",
+    "timestamp": "2026-01-13 17:01:04",
+    "content": "Call me crazy, but I thought the whole point of a status page was to have it display issues automatically, like, every company I've worked for, their status page displayed stats on status based on monitoring scripts and such, so even if everyone was asleep, the page showed an issue, just no this is being addressed message\n\nBut Anthropics feels like it's a static html page with some basic JavaScript to show green, until some tech updates it to show red, after people have complained.\n\nIt is the most useless status page I have ever seen for any company.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460680059399442598",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460680581728964791",
+    "timestamp": "2026-01-13 17:03:08",
+    "content": "ah.. that explains it",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460680581728964791",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460686500181053613",
+    "timestamp": "2026-01-13 17:26:39",
+    "content": "Is anyone free to VC? Trying to get an AI to fill in a 2‑D hex grid between 7 anchor points—need help with representation + interpolation.",
+    "author": "jaydenpreciado_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460686500181053613",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460689237585432720",
+    "timestamp": "2026-01-13 17:37:32",
+    "content": "anyone else notice that context goes up to 100% and doesn't auto compact but keeps going for awhile after?",
+    "author": "rtlryner#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460689237585432720",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460689277385048117",
+    "timestamp": "2026-01-13 17:37:42",
+    "content": "(on visual studio code extension)",
+    "author": "rtlryner#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460689277385048117",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460691764271906837",
+    "timestamp": "2026-01-13 17:47:34",
+    "content": "I've only ever had that happen with subagents",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460691764271906837",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460696440987975773",
+    "timestamp": "2026-01-13 18:06:09",
+    "content": "they're using an atlassian product for it.",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460696440987975773",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460696500085723294",
+    "timestamp": "2026-01-13 18:06:24",
+    "content": "if you ever tried the search in confluence, you know what that means.",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460696500085723294",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460696623071101133",
+    "timestamp": "2026-01-13 18:06:53",
+    "content": "I hate the passing of time 🙁",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460696623071101133",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460697693092581538",
+    "timestamp": "2026-01-13 18:11:08",
+    "content": "Claude in chrome burns tokens quick",
+    "author": "apexaz#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460697693092581538",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460697800726675696",
+    "timestamp": "2026-01-13 18:11:34",
+    "content": "it's super buggy also",
+    "author": "swartkrans#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460697800726675696",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460698017198768222",
+    "timestamp": "2026-01-13 18:12:25",
+    "content": "I think it's the 500000 screenshot it takes",
+    "author": "apexaz#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460698017198768222",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460698093300355154",
+    "timestamp": "2026-01-13 18:12:43",
+    "content": "It has potential though",
+    "author": "apexaz#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460698093300355154",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]
