@@ -34,5 +34,41 @@
     "category": "insight",
     "curated_at": "2026-01-14T00:55:03.008421+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude Experiences Service Outage Across Platforms",
+    "bullets": [
+      "Multiple users report Claude's services, including Opus and Sonnet, are down or experiencing errors.",
+      "Issues likely due to server overload, with speculation around model updates being the cause."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-14 09:34:17",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460933235188957228"
+    },
+    "relevance": 90,
+    "hot_take": "Outages highlight the growing pains of scaling AI services—are we ready for AI's mainstream adoption?",
+    "category": "announcement",
+    "curated_at": "2026-01-14T12:22:19.539171+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Anthropic's Model Usage and Billing Confusion Continues",
+    "bullets": [
+      "Users express confusion over model usage limits and billing issues with Sonnet and Opus.",
+      "Complaints about unclear policies and unexpected charges are widespread."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-14 08:02:23",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460906884310499536"
+    },
+    "relevance": 80,
+    "hot_take": "Transparent billing is crucial—why can't AI companies get it right?",
+    "category": "discussion",
+    "curated_at": "2026-01-14T12:22:19.539197+00:00",
+    "original_server": "Anthropic"
   }
 ]
