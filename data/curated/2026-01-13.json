@@ -142,5 +142,59 @@
     "category": "discussion",
     "curated_at": "2026-01-13T18:19:24.357707+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Users Express Frustration Over Weekly Limits in Claude and Google AI Services",
+    "bullets": [
+      "Users are frustrated by the weekly usage limits imposed by Claude and Google AI, which restrict heavy usage in short bursts.",
+      "Complaints highlight the lack of transparency around the exact limits and the feeling of being forced to micromanage AI usage."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-13 19:18:22",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460714070830481501"
+    },
+    "relevance": 90,
+    "hot_take": "Explore the impact of AI usage limits on productivity and user experience. Are these restrictions a necessary evil or a hindrance to innovation?",
+    "category": "discussion",
+    "curated_at": "2026-01-14T00:54:55.125575+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude Code Gains Praise for Integration with VS Code Despite Limit Concerns",
+    "bullets": [
+      "Claude Code is touted as making IDEs redundant by offering a command-line interface that integrates with Visual Studio Code.",
+      "Discussion around the tool's efficiency and how it compares to other IDE options such as Antigravity."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-13 19:50:16",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460722639848079628"
+    },
+    "relevance": 80,
+    "hot_take": "Is the command-line approach of Claude Code the future of development environments, or is it just a niche solution?",
+    "category": "insight",
+    "curated_at": "2026-01-14T00:54:55.125595+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Users Debate AI Models for Creative Writing: Claude vs. Others",
+    "bullets": [
+      "While Claude excels in coding tasks, users find it lacking in creative writing capabilities due to its focus on reducing hallucinations.",
+      "The balance between creativity and accuracy in AI models is a recurring theme in user discussions."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-13 20:09:03",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460727367105249586"
+    },
+    "relevance": 75,
+    "hot_take": "Can AI truly be creative? Analyze the trade-offs between creativity and accuracy in AI models like Claude.",
+    "category": "discussion",
+    "curated_at": "2026-01-14T00:54:55.125602+00:00",
+    "original_server": "Anthropic"
   }
 ]

@@ -1,0 +1,38 @@
+[
+  {
+    "headline": "Grok 4.2: Decent at Frontend, Lousy at Following Directions",
+    "bullets": [
+      "Grok 4.2 has been released with a focus on frontend capabilities.",
+      "However, the model struggles with following directions, indicating room for improvement."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-14 00:00:44",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460785672901365903"
+    },
+    "relevance": 70,
+    "hot_take": "Is Grok 4.2 a frontend savant or just another AI with selective hearing?",
+    "category": "announcement",
+    "curated_at": "2026-01-14T00:55:03.008406+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Neural Network Finds Enzyme to Break Down Polyurethane",
+    "bullets": [
+      "Machine learning identified an enzyme capable of degrading polyurethane.",
+      "This advancement allows for the conversion of foam pads into reusable chemicals."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-14 00:10:51",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460788220307570801"
+    },
+    "relevance": 80,
+    "hot_take": "AI is making recycling sexy again with a new enzyme that eats foam for breakfast.",
+    "category": "insight",
+    "curated_at": "2026-01-14T00:55:03.008421+00:00",
+    "original_server": "Anthropic"
+  }
+]

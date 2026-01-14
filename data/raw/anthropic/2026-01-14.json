@@ -1,0 +1,283 @@
+[
+  {
+    "id": "1460785672901365903",
+    "timestamp": "2026-01-14 00:00:44",
+    "content": "This is Grok 4.2",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460785672901365903",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1460785672611823707/Screenshot_2026-01-13_at_5.57.17_PM.png?ex=69682e2c&is=6966dcac&hm=a7779c024200a20d32bd720a343c6ea73653984e48ae0a7b243b261baff45d29&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460785732472934473",
+    "timestamp": "2026-01-14 00:00:58",
+    "content": "Decent at frontend but it isn’t that good at following directions",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460785732472934473",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460785884537557026",
+    "timestamp": "2026-01-14 00:01:34",
+    "content": "\"Provider: claude-code\nModel: claude-sonnet-4-5\n\nThis request would exceed your account's rate limit. Please try again later.\"\n\nWhy do i get this error? my five hour limit is 22.3% only currently...",
+    "author": "profdrcat#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460785884537557026",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460786264247898176",
+    "timestamp": "2026-01-14 00:03:05",
+    "content": "There's a $2,000 a day limit also what happens if I exhaust Max 20x?",
+    "author": "blindestgoose#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460786264247898176",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460786439599034654",
+    "timestamp": "2026-01-14 00:03:47",
+    "content": "Also are Claude Code limits separate from app Claude usage?",
+    "author": "blindestgoose#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460786439599034654",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460786554304729188",
+    "timestamp": "2026-01-14 00:04:14",
+    "content": "I would guess that if you're using 2k$/day on extra usage you probably just don't want to be using subscription+extra usage and want commercial",
+    "author": "thegirlreadingthis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460786554304729188",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460786622478942258",
+    "timestamp": "2026-01-14 00:04:30",
+    "content": "No, same limit if you're using a subscription",
+    "author": "thegirlreadingthis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460786622478942258",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460787164479488001",
+    "timestamp": "2026-01-14 00:06:40",
+    "content": "Weird, Opus has no problem. Just hcanged to Opus and it works flawless.",
+    "author": "profdrcat#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460787164479488001",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460787251087675453",
+    "timestamp": "2026-01-14 00:07:00",
+    "content": "Is is possible to hit the limit as one person? On Max 20x",
+    "author": "blindestgoose#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460787251087675453",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460787364929474723",
+    "timestamp": "2026-01-14 00:07:27",
+    "content": "I've never seen someone complain about hitting 2k$/day of extra usage and getting blocked",
+    "author": "thegirlreadingthis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460787364929474723",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460787784175325235",
+    "timestamp": "2026-01-14 00:09:07",
+    "content": "Almost impossible",
+    "author": "profdrcat#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460787784175325235",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460788220307570801",
+    "timestamp": "2026-01-14 00:10:51",
+    "content": "feel good story about machine learning applications https://arstechnica.com/science/2025/10/polyurethane-is-the-latest-polymer-broken-down-by-designer-enzymes/?utm_source=substack&utm_medium=email\n# Neural network finds an enzyme that can break down polyurethane\nGiven a dozen hours, the enzyme can turn a foam pad into reusable chemicals.",
+    "author": "fffanatic06#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460788220307570801",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460788424444477531",
+    "timestamp": "2026-01-14 00:11:40",
+    "content": "Anyone know how to keep claude from UTF - Iv told the models many many times I get mojibake in all of my files.. anyone? claude doesnt listen to my prompts or memory anymore.. projects are too large my guess.",
+    "author": "_mr.ee#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460788424444477531",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460788527657783459",
+    "timestamp": "2026-01-14 00:12:05",
+    "content": "I updated one of my projects that should only be nicknamed as the token monster.  It had the data for a text Classifier hard coded meaning it got pulled every time the project was loaded. I created a Python script to turn it into JSON files then added the to the Gemini ignore file, removed the hard coded data and load it dynamically. I can use Gemini flash again so yay",
+    "author": "blindestgoose#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460788527657783459",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460789038280610108",
+    "timestamp": "2026-01-14 00:14:06",
+    "content": "Perfectly possible if you run multiple Claude code sessions in parallel in wrappers like I do",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460789038280610108",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460789477084627087",
+    "timestamp": "2026-01-14 00:15:51",
+    "content": "That's good to know. I code one thing at a time. Mostly small server less functions that offer a small set of APIs. It's awesome how fast you can deploy a micro service that runs on Cloudflere's network edge. It's the perfect use case for Google Antigravity and Claude Code",
+    "author": "blindestgoose#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460789477084627087",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460789895680491713",
+    "timestamp": "2026-01-14 00:17:31",
+    "content": "I don't think I'll be opening the token monster project again as I fixed the remaining issues today and managed to not use Antigravity itself for most of the coding. I used Grok to help me parse the giant files and write scripts to help me break things up.",
+    "author": "blindestgoose#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460789895680491713",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460789987644670145",
+    "timestamp": "2026-01-14 00:17:53",
+    "content": "No more 24,000 line files 😂",
+    "author": "blindestgoose#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460789987644670145",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460790040845353173",
+    "timestamp": "2026-01-14 00:18:05",
+    "content": "It's really great to use. Earlier while I was eating I threw three feature requests at Claude code on the Web and by the time I was done all three were finished. Now I've just got to test and merge",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460790040845353173",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460790651762511985",
+    "timestamp": "2026-01-14 00:20:31",
+    "content": "how do you use claude cowork? im on macos and max plan and dont see it in the app",
+    "author": "trevorksmith#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460790651762511985",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460791320196022407",
+    "timestamp": "2026-01-14 00:23:10",
+    "content": "I had been using the filesystem extension with the desktop until I read they were having security breaches at anthropic.. I'd love to know this as well.",
+    "author": "_mr.ee#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460791320196022407",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460791386436534384",
+    "timestamp": "2026-01-14 00:23:26",
+    "content": "It's also unfortunately owned by a n4zi",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460791386436534384",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460791741442555944",
+    "timestamp": "2026-01-14 00:24:51",
+    "content": "I think you misread maybe if it was the November 2025 post. People were using Claude Code to perform cyberattacks -- Anthropic was not attacked.",
+    "author": "ezinc#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460791741442555944",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460792115939381421",
+    "timestamp": "2026-01-14 00:26:20",
+    "content": "the article I read a couple days ago.. could be mistaken but I got as far as so many hours were spent red teaming and still have no idea how the attacks are happening.. shrugs",
+    "author": "_mr.ee#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460792115939381421",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460793694406967356",
+    "timestamp": "2026-01-14 00:32:36",
+    "content": "its looking good",
+    "author": ".meefs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460793694406967356",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460793837071896596",
+    "timestamp": "2026-01-14 00:33:10",
+    "content": "Do you have a source",
+    "author": "blindestgoose#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460793837071896596",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460794171563704424",
+    "timestamp": "2026-01-14 00:34:30",
+    "content": "It tried to tell me to add a robots.txt to make Google Antigravity ignore files LOL",
+    "author": "blindestgoose#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460794171563704424",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460794351457276098",
+    "timestamp": "2026-01-14 00:35:13",
+    "content": "If only it searches the web and was trained on publicly available web documentation",
+    "author": "blindestgoose#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460794351457276098",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460794480243249420",
+    "timestamp": "2026-01-14 00:35:44",
+    "content": "That's just not the world we live in",
+    "author": "blindestgoose#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460794480243249420",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460795609450549546",
+    "timestamp": "2026-01-14 00:40:13",
+    "content": "Curious if you folks have used lang smith and logfire. What’s the opinion, when and when not to use each. If Claude code has observability what platform would it use for what purpose",
+    "author": "barathr0764#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460795609450549546",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1460797310643601458",
+    "timestamp": "2026-01-14 00:46:59",
+    "content": "ok",
+    "author": "theblakes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460797310643601458",
+    "attachments": [],
+    "channel_name": "general"
+  }
+]
