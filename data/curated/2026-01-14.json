@@ -70,5 +70,77 @@
     "category": "discussion",
     "curated_at": "2026-01-14T12:22:19.539197+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Anthropic's API Health Endpoint Sorely Missed",
+    "bullets": [
+      "Users express frustration over the lack of a health endpoint for Anthropic's API.",
+      "The absence of real-time status updates leads to speculation and inconvenience."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-14 12:22:25",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1460972324978294977"
+    },
+    "relevance": 75,
+    "hot_take": "Why every API needs a health endpoint yesterday.",
+    "category": "insight",
+    "curated_at": "2026-01-14T18:19:10.894379+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "AutoCodeBench Sets New Standards for Multilingual Code Generation",
+    "bullets": [
+      "New benchmark AutoCodeBench challenges LLMs with multilingual code tasks.",
+      "Highlights limitations in existing code generation benchmarks, pushing for higher standards."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-14 14:24:21",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461003007889113182"
+    },
+    "relevance": 90,
+    "hot_take": "Can your favorite LLM survive AutoCodeBench's multilingual gauntlet?",
+    "category": "announcement",
+    "curated_at": "2026-01-14T18:19:10.894398+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude Code Fosters Debate on AI's Role in Programming",
+    "bullets": [
+      "Discussion on how coding with AI shifts focus from syntax to functionality and creativity.",
+      "Users report AI as a partner, enhancing productivity but raising questions about coding identity."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-14 15:20:23",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461017110246457374"
+    },
+    "relevance": 80,
+    "hot_take": "Is AI the end of coding as we know it, or the start of something better?",
+    "category": "discussion",
+    "curated_at": "2026-01-14T18:19:10.894400+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "PULSE Framework Offers Safety Net for AI-Assisted Coding",
+    "bullets": [
+      "Introduces safeguards like secret detection and loop detection for AI-driven development.",
+      "Aims to prevent common AI coding pitfalls, enhancing workflow security and efficiency."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-14 16:22:31",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461032746796318731"
+    },
+    "relevance": 85,
+    "hot_take": "AI coding is great—until it isn't. Here's how PULSE aims to keep you safe.",
+    "category": "announcement",
+    "curated_at": "2026-01-14T18:19:10.894403+00:00",
+    "original_server": "Anthropic"
   }
 ]
