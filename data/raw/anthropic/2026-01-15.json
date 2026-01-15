@@ -1338,5 +1338,457 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461242475523080214",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1461248894032678942",
+    "timestamp": "2026-01-15 06:41:25",
+    "content": "Was also wondering the same you'd hope, it would be nice if Claude cowork could integrate everything that Claude code already does",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461248894032678942",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461248939087888550",
+    "timestamp": "2026-01-15 06:41:35",
+    "content": "And especially Claude in chrome extension",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461248939087888550",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461249154331443282",
+    "timestamp": "2026-01-15 06:42:27",
+    "content": "has anybody activated permanent thinking mode, and how did it impact your usage",
+    "author": "cantcrit#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461249154331443282",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461252092302987264",
+    "timestamp": "2026-01-15 06:54:07",
+    "content": "I think most people have it",
+    "author": "______nick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461252092302987264",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461252104663334935",
+    "timestamp": "2026-01-15 06:54:10",
+    "content": "At least on Max",
+    "author": "______nick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461252104663334935",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461252529873489991",
+    "timestamp": "2026-01-15 06:55:51",
+    "content": "But like going into settings at setting the thinking to 31999 or whatever ?",
+    "author": "cantcrit#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461252529873489991",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461252820442550357",
+    "timestamp": "2026-01-15 06:57:01",
+    "content": "That’s not an option in the settings",
+    "author": "______nick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461252820442550357",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461252834510246033",
+    "timestamp": "2026-01-15 06:57:04",
+    "content": "Just thinking on or off",
+    "author": "______nick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461252834510246033",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461254332535279626",
+    "timestamp": "2026-01-15 07:03:01",
+    "content": "Yes it is",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461254332535279626",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461254367284826122",
+    "timestamp": "2026-01-15 07:03:09",
+    "content": "MAX_THINKING_TOKENS env var",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461254367284826122",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461254448839131262",
+    "timestamp": "2026-01-15 07:03:29",
+    "content": "The built-in settings are super limited",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461254448839131262",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461255063581229148",
+    "timestamp": "2026-01-15 07:05:55",
+    "content": "And to answer the question- When I first enabled it, to use 31999, I went from manually toggling with ultrathink to always thinking, and I don't recall exact numbers but it was quite negligible. I've never seen it use more than 12k tokens for thinking, and only a few times for really complex stuff, most of the time it uses a few hundred to 3-4k tokens for thinking, I'd estimate 20% increase in thinking tokens if I had to guess.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461255063581229148",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461255128136028291",
+    "timestamp": "2026-01-15 07:06:11",
+    "content": "The instruction adherence jumped a LOT though, especially system prompt instructions.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461255128136028291",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461255567594098770",
+    "timestamp": "2026-01-15 07:07:56",
+    "content": "I don't know what they did to Codex, man, but it's moving again. A couple of tasks, I ran out of tokens, so I'm on my weekly limit. Went back to Codex, and ever since the last update, man, it's cooking again. It's on point.",
+    "author": "francyx#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461255567594098770",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461267553598046208",
+    "timestamp": "2026-01-15 07:55:33",
+    "content": "Are you on windows",
+    "author": "subether#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461267553598046208",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461268076044750880",
+    "timestamp": "2026-01-15 07:57:38",
+    "content": "codex always goes faster just after release, then settles to the real speed a day later",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461268076044750880",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461288537403166859",
+    "timestamp": "2026-01-15 09:18:56",
+    "content": "cmon bru i need compaction",
+    "author": "mitzabobitza#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461288537403166859",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461289205635485892",
+    "timestamp": "2026-01-15 09:21:36",
+    "content": "ngl it would be nice if opus had a bigger context window, hopefully the next version will",
+    "author": "mitzabobitza#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461289205635485892",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461303517452042291",
+    "timestamp": "2026-01-15 10:18:28",
+    "content": "hi everyone 🙂",
+    "author": "msieurkris#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461303517452042291",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461312097219641375",
+    "timestamp": "2026-01-15 10:52:33",
+    "content": "hi",
+    "author": "dictateurpampers#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461312097219641375",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461313149243363450",
+    "timestamp": "2026-01-15 10:56:44",
+    "content": "hey, why is claude always skipping half my directives? \n❯ did you also do the code review using the skill?\n\n⏺ No, I didn't. The task.md specifically said to use the requesting-code-review skill after implementation, but I skipped it and went straight to committing after the tests passed.\n\n  I should have invoked the skill before asking you to commit to ensure the code was reviewed for security and quality issues.\n\n  I'll make sure to follow all the steps specified in task files going forward, including code reviews before commits.",
+    "author": "antoine1999#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461313149243363450",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461313196903235665",
+    "timestamp": "2026-01-15 10:56:56",
+    "content": "it also didnt use beads and i specifically told it should use it",
+    "author": "antoine1999#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461313196903235665",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461313539477209143",
+    "timestamp": "2026-01-15 10:58:17",
+    "content": "I swear the regular Claude app is ignoring my system prompts.",
+    "author": "yaboi.clups#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461313539477209143",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461313576747925648",
+    "timestamp": "2026-01-15 10:58:26",
+    "content": "this is claude code",
+    "author": "antoine1999#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461313576747925648",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461313592870834268",
+    "timestamp": "2026-01-15 10:58:30",
+    "content": "Yeah",
+    "author": "yaboi.clups#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461313592870834268",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461313615566078043",
+    "timestamp": "2026-01-15 10:58:35",
+    "content": "Is there a discord for regular Claude",
+    "author": "yaboi.clups#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461313615566078043",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461313709854036181",
+    "timestamp": "2026-01-15 10:58:58",
+    "content": "Ithinl this is it, i should have posted this in claude-code-lounge :p",
+    "author": "antoine1999#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461313709854036181",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461313769618669651",
+    "timestamp": "2026-01-15 10:59:12",
+    "content": ">_<",
+    "author": "yaboi.clups#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461313769618669651",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461316862322409502",
+    "timestamp": "2026-01-15 11:11:29",
+    "content": "Since the crash yesterday Claude becomes stupid",
+    "author": "goobergrape#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461316862322409502",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461321114264408088",
+    "timestamp": "2026-01-15 11:28:23",
+    "content": "Let me suggest to you to eat something... then re-evaluate Claude performance again",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461321114264408088",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461321531601981491",
+    "timestamp": "2026-01-15 11:30:03",
+    "content": "HEY",
+    "author": "fightagainstevil#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461321531601981491",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461321559049244837",
+    "timestamp": "2026-01-15 11:30:09",
+    "content": "Anyone i know online?",
+    "author": "fightagainstevil#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461321559049244837",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461323960032694272",
+    "timestamp": "2026-01-15 11:39:42",
+    "content": "What is this error?",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461323960032694272",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461323959734636716/image.png?ex=696a237e&is=6968d1fe&hm=99faf05160754ab5a4adf249684bba44fc251bff058e0343478fd2ebab39fb25&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461325001956266088",
+    "timestamp": "2026-01-15 11:43:50",
+    "content": "Where can we report issues to real person? I find the 5h and weekly limit annoying in this current implementation. The weekly limit should reset the 5 hour limit as this starts to burn a new \"bucket\". \n\nie:\nThe weekly limit resets at 10 AM, I started a session after 8 AM, and I still need to wait to 1PM to start my new weekly usage, as the 5hours session is not ended at my weekly limit end time.",
+    "author": "beng_dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461325001956266088",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461325073129406496",
+    "timestamp": "2026-01-15 11:44:07",
+    "content": "what is compaction?",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461325073129406496",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461325163579576422",
+    "timestamp": "2026-01-15 11:44:29",
+    "content": "I would like to know too...",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461325163579576422",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461328378228506821",
+    "timestamp": "2026-01-15 11:57:15",
+    "content": "Is Claude code charging per token or charging per message sent?",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461328378228506821",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461329891092857047",
+    "timestamp": "2026-01-15 12:03:16",
+    "content": "if you pay via MAX sub then its VIBE BASED USAGE",
+    "author": "you.wish#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461329891092857047",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461329939109249064",
+    "timestamp": "2026-01-15 12:03:27",
+    "content": "😎",
+    "author": "you.wish#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461329939109249064",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461329981408805017",
+    "timestamp": "2026-01-15 12:03:37",
+    "content": "I have max... So I can ask short questions right in CC?",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461329981408805017",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461330010194575451",
+    "timestamp": "2026-01-15 12:03:44",
+    "content": "yes yes. not an issue",
+    "author": "you.wish#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461330010194575451",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461330084295082151",
+    "timestamp": "2026-01-15 12:04:02",
+    "content": "because In windsurf... you will get charged to same for small and big tasks",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461330084295082151",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461330149298671759",
+    "timestamp": "2026-01-15 12:04:17",
+    "content": "So I always needed to make sure to Make the tasks as large as possible",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461330149298671759",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461330155988582461",
+    "timestamp": "2026-01-15 12:04:19",
+    "content": "doesnt work like that in cc. \nits token based i think",
+    "author": "you.wish#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461330155988582461",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461330206710173736",
+    "timestamp": "2026-01-15 12:04:31",
+    "content": "thank you thank yoooouuu",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461330206710173736",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461330219326504973",
+    "timestamp": "2026-01-15 12:04:34",
+    "content": "max is still cheaper",
+    "author": "you.wish#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461330219326504973",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461330255879999581",
+    "timestamp": "2026-01-15 12:04:43",
+    "content": "youll get more tokens than with windsurf",
+    "author": "you.wish#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461330255879999581",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461330344295792764",
+    "timestamp": "2026-01-15 12:05:04",
+    "content": "100% believe",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461330344295792764",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461330387438538774",
+    "timestamp": "2026-01-15 12:05:14",
+    "content": "bang for buck",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461330387438538774",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461330410138238987",
+    "timestamp": "2026-01-15 12:05:19",
+    "content": "good good",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461330410138238987",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]

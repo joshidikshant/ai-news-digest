@@ -106,5 +106,41 @@
     "category": "insight",
     "curated_at": "2026-01-15T06:18:36.289633+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Permanent Thinking Mode Boosts Instruction Adherence in Claude",
+    "bullets": [
+      "Users report enabling 'permanent thinking mode' significantly boosts the model's adherence to system prompts.",
+      "Token usage remains efficient, with only a slight increase, suggesting gains in instruction-following outweigh any cost."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-15 07:06:11",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461255128136028291"
+    },
+    "relevance": 90,
+    "hot_take": "Could 'permanent thinking mode' be the secret sauce for more reliable AI interactions?",
+    "category": "insight",
+    "curated_at": "2026-01-15T12:22:00.461914+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Codex Update: Performance Boost or Just Temporary Hype?",
+    "bullets": [
+      "Users notice a performance surge in Codex post-update, but skepticism remains about long-term speed gains.",
+      "Past patterns suggest initial bursts of speed often taper off after releases."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-15 07:57:38",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461268076044750880"
+    },
+    "relevance": 75,
+    "hot_take": "Is Codex's performance just a flash in the pan, or a real step forward?",
+    "category": "discussion",
+    "curated_at": "2026-01-15T12:22:00.461934+00:00",
+    "original_server": "Anthropic"
   }
 ]
