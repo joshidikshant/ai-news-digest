@@ -52,5 +52,59 @@
     "category": "insight",
     "curated_at": "2026-01-15T00:51:01.588563+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude's Token Limitations Spark User Frustration",
+    "bullets": [
+      "Users complain about running out of session tokens quickly with Opus 4.5, claiming it's 'simply unusable'.",
+      "Pro plan users report being limited to 16 prompts per week, significantly less than expected."
+    ],
+    "source": {
+      "server": "general",
+      "channel": "general",
+      "timestamp": "2026-01-15 02:10:34",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461180735544098913"
+    },
+    "relevance": 90,
+    "hot_take": "Could this be a turning point for users frustrated with token limitations?",
+    "category": "discussion",
+    "curated_at": "2026-01-15T06:18:36.289611+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Frustration Over Inaccessibility and Pricing of AI Tools",
+    "bullets": [
+      "Users express disappointment over limited access to AI tools despite their potential to improve profitability.",
+      "There's a call for more flexible and affordable subscription options to maximize utility."
+    ],
+    "source": {
+      "server": "general",
+      "channel": "general",
+      "timestamp": "2026-01-15 01:01:01",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461163232621498378"
+    },
+    "relevance": 80,
+    "hot_take": "Is the pricing model for AI tools holding back innovation?",
+    "category": "discussion",
+    "curated_at": "2026-01-15T06:18:36.289630+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude's Cowork Beta Launch Linked to Platform Issues?",
+    "bullets": [
+      "Users report 'Conversation not found' errors, potentially linked to the new Cowork beta launch.",
+      "There's speculation about whether new features are causing platform instability."
+    ],
+    "source": {
+      "server": "general",
+      "channel": "general",
+      "timestamp": "2026-01-15 03:16:47",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461197398578696282"
+    },
+    "relevance": 75,
+    "hot_take": "Is the rush to release new features compromising platform stability?",
+    "category": "insight",
+    "curated_at": "2026-01-15T06:18:36.289633+00:00",
+    "original_server": "Anthropic"
   }
 ]
