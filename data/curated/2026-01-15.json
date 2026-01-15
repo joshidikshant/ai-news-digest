@@ -1,0 +1,56 @@
+[
+  {
+    "headline": "Anthropic Users Debate Opus vs. Sonnet: Mixed Reviews",
+    "bullets": [
+      "User opinions on Opus vs. Sonnet are divided, with some claiming Opus is significantly better while others see minimal improvement.",
+      "The discussion highlights varying experiences and preferences among developers using these AI models."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-15 00:02:41",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461148551156338748"
+    },
+    "relevance": 70,
+    "hot_take": "Is Opus Really Worth the Upgrade Over Sonnet? Users Weigh In.",
+    "category": "discussion",
+    "curated_at": "2026-01-15T00:51:01.588544+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Anthropic Removes 'Ultrathink Colors' from Claude Code",
+    "bullets": [
+      "Users noticed the removal of 'ultrathink colors' from Claude code, a feature some used despite its lack of functionality.",
+      "This change reflects ongoing adjustments and streamlining within the Claude platform."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-15 00:28:22",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461155013161128060"
+    },
+    "relevance": 60,
+    "hot_take": "Why Did Anthropic Remove 'Ultrathink Colors'? A Look at Useless Features.",
+    "category": "announcement",
+    "curated_at": "2026-01-15T00:51:01.588559+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Token Usage Changes Noticed by Anthropic Users",
+    "bullets": [
+      "Users report hitting usage limits and suspect changes in token configuration.",
+      "The community expresses curiosity about these potential adjustments, indicating a need for clarity from Anthropic."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-15 00:37:37",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461157340811366697"
+    },
+    "relevance": 75,
+    "hot_take": "Token Limits: Are Anthropic's Hidden Changes Hurting Developers?",
+    "category": "insight",
+    "curated_at": "2026-01-15T00:51:01.588563+00:00",
+    "original_server": "Anthropic"
+  }
+]

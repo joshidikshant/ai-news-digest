@@ -142,5 +142,41 @@
     "category": "announcement",
     "curated_at": "2026-01-14T18:19:10.894403+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Opus 4.5 Underwhelms, Sparks Debate on AI Progress",
+    "bullets": [
+      "Users claim Opus 4.5 is only marginally better than GPT-4, citing about a 10% improvement.",
+      "Discussion centers on the broader state of AI, questioning the real progress and potential of LLMs."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-14 20:11:16",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461090313014743193"
+    },
+    "relevance": 80,
+    "hot_take": "Explore why incremental AI improvements aren't enough for users and what's needed for a breakthrough.",
+    "category": "discussion",
+    "curated_at": "2026-01-15T00:50:52.492069+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Sonnet 4.5 Struggles, Users Prefer Opus 4.5",
+    "bullets": [
+      "Reports suggest Sonnet 4.5 is underperforming compared to its predecessor and Opus 4.5.",
+      "Users describe Sonnet 4.5 as suitable only for simple tasks, akin to a basic intern."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-14 21:38:14",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461112199584940248"
+    },
+    "relevance": 70,
+    "hot_take": "Investigate the gap between marketing promises and user experiences with Sonnet 4.5.",
+    "category": "discussion",
+    "curated_at": "2026-01-15T00:50:52.492088+00:00",
+    "original_server": "Anthropic"
   }
 ]
