@@ -142,5 +142,42 @@
     "category": "discussion",
     "curated_at": "2026-01-15T12:22:00.461934+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude Users Frustrated Over Severe Usage Limit Bug",
+    "bullets": [
+      "Users on the $200/month 20X MAX plan report hitting usage limits after just 2-3 prompts.",
+      "An active issue with Claude's automatic summarization feature is causing excessive token consumption.",
+      "Anthropic is implementing a fix, which can be tracked on their status page."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-15 14:33:58",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461367816853651602"
+    },
+    "relevance": 90,
+    "hot_take": "Discuss the implications of AI service downtime and how it affects high-paying users.",
+    "category": "announcement",
+    "curated_at": "2026-01-15T18:22:37.175007+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Vercel Releases 'React Best Practices' for AI Optimization",
+    "bullets": [
+      "Vercel has distilled 10+ years of React and Next.js expertise into a structured repository.",
+      "The 'react-best-practices' skill is optimized for AI agents and LLMs, potentially boosting development efficiency."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-15 16:14:33",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461394732503793674"
+    },
+    "relevance": 75,
+    "hot_take": "Explore how AI-driven coding practices can revolutionize front-end development workflows.",
+    "category": "announcement",
+    "curated_at": "2026-01-15T18:22:37.175026+00:00",
+    "original_server": "Anthropic"
   }
 ]
