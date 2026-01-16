@@ -179,5 +179,41 @@
     "category": "announcement",
     "curated_at": "2026-01-15T18:22:37.175026+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude Code Gets Diff View for Easier Code Reviews",
+    "bullets": [
+      "New feature allows viewing of full diffs and inline comments directly in Claude Code.",
+      "Previously, users had to switch to GitHub or IDEs for detailed reviews."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "announcements",
+      "timestamp": "2026-01-15 22:20:30",
+      "message_link": "https://discord.com/channels/1072196207201501266/1072197729276657744/1461485222695534714"
+    },
+    "relevance": 90,
+    "hot_take": "Could this make Claude Code a serious contender against traditional IDEs?",
+    "category": "announcement",
+    "curated_at": "2026-01-16T06:18:58.024049+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "OpenAI Signs $10 Billion Deal with Cerebras for Computing Power",
+    "bullets": [
+      "OpenAI to purchase 750 MW of computing power over three years from chipmaker Cerebras.",
+      "This move aims to enhance ChatGPT's capabilities and maintain AI race leadership."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-15 23:30:51",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461502926915764387"
+    },
+    "relevance": 95,
+    "hot_take": "Is OpenAI's partnership with Cerebras a game-changer in the AI hardware race?",
+    "category": "insight",
+    "curated_at": "2026-01-16T06:18:58.024068+00:00",
+    "original_server": "Anthropic"
   }
 ]

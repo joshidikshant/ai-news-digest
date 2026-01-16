@@ -1,0 +1,56 @@
+[
+  {
+    "headline": "GPT-5.2 Outperforms Opus 4.5 in Bug Hunting",
+    "bullets": [
+      "Users report GPT-5.2 excels in bug hunting, outperforming Opus 4.5.",
+      "Opus requires additional steps like verbose logging to match GPT's capabilities."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-16 00:05:14",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461511580423426224"
+    },
+    "relevance": 90,
+    "hot_take": "Is GPT-5.2 setting new standards in debugging AI code?",
+    "category": "insight",
+    "curated_at": "2026-01-16T06:19:29.734572+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Request vs. Token Billing: The AI Pricing Debate Heats Up",
+    "bullets": [
+      "Discord users debate the merits of request-based versus token-based billing.",
+      "Concerns raised about request-based billing incentivizing inefficient AI usage."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-16 00:17:57",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461514782615142522"
+    },
+    "relevance": 75,
+    "hot_take": "Could billing models be stifling AI's true potential?",
+    "category": "discussion",
+    "curated_at": "2026-01-16T06:19:29.734588+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Frontend and ML: AI Model Performance Rankings Revealed",
+    "bullets": [
+      "For ML tasks: Gemini 3 and GPT 5.2 lead the pack.",
+      "In frontend development: Opus outperforms Gemini and Sonnet."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-16 01:28:30",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461532536982212850"
+    },
+    "relevance": 80,
+    "hot_take": "Are specialized AI models the future for niche programming tasks?",
+    "category": "insight",
+    "curated_at": "2026-01-16T06:19:29.734592+00:00",
+    "original_server": "Anthropic"
+  }
+]

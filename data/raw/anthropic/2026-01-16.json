@@ -610,5 +610,762 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461520008029929533",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1461524637132390594",
+    "timestamp": "2026-01-16 00:57:07",
+    "content": "token billing is way better",
+    "author": "pakeke#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461524637132390594",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461524654400340085",
+    "timestamp": "2026-01-16 00:57:11",
+    "content": "yeah i agree",
+    "author": "pakeke#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461524654400340085",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461524783731708005",
+    "timestamp": "2026-01-16 00:57:42",
+    "content": "its a weird incentive, encourage users to clog the context",
+    "author": "pakeke#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461524783731708005",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461524913985949764",
+    "timestamp": "2026-01-16 00:58:13",
+    "content": "How would it encourage that?",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461524913985949764",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461525092919017502",
+    "timestamp": "2026-01-16 00:58:55",
+    "content": "Each prompt is a request, not each chat, so it doesn't incentivize keeping everything in one chat",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461525092919017502",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461525394623823882",
+    "timestamp": "2026-01-16 01:00:07",
+    "content": "consider a problem with a context that requires 10k tokens.\nIf you did that request on it's own, it would waste money, since if you solved 3 problems at the same time, (3 in 1), you'd have 30k tokens but it would cost the same as the 10k tokens",
+    "author": "pakeke#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461525394623823882",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461525489071030499",
+    "timestamp": "2026-01-16 01:00:30",
+    "content": "these costs presumably aren't equivalent for the provider, it's not like 10k tokens is the same as 30k",
+    "author": "pakeke#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461525489071030499",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461525693879025829",
+    "timestamp": "2026-01-16 01:01:19",
+    "content": "I dont really know tho, it's possible some optimization is done that does make the 30k stuff cheaper than 10k x 3. all in all i would expect it to be equal tho",
+    "author": "pakeke#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461525693879025829",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461525986993766546",
+    "timestamp": "2026-01-16 01:02:29",
+    "content": "Would it cause a decrease in performance in practice? For a project, I usually initialise the agent with multiple items on the to-do list.",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461525986993766546",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461526132183666800",
+    "timestamp": "2026-01-16 01:03:03",
+    "content": "bigger/bloated/less focused ctx window does degrade model performance",
+    "author": "pakeke#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461526132183666800",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461526185011052612",
+    "timestamp": "2026-01-16 01:03:16",
+    "content": "But in general it's pretty difficult to hit the monthly limit so there's not that strong of an incentive to merge different tasks together. I mainly do it so I can step away and do something else.",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461526185011052612",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461527790363873320",
+    "timestamp": "2026-01-16 01:09:39",
+    "content": "I usually make the agent keep notes so that it is easier to start new chats. In the future, this might be less of a problem with subagents. See this: <https://code.visualstudio.com/blogs/2025/11/03/unified-agent-experience#_subagents>",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461527790363873320",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461529543297990910",
+    "timestamp": "2026-01-16 01:16:37",
+    "content": "I love Gemini 3 late at night because it's a good way to test if my cardiovascular health is still solid",
+    "author": "dryhtscipe#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461529543297990910",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461529599640076369",
+    "timestamp": "2026-01-16 01:16:50",
+    "content": "Kind of crazy that each subagent doesn't consume a request 🤫",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461529599640076369",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461529706112487571",
+    "timestamp": "2026-01-16 01:17:15",
+    "content": "is it just rambling or is it laying waste to six hours work? quien sabe",
+    "author": "dryhtscipe#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461529706112487571",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461529957783306261",
+    "timestamp": "2026-01-16 01:18:15",
+    "content": "also I am at 97% on my first week's use of maxmax with 21 hours left",
+    "author": "dryhtscipe#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461529957783306261",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461529968516399415",
+    "timestamp": "2026-01-16 01:18:18",
+    "content": "fml.",
+    "author": "dryhtscipe#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461529968516399415",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461530420905639948",
+    "timestamp": "2026-01-16 01:20:06",
+    "content": "It's worse than Opus & GPT at catching bugs",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461530420905639948",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461531227638075567",
+    "timestamp": "2026-01-16 01:23:18",
+    "content": "For ML it's quite handy, asked Sonnet to refactor my function and the log loss suddenly became worse than random; Gemini 3 mostly one-shots refactors. GPT-5.2 is ok but sometimes messes up, like changing CVLogisticRegression scoring function from neg log loss to accuracy without telling me.",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461531227638075567",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461532536982212850",
+    "timestamp": "2026-01-16 01:28:30",
+    "content": "For ML probably Gemini 3 ~= GPT 5.2 > Opus > Sonnet. For frontend Opus > Gemini > Sonnet > GPT 5.2. For systems programming, GPT > Opus > Sonnet (haven't tried Gemini)",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461532536982212850",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461533637265592361",
+    "timestamp": "2026-01-16 01:32:53",
+    "content": "No idea what's wrong with Gemini DR, but it's worse than both Claude Research and Grok DR",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461533637265592361",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461541846940651744",
+    "timestamp": "2026-01-16 02:05:30",
+    "content": "Make a punching bag that interrupts AI from speaking, works amazing to decompress",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461541846940651744",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461541969355477133",
+    "timestamp": "2026-01-16 02:05:59",
+    "content": "Can also be used to summon a new conversation, why use hey siri when you can punch them into existance",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461541969355477133",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461547359334043804",
+    "timestamp": "2026-01-16 02:27:24",
+    "content": "ok finally back",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461547359334043804",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461547366724276420",
+    "timestamp": "2026-01-16 02:27:26",
+    "content": "is it here yet",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461547366724276420",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461547372172808345",
+    "timestamp": "2026-01-16 02:27:27",
+    "content": "I just asked it why a file was missing it said was missing",
+    "author": "dryhtscipe#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461547372172808345",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461547461595103312",
+    "timestamp": "2026-01-16 02:27:49",
+    "content": "And it just spent 40 minutes refactoring tests before basically saying \"No idea.\"",
+    "author": "dryhtscipe#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461547461595103312",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461547556847747205",
+    "timestamp": "2026-01-16 02:28:11",
+    "content": "It's done a good job but I absolutely did not tell it to 😂",
+    "author": "dryhtscipe#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461547556847747205",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461547691204153385",
+    "timestamp": "2026-01-16 02:28:43",
+    "content": "Slightly odd because I'm pretty sure this is something that came up in another session but which I didn't act on yet.",
+    "author": "dryhtscipe#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461547691204153385",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461556877702729855",
+    "timestamp": "2026-01-16 03:05:14",
+    "content": "You are actually encouraged to do the opposite. A bigger context means that the AI has to focus on more things and might not focus as much on exactly what you want. Not to mention if you pay for API it's tokens based more tokens means higher bill. I like my AI bill being under $100/month thank you.",
+    "author": "blindestgoose#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461556877702729855",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461557026470625412",
+    "timestamp": "2026-01-16 03:05:49",
+    "content": "Even in request based billing like Gemini CLI and presumably Claude Code you want to spend with care.",
+    "author": "blindestgoose#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461557026470625412",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461557743059075366",
+    "timestamp": "2026-01-16 03:08:40",
+    "content": "We were discussing request based usage in Github Copilot",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461557743059075366",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461558098224218142",
+    "timestamp": "2026-01-16 03:10:05",
+    "content": "Personally I don't feel the need to keep everything in one chat. I already have agents keep proper documentation so it's pretty easy to start new chats.",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461558098224218142",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461558272405536849",
+    "timestamp": "2026-01-16 03:10:46",
+    "content": "Thanks for adding the context but I still think requests are a limited resource for most people. Their plan or wallet had a limit on how much they can justify spending on their AI spend",
+    "author": "blindestgoose#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461558272405536849",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461558508301586443",
+    "timestamp": "2026-01-16 03:11:42",
+    "content": "I'm having trouble reaching the limit on the $40 plan, I reached the limits way faster on WARP, which is proportional to tokens.",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461558508301586443",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461558927681392695",
+    "timestamp": "2026-01-16 03:13:22",
+    "content": "I have only used Claude through Antigravity basically if Gemini is just stuck I can say Opus please help me. It's good to know I'm going to check out Claude directly probably at the end of the month",
+    "author": "blindestgoose#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461558927681392695",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461559144879230976",
+    "timestamp": "2026-01-16 03:14:14",
+    "content": "I think what's even better than starting new chats would be conversation branching. It's annoying seeing the agent make the same mistakes at the start of each chat. Having a few previous turns would help \"boostrap\" it.",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461559144879230976",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461559930732675143",
+    "timestamp": "2026-01-16 03:17:21",
+    "content": "What I've done for most of my projects is have a set of design documents written in markdown which get automatically looked at by whatever AI tool I'm using and I include things like the development environment saying that like I'm on Windows so you need to use powershell commands, not Linux commands, explaining the type of project it is and how to use the tooling in that it's not a node.js project but it is JavaScript and it does use npm and all the good things about writing a serverless application and it just remembers that thing by using the documents that I gave it. Have you tried this approach?",
+    "author": "blindestgoose#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461559930732675143",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461560059887616153",
+    "timestamp": "2026-01-16 03:17:52",
+    "content": "Yes, Copilot lets you do that for each project",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461560059887616153",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461560615318454413",
+    "timestamp": "2026-01-16 03:20:05",
+    "content": "I usually instruct it to write additional Markdown files to keep track of what it did, emphasizing the fact that it will be used as context for future agents",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461560615318454413",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461561139224645765",
+    "timestamp": "2026-01-16 03:22:10",
+    "content": "I don't only use it for coding, if it's for a research task, I'll have it include all citations and references in a separate file, which I can then give to any other agent to have them check for hallucinations",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461561139224645765",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461561296091611271",
+    "timestamp": "2026-01-16 03:22:47",
+    "content": "It's these types of task that really lets you see how much LLMs hallucinate",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461561296091611271",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461561476820242472",
+    "timestamp": "2026-01-16 03:23:30",
+    "content": "wait, its still possible they'll release sonnet 5.0 today right",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461561476820242472",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461561484638163037",
+    "timestamp": "2026-01-16 03:23:32",
+    "content": "In general they can handle much larger context than you expect them to, but Opus also has some weird hallucinations sometimes",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461561484638163037",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461561539675951308",
+    "timestamp": "2026-01-16 03:23:45",
+    "content": "do they keep a skeleton krew on staff at 8PM for this very purpose",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461561539675951308",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461561590062256139",
+    "timestamp": "2026-01-16 03:23:57",
+    "content": "releasing unreleasible models",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461561590062256139",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461566672619176071",
+    "timestamp": "2026-01-16 03:44:09",
+    "content": "got the refund after getting banned lol",
+    "author": "profdrcat#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461566672619176071",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461567968302600356",
+    "timestamp": "2026-01-16 03:49:18",
+    "content": "what if I don't pay and get banned",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461567968302600356",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461568008316256421",
+    "timestamp": "2026-01-16 03:49:27",
+    "content": "a person who thinks all the time, has nothing to think about except thoughts",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461568008316256421",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461573088364990505",
+    "timestamp": "2026-01-16 04:09:38",
+    "content": "what for?",
+    "author": "______nick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461573088364990505",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461573312835620945",
+    "timestamp": "2026-01-16 04:10:32",
+    "content": "its funny learning using AI because you just slowly rediscover things by yourself and the AI is able to name you exactly what you rediscover every time",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461573312835620945",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461573357974716660",
+    "timestamp": "2026-01-16 04:10:43",
+    "content": "its like doing a manual roadmap of history",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461573357974716660",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461573542972882955",
+    "timestamp": "2026-01-16 04:11:27",
+    "content": "hopefully one day it goes \"wait... no one has actually thought about that\"",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461573542972882955",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461573672463630559",
+    "timestamp": "2026-01-16 04:11:58",
+    "content": "why would you have been banned",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461573672463630559",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461573763530231820",
+    "timestamp": "2026-01-16 04:12:19",
+    "content": "its not like claude generates multimodal content",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461573763530231820",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461573803376250932",
+    "timestamp": "2026-01-16 04:12:29",
+    "content": "were you asking it to generate bioweapons?",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461573803376250932",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461573848125149376",
+    "timestamp": "2026-01-16 04:12:40",
+    "content": "and l33t h4xing techniques?",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461573848125149376",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461574023170494610",
+    "timestamp": "2026-01-16 04:13:21",
+    "content": "probably tried to get claude to explain project sundial",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461574023170494610",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461574252032688320",
+    "timestamp": "2026-01-16 04:14:16",
+    "content": "also as a society, can we vote to replace the term \"banned\" with \"banished\" ???",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461574252032688320",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461574275017478208",
+    "timestamp": "2026-01-16 04:14:21",
+    "content": "sounds way cooler",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461574275017478208",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461574394089312469",
+    "timestamp": "2026-01-16 04:14:50",
+    "content": "[redacted]",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461574394089312469",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461574446711181332",
+    "timestamp": "2026-01-16 04:15:02",
+    "content": "or something, my math is probably off",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461574446711181332",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461574803596247040",
+    "timestamp": "2026-01-16 04:16:27",
+    "content": "the people banished him from experimenting with claude",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461574803596247040",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461575521618886656",
+    "timestamp": "2026-01-16 04:19:19",
+    "content": "done",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461575521618886656",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461575530066350239",
+    "timestamp": "2026-01-16 04:19:21",
+    "content": "",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461575530066350239",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461575529768550504/image.png?ex=696b0dc9&is=6969bc49&hm=b0d551f9e54d6b20014426a55736dfad15344358dd33902929a20e184291819e&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461575571627708466",
+    "timestamp": "2026-01-16 04:19:31",
+    "content": "This is why Claude gets paid the big bucks",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461575571627708466",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461575671154343936",
+    "timestamp": "2026-01-16 04:19:54",
+    "content": "he may ask for a realm reinstatement",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461575671154343936",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461576121228198031",
+    "timestamp": "2026-01-16 04:21:42",
+    "content": "<@723365440360939551> you need to draft your banishment appeal",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461576121228198031",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461576607331520584",
+    "timestamp": "2026-01-16 04:23:37",
+    "content": "",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461576607331520584",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461576607071469648/image.png?ex=696b0ec9&is=6969bd49&hm=b083f103ee86e5e520c68148b97b12583724507f16b8f750508805a76b6cb8f5&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461576685936836811",
+    "timestamp": "2026-01-16 04:23:56",
+    "content": "ok I think it's settled, but Claude says I'm planning too much",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461576685936836811",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461576826076790933",
+    "timestamp": "2026-01-16 04:24:30",
+    "content": "Lets pretend this conversation never happened and just start using it",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461576826076790933",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461577293733302292",
+    "timestamp": "2026-01-16 04:26:21",
+    "content": "Also, I am positive claude adjusted its tone to suit me because I called out the fact I'm a millennial 😄",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461577293733302292",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461577475330015434",
+    "timestamp": "2026-01-16 04:27:04",
+    "content": "\"they're *like* 12 at most\"",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461577475330015434",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461577855086362749",
+    "timestamp": "2026-01-16 04:28:35",
+    "content": "Does anyone know how to demo this changelog? T.T\nFull content of changelog 2.1.2: \"Improved error message when pasting images over SSH to suggest using scp instead of the unhelpful clipboard shortcut hint\"",
+    "author": "blong8806#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461577855086362749",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461581095844839434",
+    "timestamp": "2026-01-16 04:41:28",
+    "content": "Any experiments regarding \"ask human\" MCP?",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461581095844839434",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461587231721390100",
+    "timestamp": "2026-01-16 05:05:51",
+    "content": "What'd you do",
+    "author": "pranatic#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461587231721390100",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461588774155849749",
+    "timestamp": "2026-01-16 05:11:58",
+    "content": "Based on their discord profile they seem pretty sus",
+    "author": "blindestgoose#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461588774155849749",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461588773925027984/Screenshot_20260116-001123.png?ex=696b1a1e&is=6969c89e&hm=6c54fa4a62561c2ce83d7f9fde4e82a1e70f6c2924e610c80461d743edf222c8&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461597878094139535",
+    "timestamp": "2026-01-16 05:48:09",
+    "content": "?",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461597878094139535",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461597877850738842/image.png?ex=696b2299&is=6969d119&hm=46090f2efacc6d4f21c6f69957856b2df9873d6bac6c2284c40dee02fa8be749&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461598047434838058",
+    "timestamp": "2026-01-16 05:48:49",
+    "content": "Why are there 2 sonnets 4?",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461598047434838058",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461598173331193876",
+    "timestamp": "2026-01-16 05:49:19",
+    "content": "ohh and 2 opus 4.1 and haiku 3.5 and opus 4",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461598173331193876",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461598178070499390",
+    "timestamp": "2026-01-16 05:49:20",
+    "content": "lol",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461598178070499390",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461598479754465472",
+    "timestamp": "2026-01-16 05:50:32",
+    "content": "whats happening?",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461598479754465472",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461598479485763778/image.png?ex=696b2328&is=6969d1a8&hm=f435f10735f936c5d2e272d7e9e6bb5738b205adceccdd8c0b18351a3a122b0c&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461602132900970516",
+    "timestamp": "2026-01-16 06:05:03",
+    "content": "looks like a UI bug is what's happening",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461602132900970516",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]
