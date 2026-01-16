@@ -3543,5 +3543,3778 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461424657893691576",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1461426032652452053",
+    "timestamp": "2026-01-15 18:25:18",
+    "content": "how to do without interactive?",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461426032652452053",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461426032358981712/image.png?ex=696a828e&is=6969310e&hm=b8016f1504bf4e5d7cf355cebd3bbbbb10f7f65560e450ac83f2faecf4e753cc&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461426805083734139",
+    "timestamp": "2026-01-15 18:28:22",
+    "content": "\"I need a non-interactive artifact, could you convert this to a normal artifact for me? Thanks.\"",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461426805083734139",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461426854635507904",
+    "timestamp": "2026-01-15 18:28:34",
+    "content": "Ask, and ye shall receive.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461426854635507904",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461427206541803758",
+    "timestamp": "2026-01-15 18:29:58",
+    "content": "Thanks, it worked. Why is this happening? This has never happened before.",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461427206541803758",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461440785361928400",
+    "timestamp": "2026-01-15 19:23:55",
+    "content": "not a bad idea honestly, could do a better middle ground like creating a ticket and timing them out after deleting their message?",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461440785361928400",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461440818974818325",
+    "timestamp": "2026-01-15 19:24:03",
+    "content": "that way it can't be abused lol",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461440818974818325",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461441466105594059",
+    "timestamp": "2026-01-15 19:26:37",
+    "content": "Has anyone had issues with session start and end hook stuff, never had issues but then got a pc this week and tried to copy everything from my Mac and hooks totally broke and I've tried different things but the whole issue is still unclear to me",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461441466105594059",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461445211896152227",
+    "timestamp": "2026-01-15 19:41:30",
+    "content": "Are there any non-usage based models for Claude?",
+    "author": "reinout_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461445211896152227",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461445310030151783",
+    "timestamp": "2026-01-15 19:41:54",
+    "content": "no?",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461445310030151783",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461445318003392633",
+    "timestamp": "2026-01-15 19:41:56",
+    "content": "What is a non-usage model in this context?",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461445318003392633",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461445469296136504",
+    "timestamp": "2026-01-15 19:42:32",
+    "content": "Cause if you mean unlimited usage, that doesn't exist unless you host the model yourself, which you can't cause they're not openly available unfortunately. I shudder to think the cost too lol",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461445469296136504",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461445630533701685",
+    "timestamp": "2026-01-15 19:43:10",
+    "content": "I currently have no subscription. I wouldnt mind paying a fixed monthly fee.",
+    "author": "reinout_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461445630533701685",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461445679250538769",
+    "timestamp": "2026-01-15 19:43:22",
+    "content": "But what are the limits of these subscriptions?",
+    "author": "reinout_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461445679250538769",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461445906036686848",
+    "timestamp": "2026-01-15 19:44:16",
+    "content": "shirley an NVL72 doesn't cost that much?",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461445906036686848",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461445959266603039",
+    "timestamp": "2026-01-15 19:44:29",
+    "content": "that's a fun hypothetical",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461445959266603039",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461445996356829368",
+    "timestamp": "2026-01-15 19:44:37",
+    "content": "A little with pro, roughly 5 times a little for 5x, and roughly 20x a little for 20x.\nNo one can really provide hard figures as it varies so much person to person.\n\nI hear one user reliably gets $1,200 a month of API equivalent expenditure with the 20x plan.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461445996356829368",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446008461332585",
+    "timestamp": "2026-01-15 19:44:40",
+    "content": "how much would you be willing to pay for selfhosting a model as capable as Opus 4.5 or something",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446008461332585",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446043513131243",
+    "timestamp": "2026-01-15 19:44:49",
+    "content": "5k? 10k?",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446043513131243",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446082310705213",
+    "timestamp": "2026-01-15 19:44:58",
+    "content": "I got tree-fiddy",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446082310705213",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446121720123515",
+    "timestamp": "2026-01-15 19:45:07",
+    "content": "wdym? how much you'd want to pay, or how much you'd actually have to pay?",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446121720123515",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446137557815336",
+    "timestamp": "2026-01-15 19:45:11",
+    "content": "So if I'm only looking to pay 20 bucks a month this is not for me?",
+    "author": "reinout_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446137557815336",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446154892869847",
+    "timestamp": "2026-01-15 19:45:15",
+    "content": "how much you'd _want_, I clarified",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446154892869847",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446240347623598",
+    "timestamp": "2026-01-15 19:45:36",
+    "content": "honestly I have no idea",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446240347623598",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446241044136126",
+    "timestamp": "2026-01-15 19:45:36",
+    "content": "I'm currently using Copilot as a student",
+    "author": "reinout_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446241044136126",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446381221843046",
+    "timestamp": "2026-01-15 19:46:09",
+    "content": "did my youtube go vegan or something lol what is this",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446381221843046",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461446380651286630/image.png?ex=696a9581&is=69694401&hm=bab214aec6fdd40c48015170fd47f49353382b36b897619eb08c1226572c4af6&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446399118803008",
+    "timestamp": "2026-01-15 19:46:13",
+    "content": "You'll get a little more usage than the free plan, but probably not a lot. I generally consider the $100 5x plan a requirement for anything beyond very light use. If you do deep research, code with it for more than a few hours a day, the $20 plan isn't going to be enough probably.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446399118803008",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446463019155511",
+    "timestamp": "2026-01-15 19:46:29",
+    "content": "I code 10h a day",
+    "author": "reinout_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446463019155511",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446495185277101",
+    "timestamp": "2026-01-15 19:46:36",
+    "content": "Yeah you need 5x guaranteed.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446495185277101",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446514470817854",
+    "timestamp": "2026-01-15 19:46:41",
+    "content": "yeah lmao you kinda need max 5x if you code that much",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446514470817854",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446546208985332",
+    "timestamp": "2026-01-15 19:46:48",
+    "content": "20x if it increases to 16+ hours a day 😄",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446546208985332",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446552382869639",
+    "timestamp": "2026-01-15 19:46:50",
+    "content": "And what does that x5 mean?",
+    "author": "reinout_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446552382869639",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446579528405214",
+    "timestamp": "2026-01-15 19:46:56",
+    "content": "it's just the name of the sub",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446579528405214",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446597044076624",
+    "timestamp": "2026-01-15 19:47:01",
+    "content": "5x the pro usage.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446597044076624",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446651196735579",
+    "timestamp": "2026-01-15 19:47:14",
+    "content": "you have pro, max 5x and max 20x\nthe 5x/20x just mean \"this plan gives you 5/20 times the pro usage\"",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446651196735579",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446669903335456",
+    "timestamp": "2026-01-15 19:47:18",
+    "content": "Which isn't hard defined lol",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446669903335456",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446699561128038",
+    "timestamp": "2026-01-15 19:47:25",
+    "content": "And is usage based per day?",
+    "author": "reinout_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446699561128038",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446721774293078",
+    "timestamp": "2026-01-15 19:47:30",
+    "content": "5 hour and weekly",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446721774293078",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446754795782255",
+    "timestamp": "2026-01-15 19:47:38",
+    "content": "Yep, all plans have those limitations.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446754795782255",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446961206001807",
+    "timestamp": "2026-01-15 19:48:27",
+    "content": "i recommend picking pro and then going up if you need more, no need to start with the endgame directly\nunless you're bill gates or something like this in which case why even bother comparing them, slap a million on it",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446961206001807",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461446969162465443",
+    "timestamp": "2026-01-15 19:48:29",
+    "content": "I should note you can enable 'additional usage' so that you can pay to continue using it if you do hit the limit",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461446969162465443",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461447052897554432",
+    "timestamp": "2026-01-15 19:48:49",
+    "content": "How would you guys compare this to Gemine student version / Copilot student version?",
+    "author": "reinout_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461447052897554432",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461447103426461861",
+    "timestamp": "2026-01-15 19:49:01",
+    "content": "Apples and Oranges",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461447103426461861",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461447420360523888",
+    "timestamp": "2026-01-15 19:50:17",
+    "content": "Depends on what you do but if you're serious about programming, Claude is the way to go\nIf it's for students or learning though I would go with Gemini personally, feels less restrictive even if the model is a bit dumber at least you can spam chats",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461447420360523888",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461447441617387719",
+    "timestamp": "2026-01-15 19:50:22",
+    "content": "DISCLAIMER: This will cost you a LOT OF MONEY. Just a single prompt could cost you $5-$50, it's PURE API pricing, roughly 10-20x more expensive than a subscription plan.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461447441617387719",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461447533296488530",
+    "timestamp": "2026-01-15 19:50:44",
+    "content": "Yes, only do this if you really need it",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461447533296488530",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461447636262584434",
+    "timestamp": "2026-01-15 19:51:08",
+    "content": "Combinatorial optimization in Rust",
+    "author": "reinout_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461447636262584434",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461447706441552056",
+    "timestamp": "2026-01-15 19:51:25",
+    "content": "claude",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461447706441552056",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461447799651696660",
+    "timestamp": "2026-01-15 19:51:47",
+    "content": "that's a very long prompt for $50",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461447799651696660",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461447802931515436",
+    "timestamp": "2026-01-15 19:51:48",
+    "content": "Claude is unparalleled for development, its the best to the extent that a lot of people barely look at outputs, and it more or less works out.\n\nI would NEVER trust Gemini, or any model, much less their piss poor coding agent equivalent, to output code I could have any degree of trust in without a line-by-line code review.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461447802931515436",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461447838285299980",
+    "timestamp": "2026-01-15 19:51:57",
+    "content": "If you like I could throw a prompt at mine and show you the output to get a sense of what it can turn out.",
+    "author": "ticktockbent#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461447838285299980",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461447842877931709",
+    "timestamp": "2026-01-15 19:51:58",
+    "content": "All it takes is a few subagents.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461447842877931709",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461447872737443930",
+    "timestamp": "2026-01-15 19:52:05",
+    "content": "oh yeah those",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461447872737443930",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461447883407626382",
+    "timestamp": "2026-01-15 19:52:07",
+    "content": "Ive been having alot of issues with copilot, it even fails at simple autocompletions",
+    "author": "reinout_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461447883407626382",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461447962424119489",
+    "timestamp": "2026-01-15 19:52:26",
+    "content": "github's copilot?",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461447962424119489",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461447985404706927",
+    "timestamp": "2026-01-15 19:52:32",
+    "content": "Yeah subagents are brutal, but convenient, and save money in the long run. But without a subscription, I would use them VERY carefully lol",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461447985404706927",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461448005986287889",
+    "timestamp": "2026-01-15 19:52:37",
+    "content": "yeah but the student one",
+    "author": "reinout_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461448005986287889",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461448059178455277",
+    "timestamp": "2026-01-15 19:52:49",
+    "content": "I cancelled my GH copilot subscription about 2 months ago, i was a subscriber since 2020 but it never evolved",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461448059178455277",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461448110512541737",
+    "timestamp": "2026-01-15 19:53:01",
+    "content": "and now it reached a point where I dont like it anymore",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461448110512541737",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461448149938733097",
+    "timestamp": "2026-01-15 19:53:11",
+    "content": "i understand",
+    "author": "reinout_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461448149938733097",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461448234068349063",
+    "timestamp": "2026-01-15 19:53:31",
+    "content": "It's such a shame that a lot of companies are choosing co-pilot, feels like such a terrible decision.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461448234068349063",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461448321204748298",
+    "timestamp": "2026-01-15 19:53:52",
+    "content": "another good way to burn $$$ on the API is with the 1MT Sonnet models",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461448321204748298",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461448361734308031",
+    "timestamp": "2026-01-15 19:54:01",
+    "content": "If my company wanted me to use copilot and wouldn't let me build my own agent or something to counter that mess, I'd look for another job lol",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461448361734308031",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461448368503914818",
+    "timestamp": "2026-01-15 19:54:03",
+    "content": "they had one good product and sat on their aah rather than improve",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461448368503914818",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461448407863525389",
+    "timestamp": "2026-01-15 19:54:12",
+    "content": "worked for a couple years",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461448407863525389",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461448476054519829",
+    "timestamp": "2026-01-15 19:54:29",
+    "content": "That's Microsoft for you",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461448476054519829",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461448502453207233",
+    "timestamp": "2026-01-15 19:54:35",
+    "content": "pretty much",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461448502453207233",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461448519167639801",
+    "timestamp": "2026-01-15 19:54:39",
+    "content": "The bigger the company, the slower and more complacent they become.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461448519167639801",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461448621030379792",
+    "timestamp": "2026-01-15 19:55:03",
+    "content": "depends, Dyson is super based",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461448621030379792",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461448630610165882",
+    "timestamp": "2026-01-15 19:55:05",
+    "content": "I'm just surprised GitHub is still useable. Normally their interface design involves throwing 6 million options split across 4 dashboards. lol",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461448630610165882",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461448686503727218",
+    "timestamp": "2026-01-15 19:55:19",
+    "content": "Had to work with Microsoft Teams once",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461448686503727218",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461448698864210215",
+    "timestamp": "2026-01-15 19:55:22",
+    "content": "I wanted to shoot myself",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461448698864210215",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461448896042504307",
+    "timestamp": "2026-01-15 19:56:09",
+    "content": "creating a webhook now requires Power Automate",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461448896042504307",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461448937750790499",
+    "timestamp": "2026-01-15 19:56:19",
+    "content": "💀",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461448937750790499",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461448968302100544",
+    "timestamp": "2026-01-15 19:56:26",
+    "content": "🤢",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461448968302100544",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461449385085763694",
+    "timestamp": "2026-01-15 19:58:05",
+    "content": "Honestly if you have the money (and especially if you make money with your work), max 5x is the best deal on the market period",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461449385085763694",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461449411799416928",
+    "timestamp": "2026-01-15 19:58:12",
+    "content": "if you're not full on vibecoding, it's BASICALLY unlimited usage",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461449411799416928",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461449465776050460",
+    "timestamp": "2026-01-15 19:58:25",
+    "content": "I mean, 20x is, 5x still hits limits",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461449465776050460",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461449544138100778",
+    "timestamp": "2026-01-15 19:58:43",
+    "content": "nah, I stand by what I said, unless you're vibecoding you have to be doing some crazy stuff to hit the 5x limits",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461449544138100778",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461449546478653512",
+    "timestamp": "2026-01-15 19:58:44",
+    "content": "But I do have to work with multiple claude instances non-stop, usually only two, but I do hit limits.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461449546478653512",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461449580833935401",
+    "timestamp": "2026-01-15 19:58:52",
+    "content": "How much does this cost? And how many queries would this be per hour (estimate)",
+    "author": "reinout_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461449580833935401",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461449634324156479",
+    "timestamp": "2026-01-15 19:59:05",
+    "content": "I can get 14-16 hours a day though if I'm not having it work non-stop and I'm spending time reviewing, preparing new specs and such",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461449634324156479",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461449635188052063",
+    "timestamp": "2026-01-15 19:59:05",
+    "content": "100$/mo\nand \"queries per hour\" isn't really a useful estimate",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461449635188052063",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461449703555207300",
+    "timestamp": "2026-01-15 19:59:21",
+    "content": "how many queries you get depends on how much data you're feeding it, and other factors",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461449703555207300",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461449735884771429",
+    "timestamp": "2026-01-15 19:59:29",
+    "content": "Queries per hour is completely useless, anyone selling you that is being obtuse intentionally.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461449735884771429",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461449819632566547",
+    "timestamp": "2026-01-15 19:59:49",
+    "content": "A single query from me can use 10k tokens up to 5 million tokens.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461449819632566547",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461449854122201366",
+    "timestamp": "2026-01-15 19:59:57",
+    "content": "Hell I had claude code work on ONE PROMPT for 6 hours once.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461449854122201366",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461449981012611324",
+    "timestamp": "2026-01-15 20:00:27",
+    "content": "I'm not that deep into this, I have no clue.",
+    "author": "reinout_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461449981012611324",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461450032304750887",
+    "timestamp": "2026-01-15 20:00:40",
+    "content": "You code for 10 hours a day",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461450032304750887",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461450069076349069",
+    "timestamp": "2026-01-15 20:00:48",
+    "content": "Is your coding agent running for the full 10 hours?",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461450069076349069",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461450093419827354",
+    "timestamp": "2026-01-15 20:00:54",
+    "content": "Like actively coding?",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461450093419827354",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461450214731939984",
+    "timestamp": "2026-01-15 20:01:23",
+    "content": "I basically code something, run my tests (which takes a few minutes), than continue coding",
+    "author": "reinout_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461450214731939984",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461450237800485120",
+    "timestamp": "2026-01-15 20:01:29",
+    "content": "And I do that on repeat all day",
+    "author": "reinout_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461450237800485120",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461450259099029697",
+    "timestamp": "2026-01-15 20:01:34",
+    "content": "I doubt it, combinatorial optimization in rust really doesn't seem like the sort of thing you can vibecode or whatever",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461450259099029697",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461450312849293322",
+    "timestamp": "2026-01-15 20:01:47",
+    "content": "I mean, just\nget the 20$/mo tier",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461450312849293322",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461450316036837406",
+    "timestamp": "2026-01-15 20:01:47",
+    "content": "Then 5x should be sufficient. WOrse case is you get forced to take a break for an hour once every 5 hours.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461450316036837406",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461450323515408414",
+    "timestamp": "2026-01-15 20:01:49",
+    "content": "see how the usage feels",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461450323515408414",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461450355173888045",
+    "timestamp": "2026-01-15 20:01:57",
+    "content": "if it's not enough, upgrade",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461450355173888045",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461450381081968732",
+    "timestamp": "2026-01-15 20:02:03",
+    "content": "Yeah that honestly",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461450381081968732",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461450384613834945",
+    "timestamp": "2026-01-15 20:02:04",
+    "content": "no point in trying to figure it out ahead of time",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461450384613834945",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461450391760670875",
+    "timestamp": "2026-01-15 20:02:05",
+    "content": "Ok I will have a look at this subscription tonight",
+    "author": "reinout_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461450391760670875",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461450451580096594",
+    "timestamp": "2026-01-15 20:02:20",
+    "content": "That's the best way, if you upgrade, they will charge you the difference only",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461450451580096594",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461450653397418016",
+    "timestamp": "2026-01-15 20:03:08",
+    "content": "I started on pro, hit limits in an hour and a half, upgraded to 5x, and been there happily for a year.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461450653397418016",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461450887514947624",
+    "timestamp": "2026-01-15 20:04:04",
+    "content": "When I have products making me money, or a company willing to pay for it, I'll upgrade to 20x just so I can explore more things, and not worry about token usage. There's plenty of ideas I have I don't explore because its not worth wasting the usage on if the idea turns out to not work lol",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461450887514947624",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461451353753780406",
+    "timestamp": "2026-01-15 20:05:55",
+    "content": "What upppp",
+    "author": "rhkills#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461451353753780406",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461451461853712619",
+    "timestamp": "2026-01-15 20:06:20",
+    "content": "Wazaaaa",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461451461853712619",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461453996505170082",
+    "timestamp": "2026-01-15 20:16:25",
+    "content": "Wazzzaaaappppppp",
+    "author": "rhkills#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461453996505170082",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461457059336949814",
+    "timestamp": "2026-01-15 20:28:35",
+    "content": "Guys this is ridiculous. I posted here in the channel earlier, I was instructed to post in the community forums, now I'm getting a warning. $200 was paid yesterday, account banned a day after. No way to contact customer support other than wait for a form. A form that many people said never even works or results into a response. What the heck are we supposed to do?!",
+    "author": "oalexd#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461457059336949814",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461457059164848280/Screenshot.png?ex=696a9f73&is=69694df3&hm=4dbf3a3b96f6ee465fdf5199886ea54ca0871685f1aaa5f7cc0d3845ec5980aa&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461459812108992613",
+    "timestamp": "2026-01-15 20:39:31",
+    "content": "facebook is the worst of them though imo",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461459812108992613",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461459860901072917",
+    "timestamp": "2026-01-15 20:39:43",
+    "content": "facebook TRIES to expand out of being a s@#$ website",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461459860901072917",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461459904253395189",
+    "timestamp": "2026-01-15 20:39:53",
+    "content": "fails repeatedly and just proves that zuk got lucky as a mofo",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461459904253395189",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461459929872208107",
+    "timestamp": "2026-01-15 20:39:59",
+    "content": "and literally has no brain",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461459929872208107",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461460381724835992",
+    "timestamp": "2026-01-15 20:41:47",
+    "content": "silicon valley moment",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461460381724835992",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461460535299018762",
+    "timestamp": "2026-01-15 20:42:24",
+    "content": "i totally just typed a word that the server did not allow",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461460535299018762",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461462011497152673",
+    "timestamp": "2026-01-15 20:48:16",
+    "content": "I guess a chargeback is the only way. Literally in good faith have no way to get support for a **purchase**. No email, no community forms (seems like that results in a warning too), etc. Very confusing.",
+    "author": "oalexd#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461462011497152673",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461462214731890730",
+    "timestamp": "2026-01-15 20:49:04",
+    "content": "I would be incredibly frustrated if that happened. It's awful to lose access to Claude to begin with.",
+    "author": "fidesratioque#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461462214731890730",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461462436640067664",
+    "timestamp": "2026-01-15 20:49:57",
+    "content": "yea very small limit",
+    "author": "milkv2#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461462436640067664",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461462479904440523",
+    "timestamp": "2026-01-15 20:50:07",
+    "content": "5x is min likely for anything",
+    "author": "milkv2#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461462479904440523",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461462590289871044",
+    "timestamp": "2026-01-15 20:50:34",
+    "content": "i did a few prompts and i hit 70% on the 5h one, and already 20% on weekly limit for 2 days",
+    "author": "milkv2#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461462590289871044",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461462746238288010",
+    "timestamp": "2026-01-15 20:51:11",
+    "content": "Those still utilizing Facebook today are either old age, got attachment issues or they are in the lower left part of the IQ distribution graph",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461462746238288010",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461462833987453001",
+    "timestamp": "2026-01-15 20:51:32",
+    "content": "Put simply, old and stupid people",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461462833987453001",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461462848281645330",
+    "timestamp": "2026-01-15 20:51:35",
+    "content": "but theyre still making a sh!@#tton of money",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461462848281645330",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461462870578430167",
+    "timestamp": "2026-01-15 20:51:41",
+    "content": "maybe its from heir use across the world",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461462870578430167",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461462884881006777",
+    "timestamp": "2026-01-15 20:51:44",
+    "content": "Well yeah, milking cows is free",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461462884881006777",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461462995149258793",
+    "timestamp": "2026-01-15 20:52:10",
+    "content": "oof\ntheres 250M nigerians that havent been able to depart FB. or like. idk what other large pop country is still reliant on fb",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461462995149258793",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461463057048801469",
+    "timestamp": "2026-01-15 20:52:25",
+    "content": "they advertise all over the internet",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461463057048801469",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461463145389494400",
+    "timestamp": "2026-01-15 20:52:46",
+    "content": "the problem is if i get rid of FB entirely, there's still a list of people i knew from like 10+ years ago on it. not that... i talk to them... but I'd lose that communication in the rare annual occasion that i do speak to them",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461463145389494400",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461463157020295342",
+    "timestamp": "2026-01-15 20:52:49",
+    "content": "idk what i'd replace that with",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461463157020295342",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461463231137714217",
+    "timestamp": "2026-01-15 20:53:06",
+    "content": "My mother posts our family picture on facebook like we're some kind of advert for a happy family\nThis pisses me off so much I'm 🤏 this close to cutting ties with them I'm so done with consummerism and stupid people",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461463231137714217",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461463297793724590",
+    "timestamp": "2026-01-15 20:53:22",
+    "content": "hey well",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461463297793724590",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461463315120132379",
+    "timestamp": "2026-01-15 20:53:27",
+    "content": "they dont see tech the same way you do",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461463315120132379",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461463351719891045",
+    "timestamp": "2026-01-15 20:53:35",
+    "content": "at all",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461463351719891045",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461463571404816457",
+    "timestamp": "2026-01-15 20:54:28",
+    "content": "i bet you haven't met someone who thought that google owned and hosted and held every website you see on the search results",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461463571404816457",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461463631379038370",
+    "timestamp": "2026-01-15 20:54:42",
+    "content": "lmao",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461463631379038370",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461463689436725341",
+    "timestamp": "2026-01-15 20:54:56",
+    "content": "i mean, you search a question and the websites come up",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461463689436725341",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461463701193363477",
+    "timestamp": "2026-01-15 20:54:59",
+    "content": "google must own it",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461463701193363477",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461463784370737174",
+    "timestamp": "2026-01-15 20:55:18",
+    "content": "there really is a big gap.",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461463784370737174",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461464321803686003",
+    "timestamp": "2026-01-15 20:57:27",
+    "content": "De-googled my phone with LineageOS 4 days ago",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461464321803686003",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461464362400354334",
+    "timestamp": "2026-01-15 20:57:36",
+    "content": "Was either this or upgrading my phone, and my god, its like brand new",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461464362400354334",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461464439357309009",
+    "timestamp": "2026-01-15 20:57:55",
+    "content": "im sticking with apple",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461464439357309009",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461464469333872651",
+    "timestamp": "2026-01-15 20:58:02",
+    "content": "oh god",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461464469333872651",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461464482478821664",
+    "timestamp": "2026-01-15 20:58:05",
+    "content": "what",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461464482478821664",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461464536430416069",
+    "timestamp": "2026-01-15 20:58:18",
+    "content": "the one company milking their user without any innovation for the past 10 years",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461464536430416069",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461464622023315629",
+    "timestamp": "2026-01-15 20:58:38",
+    "content": "its like facebook but even worst because they actually make a shitton of cash",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461464622023315629",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461464701648244798",
+    "timestamp": "2026-01-15 20:58:57",
+    "content": "hmm",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461464701648244798",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461464739275341990",
+    "timestamp": "2026-01-15 20:59:06",
+    "content": "but they make physical hardware and respect your privacy",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461464739275341990",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461464758879391979",
+    "timestamp": "2026-01-15 20:59:11",
+    "content": "i like that more",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461464758879391979",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461464765720297716",
+    "timestamp": "2026-01-15 20:59:12",
+    "content": "its like selling people a car",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461464765720297716",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461464807235522693",
+    "timestamp": "2026-01-15 20:59:22",
+    "content": "love the fact you believe it",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461464807235522693",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461464870062002349",
+    "timestamp": "2026-01-15 20:59:37",
+    "content": ">:(",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461464870062002349",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461464914660163805",
+    "timestamp": "2026-01-15 20:59:48",
+    "content": "1% of the data collection problem gone",
+    "author": "p_atient#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461464914660163805",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461465074005966888",
+    "timestamp": "2026-01-15 21:00:26",
+    "content": "1%, more like 50%",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461465074005966888",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461465308622753793",
+    "timestamp": "2026-01-15 21:01:22",
+    "content": "I really hate the passing of time 🙁",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461465308622753793",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461465359516434697",
+    "timestamp": "2026-01-15 21:01:34",
+    "content": "I don't mind that, I'd rather it passing faster",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461465359516434697",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461465673342386363",
+    "timestamp": "2026-01-15 21:02:49",
+    "content": "The concept of humanity is a plague in my mind and a burden to live with, I think what keeps me going is the hope for a collapse or something new, both of which are highly unlikely to happen",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461465673342386363",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461465825742553230",
+    "timestamp": "2026-01-15 21:03:25",
+    "content": "i think badly organized human societies is a problem but if you're off in the desert by yourself that's probably not so bad",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461465825742553230",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461465918738796700",
+    "timestamp": "2026-01-15 21:03:47",
+    "content": "having said that human societies just keep on bringing more humans in so unfortunately you're in here with us",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461465918738796700",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461465949994746049",
+    "timestamp": "2026-01-15 21:03:55",
+    "content": "Hey I made an app on Claude max and it works but my chat got length limited and now it seems I'm screwed to continue where I left off. What is the solution to continue coding this way? It wants me to make a new chat but that's ridiculous",
+    "author": "ppg_91#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461465949994746049",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461466015694196788",
+    "timestamp": "2026-01-15 21:04:10",
+    "content": "ah yeah that's the context limit for you",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461466015694196788",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461466048527208499",
+    "timestamp": "2026-01-15 21:04:18",
+    "content": "you hit 200k?",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461466048527208499",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461466117913579550",
+    "timestamp": "2026-01-15 21:04:35",
+    "content": "this is a major limitation of modern llms that we all need to look for workarounds on",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461466117913579550",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461466147630092525",
+    "timestamp": "2026-01-15 21:04:42",
+    "content": "have you used claude code for this or just a regular chat",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461466147630092525",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461466157621186620",
+    "timestamp": "2026-01-15 21:04:44",
+    "content": "i think so. It's my 1st ever time using it. Claude max so 100/month.",
+    "author": "ppg_91#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461466157621186620",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461466196598849673",
+    "timestamp": "2026-01-15 21:04:53",
+    "content": "not claude code. I don't know jack about coding haha",
+    "author": "ppg_91#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461466196598849673",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461466237270757426",
+    "timestamp": "2026-01-15 21:05:03",
+    "content": "if you wanna fix it in your existing chat just start slowly by editing the very last message and work backwards",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461466237270757426",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461466294032535894",
+    "timestamp": "2026-01-15 21:05:17",
+    "content": "e.g. ask the last message to like, let you export the existing content somehow",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461466294032535894",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461466304589598947",
+    "timestamp": "2026-01-15 21:05:19",
+    "content": "just work on it that way",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461466304589598947",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461466370532446208",
+    "timestamp": "2026-01-15 21:05:35",
+    "content": "you can probably grab the useful code and get an export-ready message to go with it",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461466370532446208",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461466430745739294",
+    "timestamp": "2026-01-15 21:05:49",
+    "content": "export the whole chat for a new chat kinda?",
+    "author": "ppg_91#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461466430745739294",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461466453097054381",
+    "timestamp": "2026-01-15 21:05:55",
+    "content": "well",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461466453097054381",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461466473800143062",
+    "timestamp": "2026-01-15 21:06:00",
+    "content": "sure.",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461466473800143062",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461466500438167683",
+    "timestamp": "2026-01-15 21:06:06",
+    "content": "you're hand engineering an export solution yes",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461466500438167683",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461466663483343022",
+    "timestamp": "2026-01-15 21:06:45",
+    "content": "to start in a chat with more work already done and the knowledge that you can try to work more efficiently next time",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461466663483343022",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461467042614870047",
+    "timestamp": "2026-01-15 21:08:15",
+    "content": "i edited the last message to \"I would like to bring this to another chat so I'm not length limited and we can continue\"",
+    "author": "ppg_91#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461467042614870047",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461467092619362397",
+    "timestamp": "2026-01-15 21:08:27",
+    "content": "it summarized it but I'm not sure it'll be complex enough. Let me see",
+    "author": "ppg_91#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461467092619362397",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461467266670399521",
+    "timestamp": "2026-01-15 21:09:09",
+    "content": "my hate for humans stands by the fact they refuse to acknowledge issues\nyou either get \"it's not true\" or \"it has always been like this\" or \"I don't care\" or similar, all of which makes me want to punch a wall at supersonic speed",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461467266670399521",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461467606836969694",
+    "timestamp": "2026-01-15 21:10:30",
+    "content": "just yesterday, I ask in a discord to have a new channel dedicated to bugs to create a list\nand a guy said \"Me I report bugs like we're showed you should do the same\"\nits a mix of \"It has always been like this\" with a hint of \"I don't care\" and if I had the power of zeus I think I would have accidentally zapped the guy out of this dimension",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461467606836969694",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461467765121749154",
+    "timestamp": "2026-01-15 21:11:07",
+    "content": "These people are the reason society doesn't evolve as fast as it could",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461467765121749154",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461468494846492838",
+    "timestamp": "2026-01-15 21:14:01",
+    "content": "yea, it's nowhere near enough. I'm hoping there's a solution",
+    "author": "ppg_91#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461468494846492838",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461468741589012732",
+    "timestamp": "2026-01-15 21:15:00",
+    "content": "there are solutions but...",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461468741589012732",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461468761205772350",
+    "timestamp": "2026-01-15 21:15:05",
+    "content": "wait you know you can just ask claude right",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461468761205772350",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461468775542161408",
+    "timestamp": "2026-01-15 21:15:08",
+    "content": "get a bit creative",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461468775542161408",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461468807565541631",
+    "timestamp": "2026-01-15 21:15:16",
+    "content": "look at what other people do to fix these problems",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461468807565541631",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461468841283420353",
+    "timestamp": "2026-01-15 21:15:24",
+    "content": "ur basically just having a puzzle to solve of having a context limit\ni'd say people have roughly been working on it for 12 months",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461468841283420353",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461468882434003028",
+    "timestamp": "2026-01-15 21:15:34",
+    "content": "eh yes and no",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461468882434003028",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461468969490972879",
+    "timestamp": "2026-01-15 21:15:55",
+    "content": "Yes, I've seen it enough time in all jobs I've had I can tell you, yes",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461468969490972879",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461468971202248929",
+    "timestamp": "2026-01-15 21:15:55",
+    "content": "somehow zuk has lots of money but hes still a lizard",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461468971202248929",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461469021189964001",
+    "timestamp": "2026-01-15 21:16:07",
+    "content": "and hes selling lizard-ter products",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461469021189964001",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461469041372692695",
+    "timestamp": "2026-01-15 21:16:12",
+    "content": "cos it makes a bunch of money i guess",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461469041372692695",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461469129444823256",
+    "timestamp": "2026-01-15 21:16:33",
+    "content": "unrelated to human progress",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461469129444823256",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461469171513819137",
+    "timestamp": "2026-01-15 21:16:43",
+    "content": "well if we have so much progress, why zuk exist i guess",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461469171513819137",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461469268549046535",
+    "timestamp": "2026-01-15 21:17:06",
+    "content": "progress is not linked to people being scammers, this is another issue separate from progress",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461469268549046535",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461469549890240717",
+    "timestamp": "2026-01-15 21:18:13",
+    "content": "but the amount of progress from X years ago basically makes human civiliation look like we discovered magic\nbut you still have scammers\nso the 'scammers' are actually intrinsic to the whole thing, somehow",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461469549890240717",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461469854585589810",
+    "timestamp": "2026-01-15 21:19:26",
+    "content": "your options are basically:\n- Turn on code execution so that it auto compacts\n- Do summaries yourself manually\n- Use an existing tool that does summarization for you",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461469854585589810",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461469916052983889",
+    "timestamp": "2026-01-15 21:19:40",
+    "content": "you can't really escape the 200k context limit",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461469916052983889",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461469941587775723",
+    "timestamp": "2026-01-15 21:19:46",
+    "content": "i think hes not in claude code",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461469941587775723",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461469984462082180",
+    "timestamp": "2026-01-15 21:19:57",
+    "content": "compacting exists on the webui as well",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461469984462082180",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470008814080152",
+    "timestamp": "2026-01-15 21:20:02",
+    "content": "oh what",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470008814080152",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470041706070117",
+    "timestamp": "2026-01-15 21:20:10",
+    "content": "yeah you just need to have code execution turned on",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470041706070117",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470042720964702",
+    "timestamp": "2026-01-15 21:20:10",
+    "content": "lol",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470042720964702",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470056511963146",
+    "timestamp": "2026-01-15 21:20:14",
+    "content": "people see companies like Google or Meta or Apple like companies, I see them as scammers\nGoogle literally take hostage the visibility of your website/app in exchange for exorbitant monthly fees\n Apple just sells the same product over and over with no innovation just because humans tend to stick to what they use because of comfort, abusing human behavior for their own gain without promoting innovation, all while charging a fee for each dev who wants to make application on their platforms, and taking a big 30% cut from app profit for literally no reason other than being a monopole\nMeta is literally abusing human rights constantly with the reselling of data left and right among other things",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470056511963146",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470092620730414",
+    "timestamp": "2026-01-15 21:20:22",
+    "content": "okay i wouldnt know cause i havent tried that",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470092620730414",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470095779037255",
+    "timestamp": "2026-01-15 21:20:23",
+    "content": "I don't like it because you can't really control what is/isn't summarized, which is why I use my own thing",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470095779037255",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470101579628876",
+    "timestamp": "2026-01-15 21:20:25",
+    "content": "but it's there",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470101579628876",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470122421125150",
+    "timestamp": "2026-01-15 21:20:29",
+    "content": "scammers, they just have so much leverage on society that they are legal scammers",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470122421125150",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470227345703057",
+    "timestamp": "2026-01-15 21:20:55",
+    "content": "i think they have original real products but once they get into the driver's seat they also pinch a lot more wherever they can?",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470227345703057",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470284648550470",
+    "timestamp": "2026-01-15 21:21:08",
+    "content": "like nothing can beat Google's original growth when they were doing it in a garage",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470284648550470",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470344370978867",
+    "timestamp": "2026-01-15 21:21:22",
+    "content": "that's where the actual userbase comes from that you need underlying all of these things",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470344370978867",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470546654138583",
+    "timestamp": "2026-01-15 21:22:11",
+    "content": "original product from apple date from 2007, it has been 19 years they haven't made any progress since",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470546654138583",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470597455282187",
+    "timestamp": "2026-01-15 21:22:23",
+    "content": "they have nothing special now, a phone like any other",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470597455282187",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470601167503370",
+    "timestamp": "2026-01-15 21:22:24",
+    "content": "U should try a huawei phone",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470601167503370",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470621862072475",
+    "timestamp": "2026-01-15 21:22:29",
+    "content": "there's some solidly interesting differentiation",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470621862072475",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470649733218507",
+    "timestamp": "2026-01-15 21:22:35",
+    "content": "still though its still a phone\ni mean i think apple still have a very solid moat on their iphone\nif someone wants to disrupt them they do and have",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470649733218507",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470752162447420",
+    "timestamp": "2026-01-15 21:23:00",
+    "content": "mostly in the ecosystem stuff\nlike as much as I don't like apple products, I will give them that, the ecosystem kind of \"just works\" compared to everything that's on the android side",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470752162447420",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470788312895753",
+    "timestamp": "2026-01-15 21:23:08",
+    "content": "eg, WHY do we still not have a decent backup solution in AOSP",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470788312895753",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470838019854534",
+    "timestamp": "2026-01-15 21:23:20",
+    "content": "yes the answer is because google wants AOSP dead but let me complain",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470838019854534",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470860593336513",
+    "timestamp": "2026-01-15 21:23:25",
+    "content": "Android is flawless since 2017",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470860593336513",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470906265374780",
+    "timestamp": "2026-01-15 21:23:36",
+    "content": "what...... android is like something i refuse to touch",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470906265374780",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470925701517345",
+    "timestamp": "2026-01-15 21:23:41",
+    "content": "I'll figure it out",
+    "author": "ppg_91#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470925701517345",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470929363144706",
+    "timestamp": "2026-01-15 21:23:42",
+    "content": "It took longer than Apple to get stable, but since 2017 there's literally no difference",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470929363144706",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470932202688654",
+    "timestamp": "2026-01-15 21:23:43",
+    "content": "yeah, it really isn't",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470932202688654",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470957020381246",
+    "timestamp": "2026-01-15 21:23:48",
+    "content": "the ui is absolutely slimy and horrible\nthe android ui makes me wanna puke",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470957020381246",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470958492713237",
+    "timestamp": "2026-01-15 21:23:49",
+    "content": "backups are my main hangup",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470958492713237",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461470986707800066",
+    "timestamp": "2026-01-15 21:23:56",
+    "content": "???",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461470986707800066",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471021310673111",
+    "timestamp": "2026-01-15 21:24:04",
+    "content": "UI wise I think they are though",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471021310673111",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471068995850332",
+    "timestamp": "2026-01-15 21:24:15",
+    "content": "they just each have their quirks, but I think both are on the same level",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471068995850332",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471177808810098",
+    "timestamp": "2026-01-15 21:24:41",
+    "content": "you're just not used to it... I know both android and apple and they are legit the same thing, different button placement",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471177808810098",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471221811253339",
+    "timestamp": "2026-01-15 21:24:52",
+    "content": "no no no",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471221811253339",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471229117599951",
+    "timestamp": "2026-01-15 21:24:53",
+    "content": "no",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471229117599951",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471239963938816",
+    "timestamp": "2026-01-15 21:24:56",
+    "content": "refuse to use android",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471239963938816",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471271597510810",
+    "timestamp": "2026-01-15 21:25:03",
+    "content": "absolutely horrific",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471271597510810",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471293265150066",
+    "timestamp": "2026-01-15 21:25:09",
+    "content": "dont even want to look at it",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471293265150066",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471314702499850",
+    "timestamp": "2026-01-15 21:25:14",
+    "content": "this but android & apple",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471314702499850",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461471314463297569/images.png?ex=696aacba&is=69695b3a&hm=45c3cb726ddb978651332cbe85c17fc327819ffcfe856811b1db90a8dbfd1126&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471335300731045",
+    "timestamp": "2026-01-15 21:25:19",
+    "content": "\"it's always been like this\" \"I don't care\"",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471335300731045",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471353470455819",
+    "timestamp": "2026-01-15 21:25:23",
+    "content": "that's what I read",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471353470455819",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471355638645040",
+    "timestamp": "2026-01-15 21:25:24",
+    "content": "...epic",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471355638645040",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471361447756121",
+    "timestamp": "2026-01-15 21:25:25",
+    "content": "I prefer android, it is more accessible and pragmatic",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471361447756121",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471430180081716",
+    "timestamp": "2026-01-15 21:25:41",
+    "content": "anyway uh, yeah, really I just hate how bad the backup tool situation is on android",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471430180081716",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471450547360025",
+    "timestamp": "2026-01-15 21:25:46",
+    "content": "apple has much better builtin backups",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471450547360025",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471489688731810",
+    "timestamp": "2026-01-15 21:25:55",
+    "content": "i always hated android\nandroid never good\nalways ugly\nalways clunky",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471489688731810",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471499797008586",
+    "timestamp": "2026-01-15 21:25:58",
+    "content": "literally a one click option, what are you even complaining about",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471499797008586",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471505970892810",
+    "timestamp": "2026-01-15 21:25:59",
+    "content": "what few solutions exist on the android side are very limited",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471505970892810",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471555153297428",
+    "timestamp": "2026-01-15 21:26:11",
+    "content": "not in AOSP, also does not back up everything",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471555153297428",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471566377517211",
+    "timestamp": "2026-01-15 21:26:14",
+    "content": "and they offer the same thing as apple with image storage versus icloud storage, literally same thing",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471566377517211",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471632777285799",
+    "timestamp": "2026-01-15 21:26:30",
+    "content": "android is like if you wanted an iphone but had less money",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471632777285799",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471643254657169",
+    "timestamp": "2026-01-15 21:26:32",
+    "content": "I mean backing up the _phone's data_. Not photos.",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471643254657169",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471667988467924",
+    "timestamp": "2026-01-15 21:26:38",
+    "content": "yes they do wtf, I can tell you it does I literally formatted 4 days ago to go to lineageOS",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471667988467924",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471678696653025",
+    "timestamp": "2026-01-15 21:26:41",
+    "content": "dude",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471678696653025",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471723936419910",
+    "timestamp": "2026-01-15 21:26:51",
+    "content": "is claude code for dumbies too?",
+    "author": "ppg_91#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471723936419910",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471750465388584",
+    "timestamp": "2026-01-15 21:26:58",
+    "content": "its not even the same OS and yet everything is perfect I have all my data",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471750465388584",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471796871172328",
+    "timestamp": "2026-01-15 21:27:09",
+    "content": "Dummies can use it but it's not usually used by dummies\nif you ever get lost just ask it \"hey wtf is going on\"",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471796871172328",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471797735194826",
+    "timestamp": "2026-01-15 21:27:09",
+    "content": "from conversations and contacts to the old meme I forgot in my photosd",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471797735194826",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471919969800274",
+    "timestamp": "2026-01-15 21:27:38",
+    "content": "😆 I just wanna be able to talk to it to code",
+    "author": "ppg_91#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471919969800274",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461471980741066917",
+    "timestamp": "2026-01-15 21:27:53",
+    "content": "okay, but take stuff like whatsapp\nor banking apps",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461471980741066917",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461472027960410206",
+    "timestamp": "2026-01-15 21:28:04",
+    "content": "like think less \"I want to move from one phone to another\" and think \"my phone got stolen now what do I do\"",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461472027960410206",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461472041789165720",
+    "timestamp": "2026-01-15 21:28:07",
+    "content": "if you look online theres like a years worth of development on this, more than what i know\nthere are easy solutions for sure, like splitting your code up",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461472041789165720",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461472066619576485",
+    "timestamp": "2026-01-15 21:28:13",
+    "content": "seedvault exists in lineage but it's opt-in only for apps",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461472066619576485",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461472278406631578",
+    "timestamp": "2026-01-15 21:29:04",
+    "content": "most app's data in literally in the cloud, and what bank data wtf bank data is meant to be ephemera",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461472278406631578",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461472305380331795",
+    "timestamp": "2026-01-15 21:29:10",
+    "content": "apple has a good product, it has a good moat, nobody has the money or the steve jobs to come and push them out",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461472305380331795",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461472319187980362",
+    "timestamp": "2026-01-15 21:29:13",
+    "content": "except maybe jony ive apparently",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461472319187980362",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461472392185516154",
+    "timestamp": "2026-01-15 21:29:31",
+    "content": "anyway ok im done",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461472392185516154",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461472423936262289",
+    "timestamp": "2026-01-15 21:29:38",
+    "content": "sure that's why they got a 0 click hack recently, don't talk me to your opinion is discarded",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461472423936262289",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461472464260567194",
+    "timestamp": "2026-01-15 21:29:48",
+    "content": "jeez man",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461472464260567194",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461472477959159941",
+    "timestamp": "2026-01-15 21:29:51",
+    "content": "takes little to get you heated",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461472477959159941",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461472509282095250",
+    "timestamp": "2026-01-15 21:29:59",
+    "content": "you went from 10 to -5",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461472509282095250",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461472529972727900",
+    "timestamp": "2026-01-15 21:30:03",
+    "content": "takes a cow that is happy to get milked",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461472529972727900",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461472621018480762",
+    "timestamp": "2026-01-15 21:30:25",
+    "content": "dude you're running a solution that <0.1% of the human race has ever heard of",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461472621018480762",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461472649933750362",
+    "timestamp": "2026-01-15 21:30:32",
+    "content": "and telling 99.9+% that it's a cow",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461472649933750362",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461472689448419601",
+    "timestamp": "2026-01-15 21:30:42",
+    "content": "your solution wouldn't exist\nif it weren't for the 99% paying money for you to have your 'perfect' option",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461472689448419601",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461472719240695859",
+    "timestamp": "2026-01-15 21:30:49",
+    "content": "apples worst thing is the battery quality, all of my family take chargers with them every where they go because the battery is so bad on them. They are always charging the phones",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461472719240695859",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461472847829406004",
+    "timestamp": "2026-01-15 21:31:19",
+    "content": "yeah because most humans don't think, they're on auto pilot",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461472847829406004",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461472868960309332",
+    "timestamp": "2026-01-15 21:31:24",
+    "content": "cause users like you dont generate the f*&#@ing VC dollars for the corpos, now do you?",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461472868960309332",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461472953391775974",
+    "timestamp": "2026-01-15 21:31:44",
+    "content": "just do your job, don't think about the rest and you'll be happy\nbut guess what, that's not me, I tried to be a happy cow, not working",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461472953391775974",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461473113291362566",
+    "timestamp": "2026-01-15 21:32:23",
+    "content": "sounds like you care too much about stuff you cant control",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461473113291362566",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461473113891147842",
+    "timestamp": "2026-01-15 21:32:23",
+    "content": "you want:\n1. your doctor\n2. your grandma\n3. your elementary school teacher\n4. firefighter\n5. random az farmer in nebraska\n\nall to follow your coding background and figure out your <0.1% custom android solution\nand you think that if this world existed that google would still get VC dollars",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461473113891147842",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461473254085754911",
+    "timestamp": "2026-01-15 21:32:56",
+    "content": "literally the same thing as a regular android, and same thing as apple with a different button placement",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461473254085754911",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461473308368179241",
+    "timestamp": "2026-01-15 21:33:09",
+    "content": "literally I could give my phone to anyone and they wouldn't even realize",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461473308368179241",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461473351745929226",
+    "timestamp": "2026-01-15 21:33:19",
+    "content": "but what percentage of humans alive today even imagine that this specific thing or solution exists",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461473351745929226",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461473379679862857",
+    "timestamp": "2026-01-15 21:33:26",
+    "content": "just gimmie a ballpark est",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461473379679862857",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461473509027876864",
+    "timestamp": "2026-01-15 21:33:57",
+    "content": "pathetic human that can't change phone bercause the phone button is on the left instead of the right, and brightness is under \"settings -> brightness\" instead of \" settings -> display -> brightness\"",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461473509027876864",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461473529709989979",
+    "timestamp": "2026-01-15 21:34:02",
+    "content": "you're pathetic",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461473529709989979",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461473572747739190",
+    "timestamp": "2026-01-15 21:34:12",
+    "content": "are you calling ME pathetic?",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461473572747739190",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461473584982528041",
+    "timestamp": "2026-01-15 21:34:15",
+    "content": "duh",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461473584982528041",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461473603693314200",
+    "timestamp": "2026-01-15 21:34:19",
+    "content": "dude calm down",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461473603693314200",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461473636543365305",
+    "timestamp": "2026-01-15 21:34:27",
+    "content": "i'm not talking to you again if this is your attitude",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461473636543365305",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461473667413442704",
+    "timestamp": "2026-01-15 21:34:35",
+    "content": "definitely a you problem",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461473667413442704",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461473701022142648",
+    "timestamp": "2026-01-15 21:34:43",
+    "content": "ive been pretty polite\ni clicked something on your profile by accident just ignore it",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461473701022142648",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461473764733878332",
+    "timestamp": "2026-01-15 21:34:58",
+    "content": "When will there be an update on the new limit or do it in silence",
+    "author": "bungau_775#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461473764733878332",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461473950893871291",
+    "timestamp": "2026-01-15 21:35:42",
+    "content": "As someone with experience with many phone OS I am telling you, every OS is the same, except one has privacy\nAnd you start bragging about Apple as if they are special, not they're not you're just literally used to it\nAs someone with more experience than you, clearly, as you are stuck with 1 company, I am telling you, I'm not asking you, that they are all the same now",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461473950893871291",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474116858282117",
+    "timestamp": "2026-01-15 21:36:22",
+    "content": "So the fact that you even attempt to disprove my point while being a heavy Apple only user is literally pathetic\nIt's like someone working their entire life on a farm trying to tell me why computers are terrible, dude, you're literally offline, zero experience",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474116858282117",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474141021667492",
+    "timestamp": "2026-01-15 21:36:28",
+    "content": "And this is why I stopped respecting you",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474141021667492",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474155458465892",
+    "timestamp": "2026-01-15 21:36:31",
+    "content": "Bragging??",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474155458465892",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474168246898960",
+    "timestamp": "2026-01-15 21:36:34",
+    "content": "First of all",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474168246898960",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474173271539915",
+    "timestamp": "2026-01-15 21:36:35",
+    "content": "Because you don't value the global picture",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474173271539915",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474183635800125",
+    "timestamp": "2026-01-15 21:36:38",
+    "content": "not bragging about apple at all",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474183635800125",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474203642364035",
+    "timestamp": "2026-01-15 21:36:43",
+    "content": "*sure* - gaslighting",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474203642364035",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474234726355150",
+    "timestamp": "2026-01-15 21:36:50",
+    "content": "Ok suppose someone decides to stop respecting you because you're just tempermental",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474234726355150",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474248240533825",
+    "timestamp": "2026-01-15 21:36:53",
+    "content": "apparently not an important trait",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474248240533825",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474279681167400",
+    "timestamp": "2026-01-15 21:37:01",
+    "content": "but you're upset over an iphone",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474279681167400",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474292574453802",
+    "timestamp": "2026-01-15 21:37:04",
+    "content": "omegalul",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474292574453802",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474297406165003",
+    "timestamp": "2026-01-15 21:37:05",
+    "content": "ok ok",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474297406165003",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474302200119416",
+    "timestamp": "2026-01-15 21:37:06",
+    "content": "im done",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474302200119416",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474472371552348",
+    "timestamp": "2026-01-15 21:37:47",
+    "content": "no I'm upset with humans, and you're part of the problem, and it circles back to what I was talking about earlier\n\"it has always been like this\" \"I'm used to it being this way\"",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474472371552348",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474525253337345",
+    "timestamp": "2026-01-15 21:37:59",
+    "content": "Literally my points before we even started talking",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474525253337345",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474589572989101",
+    "timestamp": "2026-01-15 21:38:15",
+    "content": "Just to figure out you're one of them, because of course, most of humans are like this",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474589572989101",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474595751067789",
+    "timestamp": "2026-01-15 21:38:16",
+    "content": "im not interested in continuing anymore but if i was bragging, this was probably just a misperception",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474595751067789",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474615388799151",
+    "timestamp": "2026-01-15 21:38:21",
+    "content": "ah yes of course",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474615388799151",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474664491778048",
+    "timestamp": "2026-01-15 21:38:32",
+    "content": "the guy who loses his temper over a phone puts me in the degenerate bucket",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474664491778048",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474697660334305",
+    "timestamp": "2026-01-15 21:38:40",
+    "content": "Um can we just cut all thattttt out",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474697660334305",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474711107276821",
+    "timestamp": "2026-01-15 21:38:44",
+    "content": "ok ok",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474711107276821",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474714668105779",
+    "timestamp": "2026-01-15 21:38:44",
+    "content": "ur right",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474714668105779",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474723593720053",
+    "timestamp": "2026-01-15 21:38:46",
+    "content": "im outta here",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474723593720053",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474723694117051",
+    "timestamp": "2026-01-15 21:38:47",
+    "content": "I have a real question for the Anthropic discord",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474723694117051",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474724449226762",
+    "timestamp": "2026-01-15 21:38:47",
+    "content": "Right",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474724449226762",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474765003816980",
+    "timestamp": "2026-01-15 21:38:56",
+    "content": "Go ahead",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474765003816980",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474772121550870",
+    "timestamp": "2026-01-15 21:38:58",
+    "content": "Has anyone used vercel agent browser",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474772121550870",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474783437783302",
+    "timestamp": "2026-01-15 21:39:01",
+    "content": "https://github.com/vercel-labs/agent-browser",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474783437783302",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474799875395825",
+    "timestamp": "2026-01-15 21:39:05",
+    "content": "nope",
+    "author": "codexistance#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474799875395825",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461474822901993493",
+    "timestamp": "2026-01-15 21:39:10",
+    "content": "And is it better than Claude in chrome",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461474822901993493",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461476825548198070",
+    "timestamp": "2026-01-15 21:47:08",
+    "content": "greetings all - we're trying to understand claude's enteprise licensing - which is rather difficult to pin down actual pricing - but aws marketplace lists a 5 count of premium enterprise licensing for $12K annually - does anyone know if that amount is based on having an existing enterprise account or if it grants you an enterprise account with 5 premium seats?",
+    "author": "baldpope#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461476825548198070",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461485222695534714",
+    "timestamp": "2026-01-15 22:20:30",
+    "content": "<@&1224161290683940864> \n\n**New in Claude Code on the web and desktop: diff view.**\n\nSee the exact changes Claude made without leaving the app.\n\nPreviously you had to switch to GitHub or your IDE to review changes in depth.\n\nNow you can view full diffs and leave inline comments to iterate with Claude, all in one place.\n\nTry it at http://claude.com/code",
+    "author": "claude.official#0",
+    "link": "https://discord.com/channels/1072196207201501266/1072197729276657744/1461485222695534714",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1072197729276657744/1461485223282872401/DIFF_VIEW.png?ex=696ab9ae&is=6969682e&hm=9e36335c09488b6ba052f8f1b92fc3017ebf14fa9624151c9aceeca189fa8bd3&"
+    ],
+    "channel_name": "announcements"
+  },
+  {
+    "id": "1461486429275164723",
+    "timestamp": "2026-01-15 22:25:17",
+    "content": "last I knew of enterprise it was like 60$/70$ but that was pre-claude code and pre-max",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461486429275164723",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461486513195061452",
+    "timestamp": "2026-01-15 22:25:37",
+    "content": "so I'd assume much like a premium team seat with CC is more expensive, a premium enterprise seat with CC will be much more",
+    "author": "lugia19#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461486513195061452",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461486601086570597",
+    "timestamp": "2026-01-15 22:25:58",
+    "content": "I assume it's one of those conversations where they want to know how many people are using it before pricing it out - maximize the return for the engagement",
+    "author": "baldpope#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461486601086570597",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461487145884717138",
+    "timestamp": "2026-01-15 22:28:08",
+    "content": "no way this model isnt nerfed",
+    "author": "______nick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461487145884717138",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461487145666478193/image.png?ex=696abb78&is=696969f8&hm=89da84ba8dbb86cf18a0ae1bfbba6ed5f76cd43378ed66dd131eae7b1a4e45f0&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461487746878148630",
+    "timestamp": "2026-01-15 22:30:31",
+    "content": "I mean, it's never been able to process YouTube videos to my knowledge.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461487746878148630",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461490219781198024",
+    "timestamp": "2026-01-15 22:40:21",
+    "content": "you mean what?",
+    "author": "______nick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461490219781198024",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461490296381505754",
+    "timestamp": "2026-01-15 22:40:39",
+    "content": "also it works fine if you just say yt-dlp",
+    "author": "______nick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461490296381505754",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461490296188702979/image.png?ex=696abe67&is=69696ce7&hm=29eb26ea7eeae4f6a4b7967a7e74851c5feb16199b55f385b0ef44edfaa29b98&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461490312060080340",
+    "timestamp": "2026-01-15 22:40:43",
+    "content": "really shouldnt have to be another prompt",
+    "author": "______nick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461490312060080340",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461490591560106087",
+    "timestamp": "2026-01-15 22:41:50",
+    "content": "Then change the system prompt or claudemd to mention that CLI tool?",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461490591560106087",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461494089236217869",
+    "timestamp": "2026-01-15 22:55:44",
+    "content": "WTF. What is with this you may not upload files larger than 31MB is this new??? Ive uploaded way bigger PDF's before???",
+    "author": "becausereasons#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461494089236217869",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461494213823959071",
+    "timestamp": "2026-01-15 22:56:13",
+    "content": "ugh",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461494213823959071",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461494265195790346",
+    "timestamp": "2026-01-15 22:56:26",
+    "content": "I'm going to have to file a complaint with my state AG over sonnet 5 availability",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461494265195790346",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461494412835295254",
+    "timestamp": "2026-01-15 22:57:01",
+    "content": "we need better sources for leaks I think",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461494412835295254",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461494681194991648",
+    "timestamp": "2026-01-15 22:58:05",
+    "content": "now that I have put in my required 1 month notice to quit my job, I need the latest and greatest models to build my compliance empire",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461494681194991648",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461494753282490449",
+    "timestamp": "2026-01-15 22:58:22",
+    "content": "we have no time to waste",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461494753282490449",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461496166297505822",
+    "timestamp": "2026-01-15 23:03:59",
+    "content": "I thought that OPUS didn't get dumber all of the sudden... but it does...",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461496166297505822",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461496216348004574",
+    "timestamp": "2026-01-15 23:04:11",
+    "content": "OPUS does get really really annoying and frustrating",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461496216348004574",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461496254914629828",
+    "timestamp": "2026-01-15 23:04:20",
+    "content": "I call skill issue",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461496254914629828",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461496288989286563",
+    "timestamp": "2026-01-15 23:04:28",
+    "content": "I thought so too",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461496288989286563",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461496344777723956",
+    "timestamp": "2026-01-15 23:04:41",
+    "content": "I think they silently serve quantized models when overloaded but I am not sure",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461496344777723956",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461496399408664746",
+    "timestamp": "2026-01-15 23:04:54",
+    "content": "But when I would normally expect it to remember simple rules for longer... having to remind it every 2 messages is very annoying",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461496399408664746",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461496408514367600",
+    "timestamp": "2026-01-15 23:04:57",
+    "content": "maybe I made that up",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461496408514367600",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461496475107459387",
+    "timestamp": "2026-01-15 23:05:12",
+    "content": "could be though",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461496475107459387",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461496619907158218",
+    "timestamp": "2026-01-15 23:05:47",
+    "content": "It's not and you will meet a dumber OPUS too at some point",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461496619907158218",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461496702149333117",
+    "timestamp": "2026-01-15 23:06:07",
+    "content": "Q1.58 opus confirmed",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461496702149333117",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461496871360008223",
+    "timestamp": "2026-01-15 23:06:47",
+    "content": "just say \"Hey claude, can you unquantize yourself for a moment\"",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461496871360008223",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461496932105982179",
+    "timestamp": "2026-01-15 23:07:01",
+    "content": "lmao",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461496932105982179",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461496995704475748",
+    "timestamp": "2026-01-15 23:07:17",
+    "content": "or maybe if you're mad you can say \"Go quantize yourself...\" and then give an italian hand gesture",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461496995704475748",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461497117620043777",
+    "timestamp": "2026-01-15 23:07:46",
+    "content": "claude write me an app that will earn 1 million dollars, make no mistakes",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461497117620043777",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461497243763998861",
+    "timestamp": "2026-01-15 23:08:16",
+    "content": "Don't forget to tell it to leave its sycophantic tendencies at the door",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461497243763998861",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461497315431809148",
+    "timestamp": "2026-01-15 23:08:33",
+    "content": "Claude tells me all of the time I can make a million dollars, until I say \"For real though\"",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461497315431809148",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461497523234406443",
+    "timestamp": "2026-01-15 23:09:22",
+    "content": "skill issue if you don't have a million dollars yet",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461497523234406443",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461497597163475148",
+    "timestamp": "2026-01-15 23:09:40",
+    "content": "I mean Opus 4.5 was released a couple of months ago",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461497597163475148",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461497644747722956",
+    "timestamp": "2026-01-15 23:09:51",
+    "content": "I'm at 5 millions now",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461497644747722956",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461497719163060420",
+    "timestamp": "2026-01-15 23:10:09",
+    "content": "5 million wasted tokens a day",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461497719163060420",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461497750737780831",
+    "timestamp": "2026-01-15 23:10:17",
+    "content": "4.5 is good enough for me to build an app that will shine when powered by 5.0, so I started building it a month ago",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461497750737780831",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461497836938989793",
+    "timestamp": "2026-01-15 23:10:37",
+    "content": "and it'll be close to done by the time we get opus 5",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461497836938989793",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461497883378319500",
+    "timestamp": "2026-01-15 23:10:48",
+    "content": "well my 4.5 already made Opus 5.5",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461497883378319500",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461497936889380896",
+    "timestamp": "2026-01-15 23:11:01",
+    "content": "for extra billions of dollars",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461497936889380896",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461497939766677714",
+    "timestamp": "2026-01-15 23:11:02",
+    "content": "Anyone else been testing the new Opus 5.2 preview?",
+    "author": "gukthegreat#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461497939766677714",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461497985681723567",
+    "timestamp": "2026-01-15 23:11:13",
+    "content": "yes I love it",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461497985681723567",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461498008112988395",
+    "timestamp": "2026-01-15 23:11:18",
+    "content": "Insane",
+    "author": "gukthegreat#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461498008112988395",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461498051293085796",
+    "timestamp": "2026-01-15 23:11:28",
+    "content": "I heard it scored \"legit\" on SWE Bench pro",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461498051293085796",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461498060432736569",
+    "timestamp": "2026-01-15 23:11:30",
+    "content": "Like i though 4.5 was good...",
+    "author": "gukthegreat#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461498060432736569",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461498076417229125",
+    "timestamp": "2026-01-15 23:11:34",
+    "content": "not even a number",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461498076417229125",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461498110772514927",
+    "timestamp": "2026-01-15 23:11:42",
+    "content": "@gork is this real",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461498110772514927",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461498425404035326",
+    "timestamp": "2026-01-15 23:12:57",
+    "content": "5.2 early access is only for Max users that have been subbed since 2024",
+    "author": "gukthegreat#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461498425404035326",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461500852618395659",
+    "timestamp": "2026-01-15 23:22:36",
+    "content": "yes",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461500852618395659",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461500940417892507",
+    "timestamp": "2026-01-15 23:22:57",
+    "content": "yes yes",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461500940417892507",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461501635426652280",
+    "timestamp": "2026-01-15 23:25:43",
+    "content": "How do they come up with these version numbers? What happened to opus 5.0?",
+    "author": "cv.888#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461501635426652280",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461501883989626941",
+    "timestamp": "2026-01-15 23:26:42",
+    "content": "GPT-5.2 × Claude Opus 4.5 — Autonomous Synchronization in Practice\nToday I achieved what turned out to be the hardest part:\n making two different models work in true synchronization, without stalling and without human intervention.\nI built a system where GPT-5.2 and Claude Opus 4.5 operate in complementary roles under an autonomous coordinator:\n• GPT-5.2 as the Tech Lead: planning, validating, supervising, and making decisions.\n • Claude Opus 4.5 as the Senior Engineer: executing, coding, iterating, and resolving.\n • A state-machine-driven orchestrator that guarantees continuity, detects stalls, and reactivates the flow when progress stops.\nThe challenge was not getting “good answers.”\n The challenge was ensuring the system never stops — knowing when to wait, when to ask, and when to continue on its own.\nThat required:\n– State synchronization\n – Explicit transition rules\n – Automatic inactivity detection\n – Autonomous handling of CLI questions\n – Retries, timeouts, and error recovery\n – Continuous execution with no human in the loop\nIn practice, two frontier models collaborating in a stable, self-regulated way to complete end-to-end tasks.\nThis is where AI stops being an assistant\n and starts behaving like a self-governing system.",
+    "author": "claudiomontoya_63963#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461501883989626941",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461501882425020426/screen_studio_speed_adjusted.mp4?ex=696ac932&is=696977b2&hm=299ee051d6026553cedabea59c607f8b65b438853c62ac9c8f0c101ba8a4801f&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461502217071628484",
+    "timestamp": "2026-01-15 23:28:01",
+    "content": "Cool, throw it in <#1281536652254384159> where you're supposed to",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461502217071628484",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461502385087189126",
+    "timestamp": "2026-01-15 23:28:42",
+    "content": "👍",
+    "author": "claudiomontoya_63963#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461502385087189126",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461502926915764387",
+    "timestamp": "2026-01-15 23:30:51",
+    "content": "https://www.reuters.com/technology/openai-buy-compute-capacity-startup-cerebras-around-10-billion-wsj-reports-2026-01-14/\n# OpenAI signs $10 billion computing deal with Nvidia challenger Cere...\nOpenAI will purchase up to 750 megawatts of computing power over three years from chipmaker Cerebras as the ChatGPT maker looks to pull ahead in the AI race and meet the growing demand, the two companies said on Wednesday.",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461502926915764387",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461504317390586002",
+    "timestamp": "2026-01-15 23:36:22",
+    "content": "um, this doesnt have anything to do with claude 5.0",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461504317390586002",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461504388425322682",
+    "timestamp": "2026-01-15 23:36:39",
+    "content": "this channel is reserved for claude 5.0 until such point it is released",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461504388425322682",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461504457610101010",
+    "timestamp": "2026-01-15 23:36:56",
+    "content": "and I say that as a non moderator or person with any authority or importance here",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461504457610101010",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461504484201988249",
+    "timestamp": "2026-01-15 23:37:02",
+    "content": "so please entirely disregard it",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461504484201988249",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461505410937655348",
+    "timestamp": "2026-01-15 23:40:43",
+    "content": "SWE-rebench results for December Github issues (unlike SWE-Bench it refreshes every month):",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461505410937655348",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461505410694512650/IMG_2061.png?ex=696acc7b&is=69697afb&hm=fb0b487b4cbc82d13bd5655d58b5f8d59c1c756874ffba996c8bef664d9bc3a3&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461505627799949445",
+    "timestamp": "2026-01-15 23:41:35",
+    "content": "red = potentially contaminated",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461505627799949445",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461505783891099879",
+    "timestamp": "2026-01-15 23:42:12",
+    "content": "Idk how Flash is so high, the rest seems about right, except Claude Code seems to have dropped.",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461505783891099879",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461506202583433226",
+    "timestamp": "2026-01-15 23:43:52",
+    "content": "If narrowed to just the last 2 weeks, Claude Code drops even further, even though Opus/Sonnet (all models use the same minimal scaffold) stay mostly the same rank.",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461506202583433226",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461506202260344995/B8C9FD95-946C-47CF-83C2-3B898F850135.jpg?ex=696acd38&is=69697bb8&hm=58e4c812865a226d4433e9529f26a376573ac72206deb95e5bbb15ec1a53956d&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461506400319701058",
+    "timestamp": "2026-01-15 23:44:39",
+    "content": "Very distilled but good model imo",
+    "author": "neuralnetworks#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461506400319701058",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461506415196639242",
+    "timestamp": "2026-01-15 23:44:42",
+    "content": "Benchmarks are like astrology I feel like",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461506415196639242",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461506453075398758",
+    "timestamp": "2026-01-15 23:44:51",
+    "content": "I use it a lot for more basic stuff",
+    "author": "neuralnetworks#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461506453075398758",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461506565524688947",
+    "timestamp": "2026-01-15 23:45:18",
+    "content": "I only use Opus and Flash",
+    "author": "neuralnetworks#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461506565524688947",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461506567232028702",
+    "timestamp": "2026-01-15 23:45:19",
+    "content": "Astrology is a scientifically proven replacement for astronomy according to ChatGPT 5.2",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461506567232028702",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461506570650386629",
+    "timestamp": "2026-01-15 23:45:19",
+    "content": "10% spread between CC and Opus 4.5, yet their scaffold only costs 1 cent more per problem",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461506570650386629",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461506630855295050",
+    "timestamp": "2026-01-15 23:45:34",
+    "content": "I think so too",
+    "author": "neuralnetworks#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461506630855295050",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461506724107124923",
+    "timestamp": "2026-01-15 23:45:56",
+    "content": "Benchmarks need to more dev related, not binary \"correct/incorrect\" imo",
+    "author": "neuralnetworks#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461506724107124923",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461506830604963965",
+    "timestamp": "2026-01-15 23:46:21",
+    "content": "This benchmark is similar to SWE-bench but problems are refreshed every month, much better than SWE-bench's static problem set imo",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461506830604963965",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461507032153854146",
+    "timestamp": "2026-01-15 23:47:09",
+    "content": "I guess, but I think a better benchmark would be one where these models are given a huge codebase of like 100k lines of code and they how to properly explain, solve problems, prevent bad mistakes, and you need to factor things like efficiency/TPS and cost",
+    "author": "neuralnetworks#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461507032153854146",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461507269257596991",
+    "timestamp": "2026-01-15 23:48:06",
+    "content": "But this benchmark does that... large codebase, reports solve rate and cost, number of tokens used... only thing is no TPS",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461507269257596991",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461507394625339496",
+    "timestamp": "2026-01-15 23:48:36",
+    "content": "Oh I didn't know that",
+    "author": "neuralnetworks#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461507394625339496",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461507418717556797",
+    "timestamp": "2026-01-15 23:48:42",
+    "content": "Hah",
+    "author": "neuralnetworks#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461507418717556797",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461507653091201157",
+    "timestamp": "2026-01-15 23:49:37",
+    "content": "The question is how Opus solves 10% more problems than Claude Code on their minimal scaffold (that all models used) at the same cost",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461507653091201157",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461508085695774803",
+    "timestamp": "2026-01-15 23:51:21",
+    "content": "Last month CC was #1, now it's #10, other models have not moved much: Opus even went up on the newer dataset so you expect CC to",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461508085695774803",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461508196089991323",
+    "timestamp": "2026-01-15 23:51:47",
+    "content": "CC is ambigous though no?",
+    "author": "neuralnetworks#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461508196089991323",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461508221318594833",
+    "timestamp": "2026-01-15 23:51:53",
+    "content": "It could be CC with Sonnet 4.5?",
+    "author": "neuralnetworks#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461508221318594833",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461508416437620919",
+    "timestamp": "2026-01-15 23:52:39",
+    "content": "They specify their setup:\n> For Claude Code, we follow the default recommendation of running the agent in headless mode and using Opus 4.5 as the primary model:\n> --model=opus --allowedTools=\"Bash,Read\" --permission-mode acceptEdits --output-format stream-json --verbose. This resulted in a mixed execution pattern where Opus 4.5 handles core reasoning and Haiku 4.5 is delegated auxiliary tasks. Across trajectories, ~30% of steps originate from Haiku, with the remaining majority from Opus 4.5. We use version 2.0.62 of Claude Code. In rare instances (1–2 out of 47 tasks), Claude Code attempts to use prohibited tools like WebFetch or user approval, resulting in timeouts and task failure.",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461508416437620919",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461508519797985584",
+    "timestamp": "2026-01-15 23:53:04",
+    "content": "cannot beleive i have been banned i had pro 20x account",
+    "author": "profdrcat#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461508519797985584",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461508694415118480",
+    "timestamp": "2026-01-15 23:53:46",
+    "content": "😮",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461508694415118480",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461508703592255489",
+    "timestamp": "2026-01-15 23:53:48",
+    "content": "The cost per problem is only 1 cent cheaper than full Opus 4.5 on their scaffold, yet 10% worse",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461508703592255489",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461508770738737205",
+    "timestamp": "2026-01-15 23:54:04",
+    "content": "Were you using opus to code real life cats?",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461508770738737205",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461508790930378792",
+    "timestamp": "2026-01-15 23:54:09",
+    "content": "against TOS",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461508790930378792",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461508944131526798",
+    "timestamp": "2026-01-15 23:54:45",
+    "content": "what's going on with opus, now it cannot handle react motion-framer 😭  had to do manual handling its value to engineer smooth animation/morph",
+    "author": "xentoshis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461508944131526798",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461509315583148145",
+    "timestamp": "2026-01-15 23:56:14",
+    "content": "yes do i get refund my god it was my first day using it",
+    "author": "profdrcat#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461509315583148145",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461509332398248020",
+    "timestamp": "2026-01-15 23:56:18",
+    "content": "just paid 180 bucks",
+    "author": "profdrcat#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461509332398248020",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461509349431316520",
+    "timestamp": "2026-01-15 23:56:22",
+    "content": "it was so fast...",
+    "author": "profdrcat#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461509349431316520",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461509360227188757",
+    "timestamp": "2026-01-15 23:56:25",
+    "content": "it's the new IQ test but for llms = bias",
+    "author": "xentoshis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461509360227188757",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461509446898417729",
+    "timestamp": "2026-01-15 23:56:45",
+    "content": "may I ask what you did to get banned?",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461509446898417729",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461509459481202810",
+    "timestamp": "2026-01-15 23:56:48",
+    "content": "thinking that intelligence is fixed instead of dynamic",
+    "author": "xentoshis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461509459481202810",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461509556332138763",
+    "timestamp": "2026-01-15 23:57:11",
+    "content": "I got banned from using Sora because I was ... you know... generating videos of the solstice parade in Seattle",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461509556332138763",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461509670517870848",
+    "timestamp": "2026-01-15 23:57:38",
+    "content": "so I said that's fair and washed my hands of it",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461509670517870848",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461509732576792835",
+    "timestamp": "2026-01-15 23:57:53",
+    "content": "still silly",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461509732576792835",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461510010780516463",
+    "timestamp": "2026-01-15 23:59:00",
+    "content": "will i get refund? what do you think?",
+    "author": "profdrcat#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461510010780516463",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461510066082549801",
+    "timestamp": "2026-01-15 23:59:13",
+    "content": "nope",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461510066082549801",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]

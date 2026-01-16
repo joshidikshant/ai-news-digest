@@ -1,0 +1,614 @@
+[
+  {
+    "id": "1461510343057739920",
+    "timestamp": "2026-01-16 00:00:19",
+    "content": "EU / UK / Turkey consumer rights\n\nIf you live in the EU, UK or Turkey you have a statutory right to cancel within 14 days of purchase and ask for a refund, regardless of usage, under consumer protection laws. You must contact support to request it.",
+    "author": "profdrcat#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461510343057739920",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461510543180562536",
+    "timestamp": "2026-01-16 00:01:07",
+    "content": "you know what, you make a great point",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461510543180562536",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461510856452866098",
+    "timestamp": "2026-01-16 00:02:21",
+    "content": "I love the EU",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461510856452866098",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461510925692698634",
+    "timestamp": "2026-01-16 00:02:38",
+    "content": "but thats for another discord",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461510925692698634",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461510948031430823",
+    "timestamp": "2026-01-16 00:02:43",
+    "content": "for now lets talk about Sonnet 5.0",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461510948031430823",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461510984593313813",
+    "timestamp": "2026-01-16 00:02:52",
+    "content": "and how great we don't know it is or isnt",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461510984593313813",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461511020441895068",
+    "timestamp": "2026-01-16 00:03:00",
+    "content": "what'S closest to opus 4.5?",
+    "author": "profdrcat#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461511020441895068",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461511031959589041",
+    "timestamp": "2026-01-16 00:03:03",
+    "content": "gpt 5.2?",
+    "author": "profdrcat#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461511031959589041",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461511133331456284",
+    "timestamp": "2026-01-16 00:03:27",
+    "content": "frontend Gemini 3 Pro and bug hunting gpt 5.2",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461511133331456284",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461511136817053838",
+    "timestamp": "2026-01-16 00:03:28",
+    "content": "in my experience",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461511136817053838",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461511490476703926",
+    "timestamp": "2026-01-16 00:04:52",
+    "content": "i did bug hunting today with gpt 5.2 and i am impressed really. Opus 4.5 could not solve it hours long...",
+    "author": "profdrcat#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461511490476703926",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461511580423426224",
+    "timestamp": "2026-01-16 00:05:14",
+    "content": "Yeah, GPT-5.2 is best for bug hunting, then Opus, then Gemini",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461511580423426224",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461511623062585344",
+    "timestamp": "2026-01-16 00:05:24",
+    "content": "But if doing ML Gemini is actually quite strong",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461511623062585344",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461511636920827939",
+    "timestamp": "2026-01-16 00:05:27",
+    "content": "Is it possible to use Gemini 3 Pro with VS Code but without paying crazy API prices? Like Claude Max or Claude Desktop",
+    "author": "profdrcat#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461511636920827939",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461511789723521096",
+    "timestamp": "2026-01-16 00:06:04",
+    "content": "Why not use Copilot",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461511789723521096",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461511856479932593",
+    "timestamp": "2026-01-16 00:06:20",
+    "content": "GPT 5.2 seems a bit nerfed on there though",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461511856479932593",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461511951111688387",
+    "timestamp": "2026-01-16 00:06:42",
+    "content": "Opus does a pretty good job if you tell it to add verbose logging all over your code first",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461511951111688387",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461511980866080788",
+    "timestamp": "2026-01-16 00:06:49",
+    "content": "but GPT seems to be able to find without",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461511980866080788",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461512025640534107",
+    "timestamp": "2026-01-16 00:07:00",
+    "content": "my current project is Svelte 5 if that makes any difference",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461512025640534107",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461512058733596682",
+    "timestamp": "2026-01-16 00:07:08",
+    "content": "so less training data on it",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461512058733596682",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461512136659439737",
+    "timestamp": "2026-01-16 00:07:26",
+    "content": "Opus is supposed to be better at Svelte",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461512136659439737",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461512232180519084",
+    "timestamp": "2026-01-16 00:07:49",
+    "content": "how do I use copilot? in vs code or? does it support gpt 5.2?",
+    "author": "profdrcat#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461512232180519084",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461512322664370279",
+    "timestamp": "2026-01-16 00:08:11",
+    "content": "Yes and yes",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461512322664370279",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461512402251284521",
+    "timestamp": "2026-01-16 00:08:30",
+    "content": "hmm interesting, subscription? API?",
+    "author": "profdrcat#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461512402251284521",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461512466826658046",
+    "timestamp": "2026-01-16 00:08:45",
+    "content": "It's Github Copilot so you can even launch an agent on Github to work on an issue",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461512466826658046",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461512561399693333",
+    "timestamp": "2026-01-16 00:09:08",
+    "content": "Subscription",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461512561399693333",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461512786679959847",
+    "timestamp": "2026-01-16 00:10:01",
+    "content": "copilot is horrendous, all of the models are super nerfed by the harness",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461512786679959847",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461512852870529099",
+    "timestamp": "2026-01-16 00:10:17",
+    "content": "go with antigravity",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461512852870529099",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461512917403832401",
+    "timestamp": "2026-01-16 00:10:33",
+    "content": "The limits are much better though",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461512917403832401",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461512944054702212",
+    "timestamp": "2026-01-16 00:10:39",
+    "content": "cursor is much closer to “real deal” performance. haven’t tried antigrav. but copilot is way behind on features and perf",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461512944054702212",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461512998920126675",
+    "timestamp": "2026-01-16 00:10:52",
+    "content": "You don't even have to do coding tasks with it",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461512998920126675",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461513103526068224",
+    "timestamp": "2026-01-16 00:11:17",
+    "content": "It can do admin stuff and agentically browse the web",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461513103526068224",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461513141023150276",
+    "timestamp": "2026-01-16 00:11:26",
+    "content": "\n**Reason:** Bad word usage",
+    "author": "Claude AutoMod#2167",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461513141023150276",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461513170832064615",
+    "timestamp": "2026-01-16 00:11:33",
+    "content": "ruh roh",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461513170832064615",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461513303590437069",
+    "timestamp": "2026-01-16 00:12:05",
+    "content": "Perplexity is supposed to do that but it can't access downloaded files or access file system",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461513303590437069",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461513305750376488",
+    "timestamp": "2026-01-16 00:12:05",
+    "content": "what was the bad word? OpenAI?",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461513305750376488",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461513345424294004",
+    "timestamp": "2026-01-16 00:12:15",
+    "content": "i have access to copilot and cursor plans at work and copilot is consistently dumber to the extent that yeah, they NEED to give you more generous limits bc it misfires so often on models that are more dependable literally anywhere else",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461513345424294004",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461513435312427018",
+    "timestamp": "2026-01-16 00:12:36",
+    "content": "i give copilot the idiot work and use cursor for the stuff i want done right tbh",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461513435312427018",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461513495593091295",
+    "timestamp": "2026-01-16 00:12:50",
+    "content": "I feel GPT is much dumber there too",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461513495593091295",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461513505915015271",
+    "timestamp": "2026-01-16 00:12:53",
+    "content": "same models wildly different output quality",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461513505915015271",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461513590350544946",
+    "timestamp": "2026-01-16 00:13:13",
+    "content": "they’re all dumber. opus 4.5 is awful on copilot in addition to being billed at a 10x rate",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461513590350544946",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461513617534091491",
+    "timestamp": "2026-01-16 00:13:20",
+    "content": "Opus is about the same if you don't use it with thinking",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461513617534091491",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461513674220114074",
+    "timestamp": "2026-01-16 00:13:33",
+    "content": "i’ve had exactly the opposite experience",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461513674220114074",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461513745384734750",
+    "timestamp": "2026-01-16 00:13:50",
+    "content": "tangibly worse vs cursor, cc, and direct api calls to anthropic",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461513745384734750",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461513766637404419",
+    "timestamp": "2026-01-16 00:13:55",
+    "content": "Isn't Opus 4.5 3x",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461513766637404419",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461513806139228269",
+    "timestamp": "2026-01-16 00:14:04",
+    "content": "Although Opus is only available on the $40 plan",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461513806139228269",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461513874346999839",
+    "timestamp": "2026-01-16 00:14:21",
+    "content": "might be 3x i forget",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461513874346999839",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461513911823106112",
+    "timestamp": "2026-01-16 00:14:30",
+    "content": "one of the opus models was 10x",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461513911823106112",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461513990990463222",
+    "timestamp": "2026-01-16 00:14:49",
+    "content": "I don't see how it can be worse, it works for ages on Copilot and can get a lot done",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461513990990463222",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461514032208023552",
+    "timestamp": "2026-01-16 00:14:58",
+    "content": "but 3x usage for that kind of performance is just not acceptable if you’re in the market for a new harness.",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461514032208023552",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461514091721130089",
+    "timestamp": "2026-01-16 00:15:13",
+    "content": "And they only count number of requests not tokens, unlike Cursor/Windsurf (usage is proportional to tokens)",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461514091721130089",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461514175632113756",
+    "timestamp": "2026-01-16 00:15:33",
+    "content": "have you done direct compared against other harnesses? complex tasks? idk if it’s a copilot harness issue or a fundamental problem with the deployment of the model they’re using",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461514175632113756",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461514302199697478",
+    "timestamp": "2026-01-16 00:16:03",
+    "content": "Not for Opus, but for GPT I think it just thinks less",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461514302199697478",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461514385175351367",
+    "timestamp": "2026-01-16 00:16:23",
+    "content": "but copilot is real bad. cannot stand it. even with a ton of tinkering it’s just not the platform anyone should be migrating too",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461514385175351367",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461514425373687878",
+    "timestamp": "2026-01-16 00:16:32",
+    "content": "hi guys",
+    "author": "ligxhtf1rev2#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461514425373687878",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461514437457346786",
+    "timestamp": "2026-01-16 00:16:35",
+    "content": "ok listen, because I know this is important to everyone, I'm steping away for an hour, when I come back please have a 5.0 model delivered thanks",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461514437457346786",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461514558429597862",
+    "timestamp": "2026-01-16 00:17:04",
+    "content": "cursor also uses request based billing. at least my plan does. 500 requests with some models using >1 request",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461514558429597862",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461514635302801724",
+    "timestamp": "2026-01-16 00:17:22",
+    "content": "i prefer token based billing anyways, better incentives",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461514635302801724",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461514782615142522",
+    "timestamp": "2026-01-16 00:17:57",
+    "content": "“stuff everything into a big prompt and hope the model doesn’t suffocate in context” is what request billing incentivizes you to do even tho it’s an extreme anti pattern given how context-sensitive these models are",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461514782615142522",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461514788801745058",
+    "timestamp": "2026-01-16 00:17:59",
+    "content": "I prefer request based, I've only run out once xD",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461514788801745058",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461515113403121787",
+    "timestamp": "2026-01-16 00:19:16",
+    "content": "The $40 plan is like 1500 requests a month, or 50 a day, I find it hard to use up",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461515113403121787",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461515265995964562",
+    "timestamp": "2026-01-16 00:19:53",
+    "content": "you phrased it perfectly",
+    "author": "eosyn#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461515265995964562",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461515383495201051",
+    "timestamp": "2026-01-16 00:20:21",
+    "content": "It can work for 10 min per request (assuming agent doesn't quit), so that's at least 8 hrs per day",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461515383495201051",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461515728913039451",
+    "timestamp": "2026-01-16 00:21:43",
+    "content": "Really impossible to use up unless I just use Opus at 3x",
+    "author": "sunsweeper#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461515728913039451",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461519473629593652",
+    "timestamp": "2026-01-16 00:36:36",
+    "content": "i’ve found it easy to use up that many prompts if i’m being thoughtful about context",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461519473629593652",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461519705855627265",
+    "timestamp": "2026-01-16 00:37:31",
+    "content": "or e.g. i want to work on things in parallel, or ask for pointed analysis in a few areas and want clean contexts for each to maintain context hygiene. etc",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461519705855627265",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461519824944365791",
+    "timestamp": "2026-01-16 00:37:59",
+    "content": "request billing is totally contradictory to actual prompting/llm best practices",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461519824944365791",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461520008029929533",
+    "timestamp": "2026-01-16 00:38:43",
+    "content": "it benefits business/accounting people bc it simplifies understanding how the tech works from a financial standpoint. but for people actually using it actively, request quotas make zero sense. imo",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461520008029929533",
+    "attachments": [],
+    "channel_name": "general"
+  }
+]
