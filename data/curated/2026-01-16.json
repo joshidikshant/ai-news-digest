@@ -52,5 +52,59 @@
     "category": "insight",
     "curated_at": "2026-01-16T06:19:29.734592+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Pro Users Hit by Reduced Usage Limits on Claude AI",
+    "bullets": [
+      "Pro Plan subscribers report daily warnings about hitting usage limits.",
+      "Users suspect a recent reduction in usage limits or temporary issues."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-16 12:19:40",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461696408154276065"
+    },
+    "relevance": 90,
+    "hot_take": "Explore the potential impact of usage limit changes on productivity and whether this hints at larger infrastructure issues.",
+    "category": "discussion",
+    "curated_at": "2026-01-16T12:21:34.547540+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Persistent Issues with Token Limit and Claude's Response Continuity",
+    "bullets": [
+      "Users report Claude not continuing responses once token limits are hit, despite changelog claims.",
+      "Some users experience abrupt stops in conversations without error messages."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-16 08:24:28",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461637217536708641"
+    },
+    "relevance": 75,
+    "hot_take": "Dive into the reliability of AI model updates and their real-world effects on user experience.",
+    "category": "discussion",
+    "curated_at": "2026-01-16T12:21:34.547564+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude's Output Token Consumption Issues Persist",
+    "bullets": [
+      "Users note increased token consumption, making the tool less efficient for short tasks.",
+      "Some users experience session limits being reached too quickly, impacting usability."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-16 09:42:13",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461656783247638530"
+    },
+    "relevance": 80,
+    "hot_take": "Examine how changes in token consumption could affect Claude's position in the AI tools market.",
+    "category": "discussion",
+    "curated_at": "2026-01-16T12:21:34.547566+00:00",
+    "original_server": "Anthropic"
   }
 ]
