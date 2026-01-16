@@ -1970,5 +1970,1134 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461696408154276065",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1461698648789352682",
+    "timestamp": "2026-01-16 12:28:34",
+    "content": "Yea ive hit limit many times very quickly past few days.",
+    "author": "ironlulzsec#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461698648789352682",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461712501723889815",
+    "timestamp": "2026-01-16 13:23:37",
+    "content": "wow claude code cant make a bip39 wordlist",
+    "author": "viggo420.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461712501723889815",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461712501468303360/billede.png?ex=696b8d59&is=696a3bd9&hm=122b4269bc7287fd11b4cdd7093a4623e9ce4d69298a16c88ce4e40c6778c4a9&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461712527405617378",
+    "timestamp": "2026-01-16 13:23:43",
+    "content": "weak",
+    "author": "viggo420.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461712527405617378",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461720754646159505",
+    "timestamp": "2026-01-16 13:56:25",
+    "content": "I tested out GSD last night on an existing project and I burned through all my pro tokens before it even ran all the GSD commands 😂🤣😂",
+    "author": "williebeamin#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461720754646159505",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461721024809795715",
+    "timestamp": "2026-01-16 13:57:29",
+    "content": "how do I add images to discord? here?",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461721024809795715",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461721630131753044",
+    "timestamp": "2026-01-16 13:59:54",
+    "content": "I wished claude a 'happy new year' and used all my pro allowance. hehe, just joking. Some saying this limit issue is a bug and will be fixed, fingers crossed.",
+    "author": "toskr#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461721630131753044",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461727090679222272",
+    "timestamp": "2026-01-16 14:21:35",
+    "content": "Anybody here interested in penetration testing using claude",
+    "author": "divijvyawahare1#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461727090679222272",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461728252321071378",
+    "timestamp": "2026-01-16 14:26:12",
+    "content": "yea",
+    "author": "milkv2#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461728252321071378",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461728260965666998",
+    "timestamp": "2026-01-16 14:26:15",
+    "content": "why is that",
+    "author": "milkv2#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461728260965666998",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461728275356319869",
+    "timestamp": "2026-01-16 14:26:18",
+    "content": "i cant use opus",
+    "author": "milkv2#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461728275356319869",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461728318910103633",
+    "timestamp": "2026-01-16 14:26:28",
+    "content": "hitting limit with few prompts",
+    "author": "milkv2#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461728318910103633",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461729959671234623",
+    "timestamp": "2026-01-16 14:33:00",
+    "content": "what the hell is meta?",
+    "author": "axia3002#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461729959671234623",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461732040897724587",
+    "timestamp": "2026-01-16 14:41:16",
+    "content": "this might seem like a really stupid question but what's the usual places where claude code chats are stored locally? in AppData\\Roaming/Claude or somewhere else?",
+    "author": ".mikabe#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461732040897724587",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461735501709971457",
+    "timestamp": "2026-01-16 14:55:01",
+    "content": "should be in .claude/projects",
+    "author": "amdnil#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461735501709971457",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461735502305562839",
+    "timestamp": "2026-01-16 14:55:01",
+    "content": "home\\user\\.claude\\projects",
+    "author": "demelain_#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461735502305562839",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461740592550776915",
+    "timestamp": "2026-01-16 15:15:15",
+    "content": "Anyone have tips for using Claude for writing? I’ve been playing around with writing blog posts focused on sessions of real world usage and I feel like I need a good editor. Example. https://gist.github.com/NotMyself/625e77b4d7ac1e25105a6f211e73417f\n# fixing-go-code-without-knowing-go.md\nGitHub Gist: instantly share code, notes, and snippets.",
+    "author": ".notmyself#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461740592550776915",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461742880795394049",
+    "timestamp": "2026-01-16 15:24:20",
+    "content": "Did Anthropic caused it's Claude.ai web and android app to break with the beta launch of cowork? It just feels that way with these issues I'm getting since last week:\n1) conversation not found errors when starting a new chat in claude.ai web.\n2) thinking stream becomes visible in android app\n3) conversation length limits in android app",
+    "author": ".chronocat#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461742880795394049",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461743807534993630",
+    "timestamp": "2026-01-16 15:28:01",
+    "content": "Opus decided to answer my questions twice but somehow failed to answer the last question (twice)\nand then compact the conversation",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461743807534993630",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461743812215832598",
+    "timestamp": "2026-01-16 15:28:02",
+    "content": "AGI",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461743812215832598",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461743900179042314",
+    "timestamp": "2026-01-16 15:28:23",
+    "content": "What’s this Ralph wiggum that I’ve been hearing about. Its a Claude plugin that loops continuously until it gets an issue or a task fixed? Is that it?",
+    "author": "marala65#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461743900179042314",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461744278891004069",
+    "timestamp": "2026-01-16 15:29:53",
+    "content": "Ralph is a Bash loop",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461744278891004069",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461747702164361236",
+    "timestamp": "2026-01-16 15:43:30",
+    "content": "hello, what reading would you recommend to a new claude code user ? Seeing a lot of methodologies (BMAD, SpecKit, now that ralph thing), but i'm really just starting and don't like to \"just install without understanding\"",
+    "author": "liohau#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461747702164361236",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461748122018512897",
+    "timestamp": "2026-01-16 15:45:10",
+    "content": "Little bit more context: i'm mainly involved in brownfield projects ...",
+    "author": "liohau#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461748122018512897",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461748308161728643",
+    "timestamp": "2026-01-16 15:45:54",
+    "content": "I'd start with vanilla cc at first to get a feel for it but if you want to try out an opinionated workflow I'd suggest trying antigravity",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461748308161728643",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461748604367802430",
+    "timestamp": "2026-01-16 15:47:05",
+    "content": "<@102461175689658368>  but what can I do with vanilla ? just tried /review, and saw it was made for GH, but i'm on gitlab. So is the first step to setup an additional /review command that leverage gitlab instead (MCP?) ?",
+    "author": "liohau#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461748604367802430",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461749989859393679",
+    "timestamp": "2026-01-16 15:52:35",
+    "content": "Yeah I mean it totally depends on your use case and what you want to do but that could be a good start. You are really only limited by your imagination. You can ask claude in claude code to use the `claude code guide` agent to gather the official documentation you need so it can make whatever you want. There are MCP out there that might be relevant and there is an official plugin marketplace where you can get some interesting stuff but you don't have to rely on those. I'd suggest not using any unofficial skill marketplaces though until you know more.",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461749989859393679",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461750407142576210",
+    "timestamp": "2026-01-16 15:54:15",
+    "content": "Hm I think that will be the hard part, making anything I want, as I don't know what I want 😄",
+    "author": "liohau#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461750407142576210",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461750597727289388",
+    "timestamp": "2026-01-16 15:55:00",
+    "content": "interesting I hadn't seen this before, maybe relevant to you? https://code.claude.com/docs/en/gitlab-ci-cd",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461750597727289388",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461751070538731659",
+    "timestamp": "2026-01-16 15:56:53",
+    "content": "Was on that page just before",
+    "author": "liohau#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461751070538731659",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461752527837200518",
+    "timestamp": "2026-01-16 16:02:40",
+    "content": "do you all have a CLAUDE.md ?",
+    "author": "liohau#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461752527837200518",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461754039552315538",
+    "timestamp": "2026-01-16 16:08:41",
+    "content": "pretty much",
+    "author": "fc4883e4#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461754039552315538",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461754560006852740",
+    "timestamp": "2026-01-16 16:10:45",
+    "content": "first thing you can do is `/init` to set up your initial CLAUDE.md",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461754560006852740",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461756111622373513",
+    "timestamp": "2026-01-16 16:16:55",
+    "content": "Though I highly recommend going through and editing it afterward to check for accuracy and trim it down",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461756111622373513",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461756618986492021",
+    "timestamp": "2026-01-16 16:18:56",
+    "content": "you can also ask claude to use the claude code guide to get the docs on rules and then break your CLAUDE.md into rules",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461756618986492021",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461758125853118682",
+    "timestamp": "2026-01-16 16:24:55",
+    "content": "though that's mostly an organizational thing (unless you actually set conditions on them)",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461758125853118682",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461758513243099462",
+    "timestamp": "2026-01-16 16:26:27",
+    "content": "init tends to put too much stuff that is likely to change in there, so you either have to remember to update it often or trim it down to be a little more general",
+    "author": "stachefkapatass#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461758513243099462",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461758835369840754",
+    "timestamp": "2026-01-16 16:27:44",
+    "content": "yeah it's good to stay organized 😁 that way you can both decompose and scope along with trimming as necessary",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461758835369840754",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461758995848237066",
+    "timestamp": "2026-01-16 16:28:22",
+    "content": "my main focus for CLAUDE.md these days is providing an outline for where to find things in the file structure, code style guidance, and some personality guidance to make Claude more fun to work with (though Opus' default personality is way better than it used to be.)",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461758995848237066",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461759259791458405",
+    "timestamp": "2026-01-16 16:29:25",
+    "content": "Sonnet 4 for a while was aggressively cheerful and optimistic 😄",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461759259791458405",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461759426997260546",
+    "timestamp": "2026-01-16 16:30:05",
+    "content": "I actually think people got a little burned on monolith claude.md and are being too reactive about minimizing i have a large ruleset",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461759426997260546",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461761390053425204",
+    "timestamp": "2026-01-16 16:37:53",
+    "content": "Hi! Hope it's the right place, but quick question, I'm currently using opencode (they have big pickle with 100k free tokens per session) and antigravity mostly. Copilot in VScode for single lines. I'm thinking opting in for claude pro for some big work (architecture, reviews). The main question I have is the token bandwidth I guess? What's your thoughts on that, thanks",
+    "author": "antoniaksander#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461761390053425204",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461761397003128892",
+    "timestamp": "2026-01-16 16:37:55",
+    "content": "So it generated a 190 line long CLAUDE.md file. I did not find wrong information, but some are missing, for instance there's a a file tree in ## Architecture that shows only a part of the folders in domain/ and infra/",
+    "author": "liohau#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461761397003128892",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461761864223559855",
+    "timestamp": "2026-01-16 16:39:46",
+    "content": "you can either tell claude what is wrong directly and it can fix it or if you want to be more thorough tell claude `Read my current CLAUDE.md in full and then use concurrent explorer agents to confirm it is comprehensive. Add anything you find that is missing in isomorphic compressed resonant language.`",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461761864223559855",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461762054812733442",
+    "timestamp": "2026-01-16 16:40:32",
+    "content": "That prompt, where did you find it ? is it something you just created?",
+    "author": "liohau#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461762054812733442",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461762146412265799",
+    "timestamp": "2026-01-16 16:40:53",
+    "content": "yes, you are only limited by your imagination, any time you want to do something, just do it",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461762146412265799",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461762406697926882",
+    "timestamp": "2026-01-16 16:41:55",
+    "content": "I mean, those LLM are kind of black boxes, at the beginning everybody was talking about prompt engineering and how \"think wisely\" or other tricks like that were key.",
+    "author": "liohau#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461762406697926882",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461762507780784138",
+    "timestamp": "2026-01-16 16:42:20",
+    "content": "So i'm wondering if it's still mandatory to use \"specific\" terms/keywords",
+    "author": "liohau#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461762507780784138",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461762702870581289",
+    "timestamp": "2026-01-16 16:43:06",
+    "content": "ignore all that, it doesn't work, although some words are somewhat magical, there is no one right way to phrase something, claude is smart enough to get it, typos and all",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461762702870581289",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461762907036455157",
+    "timestamp": "2026-01-16 16:43:55",
+    "content": "My three main things I'm trying to be more consistent on are:\n1. Keep claude.md reasonable in length, much of it referencing other docs and also having claude.md files in sub directories that represent areas that can be worked on separately.\n2. Don't be shy about starting new sessions, compacting, or using /clear\n3. Lean into skills, they can do many things including reminding it to take a fresh look at claude.md",
+    "author": "sirrhh#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461762907036455157",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461763359543398464",
+    "timestamp": "2026-01-16 16:45:43",
+    "content": "One prompt engineering guideline that I think is still super important: when doing an investigation where you want a true critical analysis, avoid saying \"This should do X.\"  My experience is that this still heavily biases the model to BSing its way to explaining how it does X, even if it doesn't.",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461763359543398464",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461763940840116358",
+    "timestamp": "2026-01-16 16:48:01",
+    "content": "but I agree, Opus is way less sensitive to magic words or subtle nudges than it used to be; it reads between the lines just fine most of the time",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461763940840116358",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461764720229875898",
+    "timestamp": "2026-01-16 16:51:07",
+    "content": "I definitely fall into the camp of one of us that has been living daily entirely in Claude Code for most of last year and spent just as much time cussing and complaining as I did cheering in satisfaction with what was accomplished\n That has really changed in the last two months I'm now one of those in the newer camp that was able to do something miraculous with Claude Code and Opus 4.5 over the holidays\n I created a new voice based open source project that I think might actually turn into something and I've not been shy about features and Claude Code has really seen me through this again is much due to Opus 4.5\nI'm also now mainly using Antigravity",
+    "author": "sirrhh#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461764720229875898",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461768155717173522",
+    "timestamp": "2026-01-16 17:04:46",
+    "content": "Did I ask the wrong channel or I should google? 😄",
+    "author": "antoniaksander#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461768155717173522",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461769587472335081",
+    "timestamp": "2026-01-16 17:10:28",
+    "content": "what do you mean by token bandwidth? you are worried about limits?",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461769587472335081",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461770172674216149",
+    "timestamp": "2026-01-16 17:12:47",
+    "content": "claude down?",
+    "author": "pteromaple#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461770172674216149",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461770193268117630",
+    "timestamp": "2026-01-16 17:12:52",
+    "content": "Yes, a bit and how it will affect my workflow",
+    "author": "antoniaksander#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461770193268117630",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461770373652680715",
+    "timestamp": "2026-01-16 17:13:35",
+    "content": "are you thinking of switching to claude code?",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461770373652680715",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461770703429959720",
+    "timestamp": "2026-01-16 17:14:54",
+    "content": "Yes, but still using opencode (the pickle and kimi) for smaller work and testing and Claude for the heavy-lifting",
+    "author": "antoniaksander#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461770703429959720",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461770941087481880",
+    "timestamp": "2026-01-16 17:15:50",
+    "content": "a lot of people feel like pro is pretty limited but if you are using it strategically it might work for you",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461770941087481880",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461770987556045065",
+    "timestamp": "2026-01-16 17:16:01",
+    "content": "At the end of /init, claude asks to write CLAUDE.md. If i'm half satisfied should I say \"yes\" and make a new prompt ? or use the \"Tell claude what to do instead\" ? I guess if I use the latest i'll have a completely new generation, right?",
+    "author": "liohau#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461770987556045065",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461771117143523398",
+    "timestamp": "2026-01-16 17:16:32",
+    "content": "claude pro is very stingy with usage, i would avoid it for large projects. you almost certainly want max5x at the minimum or you're going to get cut off very frequently imo.",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461771117143523398",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461771154141221108",
+    "timestamp": "2026-01-16 17:16:41",
+    "content": "The difference there is whether it saves the proposed edit before making additional changes or not.",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461771154141221108",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461771170834682070",
+    "timestamp": "2026-01-16 17:16:45",
+    "content": "I mean for slight updates, whatever the impacted file/topic is, the workflow is to accept the file and ask a rework in an additional prompt ?",
+    "author": "liohau#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461771170834682070",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461771201268551872",
+    "timestamp": "2026-01-16 17:16:52",
+    "content": "yes",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461771201268551872",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461771300602253552",
+    "timestamp": "2026-01-16 17:17:16",
+    "content": "ok, so there's no \"keep but change only that\". It's \"yes\" + new prompt.",
+    "author": "liohau#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461771300602253552",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461771338225160421",
+    "timestamp": "2026-01-16 17:17:25",
+    "content": "hi , how to make cc stop generating those files tmpclaude",
+    "author": "rightnow_ai#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461771338225160421",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461771375923429572",
+    "timestamp": "2026-01-16 17:17:34",
+    "content": "yeah, asking for a small change after accepting will be slightly more efficient than asking it to fully regenerate the tool call",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461771375923429572",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461771485101166810",
+    "timestamp": "2026-01-16 17:18:00",
+    "content": "it depends on how many edits you have in mind and how much they impact the file overall",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461771485101166810",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461771504432713911",
+    "timestamp": "2026-01-16 17:18:05",
+    "content": "I was on the 5x max for a short while but decided to upgrade to 20x and have never looked back. Pricy, but I have  only run into issues once.",
+    "author": "sirrhh#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461771504432713911",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461771557151178947",
+    "timestamp": "2026-01-16 17:18:17",
+    "content": "I think most people do well with the 5x account though",
+    "author": "sirrhh#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461771557151178947",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461771949402230917",
+    "timestamp": "2026-01-16 17:19:51",
+    "content": "Okay, will look into it. Thanks! Claude has no trial/test period for any?",
+    "author": "antoniaksander#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461771949402230917",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461772065471201383",
+    "timestamp": "2026-01-16 17:20:18",
+    "content": "No problem, pro is basically the paid trial.",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461772065471201383",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461772102221824088",
+    "timestamp": "2026-01-16 17:20:27",
+    "content": "i tried that, its very limited",
+    "author": "milkv2#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461772102221824088",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461772439615836264",
+    "timestamp": "2026-01-16 17:21:48",
+    "content": "What is this trend on X with those games managing claude code ? just saw Vibecraft before, now AgentCraft.",
+    "author": "liohau#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461772439615836264",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461772521211953470",
+    "timestamp": "2026-01-16 17:22:07",
+    "content": "I think I'll try the pro first, just to compare the difference. And then give it a try to max",
+    "author": "antoniaksander#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461772521211953470",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461773896918499453",
+    "timestamp": "2026-01-16 17:27:35",
+    "content": ":3",
+    "author": "nullix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461773896918499453",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461774434061914144",
+    "timestamp": "2026-01-16 17:29:43",
+    "content": "i have a pro week pass if you want it",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461774434061914144",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461774571232432232",
+    "timestamp": "2026-01-16 17:30:16",
+    "content": "you have to put in your card info but you get 1 week of free usage with pro before they charge your card, you'll find out pretty quickly if the usage eats up too quickly for your use case. in which case you'd need 5x/20x to get your work done",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461774571232432232",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461775836524056772",
+    "timestamp": "2026-01-16 17:35:17",
+    "content": "I wish pasting would get fixed for the CLI, it's a bit annoying having my pastes be truncated constantly",
+    "author": "thelawdash#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461775836524056772",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461776035224752282",
+    "timestamp": "2026-01-16 17:36:05",
+    "content": "If you're okay with it, then I'm okay redeeming it. Send pm",
+    "author": "antoniaksander#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461776035224752282",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461776814467977267",
+    "timestamp": "2026-01-16 17:39:11",
+    "content": "What can I do to get hired in America from a European... I don't have any experience in that... (is this against the rules, I'm just asking for other peoples experiences)",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461776814467977267",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461778686557687904",
+    "timestamp": "2026-01-16 17:46:37",
+    "content": "Why do you want to work in the U.S. that is the question",
+    "author": "ezinc#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461778686557687904",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461779537833758940",
+    "timestamp": "2026-01-16 17:50:00",
+    "content": "does anybody's opus keep saying \"in the meantime use this code\" instead of just solving the problem we're actively working on first lol",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461779537833758940",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461779672106012926",
+    "timestamp": "2026-01-16 17:50:32",
+    "content": "Use Claude to make $1M/yr software -> apply as O-1A (extraordinary talent)",
+    "author": "ezinc#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461779672106012926",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461779707220463840",
+    "timestamp": "2026-01-16 17:50:40",
+    "content": "I'll find you an employer here if you find me one there 😉",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461779707220463840",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461779842801467500",
+    "timestamp": "2026-01-16 17:51:13",
+    "content": "here the software companies hate AI assisted coders",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461779842801467500",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461779856248406254",
+    "timestamp": "2026-01-16 17:51:16",
+    "content": "look into business ERP software I get messages on my LinkedIn all the time",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461779856248406254",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461779948267245711",
+    "timestamp": "2026-01-16 17:51:38",
+    "content": "u just don't tell them, you're just a very efficient worker",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461779948267245711",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461780041871659113",
+    "timestamp": "2026-01-16 17:52:00",
+    "content": "Just to have a job that doesn't stigmatize my usage of AI",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461780041871659113",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461780130107228423",
+    "timestamp": "2026-01-16 17:52:21",
+    "content": "I wish I could lie like that 🙁",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461780130107228423",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461780366472908882",
+    "timestamp": "2026-01-16 17:53:17",
+    "content": "seems like everyone is using but aren't explicit about it in my circles. You would be an idiot to be still writing a lot of this stuff by hand",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461780366472908882",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461780476866990182",
+    "timestamp": "2026-01-16 17:53:44",
+    "content": "I AGREE wish the rest of the world would tell the companies I applied to",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461780476866990182",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461780513818677454",
+    "timestamp": "2026-01-16 17:53:53",
+    "content": "I have 10 years of programming experience ffs",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461780513818677454",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461780562288054303",
+    "timestamp": "2026-01-16 17:54:04",
+    "content": "Are you applying to jobs as an ai prompter or what",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461780562288054303",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461780629053243566",
+    "timestamp": "2026-01-16 17:54:20",
+    "content": "don't tell the interviewer about AI lol",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461780629053243566",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461780657197027358",
+    "timestamp": "2026-01-16 17:54:27",
+    "content": "no as a regular software engineer.. because AI prompters isn't a thing here",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461780657197027358",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461780699345457303",
+    "timestamp": "2026-01-16 17:54:37",
+    "content": "They treat it as a scam",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461780699345457303",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461780719952203976",
+    "timestamp": "2026-01-16 17:54:42",
+    "content": "The meta is school/research -> job/greencard, but this is getting harder since people have flooded the system.\n\nJust use Claude to make money then get O-1A visa. E.U. cost of living/salary even in major cities is crazy low. It is more than enough to make Internet money and live better than most of your citizens -- you can even temporarily move to Japan to reduce costs even more",
+    "author": "ezinc#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461780719952203976",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461780764092928185",
+    "timestamp": "2026-01-16 17:54:52",
+    "content": "(crazy low compared to U.S.)",
+    "author": "ezinc#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461780764092928185",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461780968271642745",
+    "timestamp": "2026-01-16 17:55:41",
+    "content": "I get that... But we also earn a lot less respectively",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461780968271642745",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461781045039988842",
+    "timestamp": "2026-01-16 17:55:59",
+    "content": "I think spending power is almost equal",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461781045039988842",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461781094058950747",
+    "timestamp": "2026-01-16 17:56:11",
+    "content": "No you don't, because you can sell internationally and even to non-English countries since LLM translations are near perfect",
+    "author": "ezinc#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461781094058950747",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461781158739185809",
+    "timestamp": "2026-01-16 17:56:26",
+    "content": "It is actually better to live in E.U. or third world to make apps/software because your burn rate is inherently lower",
+    "author": "ezinc#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461781158739185809",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461781270513192982",
+    "timestamp": "2026-01-16 17:56:53",
+    "content": "And if you choose to hire people, it's 2-100x cheaper but you earn the same amount since you're selling to people abroad",
+    "author": "ezinc#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461781270513192982",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461781403892056095",
+    "timestamp": "2026-01-16 17:57:25",
+    "content": "Well I have to look into the economics better... now that you've mentioned all this",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461781403892056095",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461781485123272786",
+    "timestamp": "2026-01-16 17:57:44",
+    "content": "\"just make money lol no one knows this one weird hack\" amazing advice lol",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461781485123272786",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461781522859163754",
+    "timestamp": "2026-01-16 17:57:53",
+    "content": "But the protections for employees and renters in the EU is MUCH better than in the US!! not to dunk on the US.. but that is something I will miss the most if I would migrate",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461781522859163754",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461781526663528539",
+    "timestamp": "2026-01-16 17:57:54",
+    "content": "Spending power is not equal I wish we had E.U. prices in the U.S. lol",
+    "author": "ezinc#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461781526663528539",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461781591964651551",
+    "timestamp": "2026-01-16 17:58:10",
+    "content": "When I went traveling to the E.U. I don't even have to think about prices compared to U.S. where McDonalds will bankrupt me",
+    "author": "ezinc#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461781591964651551",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461781623916986491",
+    "timestamp": "2026-01-16 17:58:17",
+    "content": "Hey Claude, code make me an app that will make me a million dollars this month. Thank you. You have full edit access. Notify me when you're done",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461781623916986491",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461781668380807272",
+    "timestamp": "2026-01-16 17:58:28",
+    "content": "no bugs please",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461781668380807272",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461781743202865277",
+    "timestamp": "2026-01-16 17:58:46",
+    "content": "That is a true point, so don't hire anyone and just make $500k/yr that is enough for O1-A if you get enough awards",
+    "author": "ezinc#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461781743202865277",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461781830989512868",
+    "timestamp": "2026-01-16 17:59:07",
+    "content": "(publications, news, university records, etc.)",
+    "author": "ezinc#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461781830989512868",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461781878448324618",
+    "timestamp": "2026-01-16 17:59:18",
+    "content": "Doing what??",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461781878448324618",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461782067162648738",
+    "timestamp": "2026-01-16 18:00:03",
+    "content": "I made a video game, but you can just walk around E.U. and ask business owners pain points (they have a lot bc their labor laws are unfair to them). Then just charge 5 euros a month for first customers and grow",
+    "author": "ezinc#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461782067162648738",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461782255814049947",
+    "timestamp": "2026-01-16 18:00:48",
+    "content": "I am currently making my own Linux Distro",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461782255814049947",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461782381001310240",
+    "timestamp": "2026-01-16 18:01:18",
+    "content": "You only need 500 companies at 5/mo to replace the average EU salary",
+    "author": "ezinc#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461782381001310240",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461782415914831912",
+    "timestamp": "2026-01-16 18:01:26",
+    "content": "it has pros and cons. i don't know if the juice is worth the squeeze though. amortize all of the moving costs and \"life costs\" that the US doesn't cover for you and most of the gains come out in the wash",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461782415914831912",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461782589261217987",
+    "timestamp": "2026-01-16 18:02:07",
+    "content": "it has to pay somewhere",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461782589261217987",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461782640251244689",
+    "timestamp": "2026-01-16 18:02:20",
+    "content": "and that's if you value your time at $0/hr because getting a company to sponsor you is a herculean effort in itself. lots of hitting the bricks, very risky, high chance you won't land here unless you have a lot of capital to work with already",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461782640251244689",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461782783230869578",
+    "timestamp": "2026-01-16 18:02:54",
+    "content": "Just make a simple program for a common problem like a PDF converter and then sell it for $1, everyone has $1. Only a million people and you have a million dollars, 10 million people for $10 million, etc",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461782783230869578",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461782873966248170",
+    "timestamp": "2026-01-16 18:03:15",
+    "content": "it might if you land something big with a vc firm or AI startup. but those are few and far between, with competitive applicants that already live in the US and thus dont require a $100k fee just to get you your visa. among other factors",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461782873966248170",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461783180649693247",
+    "timestamp": "2026-01-16 18:04:28",
+    "content": "not trying to yuck your yum or anything, just saying \"get a job in the US and move there\" is a monumental and very expensive and long-term task once you break it down. and that's all assuming the industry's hiring doesnt nosedive once stuff like CC is more widely adopted",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461783180649693247",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461783236438134805",
+    "timestamp": "2026-01-16 18:04:42",
+    "content": "",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461783236438134805",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461783236161175582/IMG_4187.png?ex=696bcf3a&is=696a7dba&hm=23950a25dacdad15d3a2664417aedcb8b206f3263633e0bda5b662376f8de10a&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461783538855837767",
+    "timestamp": "2026-01-16 18:05:54",
+    "content": "I'm gonna look into this thanks",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461783538855837767",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]

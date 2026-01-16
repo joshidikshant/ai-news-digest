@@ -106,5 +106,59 @@
     "category": "discussion",
     "curated_at": "2026-01-16T12:21:34.547566+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude Pro Users Hit Token Limits Quickly",
+    "bullets": [
+      "Multiple users report running out of Claude Pro tokens rapidly, even with minimal usage.",
+      "Some speculate it's a bug, while others suggest the limits may simply be too low for serious projects."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-16 13:56:25",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461720754646159505"
+    },
+    "relevance": 90,
+    "hot_take": "Is Claude Pro's token system stifling innovation? A deep dive into whether users are getting short-changed.",
+    "category": "insight",
+    "curated_at": "2026-01-16T18:17:51.693531+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Issues on Claude.ai Web and Android App Post Beta Launch",
+    "bullets": [
+      "Users report 'conversation not found' errors and visible 'thinking streams' since the launch of a new beta feature.",
+      "Speculation about whether the beta launch of 'Cowork' has caused these issues."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-16 15:24:20",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461742880795394049"
+    },
+    "relevance": 85,
+    "hot_take": "Did Anthropic break its own app with a new beta feature? Users aren't thrilled.",
+    "category": "announcement",
+    "curated_at": "2026-01-16T18:17:51.693550+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Token Bandwidth Concerns for Claude Pro Users",
+    "bullets": [
+      "Prospective users express concerns over token limits affecting workflow efficiency.",
+      "Experienced users suggest higher tiers like Max5x or 20x for uninterrupted work."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-16 17:12:52",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461770193268117630"
+    },
+    "relevance": 80,
+    "hot_take": "Are token limits crippling productivity in Claude Pro? Users weigh in on the need for more flexible plans.",
+    "category": "discussion",
+    "curated_at": "2026-01-16T18:17:51.693553+00:00",
+    "original_server": "Anthropic"
   }
 ]
