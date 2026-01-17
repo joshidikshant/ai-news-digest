@@ -126,5 +126,304 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461884596844101847",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1461887752789426178",
+    "timestamp": "2026-01-17 01:00:00",
+    "content": "<@1242765652297650288> Does claude code see the porjects / convos from claude web",
+    "author": "moofadoofa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461887752789426178",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461888362724986941",
+    "timestamp": "2026-01-17 01:02:26",
+    "content": "Unfortunately not; there is a chrome extension though that allows you to take an entire chat in the web and export it in different formats, you can use that and send it to claude code. I've done this a few times with decent success. \n\nDon't wanna post the link here just in case that's frowned upon considering extensions are known for security issues, but I have it installed in Brave browser for months with no issue.\nIt's called \"Claude Exporter: Save Claude as PDF, MD and more\"",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461888362724986941",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461888615058641031",
+    "timestamp": "2026-01-17 01:03:26",
+    "content": "Supports outputs: csv, image, json, text, markdown, pdf. And you can select the whole conversation, just assistant messages or just user messages. It's pretty nifty",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461888615058641031",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461888802451750923",
+    "timestamp": "2026-01-17 01:04:11",
+    "content": "I often start with story ideas in web, and move them to claude code later using this method. I always have claude deconstruct the turns into a new file/format though, just to remove any junk data",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461888802451750923",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461889121386631292",
+    "timestamp": "2026-01-17 01:05:27",
+    "content": "The problem with that is the convo is already in its memoery with 30+ php pages lol",
+    "author": "moofadoofa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461889121386631292",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461889559490072617",
+    "timestamp": "2026-01-17 01:07:11",
+    "content": "Ohhh",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461889559490072617",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461889709885231155",
+    "timestamp": "2026-01-17 01:07:47",
+    "content": "I've heard some people have ways to extract artifacts and things, but I've never used them. Maybe someone has made a TamperMonkey script or something for that?",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461889709885231155",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461893125835587686",
+    "timestamp": "2026-01-17 01:21:21",
+    "content": "i just wish it could link to my sandbox server and adjust the files as we go instead of downloading and uploading constantly",
+    "author": "moofadoofa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461893125835587686",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461893219506851850",
+    "timestamp": "2026-01-17 01:21:44",
+    "content": "Might need to hire a platform engineer to build that and use the apis",
+    "author": "moofadoofa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461893219506851850",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461895431566004367",
+    "timestamp": "2026-01-17 01:30:31",
+    "content": "It is probably possible by just asking claude code how to do it, just include as many details as you can and use plan mode.\n\nClaude code has been figuring stuff out so damn well lately. It is blowing my mind how good it is lately, my prompts are relatively simple yet it does so much and does it almost perfectly, with just minor issues.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461895431566004367",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461895540316045463",
+    "timestamp": "2026-01-17 01:30:57",
+    "content": "As long as I use plan mode, for some reason plan mode is the magic sauce so far",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461895540316045463",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461898153966964786",
+    "timestamp": "2026-01-17 01:41:20",
+    "content": "oh? is it perhaps because it uses a turn to Plan seperately from execution ?",
+    "author": "binaryalgorithm#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461898153966964786",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461899165071314977",
+    "timestamp": "2026-01-17 01:45:21",
+    "content": "> Premium\n> \n> Everything in Standard, plus higher usage limits\nWhat's the official number we increased to?",
+    "author": "darkstar6083#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461899165071314977",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461900292579790941",
+    "timestamp": "2026-01-17 01:49:50",
+    "content": "<@1242765652297650288>  how do you use claude code... as an extension ?",
+    "author": "moofadoofa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461900292579790941",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461901783721836767",
+    "timestamp": "2026-01-17 01:55:46",
+    "content": "I have a custom devcontainer, as I use windows. I open the devcontainer using Visual Studio Code, then launch claude from the built-in terminal.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461901783721836767",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461901988915581210",
+    "timestamp": "2026-01-17 01:56:34",
+    "content": "I also have my own extension for VSC but it doesn't have full feature parity so I don't always use it. Depends on what I'm doing. Mostly I use it as a sessions log viewer right now lol",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461901988915581210",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461906870590636199",
+    "timestamp": "2026-01-17 02:15:58",
+    "content": "any idea of when claude web will be back online ?",
+    "author": "moofadoofa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461906870590636199",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461910798703001673",
+    "timestamp": "2026-01-17 02:31:35",
+    "content": "it's offline ?",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461910798703001673",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461910820433952839",
+    "timestamp": "2026-01-17 02:31:40",
+    "content": "",
+    "author": "______nick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461910820433952839",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461910819926184098/image.png?ex=696c460c&is=696af48c&hm=dbb080607bee2fb10f258a9df740104691afd4ac28ebfddf225641d76648477a&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461910992991686762",
+    "timestamp": "2026-01-17 02:32:21",
+    "content": "i just tried with \"hi\" as well 😄",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461910992991686762",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461911352015589587",
+    "timestamp": "2026-01-17 02:33:47",
+    "content": "it's super weird, it's past 3AM and i received a loud phone alarm about my airpod battery being fully charged. never happened before",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461911352015589587",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461911878820167947",
+    "timestamp": "2026-01-17 02:35:52",
+    "content": "<a:Claude_Think:1350250707474841640>",
+    "author": "notyourwizard#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461911878820167947",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461911908063117335",
+    "timestamp": "2026-01-17 02:35:59",
+    "content": "the kind of alarm that used to \"locate my phone\"",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461911908063117335",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461911908247535688",
+    "timestamp": "2026-01-17 02:35:59",
+    "content": "I am not noob",
+    "author": "notyourwizard#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461911908247535688",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461911997531558119",
+    "timestamp": "2026-01-17 02:36:21",
+    "content": "I am not noob",
+    "author": "notyourwizard#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461911997531558119",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461912038728269875",
+    "timestamp": "2026-01-17 02:36:31",
+    "content": "<:feedback:1423769532853518428>",
+    "author": "notyourwizard#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461912038728269875",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461912091421184041",
+    "timestamp": "2026-01-17 02:36:43",
+    "content": "cool story bro",
+    "author": "kerunix#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461912091421184041",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461912139701817427",
+    "timestamp": "2026-01-17 02:36:55",
+    "content": "What",
+    "author": "notyourwizard#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461912139701817427",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461918396521255066",
+    "timestamp": "2026-01-17 03:01:46",
+    "content": "claude desktop has been working for me for the last 3 hrs",
+    "author": "meltedcholo#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461918396521255066",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461918408642658518",
+    "timestamp": "2026-01-17 03:01:49",
+    "content": "at least",
+    "author": "meltedcholo#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461918408642658518",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461936879229468795",
+    "timestamp": "2026-01-17 04:15:13",
+    "content": "mine hasnt told me the chat is full , but whatever i type it just tried to process briefly then cuts back to what i typed nothing happens been doing this for about 6 hrs now",
+    "author": "moofadoofa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461936879229468795",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461942794095689998",
+    "timestamp": "2026-01-17 04:38:43",
+    "content": "Hey Guys! Is there any known process for reporting problems at Claude Community Events?",
+    "author": "daniel_1647#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461942794095689998",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461960490258272359",
+    "timestamp": "2026-01-17 05:49:02",
+    "content": "You can try contacting support. What kind of problems are you talking about?",
+    "author": "arkahn#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461960490258272359",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]
