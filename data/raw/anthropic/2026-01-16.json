@@ -3099,5 +3099,1659 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461783538855837767",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1461786755572175155",
+    "timestamp": "2026-01-16 18:18:41",
+    "content": "I am pretty sure it is going to nosedive. Companies are sort of already scared to hire Gen Z + Europeans + outsource now before Opus 4.5. It's going to be even worse this year once everyone finds out about Claude Code",
+    "author": "ezinc#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461786755572175155",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461787009034096751",
+    "timestamp": "2026-01-16 18:19:41",
+    "content": "but thinking positively, Claude Code could start improving work culture by making work more fun/easier so that doesn't happen.",
+    "author": "ezinc#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461787009034096751",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461787096934125893",
+    "timestamp": "2026-01-16 18:20:02",
+    "content": "I think that's more than fair. Free and globally subsidized users get access to AI and these ads cover the cost while plus,pro, and business/enterprise tiers don't see them.",
+    "author": "blindestgoose#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461787096934125893",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461787149794934794",
+    "timestamp": "2026-01-16 18:20:15",
+    "content": "did you create your agents using a claude prompt referring to docs.claude.com for sub agents / best practices ?",
+    "author": "liohau#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461787149794934794",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461787856220590121",
+    "timestamp": "2026-01-16 18:23:03",
+    "content": "i have yet to see this manifest. same \"amount\" of working hours but more work within them, with more of your time being spent with stakeholders who ask you for things and assume AI will make it \"just work\" or simply think your velocity is constant",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461787856220590121",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461787961426186473",
+    "timestamp": "2026-01-16 18:23:28",
+    "content": "neither of which is true but neither of which you can dispel effectively for even a few people, never mind a whole organization or outside stakeholders etc",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461787961426186473",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461788080141897791",
+    "timestamp": "2026-01-16 18:23:57",
+    "content": "challenging times.",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461788080141897791",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461789333789868135",
+    "timestamp": "2026-01-16 18:28:55",
+    "content": "Does everyone have this bug in their app?",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461789333789868135",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461789333538476153/Screenrecorder-2026-01-16-20-27-45-499.mp4?ex=696bd4e7&is=696a8367&hm=3379fa7149bebb8670ac59ea3d965a382c31695308104c0afd2e1956497fe9e9&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461789638716035263",
+    "timestamp": "2026-01-16 18:30:08",
+    "content": "I hate these bugs",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461789638716035263",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461790801095819498",
+    "timestamp": "2026-01-16 18:34:45",
+    "content": "Is a family plan something that's been discussed?",
+    "author": "kyxsune#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461790801095819498",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461792372068450316",
+    "timestamp": "2026-01-16 18:41:00",
+    "content": "Even on others claude I have the same problem, I logged in to another account and had the same problem.",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461792372068450316",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461792655997538389",
+    "timestamp": "2026-01-16 18:42:07",
+    "content": "Anyone having trouble with messages just not getting through at the moment? I thought I'd reached a thread limit, but it's happening on a new thread too. I've plenty of usage left...",
+    "author": "aunzyne#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461792655997538389",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461792695776317809",
+    "timestamp": "2026-01-16 18:42:17",
+    "content": "oh big time all morning",
+    "author": "moofadoofa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461792695776317809",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461792759215034502",
+    "timestamp": "2026-01-16 18:42:32",
+    "content": "i was scared af too been on this project for a few days now i know its big but",
+    "author": "moofadoofa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461792759215034502",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461792770917273794",
+    "timestamp": "2026-01-16 18:42:35",
+    "content": "It's only just started happening for me this last 15 mins or so",
+    "author": "aunzyne#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461792770917273794",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461793261487259842",
+    "timestamp": "2026-01-16 18:44:32",
+    "content": "No, I have a different problem.",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461793261487259842",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461803838758453543",
+    "timestamp": "2026-01-16 19:26:34",
+    "content": "CC is crashing without doing anything. running v.2.1.9 anyone else experiencing this? CLI, Debian (latest stable LTS), bash shell. Was working fine yesterday. Crashing constantly today.",
+    "author": "digib0t#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461803838758453543",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461804449042530417",
+    "timestamp": "2026-01-16 19:28:59",
+    "content": "ohmygodohmygodohmygodohmygodohmygodohmygodohmygodohmygodohmygodohmygodohmygodohmygod COWORK!!!?????",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461804449042530417",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461805721560547485",
+    "timestamp": "2026-01-16 19:34:03",
+    "content": "Bro you're okay?",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461805721560547485",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461806233546657873",
+    "timestamp": "2026-01-16 19:36:05",
+    "content": "AaaaAAaaAA",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461806233546657873",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461806248956662065",
+    "timestamp": "2026-01-16 19:36:08",
+    "content": "COWORK",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461806248956662065",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461806309434458364",
+    "timestamp": "2026-01-16 19:36:23",
+    "content": "loool",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461806309434458364",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461806308951851101/image.png?ex=696be4b7&is=696a9337&hm=1ec8bc9fdf639bd4eac74f182778d0a1f5cb49c05743dd7408d13a51c90868c7&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461806325536133214",
+    "timestamp": "2026-01-16 19:36:27",
+    "content": "HUH it's OnlyForchrome by default??",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461806325536133214",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461806367886016512",
+    "timestamp": "2026-01-16 19:36:37",
+    "content": "So I have a mac... But I don't wanna charge it until someone says why cowork is so great",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461806367886016512",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461806422009450538",
+    "timestamp": "2026-01-16 19:36:50",
+    "content": "openAI is  sinking ship at this point",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461806422009450538",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461806482117886105",
+    "timestamp": "2026-01-16 19:37:04",
+    "content": "Really?",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461806482117886105",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461806492595261661",
+    "timestamp": "2026-01-16 19:37:06",
+    "content": "Seems a bit early to call it",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461806492595261661",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461806507141370017",
+    "timestamp": "2026-01-16 19:37:10",
+    "content": "Don't they still have the biggest userbase",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461806507141370017",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461806609771663486",
+    "timestamp": "2026-01-16 19:37:34",
+    "content": "OpenAI has the first innovator obligations....",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461806609771663486",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461806649109905609",
+    "timestamp": "2026-01-16 19:37:44",
+    "content": "google has a better ecosystem\nclaude has better models",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461806649109905609",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461806708581208319",
+    "timestamp": "2026-01-16 19:37:58",
+    "content": "and what does oai have",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461806708581208319",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461806786947449035",
+    "timestamp": "2026-01-16 19:38:17",
+    "content": "Lack of funding",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461806786947449035",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461806813245734914",
+    "timestamp": "2026-01-16 19:38:23",
+    "content": "OpenAI was forced to go WIDE because they are what people associate AI with",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461806813245734914",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461806835932598414",
+    "timestamp": "2026-01-16 19:38:28",
+    "content": "No source of revenue outside of AI",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461806835932598414",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461806924902305907",
+    "timestamp": "2026-01-16 19:38:49",
+    "content": "Pretty sure they have the most funding thus far at this point in time",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461806924902305907",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461806952228192278",
+    "timestamp": "2026-01-16 19:38:56",
+    "content": "but maybe not in the future sure",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461806952228192278",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461806975502520382",
+    "timestamp": "2026-01-16 19:39:02",
+    "content": "fundings runs out\nprofits don't",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461806975502520382",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461806978220425520",
+    "timestamp": "2026-01-16 19:39:02",
+    "content": "the most customers",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461806978220425520",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461807027201376481",
+    "timestamp": "2026-01-16 19:39:14",
+    "content": "openAI won't turn profitable in years",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461807027201376481",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461807058075521312",
+    "timestamp": "2026-01-16 19:39:21",
+    "content": "google doesn't need to be",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461807058075521312",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461807100333392063",
+    "timestamp": "2026-01-16 19:39:31",
+    "content": "Well that's why openAI does ads now",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461807100333392063",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461807124991578267",
+    "timestamp": "2026-01-16 19:39:37",
+    "content": "^",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461807124991578267",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461807177168851047",
+    "timestamp": "2026-01-16 19:39:50",
+    "content": "<@154002170222477313> Do you have the same problem?",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461807177168851047",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461807180675023008",
+    "timestamp": "2026-01-16 19:39:50",
+    "content": "they could squeeze a lot of money out of ads honestly",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461807180675023008",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461807188552192061",
+    "timestamp": "2026-01-16 19:39:52",
+    "content": "and most importantly time",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461807188552192061",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461807374602993929",
+    "timestamp": "2026-01-16 19:40:37",
+    "content": "I cannot even tell what went wrong?",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461807374602993929",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461807550025695355",
+    "timestamp": "2026-01-16 19:41:18",
+    "content": "I'm talking about the document; it usually opens when you create a document in the application, but now it doesn't.",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461807550025695355",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461807598817906866",
+    "timestamp": "2026-01-16 19:41:30",
+    "content": "And the need for enshitification, will cause them to lose users",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461807598817906866",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461807709664841738",
+    "timestamp": "2026-01-16 19:41:57",
+    "content": "i hate cory doctordick so much",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461807709664841738",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461807723137208531",
+    "timestamp": "2026-01-16 19:42:00",
+    "content": "Unless they increase free and go limits substancially",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461807723137208531",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461807825297604856",
+    "timestamp": "2026-01-16 19:42:24",
+    "content": "So many people on free spotify and free youtube",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461807825297604856",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461807861792374814",
+    "timestamp": "2026-01-16 19:42:33",
+    "content": "It's a worse product but also like, what do you expect, legitimately",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461807861792374814",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461807881656471746",
+    "timestamp": "2026-01-16 19:42:38",
+    "content": "like i don't know how else they would make money",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461807881656471746",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461807905513668749",
+    "timestamp": "2026-01-16 19:42:43",
+    "content": "if people don't want ads there's like.....",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461807905513668749",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461807934605496360",
+    "timestamp": "2026-01-16 19:42:50",
+    "content": "qwen... claude, google, kimi....",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461807934605496360",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461807970806399171",
+    "timestamp": "2026-01-16 19:42:59",
+    "content": "they just dont know",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461807970806399171",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461807998249865349",
+    "timestamp": "2026-01-16 19:43:05",
+    "content": "This is some kind of bug on the devices.",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461807998249865349",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461808024246157312",
+    "timestamp": "2026-01-16 19:43:12",
+    "content": "with youtube and spotify there are workarounds that work well.\n\nGetting ads when using AI is like far more infringing",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461808024246157312",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461808220380201166",
+    "timestamp": "2026-01-16 19:43:58",
+    "content": "Advertisers will be tripping over each other to bid ads though at the beginning",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461808220380201166",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461808425754431670",
+    "timestamp": "2026-01-16 19:44:47",
+    "content": "it'll be interesting to see how to block the ads though",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461808425754431670",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461808613763846257",
+    "timestamp": "2026-01-16 19:45:32",
+    "content": "depends how the ads are implemented... could be easy or hard to block with adblocker",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461808613763846257",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461808625549836409",
+    "timestamp": "2026-01-16 19:45:35",
+    "content": "OpenAI is stepping on google's \"territory\" with chatGPT\nGoogle specializes in generalized products for the masses \nyoutube, gmail, etc",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461808625549836409",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461808703769415731",
+    "timestamp": "2026-01-16 19:45:54",
+    "content": "They have the economy of scale for that",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461808703769415731",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461808713869562010",
+    "timestamp": "2026-01-16 19:45:56",
+    "content": "well not just google but johny ive as well is trying to do the same thing\nthey may well succeed\nidk",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461808713869562010",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461808720076869785",
+    "timestamp": "2026-01-16 19:45:57",
+    "content": "I would say that ChatGPT is more like Microsoft",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461808720076869785",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461808812104351870",
+    "timestamp": "2026-01-16 19:46:19",
+    "content": "I think Claude is more like Apple",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461808812104351870",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461808916953436315",
+    "timestamp": "2026-01-16 19:46:44",
+    "content": "Claude is focused in the same way apple is",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461808916953436315",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461809205047595088",
+    "timestamp": "2026-01-16 19:47:53",
+    "content": "Quick question, why cant I use Claude Pro even I have 20% weekly usage limit free and about 55% session usage free. I dont get it",
+    "author": "cheswick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461809205047595088",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461809204787417392/image.png?ex=696be769&is=696a95e9&hm=e86a692583b159548a00b43915a2ab3284a50d0d5478a98dda8d520c97368822&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461809466029641831",
+    "timestamp": "2026-01-16 19:48:55",
+    "content": "I imagine the natural end point for 'free AI chat' ads is vector RAG that chooses applicable advertisers based on personalized user 'memory' combined with question context, to then inject advertiser suggestions into the prompt that shape the kind of answers it gives in ways that are favorable to the advertiser",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461809466029641831",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461809501823832218",
+    "timestamp": "2026-01-16 19:49:04",
+    "content": "or maybe that's too dystopian 🙃",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461809501823832218",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461809764131410125",
+    "timestamp": "2026-01-16 19:50:06",
+    "content": "I could see a lot of entities wanting the power to shape the kinds of words that come out the mouths of the oracles that people listen to",
+    "author": "jarlyk#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461809764131410125",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461810170333102312",
+    "timestamp": "2026-01-16 19:51:43",
+    "content": "yep that's my worry",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461810170333102312",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461811396655317106",
+    "timestamp": "2026-01-16 19:56:36",
+    "content": "OpenAI's track record suggests that they won't follow on their words if opportunity shows\n\nAds suggestions from conversations with AI can be very profitable for both ad providers and openAI\nAnd afaik they have pressure from investors to become profitable asap",
+    "author": "liberatedpotato#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461811396655317106",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461813995601264782",
+    "timestamp": "2026-01-16 20:06:55",
+    "content": "ugh",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461813995601264782",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461814014978822305",
+    "timestamp": "2026-01-16 20:07:00",
+    "content": "no new model",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461814014978822305",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461814037762543750",
+    "timestamp": "2026-01-16 20:07:05",
+    "content": "another day with no new model",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461814037762543750",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461820842177593509",
+    "timestamp": "2026-01-16 20:34:08",
+    "content": "Anyone interested in chatting about securing agent to agent communication?",
+    "author": "eb3c90#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461820842177593509",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461821596791734282",
+    "timestamp": "2026-01-16 20:37:08",
+    "content": "<#1379505487682470048> here you go.",
+    "author": "vicerick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461821596791734282",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461825678591656081",
+    "timestamp": "2026-01-16 20:53:21",
+    "content": "what lol",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461825678591656081",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461826045345796107",
+    "timestamp": "2026-01-16 20:54:48",
+    "content": "not sure how this helps me?",
+    "author": "cheswick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461826045345796107",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461826278200967200",
+    "timestamp": "2026-01-16 20:55:44",
+    "content": "You asked what's wrong. It says it's down. Question answered.",
+    "author": "vicerick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461826278200967200",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461826373990744313",
+    "timestamp": "2026-01-16 20:56:06",
+    "content": "the last message was from yesterday evening",
+    "author": "cheswick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461826373990744313",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461826373621514404/image.png?ex=696bf766&is=696aa5e6&hm=ee5b42f4b8cf7563828f14ed3c6ea8fbd65548eb82ed79271bdde1113678f959&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461826382735609948",
+    "timestamp": "2026-01-16 20:56:09",
+    "content": "omg so rude lmao, look at when the last message was sent in that channel",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461826382735609948",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461826396329607424",
+    "timestamp": "2026-01-16 20:56:12",
+    "content": "nothing is down",
+    "author": "cheswick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461826396329607424",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461826576122515499",
+    "timestamp": "2026-01-16 20:56:55",
+    "content": "Then it's just a you problem lol",
+    "author": "vicerick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461826576122515499",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461826602102034512",
+    "timestamp": "2026-01-16 20:57:01",
+    "content": "... bigbrain",
+    "author": "cheswick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461826602102034512",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461826626412220488",
+    "timestamp": "2026-01-16 20:57:07",
+    "content": "its a rate limit problem",
+    "author": "cheswick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461826626412220488",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461826638353268850",
+    "timestamp": "2026-01-16 20:57:10",
+    "content": "that multiple people have",
+    "author": "cheswick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461826638353268850",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461826658586591455",
+    "timestamp": "2026-01-16 20:57:14",
+    "content": "does it work with a new chat?",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461826658586591455",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461826769119219846",
+    "timestamp": "2026-01-16 20:57:41",
+    "content": "yeah, the limit is only for the one chat im working on",
+    "author": "cheswick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461826769119219846",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461826772973785192",
+    "timestamp": "2026-01-16 20:57:42",
+    "content": "Lol you just want to argue at this point.",
+    "author": "vicerick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461826772973785192",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461826864690761859",
+    "timestamp": "2026-01-16 20:58:03",
+    "content": "who wants to argue with what.. lets fight",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461826864690761859",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461826894776373374",
+    "timestamp": "2026-01-16 20:58:11",
+    "content": "FALLLCOOOOONNNN PUNCH!",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461826894776373374",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461826896508747829",
+    "timestamp": "2026-01-16 20:58:11",
+    "content": "\n**Reason:** Capital letters",
+    "author": "Claude AutoMod#2167",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461826896508747829",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461826938019512534",
+    "timestamp": "2026-01-16 20:58:21",
+    "content": "falllcooooon puuunch",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461826938019512534",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461826944122490900",
+    "timestamp": "2026-01-16 20:58:22",
+    "content": "no, I wanted an answer from someone who has the same problem and know a workaround,  u just wrote in a rude tone, that im stupid to look in a channel even it stated that there is no problem",
+    "author": "cheswick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461826944122490900",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461826954327097415",
+    "timestamp": "2026-01-16 20:58:25",
+    "content": "The sky is blue. Let's go.",
+    "author": "vicerick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461826954327097415",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461826965282619454",
+    "timestamp": "2026-01-16 20:58:27",
+    "content": "I had that too yesterday, it got too long and just stopped working. I added it to a project and started a new chat in that project and try to get the context back again",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461826965282619454",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461827139329593354",
+    "timestamp": "2026-01-16 20:59:09",
+    "content": "ah, thats a good idea, thank you",
+    "author": "cheswick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461827139329593354",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461827160732860558",
+    "timestamp": "2026-01-16 20:59:14",
+    "content": "Lol my tone is plane text. You just projected the tone you wanted to hear",
+    "author": "vicerick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461827160732860558",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461827220220809338",
+    "timestamp": "2026-01-16 20:59:28",
+    "content": "you're a loser dude",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461827220220809338",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461827250344431668",
+    "timestamp": "2026-01-16 20:59:35",
+    "content": "+1",
+    "author": "cheswick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461827250344431668",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461827301732913277",
+    "timestamp": "2026-01-16 20:59:48",
+    "content": "Lol and here comes the names.",
+    "author": "vicerick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461827301732913277",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461827376546709604",
+    "timestamp": "2026-01-16 21:00:06",
+    "content": "Meanwhile I'm over laughing.",
+    "author": "vicerick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461827376546709604",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461827422415622298",
+    "timestamp": "2026-01-16 21:00:16",
+    "content": "laughing at what, that u cant read?",
+    "author": "cheswick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461827422415622298",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461827422675534005",
+    "timestamp": "2026-01-16 21:00:17",
+    "content": "<@1223937267912146945>",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461827422675534005",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461827484810084597",
+    "timestamp": "2026-01-16 21:00:31",
+    "content": "Insults next, cute",
+    "author": "vicerick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461827484810084597",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461827527260508341",
+    "timestamp": "2026-01-16 21:00:41",
+    "content": "mods",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461827527260508341",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461827578292867306",
+    "timestamp": "2026-01-16 21:00:54",
+    "content": "no insults, just facts, its the tone u wanted to hear, not what i mean",
+    "author": "cheswick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461827578292867306",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461827638933848194",
+    "timestamp": "2026-01-16 21:01:08",
+    "content": "You said what you mean.",
+    "author": "vicerick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461827638933848194",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461827655262408856",
+    "timestamp": "2026-01-16 21:01:12",
+    "content": "<@303049936197517324> mods",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461827655262408856",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461827933969580042",
+    "timestamp": "2026-01-16 21:02:18",
+    "content": "80% of weekly usage while its friday, crazy",
+    "author": "luisfbl#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461827933969580042",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461828001514786826",
+    "timestamp": "2026-01-16 21:02:35",
+    "content": "?",
+    "author": "cheswick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461828001514786826",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461828188794781800",
+    "timestamp": "2026-01-16 21:03:19",
+    "content": "For the record, this isn't enough to get us to see what you're seeing.  We have 50k people in here.  Please open a mod report in the future, and supply a message link in the private channel the button creates for you.  <#1114301961831981107> > https://discord.com/channels/1072196207201501266/1114301961831981107/1398442538808901652",
+    "author": "kaliyl#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461828188794781800",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461828273477652726",
+    "timestamp": "2026-01-16 21:03:39",
+    "content": "nevermind",
+    "author": "luisfbl#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461828273477652726",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461828292775776258",
+    "timestamp": "2026-01-16 21:03:44",
+    "content": "😭",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461828292775776258",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461828462619791412",
+    "timestamp": "2026-01-16 21:04:24",
+    "content": "they should use an AI to help out the mods, anybody know of any good ones?",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461828462619791412",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461828481972179176",
+    "timestamp": "2026-01-16 21:04:29",
+    "content": "Why so hostile in an argument you're not a part of?",
+    "author": "vicerick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461828481972179176",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461828533700792652",
+    "timestamp": "2026-01-16 21:04:41",
+    "content": "We're working on it. 😜",
+    "author": "kaliyl#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461828533700792652",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461828601644318781",
+    "timestamp": "2026-01-16 21:04:58",
+    "content": "would you give it perms or just suggested actions",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461828601644318781",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461828780967465043",
+    "timestamp": "2026-01-16 21:05:40",
+    "content": "Nothing at first, just a way to alert us to issues it sees.  Competely non-interactive to start.",
+    "author": "kaliyl#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461828780967465043",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461828910642888896",
+    "timestamp": "2026-01-16 21:06:11",
+    "content": "that would be fun haha",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461828910642888896",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461829161071935545",
+    "timestamp": "2026-01-16 21:07:11",
+    "content": "I've been playing with ollama with my discord bots, but it seems like the local llm space has kind of stalled, at least for consumer GPUs",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461829161071935545",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461829233029550274",
+    "timestamp": "2026-01-16 21:07:28",
+    "content": "People are still recommending the same models from over a year ago",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461829233029550274",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461829640724283402",
+    "timestamp": "2026-01-16 21:09:05",
+    "content": "Well since this space is corp-sponsored, we'll be using Claude.  So be careful when you dis Claude in here, if he ever gets perms he might start banning ppl. 🤣   j/k",
+    "author": "kaliyl#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461829640724283402",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461829642854994123",
+    "timestamp": "2026-01-16 21:09:06",
+    "content": "I'm having a new issue in the Claude desktop. When I opened up a new chat window, it goes \"This chat couldn't be opened!\" Like when I just started up and it's open right there, so this chat can't be opened. Then I end up writing some stuff and it just erases everything.",
+    "author": "francyx#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461829642854994123",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461830017393754334",
+    "timestamp": "2026-01-16 21:10:35",
+    "content": "Haha Claude code writes all my discord bots so they're fully loved and involved. I unfortunately don't have a Claude sponsorship and don't wanna pay API costs for lil side projects",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461830017393754334",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461830169273565376",
+    "timestamp": "2026-01-16 21:11:11",
+    "content": "Opus is crazyy",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461830169273565376",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461830209173983423",
+    "timestamp": "2026-01-16 21:11:21",
+    "content": "I use it for work all the time now lol",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461830209173983423",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461830307102593084",
+    "timestamp": "2026-01-16 21:11:44",
+    "content": "does it work fine in the browser?",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461830307102593084",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461830380624547933",
+    "timestamp": "2026-01-16 21:12:02",
+    "content": "haven't seen anything in browser yet",
+    "author": "francyx#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461830380624547933",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461830628306718801",
+    "timestamp": "2026-01-16 21:13:01",
+    "content": "there is always a problem with claude desktop version lol",
+    "author": "francyx#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461830628306718801",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461830729410281646",
+    "timestamp": "2026-01-16 21:13:25",
+    "content": "I never use that. I just use browser or clause code haha",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461830729410281646",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461837770401120370",
+    "timestamp": "2026-01-16 21:41:24",
+    "content": "3 prompts and 77% usage on opus?? whats going on today",
+    "author": "milkv2#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461837770401120370",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461838715881001033",
+    "timestamp": "2026-01-16 21:45:09",
+    "content": "did you say hi or ask for a full implementation lol",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461838715881001033",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461838843258081478",
+    "timestamp": "2026-01-16 21:45:39",
+    "content": "suggest something for me to eat",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461838843258081478",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461838891454693468",
+    "timestamp": "2026-01-16 21:45:51",
+    "content": "chow mein and orange chicken",
+    "author": "aaron3108#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461838891454693468",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461838939492057178",
+    "timestamp": "2026-01-16 21:46:02",
+    "content": "oomgmmgmwgmmgmmg yeyeeeeees",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461838939492057178",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461839206375493795",
+    "timestamp": "2026-01-16 21:47:06",
+    "content": "i followed the instructions",
+    "author": "milkv2#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461839206375493795",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461839222729347176",
+    "timestamp": "2026-01-16 21:47:10",
+    "content": "its in the project",
+    "author": "milkv2#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461839222729347176",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461839250172412157",
+    "timestamp": "2026-01-16 21:47:16",
+    "content": "just did simple tasks",
+    "author": "milkv2#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461839250172412157",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461840079617003641",
+    "timestamp": "2026-01-16 21:50:34",
+    "content": "trying to cook",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461840079617003641",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461840079407419463/Screenshot_2026-01-16_at_4.49.47_PM.png?ex=696c042a&is=696ab2aa&hm=f365b0f67ebba6d5158afbf4c1197d13bf20d8bcba91344a6acf001004054b88&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461840117810335764",
+    "timestamp": "2026-01-16 21:50:43",
+    "content": "trying to make a clean background",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461840117810335764",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461840133803343872",
+    "timestamp": "2026-01-16 21:50:47",
+    "content": "but failing",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461840133803343872",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461841939229049077",
+    "timestamp": "2026-01-16 21:57:58",
+    "content": "",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461841939229049077",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461841938876596306/Screenshot_2026-01-16_at_4.57.30_PM.png?ex=696c05e5&is=696ab465&hm=b40475d89ed0ed5ed0c7f793399cd0a410674a388617239933f5038891e66ac1&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461841948074840065",
+    "timestamp": "2026-01-16 21:58:00",
+    "content": "this is better",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461841948074840065",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461842065028546693",
+    "timestamp": "2026-01-16 21:58:28",
+    "content": "Actually nevermind",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461842065028546693",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461842482957520966",
+    "timestamp": "2026-01-16 22:00:07",
+    "content": "It looks awful on my mobile display",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461842482957520966",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461842564293329037",
+    "timestamp": "2026-01-16 22:00:27",
+    "content": "just to clarify in the cli for claude code, after planning is the 'yes, clear context and auto accept edits' the best way forward, ie it keeps the plan but clears the context so theoretically the agent performs better in execution while also freeing up the token window?",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461842564293329037",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461842699203383552",
+    "timestamp": "2026-01-16 22:00:59",
+    "content": "yeah i saw that new feature too i think it probably is the best option",
+    "author": "subether#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461842699203383552",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461842815675011273",
+    "timestamp": "2026-01-16 22:01:26",
+    "content": "yeah must have been part of 2.1.9, i was skiming the changelog yesterday but didnt see it",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461842815675011273",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461842824982040616",
+    "timestamp": "2026-01-16 22:01:29",
+    "content": "its not like it really needs the preceding context anymore anyway (in majority of cases)",
+    "author": "subether#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461842824982040616",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461842946377912380",
+    "timestamp": "2026-01-16 22:01:58",
+    "content": "ultaimately i wish all claude code could add an explain flag for any command so claude can explain what the command does instead of havign to go find the docs",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461842946377912380",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461843620301639761",
+    "timestamp": "2026-01-16 22:04:38",
+    "content": "any interestings plugin marketplaces/skills yall are using",
+    "author": "undefinedmystery_81023#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461843620301639761",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461843843078033418",
+    "timestamp": "2026-01-16 22:05:31",
+    "content": "craziness!",
+    "author": "francyx#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461843843078033418",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461843842751008799/image.png?ex=696c07ab&is=696ab62b&hm=7c0e049a5861c9e2fcbe361abada00d3e9974850e521af460f9fc4e0935a2d08&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461844371556143338",
+    "timestamp": "2026-01-16 22:07:37",
+    "content": "is cowork worth it to charge my macbook??? I don't really understand it",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461844371556143338",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461846340463231116",
+    "timestamp": "2026-01-16 22:15:27",
+    "content": "has anyone used anthropic files api with claude agent sdk?",
+    "author": "yousifastar#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461846340463231116",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461846364236546295",
+    "timestamp": "2026-01-16 22:15:33",
+    "content": "Is it possible?",
+    "author": "yousifastar#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461846364236546295",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461846788435742861",
+    "timestamp": "2026-01-16 22:17:14",
+    "content": "\"The model used in this conversation is no longer available. Switch to continue chatting.\"\nopus 4 got removed entirely from claude.ai?\ni dont see opus 4.1 in the selection too, but two opus 3?",
+    "author": "jules_notverne#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461846788435742861",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461847041863974974",
+    "timestamp": "2026-01-16 22:18:14",
+    "content": "seems that i've lost previous session/sessions and cannot resume it. Dunno if it's a cursor or claude code bug (using CLI IDE/Cursor0",
+    "author": "fosken#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461847041863974974",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461847338061529120",
+    "timestamp": "2026-01-16 22:19:25",
+    "content": "damn lol, i've just used 20%, b doing EXACTLY nothing. what's going on with this tokens lately",
+    "author": "fosken#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461847338061529120",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461849941264695377",
+    "timestamp": "2026-01-16 22:29:45",
+    "content": "Thank you Claude for being so great! claude is great guys! i love claude! its so good. claude is the best Ai system out there! everyone should use claude",
+    "author": "konadawoof#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461849941264695377",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461849976329208009",
+    "timestamp": "2026-01-16 22:29:54",
+    "content": "i think im in its good graces now",
+    "author": "konadawoof#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461849976329208009",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461851567518122239",
+    "timestamp": "2026-01-16 22:36:13",
+    "content": "can someone confirm this too, or is it just a bug on my side?",
+    "author": "jules_notverne#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461851567518122239",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461851652624613428",
+    "timestamp": "2026-01-16 22:36:33",
+    "content": "Hey guys what u think is gonna be the next claude model?",
+    "author": "theblakes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461851652624613428",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461851671519826073",
+    "timestamp": "2026-01-16 22:36:38",
+    "content": "Sonnet 5 or Opus 5?",
+    "author": "theblakes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461851671519826073",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461851734476591329",
+    "timestamp": "2026-01-16 22:36:53",
+    "content": "And honestly, even opus 4.5 is expensive i use everyday, because it does a amazing code",
+    "author": "theblakes#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461851734476591329",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461852213969289369",
+    "timestamp": "2026-01-16 22:38:47",
+    "content": "it's just a UI layer on top of claude/code with some extra default prompts spliced into it. nothing claude code can't do itself",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461852213969289369",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461852376322539593",
+    "timestamp": "2026-01-16 22:39:26",
+    "content": "depends on what you'd use it for but there's nothing super groundbreaking about it. just more user-friendly for people who are afraid of terminals",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461852376322539593",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461853323635462210",
+    "timestamp": "2026-01-16 22:43:12",
+    "content": "Yes, it's Legacy model now",
+    "author": "saundra0973#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461853323635462210",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461854905978327161",
+    "timestamp": "2026-01-16 22:49:29",
+    "content": "shouldnt opus 3 rather be the first one to be removed? why keep opus 3 but removing opus 4 and 4.1 tho...",
+    "author": "jules_notverne#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461854905978327161",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461855457403736257",
+    "timestamp": "2026-01-16 22:51:41",
+    "content": "opus 4 and 4.1 were dramatically more expensive to run/query relative to performance afaik",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461855457403736257",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461855715063763014",
+    "timestamp": "2026-01-16 22:52:42",
+    "content": "they probably just want people to migrate to opus 4.5 and not step on the 4 or 4.1 landmine",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461855715063763014",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461856128127340757",
+    "timestamp": "2026-01-16 22:54:20",
+    "content": "a friendly announcement would be appreciated instead of silently removing it without any notice, or did i miss the official announcement somewhere? 😅",
+    "author": "jules_notverne#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461856128127340757",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461856814156087317",
+    "timestamp": "2026-01-16 22:57:04",
+    "content": "i was in the middle of a discussion with opus 4 and then it disappeared into the void, all the extra credits i bought got wasted then? antrhopic, that is not nice and shady business practice...",
+    "author": "jules_notverne#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461856814156087317",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461857592153346102",
+    "timestamp": "2026-01-16 23:00:09",
+    "content": "nope anthropic is just very bad at communicating. same with all of their claude code updates materializing out of nowhere, with or without documentation",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461857592153346102",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461857676026970224",
+    "timestamp": "2026-01-16 23:00:29",
+    "content": "and with or without working lol",
+    "author": "aghs#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461857676026970224",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461862713729880231",
+    "timestamp": "2026-01-16 23:20:31",
+    "content": "so where is the new model",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461862713729880231",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461862772022186014",
+    "timestamp": "2026-01-16 23:20:44",
+    "content": "you guys hiding it from me",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461862772022186014",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461866507511529666",
+    "timestamp": "2026-01-16 23:35:35",
+    "content": "hi\nis google drive connectors not working? or am i missing anything? i enabled the connector, copy the link of the file i need to share, made it available for anyone with the link, shared it but doesnt work. also, i cant upload 13kb md/txt files to the chat. im on pro and limit not there yet...",
+    "author": "zana3268#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461866507511529666",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461868608429887630",
+    "timestamp": "2026-01-16 23:43:56",
+    "content": "I am getting really tired of writing a 500 word prompt only to have it disappear because claude cant find my conversation",
+    "author": "sokoliem_04019#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461868608429887630",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1461869403544228066",
+    "timestamp": "2026-01-16 23:47:06",
+    "content": "What the hell is going on?",
+    "author": "bungau_775#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461869403544228066",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1461869403313275030/image.png?ex=696c1f79&is=696acdf9&hm=e8777c9675b066defa12c77fa02c4bb8a9bcfd3a3c1f664bb3d92427beec741c&"
+    ],
+    "channel_name": "general"
   }
 ]

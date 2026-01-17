@@ -160,5 +160,59 @@
     "category": "discussion",
     "curated_at": "2026-01-16T18:17:51.693553+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Opus 4 Models Discontinued Without Notice",
+    "bullets": [
+      "Users report the sudden removal of Opus 4 and Opus 4.1 from Claude.ai.",
+      "Concerns over wasted credits and lack of communication from Anthropic."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-16 22:36:13",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461851567518122239"
+    },
+    "relevance": 90,
+    "hot_take": "Is Anthropic testing user patience with silent model retirements?",
+    "category": "announcement",
+    "curated_at": "2026-01-17T00:50:58.115586+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude Code's New Features: Mixed Reactions",
+    "bullets": [
+      "New CLI feature allows clearing context to improve execution.",
+      "Users express wishes for better command explanations."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-16 22:00:27",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461842564293329037"
+    },
+    "relevance": 70,
+    "hot_take": "Claude Code updates: Innovation or confusion?",
+    "category": "insight",
+    "curated_at": "2026-01-17T00:50:58.115606+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "OpenAI's Ad Strategy Sparks Debate",
+    "bullets": [
+      "Users discuss OpenAI's move to monetize via ads amidst funding pressures.",
+      "Concerns about the impact on user experience and competition with Google."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-16 19:37:10",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461806507141370017"
+    },
+    "relevance": 80,
+    "hot_take": "Is OpenAI compromising quality for profitability?",
+    "category": "discussion",
+    "curated_at": "2026-01-17T00:50:58.115611+00:00",
+    "original_server": "Anthropic"
   }
 ]
