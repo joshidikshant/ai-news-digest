@@ -16,5 +16,77 @@
     "category": "discussion",
     "curated_at": "2026-01-17T00:51:02.826548+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude Exporter Chrome Extension Eases Claude Code Transfers",
+    "bullets": [
+      "A Chrome extension named 'Claude Exporter' allows users to save Claude web chat in various formats.",
+      "Facilitates moving conversations to Claude Code effectively, although security concerns persist with browser extensions."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-17 01:02:26",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461888362724986941"
+    },
+    "relevance": 65,
+    "hot_take": "Explore the growing ecosystem of third-party tools enhancing Claude's functionality.",
+    "category": "insight",
+    "curated_at": "2026-01-17T12:18:28.074157+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Users Propose Improvements for Claude's Project Management Features",
+    "bullets": [
+      "Suggestions include a 'Select All' checkbox for project files and a file replacement feature.",
+      "Current workflow is cumbersome, requiring manual file selection and re-uploading."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-17 09:52:50",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462021843388072150"
+    },
+    "relevance": 70,
+    "hot_take": "Highlight user-driven innovation in streamlining Claude's project management experience.",
+    "category": "discussion",
+    "curated_at": "2026-01-17T12:18:28.074184+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Plan Mode in Claude Code: The Secret to Effective Prompting",
+    "bullets": [
+      "Users find 'Plan Mode' significantly enhances Claude's execution of tasks.",
+      "Separating planning from execution appears to improve task accuracy."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-17 01:30:31",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461895431566004367"
+    },
+    "relevance": 80,
+    "hot_take": "Dive into advanced techniques for maximizing Claude Code's potential through strategic mode usage.",
+    "category": "tutorial",
+    "curated_at": "2026-01-17T12:18:28.074188+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Persistent Mobile Bug Frustrates Claude Users",
+    "bullets": [
+      "A repeating issue prevents the document window from opening on mobile devices.",
+      "Speculation arises that an update might be in preparation."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-17 08:09:41",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1461995886811807860"
+    },
+    "relevance": 60,
+    "hot_take": "Investigate the challenges of maintaining cross-platform consistency in AI tools.",
+    "category": "discussion",
+    "curated_at": "2026-01-17T12:18:28.074192+00:00",
+    "original_server": "Anthropic"
   }
 ]
