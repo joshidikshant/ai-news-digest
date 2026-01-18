@@ -88,5 +88,59 @@
     "category": "discussion",
     "curated_at": "2026-01-17T12:18:28.074192+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude Users Report Annoying Chat Limit Issues",
+    "bullets": [
+      "Users claim messages are returned to the text box after a few prompts.",
+      "The issue affects both web and desktop versions of Claude, frustrating Pro plan users."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-17 16:48:00",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462126324259885238"
+    },
+    "relevance": 75,
+    "hot_take": "Is Claude's chat limit bug hurting productivity? Users think so.",
+    "category": "discussion",
+    "curated_at": "2026-01-18T00:57:32.812344+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Ralph Technique: A Game Changer for Autonomous Development",
+    "bullets": [
+      "Ralph creates a feedback loop preventing session ends until tasks are complete.",
+      "Critics note potential fragility, but its popularity is on the rise."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-17 19:01:00",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462159792683487355"
+    },
+    "relevance": 80,
+    "hot_take": "Ralph Technique: The secret sauce for uninterrupted coding sessions?",
+    "category": "insight",
+    "curated_at": "2026-01-18T00:57:32.812363+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "AlphaFold 3: Only 500M Parameters, but Packs a Punch",
+    "bullets": [
+      "AlphaFold 3's small parameter size surprises users.",
+      "Its database is a hefty 2.6TB, showing where the real weight is."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-17 21:53:58",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462203324131578071"
+    },
+    "relevance": 70,
+    "hot_take": "AlphaFold's small size: Does size really matter in AI?",
+    "category": "insight",
+    "curated_at": "2026-01-18T00:57:32.812367+00:00",
+    "original_server": "Anthropic"
   }
 ]
