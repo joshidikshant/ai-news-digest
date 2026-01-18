@@ -34,5 +34,59 @@
     "category": "discussion",
     "curated_at": "2026-01-18T06:16:28.651026+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "GPT 5.2 and Gemini 3 Pro Surpass Humans in Video Benchmark",
+    "bullets": [
+      "Frontier models outperform humans on complex video benchmarks.",
+      "Significant leap for AI capabilities in video understanding."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-18 07:02:39",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462341404377219102"
+    },
+    "relevance": 95,
+    "hot_take": "Is AI finally ready to take over Hollywood?",
+    "category": "announcement",
+    "curated_at": "2026-01-18T12:19:20.430943+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "DeepSeek Paper Introduces Conditional Memory for Transformers",
+    "bullets": [
+      "Engram module aims to improve knowledge retrieval in AI models.",
+      "Potentially addresses inefficiencies in current Transformer architectures."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-18 07:31:36",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462348687299837984"
+    },
+    "relevance": 80,
+    "hot_take": "Could this be the missing link for smarter AI?",
+    "category": "announcement",
+    "curated_at": "2026-01-18T12:19:20.430961+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Codex Triumphs Over Claude in Bug Detection",
+    "bullets": [
+      "Codex outperforms Claude Opus 4.5 in a real-world coding scenario.",
+      "Debate over model reliability and hallucination issues continues."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-18 07:39:06",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462350577106161767"
+    },
+    "relevance": 85,
+    "hot_take": "Is Codex the unsung hero of AI coding assistants?",
+    "category": "insight",
+    "curated_at": "2026-01-18T12:19:20.430964+00:00",
+    "original_server": "Anthropic"
   }
 ]
