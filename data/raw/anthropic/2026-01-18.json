@@ -25,5 +25,2255 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462236392389087305",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1462253073589338326",
+    "timestamp": "2026-01-18 01:11:40",
+    "content": "Claude not accepting inputs right now for me either.",
+    "author": "jonathane_kro#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462253073589338326",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462256285985538266",
+    "timestamp": "2026-01-18 01:24:25",
+    "content": "which frontend design mock-up do you guys like the most",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462256285985538266",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1462256285872554045/Screenshot_2026-01-17_at_8.23.32_PM.png?ex=696d87c9&is=696c3649&hm=726e58dd8808763f2b22139eb02a94b6bc513b637d548f579196036cae4cdfd1&",
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1462256286186868991/Screenshot_2026-01-17_at_8.23.03_PM.png?ex=696d87ca&is=696c364a&hm=e4d7ac31efd6307bf16ff5bb1f22996bae96f931a8cc8e086e3ba2b71ace2c90&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462256392214937711",
+    "timestamp": "2026-01-18 01:24:51",
+    "content": "I found the problem. I am at the end of the context window but claude wont compact the conversation even when I ask it to.",
+    "author": "jonathane_kro#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462256392214937711",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462258439303463177",
+    "timestamp": "2026-01-18 01:32:59",
+    "content": "Did calude remove auto compaction from non claude code?",
+    "author": "jonathane_kro#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462258439303463177",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462258909195669525",
+    "timestamp": "2026-01-18 01:34:51",
+    "content": "guys, i am going to use claude and the canvas to make a pixel art game with him!",
+    "author": "ligxhtf1rev2#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462258909195669525",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462259050426142824",
+    "timestamp": "2026-01-18 01:35:25",
+    "content": "im not a coder at all, but i think it'll be a fun challenge, whenever i do make games i try to make super complex games and stuff but im going to like actually treat this game as mine :D",
+    "author": "ligxhtf1rev2#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462259050426142824",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462259078188241202",
+    "timestamp": "2026-01-18 01:35:31",
+    "content": "do yall think i can do it??",
+    "author": "ligxhtf1rev2#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462259078188241202",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462264225081725143",
+    "timestamp": "2026-01-18 01:55:58",
+    "content": "I love how Claude protects its users now from prompt injection from someone to have it mess up a users chat and derail it preventing manipulation from a outside party 😊",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462264225081725143",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462264768864719003",
+    "timestamp": "2026-01-18 01:58:08",
+    "content": "True premium service",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462264768864719003",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462269499481915463",
+    "timestamp": "2026-01-18 02:16:56",
+    "content": "They seem to serve seperate purposes ?",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462269499481915463",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462269875107008642",
+    "timestamp": "2026-01-18 02:18:25",
+    "content": "one was made with codex, the other was made using claude",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462269875107008642",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462270748180877434",
+    "timestamp": "2026-01-18 02:21:54",
+    "content": "I mean the UX serves different purposes, UI theme seems to be aligned throughout both but you have one for open positions while the other is for devs for hire so can't really compare much as they serve different purposes.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462270748180877434",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462271610663997574",
+    "timestamp": "2026-01-18 02:25:19",
+    "content": "Option 2",
+    "author": "justusefirefox#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462271610663997574",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462272349561950209",
+    "timestamp": "2026-01-18 02:28:15",
+    "content": "now this",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462272349561950209",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1462272349343711354/Screenshot_2026-01-17_at_9.27.49_PM.png?ex=696d96bf&is=696c453f&hm=179b6f6e490e8b09417b604b57cd6f8f737fc2b0f7ad3bb92756f4ddb5a90d70&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462272729611763964",
+    "timestamp": "2026-01-18 02:29:46",
+    "content": "do you like this compared to the other 2 or do u still like option 2, im trying to find a good design to work off of",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462272729611763964",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462274255013281792",
+    "timestamp": "2026-01-18 02:35:50",
+    "content": "least obvious bait",
+    "author": "subether#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462274255013281792",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462274560547229757",
+    "timestamp": "2026-01-18 02:37:02",
+    "content": "Hello, if I enable extra usage in claude.ai, would I be charged not only for the prompt and output but also the entire context history?",
+    "author": "zavocc#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462274560547229757",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462274874360856742",
+    "timestamp": "2026-01-18 02:38:17",
+    "content": "I couldn't find any docs if it mentions that i might get billed for context as well, lets say if i want to continue chatting that context roughly takes 100k tokens already, would i be charged for 100k tokens too?",
+    "author": "zavocc#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462274874360856742",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462276743321620614",
+    "timestamp": "2026-01-18 02:45:43",
+    "content": "Claude Web seems to have been doing some updates that have broken compression, now it's not even explaining if context is too long it just doesn't prompt it, while it compressed the chat sometimes while sometimes it doesn't which is weird. The other day it was compressing fine on Web but seems like just something they need to go back and fix.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462276743321620614",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462278006906163394",
+    "timestamp": "2026-01-18 02:50:44",
+    "content": "Context length is hit, it's not warning nor compressing the warning isn't there because Claude has been rolling out compressions on Web but now it's not compressing neither when it should. Compression is bugged.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462278006906163394",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462279703892066364",
+    "timestamp": "2026-01-18 02:57:29",
+    "content": "You are going to want to twinkle with your context length and get compression activated might take a couple retries and once it does you should be able to get more context in. But it's still bugged at the depth of auto compression. Before it would compress multiple times in more depth now it's bugged right now, seems like they took the warnings out as compression seems to have been a main rollout but there is just bugs in the compression right now both when chat is initiated and ongoing prompts seems like they are twinkling with it and it's causing issues on differing from initial prompt vs continous prompts and it's not compressing correctly because even after certain prompts at times when it should be compressing it's not continously.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462279703892066364",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462280113801396235",
+    "timestamp": "2026-01-18 02:59:06",
+    "content": "Seems like they have to properly define Initial Prompt compression vs  Non Initial Prompt compressions as well as mid prompt compression as during mid prompt compressions it's crashing files and gets stuck in a compression loop where it forgets the files it creates during mid prompt compression creating the same files over and over again wasting resources.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462280113801396235",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462282560972394527",
+    "timestamp": "2026-01-18 03:08:50",
+    "content": "Or maybe someone broke it by defining, as if they have it compressing from all applicable prompts it should work seems like someone broke it by trying to limit the initial prompt compression and creating differentiations of it but not properly, but yeah someone broke Compressions on Web during a update while also needing to ensure that during a prompt while thinking that it's actually taking into account files created mid prompt and not throwing those out by keeping the state up to date which they aren't doing right now mid prompt. Should be fixed soon. Pretty simple fix.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462282560972394527",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462284490205434013",
+    "timestamp": "2026-01-18 03:16:30",
+    "content": "Yeah I cant get compression to work at all. the desktop app, and the web ui both tell me /compact is not even a command right now.",
+    "author": "jonathane_kro#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462284490205434013",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462284520245039308",
+    "timestamp": "2026-01-18 03:16:37",
+    "content": "Either way skills to compress your own context are needed during the update lol, some people probably think that people can't work within the fair context limit lol, I have all of my stuff where I can organize and work within even less context limit then what Claude offers, can always adapt to it",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462284520245039308",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462284582106828922",
+    "timestamp": "2026-01-18 03:16:52",
+    "content": "Yeaup got to do it manually for now 😉",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462284582106828922",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462284905823076535",
+    "timestamp": "2026-01-18 03:18:09",
+    "content": "How? claude.ai desktop app and claude.ai web both wont compress even when I manuall ask for it to /compact. It tells me it cant, or there is no usch command, or even worse spits out a summary.",
+    "author": "jonathane_kro#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462284905823076535",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462284948546388202",
+    "timestamp": "2026-01-18 03:18:19",
+    "content": "is claude being slow for you guys too?",
+    "author": "hunterwolfe1313#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462284948546388202",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462285006700548321",
+    "timestamp": "2026-01-18 03:18:33",
+    "content": "Manually by you manually reviewing your own work.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462285006700548321",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462285132307103795",
+    "timestamp": "2026-01-18 03:19:03",
+    "content": "You should be able to know what you are working with to compress it down yourself to provide the context needed the minimal context needed to get what you need.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462285132307103795",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462285195846881530",
+    "timestamp": "2026-01-18 03:19:18",
+    "content": "God gave you a tool to do so 😁",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462285195846881530",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462285518082670693",
+    "timestamp": "2026-01-18 03:20:35",
+    "content": "Ahh you dont mean manually compact.. You mean compress by HAND.. I guess I should go back to pencil and paper too 😄",
+    "author": "jonathane_kro#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462285518082670693",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462285659430453332",
+    "timestamp": "2026-01-18 03:21:09",
+    "content": "I mean some people like Elon might not be able to compress by hand 😉",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462285659430453332",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462285701390274727",
+    "timestamp": "2026-01-18 03:21:19",
+    "content": "If you can compress by hand you are set 😁",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462285701390274727",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462285852502786242",
+    "timestamp": "2026-01-18 03:21:55",
+    "content": "But AI has made me so lazy 😄 I dont wanna do it manually. 😛",
+    "author": "jonathane_kro#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462285852502786242",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462285969355964529",
+    "timestamp": "2026-01-18 03:22:23",
+    "content": "I always use pencil and paper before prompting lol when I can 😁",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462285969355964529",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462286029175394437",
+    "timestamp": "2026-01-18 03:22:37",
+    "content": "Spend 20 minutes compressing by hand, or create a workflow to do it automatically in 30 seconds. \n\nYeah obviously just do it by hand, duh. /s",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462286029175394437",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462286221878366324",
+    "timestamp": "2026-01-18 03:23:23",
+    "content": "Dev out here spittin facts.",
+    "author": "jonathane_kro#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462286221878366324",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462286398143856773",
+    "timestamp": "2026-01-18 03:24:05",
+    "content": "idk if this looks good from a design perspective",
+    "author": "doctorrewards#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462286398143856773",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1462286397955244113/Screenshot_2026-01-17_at_10.23.03_PM.png?ex=696da3d5&is=696c5255&hm=71a30c49c00e40d7ade924b8093ee3b5ac00f52a2cd62ca32f80e4924e177622&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462286434252881941",
+    "timestamp": "2026-01-18 03:24:13",
+    "content": "My opinion is that some people thought that they thought Claude was allowing people to game the system lol without realizing that people actually have a brain.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462286434252881941",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462286738381738182",
+    "timestamp": "2026-01-18 03:25:26",
+    "content": "We know we have brains. We just prefer to automate simple tasks rather than compact or compile by hand. It's less about being able to do it and more about time and ease of use.",
+    "author": "jonathane_kro#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462286738381738182",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462287050060464208",
+    "timestamp": "2026-01-18 03:26:40",
+    "content": "If they aren't allowing Claude to capture that info and forcing people to use pencil and paper they will miss out on a lot of info that even Elon won't get in the end 😅 after all you can really do what Claude can with 4GB of RAM with open models these days.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462287050060464208",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462287518677598403",
+    "timestamp": "2026-01-18 03:28:32",
+    "content": "I have to disagree with that point. Maybe with 128gb of ram and a very well trained model. But I dont see less than that doing what CC does.",
+    "author": "jonathane_kro#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462287518677598403",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462287598788677764",
+    "timestamp": "2026-01-18 03:28:51",
+    "content": "Oh you for sure can with 4GB with a properly designed system.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462287598788677764",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462287712995508284",
+    "timestamp": "2026-01-18 03:29:18",
+    "content": "May be slower but in the end still possible.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462287712995508284",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462287763612111002",
+    "timestamp": "2026-01-18 03:29:30",
+    "content": "Oh now I know you're trolling haha",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462287763612111002",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462287809233686589",
+    "timestamp": "2026-01-18 03:29:41",
+    "content": "Am I? 😁",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462287809233686589",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462287947561697322",
+    "timestamp": "2026-01-18 03:30:14",
+    "content": "If you think Claude can be replaced by a local model running on 4GB of ram you either are trolling or talking out your arse lol",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462287947561697322",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462287985163895014",
+    "timestamp": "2026-01-18 03:30:23",
+    "content": "??",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462287985163895014",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462288129158545409",
+    "timestamp": "2026-01-18 03:30:57",
+    "content": "Did you discover AI for the first time today, is that it?",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462288129158545409",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462288236679397468",
+    "timestamp": "2026-01-18 03:31:23",
+    "content": "Umm are you up to date of LLMs released openly?",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462288236679397468",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462288334973046815",
+    "timestamp": "2026-01-18 03:31:47",
+    "content": "Only thing RAM does is speed things up, I am talking about if you can properly chunk your context and store it/retrieve it you can definitely have a system running with a LLM running on 4GB of RAM",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462288334973046815",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462288453478645974",
+    "timestamp": "2026-01-18 03:32:15",
+    "content": "You aren't aware of LLMs being able to run on 4GB of RAM?",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462288453478645974",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462288527139147846",
+    "timestamp": "2026-01-18 03:32:32",
+    "content": "It doesn't matter, you cannot achieve that quality on those specs, period. Unless a MASSIVE breakthrough was achieved in the last week. If it were, we wouldn't be scrambling to buy up AI hardware like a junkie who hasn't gotten their fix in months.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462288527139147846",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462288536358223933",
+    "timestamp": "2026-01-18 03:32:35",
+    "content": "Oh I am",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462288536358223933",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462288605547335692",
+    "timestamp": "2026-01-18 03:32:51",
+    "content": "They're just not ever going to achieve Claude quality with that",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462288605547335692",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462288629438353483",
+    "timestamp": "2026-01-18 03:32:57",
+    "content": "Unless we find new technology",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462288629438353483",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462288977531768832",
+    "timestamp": "2026-01-18 03:34:20",
+    "content": "Claude is serving just how many people? The need for 1 person solely is not the need of what Claude or Elon is doing where you need so much resources, as long as you have a LLM running and you want to analyze and store relationships between your code the most important factor really is storage not RAM",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462288977531768832",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462289159753302207",
+    "timestamp": "2026-01-18 03:35:03",
+    "content": "Again apart from the RAM needed to run a LLM model you don't need much more to run a system design of that scope apart from the storage use.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462289159753302207",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462289197762220214",
+    "timestamp": "2026-01-18 03:35:12",
+    "content": "For 1 person",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462289197762220214",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462289230666403890",
+    "timestamp": "2026-01-18 03:35:20",
+    "content": "I can't tell if you're serious.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462289230666403890",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462289249003901127",
+    "timestamp": "2026-01-18 03:35:24",
+    "content": "I am.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462289249003901127",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462289326523023491",
+    "timestamp": "2026-01-18 03:35:43",
+    "content": "Please feed your statements to an AI, or google it, because you're so incredibly wrong I can't even take you serious.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462289326523023491",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462289356923469928",
+    "timestamp": "2026-01-18 03:35:50",
+    "content": "It's not just the hardware. It's how each LLM is trained as well. Claude for example has the best prose out of all LLM's out there right now.",
+    "author": "jonathane_kro#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462289356923469928",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462289540109701150",
+    "timestamp": "2026-01-18 03:36:34",
+    "content": "There is a difference between LLMs and the system design around the LLM Claude surpasses others in the system design around the LLM.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462289540109701150",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462289557646082244",
+    "timestamp": "2026-01-18 03:36:38",
+    "content": "Unless you're building models literally on-the-fly with only the relevant weights, this is impossible, and even then, it would still be impossible I am fairly certain. RAM also does much more than \"speed it up\"",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462289557646082244",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462289695416385841",
+    "timestamp": "2026-01-18 03:37:11",
+    "content": "You're basically saying a 1B parameter model can compete with claude through some magic.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462289695416385841",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462289924676911270",
+    "timestamp": "2026-01-18 03:38:06",
+    "content": "It's not magic. You can run much more then a 1B model with 4GB rams with what has been released already. From there it's up to storage really then.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462289924676911270",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462290058743910472",
+    "timestamp": "2026-01-18 03:38:38",
+    "content": "So you can achieve 2 trillion parameters on 4GB of RAM?",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462290058743910472",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462290151572246719",
+    "timestamp": "2026-01-18 03:39:00",
+    "content": "I mean hell even Grok, ChatGPT, Kimi and GLM dont compare to Claude IMHO. I am not smart enough to tell you WHY exactly, I just know for my usage they cant even compete.",
+    "author": "jonathane_kro#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462290151572246719",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462290450231595132",
+    "timestamp": "2026-01-18 03:40:11",
+    "content": "No one is saying that lol,but the truth is that as of now there are multiple models over 1B running on less than 4GB RAM. Once you truly know how to use an LLM from there it is system design and storage handling you can do all Claude can with minimal RAM and a lot of storage which again Storage is cheap.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462290450231595132",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462290587700039711",
+    "timestamp": "2026-01-18 03:40:44",
+    "content": "RAM just speeds things up.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462290587700039711",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462290654817161257",
+    "timestamp": "2026-01-18 03:41:00",
+    "content": "You said that \"after all you can really do what Claude can with 4GB of RAM with open models these days.\"\n\nhttps://discord.com/channels/1072196207201501266/1114305545478877377/1462287050060464208",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462290654817161257",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462290655832309916",
+    "timestamp": "2026-01-18 03:41:00",
+    "content": "@__unruffledst__ at <t:1768706800:R>:\n>>> If they aren't allowing Claude to capture that info and forcing people to use pencil and paper they will miss out on a lot of info that even Elon won't get in the end 😅 after all you can really do what Claude can with 4GB of RAM with open models these days.",
+    "author": "Fletcher#6884",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462290655832309916",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462290748430094378",
+    "timestamp": "2026-01-18 03:41:22",
+    "content": "So you can have 2 trillion parameters (estimated parameters of Opus 3) on 4GB of RAM.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462290748430094378",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462291205944770794",
+    "timestamp": "2026-01-18 03:43:11",
+    "content": "What is the minimum ram to run Claude for example? isnt it like 300+ ?",
+    "author": "jonathane_kro#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462291205944770794",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462291476296761387",
+    "timestamp": "2026-01-18 03:44:16",
+    "content": "They're closed, so only estimates, but similar scaled models, require 64GB at the absolute possible minimum. It is probably several hundred, yes.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462291476296761387",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462291610841649309",
+    "timestamp": "2026-01-18 03:44:48",
+    "content": "I really find it pointless in arguing with you lol cause you truly don't seem to capture the architecture fully. You don't need a 2 Trillion Parameter LLM lol you can do what Claude can with a Model which is a couple of Billions in parameters and offloading most of the other stuff to storage by chunking/retrieving properly where at the point the truth is that it's mostly a Storage issue from there. RAM will speed things up but for 1 person they can live without such huge speeds lol.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462291610841649309",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462291732115755210",
+    "timestamp": "2026-01-18 03:45:17",
+    "content": "Look at the Chinese model where it was doing a task running for like a week at a time and it had users. People aren't in it for the speed.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462291732115755210",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462291888068362351",
+    "timestamp": "2026-01-18 03:45:54",
+    "content": "You have no idea how parameters even work lol",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462291888068362351",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462291980272009296",
+    "timestamp": "2026-01-18 03:46:16",
+    "content": "And offloading to a storage medium that's 100 times slower, at minimum, is laughable.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462291980272009296",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292000400478252",
+    "timestamp": "2026-01-18 03:46:20",
+    "content": "I don't think you have any idea to truly differentiate the scopes of work between a LLM and what isn't handled by a LLM",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292000400478252",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292054859055338",
+    "timestamp": "2026-01-18 03:46:33",
+    "content": "Tell you what. Create a model to compete with or beat claude, do everything it can do OR do it better, and you will get my subs and API spending. 😄",
+    "author": "jonathane_kro#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292054859055338",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292087050604647",
+    "timestamp": "2026-01-18 03:46:41",
+    "content": "I don't think you know anything about LLMs",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292087050604647",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292099398369331",
+    "timestamp": "2026-01-18 03:46:44",
+    "content": "You think that everything has to be stored in the LLM to be able to complete something?",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292099398369331",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292142029406394",
+    "timestamp": "2026-01-18 03:46:54",
+    "content": "You just answered my question.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292142029406394",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292165244883249",
+    "timestamp": "2026-01-18 03:47:00",
+    "content": "If it were possible, it would be done. It isn't possible, so it hasn;t been done.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292165244883249",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292318391369861",
+    "timestamp": "2026-01-18 03:47:36",
+    "content": "You can't even differentiate the specific use case of a LLM vs not.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292318391369861",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292441137680527",
+    "timestamp": "2026-01-18 03:48:06",
+    "content": "It is lol there are so many open source projects competing with Claude Code and Codex with 4GB or minimal RAM already",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292441137680527",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292520338853919",
+    "timestamp": "2026-01-18 03:48:24",
+    "content": "Which ones?",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292520338853919",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292592321630362",
+    "timestamp": "2026-01-18 03:48:42",
+    "content": "But the truth is that Claude still has better speed and more knowledge stored making it more convenient for now",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292592321630362",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292630883930348",
+    "timestamp": "2026-01-18 03:48:51",
+    "content": "> more knowledge stored",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292630883930348",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292638509301800",
+    "timestamp": "2026-01-18 03:48:53",
+    "content": "Your late like by a year and something buddy.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292638509301800",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292696197763262",
+    "timestamp": "2026-01-18 03:49:06",
+    "content": "You know, the whole point?",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292696197763262",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292719211905157",
+    "timestamp": "2026-01-18 03:49:12",
+    "content": "Answer the question",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292719211905157",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292727394730179",
+    "timestamp": "2026-01-18 03:49:14",
+    "content": "Look them up.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292727394730179",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292731857469590",
+    "timestamp": "2026-01-18 03:49:15",
+    "content": "Which models?",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292731857469590",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292762513641635",
+    "timestamp": "2026-01-18 03:49:22",
+    "content": "Nope you make the claims, prove them.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292762513641635",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292789546188820",
+    "timestamp": "2026-01-18 03:49:29",
+    "content": "There are so many it's pointless to answer that question",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292789546188820",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292807657197732",
+    "timestamp": "2026-01-18 03:49:33",
+    "content": "Name a single one",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292807657197732",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292813457915904",
+    "timestamp": "2026-01-18 03:49:34",
+    "content": "ANY one",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292813457915904",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292859620294716",
+    "timestamp": "2026-01-18 03:49:45",
+    "content": "Dealers choice",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292859620294716",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292885041971336",
+    "timestamp": "2026-01-18 03:49:51",
+    "content": "Are you living under a rock?",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292885041971336",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462292954629673103",
+    "timestamp": "2026-01-18 03:50:08",
+    "content": "Can you not? Or is it because you know your whole claim will immediately crumple?",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462292954629673103",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462293049135857920",
+    "timestamp": "2026-01-18 03:50:31",
+    "content": "It won't lol. Maybe you should take your own advice and ask a LLM.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462293049135857920",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462293085106077782",
+    "timestamp": "2026-01-18 03:50:39",
+    "content": "Okay, one sec",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462293085106077782",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462293351712690403",
+    "timestamp": "2026-01-18 03:51:43",
+    "content": "`Short answer: there is no open-source model that actually matches Claude’s overall capabilities while running locally in ~4 GB RAM.`",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462293351712690403",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462293512857976903",
+    "timestamp": "2026-01-18 03:52:21",
+    "content": "Is ChatGPT lying?",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462293512857976903",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462293749844414546",
+    "timestamp": "2026-01-18 03:53:18",
+    "content": "Gemini:\n`To address your question directly: there is no open-source model that truly matches the reasoning and breadth of Claude 3.5/4.0 while running effectively on only 4GB of RAM.`\n\nClaude:\n`So to directly answer the Discord conversation: Yes, there are open-source models that run on 4GB RAM (like SmolLM2, Gemma 3, DeepSeek R1, and quantized versions of Mistral 7B), but no, they don't achieve Claude's full capabilities - particularly not at Claude's speed and with Claude's knowledge depth. The claim that they \"compete with Claude Code\" is overstated for these resource-constrained models.`",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462293749844414546",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462294001486139716",
+    "timestamp": "2026-01-18 03:54:18",
+    "content": "Here ya go",
+    "author": "francyx#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462294001486139716",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462294007618076813",
+    "timestamp": "2026-01-18 03:54:19",
+    "content": "https://downloadmoreram.com/\n# DownloadMoreRAM.com - CloudRAM 2.0\nDownloadMoreRAM.com - CloudRAM 2.0",
+    "author": "francyx#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462294007618076813",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462294009320833129",
+    "timestamp": "2026-01-18 03:54:19",
+    "content": "Not at Claude's speed now ask it what are open sourced alternatives to Claude Code and Codex",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462294009320833129",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462294035556466859",
+    "timestamp": "2026-01-18 03:54:26",
+    "content": "",
+    "author": "francyx#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462294035556466859",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1462294035195625656/image.png?ex=696daaf2&is=696c5972&hm=b0ea3c6fd590d210e422e9cdbff407502bdbfc831c8744627876b3d53f6eb6d5&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462294089235169474",
+    "timestamp": "2026-01-18 03:54:38",
+    "content": "All the ram u need",
+    "author": "francyx#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462294089235169474",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462294213864718610",
+    "timestamp": "2026-01-18 03:55:08",
+    "content": "That practically rephrased everything I said to the point of speed and knowledge depth being what Claude wins at because knowledge depth takes time to accumulate throughout usage lol",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462294213864718610",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462294340012343420",
+    "timestamp": "2026-01-18 03:55:38",
+    "content": "`They do not match Claude Code or Codex in general reasoning, multi-step planning, or knowledge breadth, especially out-of-the-box.`",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462294340012343420",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462294428797632584",
+    "timestamp": "2026-01-18 03:55:59",
+    "content": "I literally copied part of the chat- Take a gander https://chatgpt.com/share/696c5959-5724-8011-a30f-fa0712789d17",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462294428797632584",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462294681994924165",
+    "timestamp": "2026-01-18 03:57:00",
+    "content": "If they don't fit your claims, then perhaps change your claims to align with reality",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462294681994924165",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462295096551538832",
+    "timestamp": "2026-01-18 03:58:39",
+    "content": "Okay <@1242765652297650288> baby steps with you huh? 1. Your replies you got where 1. You can run quantized models on 4GB RAM right? 2. There are already open sourced competitors to  Claude Code ND Codex 3. The only difference is speed and knowledge depth. \n\nAll those open source competitors have to do is keep evolving their system design taking into account storage handling but when you already have a LLM running on 4GB RAM the question isn't how much RAM but how much storage",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462295096551538832",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462295307894128670",
+    "timestamp": "2026-01-18 03:59:29",
+    "content": "<@182997264543776770> dont argue with him, hes a notorious troll",
+    "author": "______nick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462295307894128670",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462295359723143358",
+    "timestamp": "2026-01-18 03:59:41",
+    "content": "Knowledge depth is pretty important. In fact its one of the primary components that makes AI so powerful.\nThat's why a 4GB model cannot compete.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462295359723143358",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462295514794950817",
+    "timestamp": "2026-01-18 04:00:18",
+    "content": "You can obtain knowledge depth via storage from there from a 4GB model. They can compete just not with speed",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462295514794950817",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462295572513030165",
+    "timestamp": "2026-01-18 04:00:32",
+    "content": "So in the end you come back to what I was saying",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462295572513030165",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462295636094353643",
+    "timestamp": "2026-01-18 04:00:47",
+    "content": "Nice of you to join Nick, I'm glad to know your still bitter. 😄",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462295636094353643",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462295672806969378",
+    "timestamp": "2026-01-18 04:00:56",
+    "content": "All that rambling for nothing lol <@1242765652297650288>",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462295672806969378",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462295839140745429",
+    "timestamp": "2026-01-18 04:01:36",
+    "content": "You went back to just practically align with what I said while being dramatic about it lol.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462295839140745429",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462295948700156046",
+    "timestamp": "2026-01-18 04:02:02",
+    "content": "You have provided nothing to backup your statements, and all statements have been invalidated by every major AI. \n\nAlso no?",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462295948700156046",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462296017172168887",
+    "timestamp": "2026-01-18 04:02:18",
+    "content": "You might want to actually breakdown your replies lol",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462296017172168887",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462296063724617800",
+    "timestamp": "2026-01-18 04:02:29",
+    "content": "Please, enlighten me",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462296063724617800",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462296064920129577",
+    "timestamp": "2026-01-18 04:02:30",
+    "content": "And reread",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462296064920129577",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462296267353755751",
+    "timestamp": "2026-01-18 04:03:18",
+    "content": "Seems like at this point you should be paying me to do so.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462296267353755751",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462296310064615606",
+    "timestamp": "2026-01-18 04:03:28",
+    "content": "😂😂",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462296310064615606",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462296389605134582",
+    "timestamp": "2026-01-18 04:03:47",
+    "content": "You can never answer when asked a simple question. You couldn;t even name a single model that backs up your claims.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462296389605134582",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462296493477331039",
+    "timestamp": "2026-01-18 04:04:12",
+    "content": "You went back to not even being able to differentiate the use of an LLM lol.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462296493477331039",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462296536326078484",
+    "timestamp": "2026-01-18 04:04:22",
+    "content": "I can feed a prompt to a small model and claude on OpenRouter right now, and they would be WILDLY different. Because you can't have a small model perform as well as claude can.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462296536326078484",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462296559092895754",
+    "timestamp": "2026-01-18 04:04:27",
+    "content": "You yourself answered all my claims 1x1 while not even realizing it.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462296559092895754",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462296702693277850",
+    "timestamp": "2026-01-18 04:05:02",
+    "content": "Then show me",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462296702693277850",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462296730841124936",
+    "timestamp": "2026-01-18 04:05:08",
+    "content": "SHould be a simple copy message link",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462296730841124936",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462296910952923259",
+    "timestamp": "2026-01-18 04:05:51",
+    "content": "The question is over how many iterations it takes to reach that level. A smaller model can reach the same level of a higher model over iteration lol again it just means it takes more time not that it isn't impossible when you know how to offset RAM needs vs Storage needs",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462296910952923259",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462297079727521963",
+    "timestamp": "2026-01-18 04:06:31",
+    "content": "You keep changing your argument, are you aware?",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462297079727521963",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462297108567687276",
+    "timestamp": "2026-01-18 04:06:38",
+    "content": "I really don't",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462297108567687276",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462297171146834050",
+    "timestamp": "2026-01-18 04:06:53",
+    "content": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462287050060464208",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462297171146834050",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462297172245483785",
+    "timestamp": "2026-01-18 04:06:54",
+    "content": "@__unruffledst__ at <t:1768706800:R>:\n>>> If they aren't allowing Claude to capture that info and forcing people to use pencil and paper they will miss out on a lot of info that even Elon won't get in the end 😅 after all you can really do what Claude can with 4GB of RAM with open models these days.",
+    "author": "Fletcher#6884",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462297172245483785",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462297199873495194",
+    "timestamp": "2026-01-18 04:07:00",
+    "content": "I just asked GLM 4.7, GPT 5 and OPUS 4.5. -- All three said that there is no known model than can run complex reasoning on 4GB - Which is the main reason I use AI at all.",
+    "author": "jonathane_kro#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462297199873495194",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462297430853812306",
+    "timestamp": "2026-01-18 04:07:55",
+    "content": "Well, I guess people are right. Humanity, or some of Humanity, can indeed be replaced by AI",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462297430853812306",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462297465452761150",
+    "timestamp": "2026-01-18 04:08:03",
+    "content": "Probably even an AI that runs on 4GB of RAM 😄",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462297465452761150",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462298874734706760",
+    "timestamp": "2026-01-18 04:13:39",
+    "content": "https://x.com/i/grok/share/fa2e5d139d6f4bff9f2962c6f0b3b5b9",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462298874734706760",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462298919890587710",
+    "timestamp": "2026-01-18 04:13:50",
+    "content": "https://x.com/i/grok/share/dbb4e2a54eb046fa817fe4680d4099a3",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462298919890587710",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462298976576471131",
+    "timestamp": "2026-01-18 04:14:04",
+    "content": "Where do I send you the invoice at <@1242765652297650288> for wasting my time?",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462298976576471131",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462299156310917312",
+    "timestamp": "2026-01-18 04:14:47",
+    "content": "\"Bottom line: For one person who values control/privacy/offline capability and is willing to engineer around storage + smart retrieval, you're right—you can approximate a lot of what Claude does without insane RAM. It's mostly about system design now, not parameter count alone. The open-source ecosystem is catching up fast in 2026. \"",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462299156310917312",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462299307624497305",
+    "timestamp": "2026-01-18 04:15:23",
+    "content": "Like this conversation was truly cringe",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462299307624497305",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462299395285582105",
+    "timestamp": "2026-01-18 04:15:44",
+    "content": "Are you in Junior High? <@1242765652297650288>",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462299395285582105",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462299515460518142",
+    "timestamp": "2026-01-18 04:16:12",
+    "content": "Honest question, what's your education level?",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462299515460518142",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462299552391368704",
+    "timestamp": "2026-01-18 04:16:21",
+    "content": "Not to be rude just wondering.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462299552391368704",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462299852217258025",
+    "timestamp": "2026-01-18 04:17:32",
+    "content": "You should really ask yourself just how many U.S open source models there are contributing to this as well.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462299852217258025",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462299900296298642",
+    "timestamp": "2026-01-18 04:17:44",
+    "content": "`trade-offs in speed, context size, and capability.`\n`Knowledge depth & consistency — Smaller models hallucinate more or lack nuance on edge cases. Claude's training + scale wins here.`\n\n```Can any one of these models match claude Opus, Sonnet or Haiku 4.5 capabilities by ANY means?Answer in a single paragraph\n-----\nSearching the web\n\n53 results\n\nNo open-source models running locally on modest hardware (like 4GB RAM setups) can fully match the capabilities of Claude Opus 4.5, Sonnet 4.5, or even Haiku 4.5 as of early 2026, primarily due to gaps in raw reasoning depth, agentic reliability, long-horizon planning, and polished system integration—Claude's proprietary training and optimizations give it a clear edge in complex coding, multi-step agents, and nuanced tasks (e.g., Opus 4.5 hits 80.9% on SWE-Bench Verified, outperforming rivals). However, by \"ANY means\"—such as using high-end hardware (hundreds of GB VRAM for large MoE models like Qwen3-Coder-480B or GLM-4.7), advanced quantization, or sophisticated agent frameworks (e.g., OpenCode, Cline, or Aider with RAG/retrieval)—top open-source models like GLM-4.7, DeepSeek-V3.2, Qwen-Max, Devstral 2, and Llama 4 variants can approximate or match Claude Sonnet/Haiku performance in many benchmarks and real-world coding/agentic scenarios, often at far lower cost and with full privacy/offline control, though they still trail Opus on the most demanding frontier tasks and require more engineering effort for equivalent polish.\n\n```\n\nAsked in the same chat",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462299900296298642",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462300150470021307",
+    "timestamp": "2026-01-18 04:18:44",
+    "content": "Lol, again I answered that for you myself without you needing to prompt it long ago.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462300150470021307",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462300212553842812",
+    "timestamp": "2026-01-18 04:18:58",
+    "content": "You're just going around in circles over something you obviously don't understand.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462300212553842812",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462300273677438977",
+    "timestamp": "2026-01-18 04:19:13",
+    "content": "`Okay, what about another frontier model? ANy of them?`\n`No, even among other frontier models (both proprietary and the strongest open-weight ones) as of January 2026, none fully match or surpass Claude Opus 4.5 across the board`",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462300273677438977",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462300325317968124",
+    "timestamp": "2026-01-18 04:19:25",
+    "content": "Do you really prompt like that?",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462300325317968124",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462300405047234603",
+    "timestamp": "2026-01-18 04:19:44",
+    "content": "You wouldn't qualify for Claude's open position paying $300k for prompting skills",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462300405047234603",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462300422290014218",
+    "timestamp": "2026-01-18 04:19:48",
+    "content": "You aren't applicable.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462300422290014218",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462300497347350619",
+    "timestamp": "2026-01-18 04:20:06",
+    "content": "`How about if it was really slow and offloaded everything to disk, a hypothetical.`\n`No, even in a purely hypothetical scenario where speed is completely sacrificed`",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462300497347350619",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462300595468763410",
+    "timestamp": "2026-01-18 04:20:30",
+    "content": "With what I gave you you should if you have knowledge on the topic it should have answered your question.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462300595468763410",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462300646706249801",
+    "timestamp": "2026-01-18 04:20:42",
+    "content": "🤡",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462300646706249801",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462300753635840072",
+    "timestamp": "2026-01-18 04:21:07",
+    "content": "Best of luck, hope you find a circus that can handle your flavor of ignorance. 😄",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462300753635840072",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462300754416111617",
+    "timestamp": "2026-01-18 04:21:08",
+    "content": "🪞",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462300754416111617",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462300790155776113",
+    "timestamp": "2026-01-18 04:21:16",
+    "content": "Umm no thank you lol",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462300790155776113",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462300886276636736",
+    "timestamp": "2026-01-18 04:21:39",
+    "content": "You might want to realize where you fall in.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462300886276636736",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462300953502945416",
+    "timestamp": "2026-01-18 04:21:55",
+    "content": "Cause you don't fit in with the community's LLMs peeps I talk to lol",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462300953502945416",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462301072013004942",
+    "timestamp": "2026-01-18 04:22:23",
+    "content": "Honest question, can I invoice you?",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462301072013004942",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462301242586828801",
+    "timestamp": "2026-01-18 04:23:04",
+    "content": "I feel like you owe me money lol.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462301242586828801",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462301459814027294",
+    "timestamp": "2026-01-18 04:23:56",
+    "content": "If you're that broke, I can send you $5. ❤️",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462301459814027294",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462301572426895464",
+    "timestamp": "2026-01-18 04:24:23",
+    "content": "For the entertainment. Idk what 🤡 get paid",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462301572426895464",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462301694397513821",
+    "timestamp": "2026-01-18 04:24:52",
+    "content": "Oh $100-$300 an hour, not worth it",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462301694397513821",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462301726114578503",
+    "timestamp": "2026-01-18 04:24:59",
+    "content": "Also wow clowns get decent pay",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462301726114578503",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462301736998932513",
+    "timestamp": "2026-01-18 04:25:02",
+    "content": "I can set up tutoring sessions",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462301736998932513",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462301913738379386",
+    "timestamp": "2026-01-18 04:25:44",
+    "content": "No thanks, I already pay for my Claude subscription and it's already proved you're a joke.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462301913738379386",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462301927110082682",
+    "timestamp": "2026-01-18 04:25:47",
+    "content": "Might take a while pertaining to your starting level but with enough time we can work with it.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462301927110082682",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462302108849148086",
+    "timestamp": "2026-01-18 04:26:31",
+    "content": "Copy the prompts I put into Grok as is and share the artifact.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462302108849148086",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462302158539067597",
+    "timestamp": "2026-01-18 04:26:42",
+    "content": "As is no modifications, please.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462302158539067597",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462302205292838962",
+    "timestamp": "2026-01-18 04:26:54",
+    "content": "We can also set up some prompting tutoring sessions as well.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462302205292838962",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462302538501193931",
+    "timestamp": "2026-01-18 04:28:13",
+    "content": "I don't think you have truly realized just how big the open source community within the U.S truly is enabling all of this.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462302538501193931",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462302712652628213",
+    "timestamp": "2026-01-18 04:28:54",
+    "content": "God Bless America.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462302712652628213",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462303526352064542",
+    "timestamp": "2026-01-18 04:32:08",
+    "content": "God is righteous, America is great where education and science flourish such a beautiful time. I love my educated Americans.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462303526352064542",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462303736369254424",
+    "timestamp": "2026-01-18 04:32:59",
+    "content": "Are you anti American?",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462303736369254424",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462303791297724538",
+    "timestamp": "2026-01-18 04:33:12",
+    "content": "Why put a clown emoji on that? Are you Chinese?",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462303791297724538",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462303919165407487",
+    "timestamp": "2026-01-18 04:33:42",
+    "content": "Are you against American values instilled upon us at birth?",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462303919165407487",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462306829542494228",
+    "timestamp": "2026-01-18 04:45:16",
+    "content": "Ew America lol",
+    "author": "qd___#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462306829542494228",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462306862216122549",
+    "timestamp": "2026-01-18 04:45:24",
+    "content": "Both of you...",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462306862216122549",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462306908324233217",
+    "timestamp": "2026-01-18 04:45:35",
+    "content": "I mean dev antagonizes a lotta people",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462306908324233217",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462306957263245334",
+    "timestamp": "2026-01-18 04:45:46",
+    "content": "But the whole gba is also weird in response",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462306957263245334",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462306983527977238",
+    "timestamp": "2026-01-18 04:45:53",
+    "content": "I just corrected the insane statement.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462306983527977238",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462307089849385087",
+    "timestamp": "2026-01-18 04:46:18",
+    "content": "Dude there's more people in this server than you have reasonable time to argue with",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462307089849385087",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462307167729221868",
+    "timestamp": "2026-01-18 04:46:37",
+    "content": "Sure, that's why I'm selective. 😄",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462307167729221868",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462307201845694464",
+    "timestamp": "2026-01-18 04:46:45",
+    "content": "But yeah this seemed a lil weird though tbf despite being antagonized",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462307201845694464",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462307209668202667",
+    "timestamp": "2026-01-18 04:46:47",
+    "content": "Loll",
+    "author": "apenguino#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462307209668202667",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462308142066044969",
+    "timestamp": "2026-01-18 04:50:29",
+    "content": "I just forgot that there are foreign people in the server outside of the U.S where Claude is based rooting for a un educated America",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462308142066044969",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462308224429592577",
+    "timestamp": "2026-01-18 04:50:49",
+    "content": "Thought he was American but yeah that 100 he put on Ew America probably confirmed he isn't.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462308224429592577",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462308356722131078",
+    "timestamp": "2026-01-18 04:51:20",
+    "content": "Did you know you can live in a country without sucking that country off for being great?",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462308356722131078",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462308536980607060",
+    "timestamp": "2026-01-18 04:52:03",
+    "content": "Hey I love America man, the community is lovely of the possibilities it allows it's truly wonderful.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462308536980607060",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462308558619148390",
+    "timestamp": "2026-01-18 04:52:08",
+    "content": "What a time to be alive man.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462308558619148390",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462308945656938658",
+    "timestamp": "2026-01-18 04:53:41",
+    "content": "Got to be glad we aren't in a Communist state where those people all eventually will be restricted on what they can do without supervision and creating a ceiling on what they are allowed to learn for even enjoyment purposes",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462308945656938658",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462309006059110440",
+    "timestamp": "2026-01-18 04:53:55",
+    "content": "When you work on something where you can't even enjoy it you burn out really quick.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462309006059110440",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462309151589011600",
+    "timestamp": "2026-01-18 04:54:30",
+    "content": "Perhaps give <#1114301961831981107> a read sometime.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462309151589011600",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462309287014699104",
+    "timestamp": "2026-01-18 04:55:02",
+    "content": "Which did I break there?",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462309287014699104",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462309507441889564",
+    "timestamp": "2026-01-18 04:55:54",
+    "content": "Don't find anything that I broke by saying that? Talking about limiting factors of open AI development that will obviously be capped at some points by others limiting a lot of things for certain people.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462309507441889564",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462309585963712817",
+    "timestamp": "2026-01-18 04:56:13",
+    "content": "And how grateful I am for being born in such a place with such opportunities",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462309585963712817",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462309973345435834",
+    "timestamp": "2026-01-18 04:57:46",
+    "content": "I hate America. They are a rabid dog in our backyard. 20-something % of the American population is straight up an ideological enemy of the rest of Western civilization. I'm in an ally Country, and I'd prefer America just collapse. Nothing to love about America, or really any country for that matter. Has the same coating as simping for corporations.",
+    "author": "qd___#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462309973345435834",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462310128232693979",
+    "timestamp": "2026-01-18 04:58:22",
+    "content": "Hate is a strong word.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462310128232693979",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462310166681747669",
+    "timestamp": "2026-01-18 04:58:32",
+    "content": "Not strong enough",
+    "author": "qd___#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462310166681747669",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462310475646894091",
+    "timestamp": "2026-01-18 04:59:45",
+    "content": "I'm all for optimism and being positive, but America ain't where its at",
+    "author": "qd___#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462310475646894091",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462310502406295614",
+    "timestamp": "2026-01-18 04:59:52",
+    "content": "And I mean no country is perfect for sure, but there are still certain values which are instilled upon people and the freedom instilled that allows for evolution which some people just don't have, thanks to that I mean is the reason why there are still push backs to people who are trying to erode those values away.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462310502406295614",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462310716731297813",
+    "timestamp": "2026-01-18 05:00:43",
+    "content": "So yes I am grateful for that opportunity still being present and instilled in the past because thanks to that it still gives an opportunity still present to push back in anything looking to erode that away which BTW is still standing.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462310716731297813",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462310911531421862",
+    "timestamp": "2026-01-18 05:01:29",
+    "content": "Seems like your to caught up in the present while disregarding the past over something that was to be but didn't happen.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462310911531421862",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462311395763814531",
+    "timestamp": "2026-01-18 05:03:25",
+    "content": "Not sure how I'm disregarding the past",
+    "author": "qd___#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462311395763814531",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462311494929879222",
+    "timestamp": "2026-01-18 05:03:48",
+    "content": "I'm not even sure what you are referring to",
+    "author": "qd___#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462311494929879222",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462311656242810900",
+    "timestamp": "2026-01-18 05:04:27",
+    "content": "like what do you mean by \"something that was to be but didn't happen\"?",
+    "author": "qd___#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462311656242810900",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462311658352542031",
+    "timestamp": "2026-01-18 05:04:27",
+    "content": "None of us have this entire time. 😄",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462311658352542031",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462312026771816458",
+    "timestamp": "2026-01-18 05:05:55",
+    "content": "That again only 20% as you believe is an ideological enemy but still that not a majority is thanks to what has been values instilled from the past and that the fear of what was meant to be or come from current terms which never was fully accomplished still allows for an optimistic future.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462312026771816458",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462312549625237595",
+    "timestamp": "2026-01-18 05:08:00",
+    "content": "So, I don't believe America gave us an optimistic future, I think America, and the American culture is a blight on western civilization.",
+    "author": "qd___#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462312549625237595",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462312802449621054",
+    "timestamp": "2026-01-18 05:09:00",
+    "content": "If we want to not ignore the past, and consider the previous 120 years of America being the bad guy repeatedly, and a bad ally repeatedly.",
+    "author": "qd___#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462312802449621054",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462313222148198500",
+    "timestamp": "2026-01-18 05:10:40",
+    "content": "like my perspective on pretty much all countries I can think of, are just a bunch of self-interested collectives doing their own things, there is no good guy, romanticizing the past is dangerous, which it feels like you are doing. The rose tinted glasses are dangerous.",
+    "author": "qd___#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462313222148198500",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462313482580922368",
+    "timestamp": "2026-01-18 05:11:42",
+    "content": "Not romanticizing anything really just that the stone ages weren't any much better neither and for what we have up to now and day one still really has to be grateful in a sense.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462313482580922368",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462313501803675751",
+    "timestamp": "2026-01-18 05:11:47",
+    "content": "To be fair, I can attest, history class in the USA is far from thorough, and highly modified to favor the USA. We were slowly getting better, but recent dysfunction has set us back even further.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462313501803675751",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462313641050247371",
+    "timestamp": "2026-01-18 05:12:20",
+    "content": "Blew my mind when I realized just how much of what we were told was straight up fictional, or heavily embellished/trimmed.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462313641050247371",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462314082677031057",
+    "timestamp": "2026-01-18 05:14:05",
+    "content": "But there are for sure some hurdles to overcome but the truth is that now as well is when systems are available to truly also secure in a more long term stage such values as well to ensure they stick I mean just how long ago was it where such governments where running on paper and pencil? Things are able to move quicker now it's just more so as well as playing catch-up but the whole Alliance of the West also is part of this check n balance no one system is perfect as of now but there are opportunities to better it present to implement",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462314082677031057",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462314373929238662",
+    "timestamp": "2026-01-18 05:15:15",
+    "content": "It's just a means of survival as a civilization  there hasn't been anything better truly in the past neither but there are still better opportunities still present for the future.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462314373929238662",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462314827174252687",
+    "timestamp": "2026-01-18 05:17:03",
+    "content": "Oh damn, that sounds super messed up lol. They give us a pretty \"friendly\" version of history as young children, then give us the \"everyone killed each other and things were insanely bad and look at these 129 bad things our government did to others and how we are destroying everything\" when we got older in education.",
+    "author": "qd___#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462314827174252687",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462315407812858027",
+    "timestamp": "2026-01-18 05:19:21",
+    "content": "I guess the issue with society moving fast, is that people still move slow. No way for a normal person working 8 hours per day, 5 times a week to realistically do anything meaningful to curb stomp out the bad parts of the system. Most of society is stuck playing on a short term horizon, while the systems run an entirely different kind of objective that just crushes things beneath it. \n\nI honestly think it's just going to keep getting worse before it gets better, since normal people don't action anything until its so severe, and even then they still might not. French circles are harder to come by the more time passes it seems.",
+    "author": "qd___#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462315407812858027",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462315481825542207",
+    "timestamp": "2026-01-18 05:19:39",
+    "content": "To be fair, college classes are much better about telling the full story, but roughly only 30% of Americans can even afford that education 🙁",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462315481825542207",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462316245000130641",
+    "timestamp": "2026-01-18 05:22:41",
+    "content": "Damn that's a rough stat*",
+    "author": "qd___#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462316245000130641",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462316442736132282",
+    "timestamp": "2026-01-18 05:23:28",
+    "content": "30% feels like nothing",
+    "author": "qd___#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462316442736132282",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462316458355724441",
+    "timestamp": "2026-01-18 05:23:32",
+    "content": "$30k a year minimum, its wild. But the more uneducated the populace, the easier to manipulate.",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462316458355724441",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462316939564024073",
+    "timestamp": "2026-01-18 05:25:26",
+    "content": "even worse most are left in huge amount of debt afterwards 😭",
+    "author": "legendsofngdb#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462316939564024073",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462316949450133595",
+    "timestamp": "2026-01-18 05:25:29",
+    "content": "Even doctors often spend 1 to 2 decades paying off their schooling and they can pretty easy make $300k a year lol",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462316949450133595",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462317199866855569",
+    "timestamp": "2026-01-18 05:26:28",
+    "content": "It's somehow cheaper to buy a large house than to become a doctor. 😄",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462317199866855569",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462320256851644469",
+    "timestamp": "2026-01-18 05:38:37",
+    "content": "AI Agent Control",
+    "author": "leryk81_62423#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462320256851644469",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462320767885901949",
+    "timestamp": "2026-01-18 05:40:39",
+    "content": "At least we are allowed to complain right still while acknowledging it, so it means there is still time to make corrections is all I know. I'll keep trying right most people will as well as people have children. Do you think countries because when you take into account both sides most of these people are just ensuring the future of their off springs as well within what's allowed it still seems like we are still given an opportunity to present something that truly works, I mean most countries even if not thinking about The People as a whole still think of something that works to leave their offsprings in which they are safe so it's just a new system to try be presented in the window of opportunity we have present to present one that can't be abused. I think Elon had the opportunity but failed because he wanted a decentralized system with a backdoor in via Starlink control so it was never adopted so he really failed humanity in a sense to help improve the system when he could have because he was making it more vulnerable to the control of 1 person.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462320767885901949",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462320971959636134",
+    "timestamp": "2026-01-18 05:41:28",
+    "content": "Bro waffling",
+    "author": "______nick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462320971959636134",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462321384607973540",
+    "timestamp": "2026-01-18 05:43:06",
+    "content": "Friendly reminder that politics and personal attacks are not allowed here. Carry on.",
+    "author": "arkahn#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462321384607973540",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462321666183921716",
+    "timestamp": "2026-01-18 05:44:13",
+    "content": "? Have you never truly studied it? Just how big the fumble was, I mean I don't want to continue a topic but yeah the opportunity was there but I feel like majority of people following Elon really haven't even studied him as a person to see just how much he has failed them just for his own means.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462321666183921716",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462321693061026058",
+    "timestamp": "2026-01-18 05:44:20",
+    "content": "If people really knew the truth IG.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462321693061026058",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462321708425023685",
+    "timestamp": "2026-01-18 05:44:23",
+    "content": "Idk I didn’t read anything",
+    "author": "______nick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462321708425023685",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462321722199113811",
+    "timestamp": "2026-01-18 05:44:27",
+    "content": "I just joined the chat",
+    "author": "______nick#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462321722199113811",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462322391156789420",
+    "timestamp": "2026-01-18 05:47:06",
+    "content": "Decentralized Voting being presented to be managed via Starlink terminals means it goes to giving control from what we have to an even more unsecured network to a control of 1 person that who control the terminal network. If Starlink wasn't controlled by an entity it would have allowed for a real opportunity to change the system to a better one but we couldn't as Elon wanted to game the system.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462322391156789420",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462322855130959968",
+    "timestamp": "2026-01-18 05:48:57",
+    "content": "I just released a free and OpenSource VS Code / Cursor extension. Pleaes check the post if interested. I am looking for the first users to collect feedback.\nTDAD (Test Driven AI Development) is a visual workflow engine that enforces a Plan → Spec → Test → Fix cycle. Runtime feedback guides your AI to deliver working software.\nhttps://discord.com/channels/1072196207201501266/1462321877446824036",
+    "author": "zekeriya00#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462322855130959968",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462324105133953086",
+    "timestamp": "2026-01-18 05:53:55",
+    "content": "Hi folks! 🌟\nI’ve started a thread in #ai-discussions (or wherever you post it) called “AI Agent Control” to chat about challenges like prompt injection, auditing logs, and determinism in AI agents . If you’re working with agents, come share your thoughts or experiences—what strategies do you use to keep things under control?",
+    "author": "leryk81_62423#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462324105133953086",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462324379357548760",
+    "timestamp": "2026-01-18 05:55:00",
+    "content": "This is the link you're looking for https://discord.com/channels/1072196207201501266/1462320256851644469",
+    "author": "exiled.dev#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462324379357548760",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]

@@ -1,0 +1,38 @@
+[
+  {
+    "headline": "Anthropic's Claude Faces Compression Issues",
+    "bullets": [
+      "Users report that Claude is not compressing conversations as expected, affecting context handling.",
+      "Manual compression suggested as a temporary workaround due to bugs in auto-compaction."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-18 01:24:51",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462256392214937711"
+    },
+    "relevance": 75,
+    "hot_take": "Explore the impact of AI model bugs on user experience and the importance of reliable context management.",
+    "category": "insight",
+    "curated_at": "2026-01-18T06:16:28.651008+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "The Great Debate: Can Small LLMs Compete with Claude?",
+    "bullets": [
+      "Heated discussion on whether 4GB RAM models can rival Claude's capabilities.",
+      "Consensus leans towards Claude having superior speed and knowledge depth, despite claims of open-source competition."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-18 03:04:12",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462296493477331039"
+    },
+    "relevance": 60,
+    "hot_take": "Investigate the realistic capabilities of small LLMs versus market leaders and their potential applications.",
+    "category": "discussion",
+    "curated_at": "2026-01-18T06:16:28.651026+00:00",
+    "original_server": "Anthropic"
+  }
+]
