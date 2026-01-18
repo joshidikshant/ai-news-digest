@@ -88,5 +88,59 @@
     "category": "insight",
     "curated_at": "2026-01-18T12:19:20.430964+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Storage and Session Limits Plague Claude AI Users",
+    "bullets": [
+      "Users report issues with Claude AI handling files over 200KB, impacting context storage.",
+      "Problems persist with session limits, causing disruptions and inefficiencies."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-18 12:30:11",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462423828746731675"
+    },
+    "relevance": 90,
+    "hot_take": "Explore why Claude AI struggles with basic storage and session management in 2026.",
+    "category": "insight",
+    "curated_at": "2026-01-18T18:14:40.545304+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Opus 4 Quietly Removed from Claude AI",
+    "bullets": [
+      "Users notice the removal of Opus 4/4.1 without clear communication from Anthropic.",
+      "Deprecation page lacks details, leaving users in the dark."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-18 15:10:24",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462464151329706108"
+    },
+    "relevance": 80,
+    "hot_take": "Discuss the implications of silent feature removals on user trust.",
+    "category": "announcement",
+    "curated_at": "2026-01-18T18:14:40.545330+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Users Discuss Strategies to Optimize Claude AI Usage",
+    "bullets": [
+      "Tips include using README.md files to reduce token consumption.",
+      "Community shares practices for better code organization and efficiency."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-18 18:01:34",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462507225087082752"
+    },
+    "relevance": 75,
+    "hot_take": "Highlight community-driven solutions for maximizing AI tool efficiency.",
+    "category": "discussion",
+    "curated_at": "2026-01-18T18:14:40.545334+00:00",
+    "original_server": "Anthropic"
   }
 ]

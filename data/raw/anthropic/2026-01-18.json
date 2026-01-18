@@ -2835,5 +2835,1126 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462420667281571931",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1462421055560745045",
+    "timestamp": "2026-01-18 12:19:10",
+    "content": "It seems like people don't care about this bug when creating a document... the creationwindow doesn't display there\"",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462421055560745045",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462422719177031784",
+    "timestamp": "2026-01-18 12:25:46",
+    "content": "Hello wheres the claude ai for game development chat",
+    "author": "night.606#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462422719177031784",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462422787301052526",
+    "timestamp": "2026-01-18 12:26:02",
+    "content": "Not claude code paid one doe",
+    "author": "night.606#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462422787301052526",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462423012832968819",
+    "timestamp": "2026-01-18 12:26:56",
+    "content": "Anyone tried using claude integration with roblox studio",
+    "author": "night.606#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462423012832968819",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462423828746731675",
+    "timestamp": "2026-01-18 12:30:11",
+    "content": "Was talked about yesterday, Claude is most likely already aware of it. It's pretty annoying though for now for sure as well, seems like Claude at this point can't even handle a 200KB+ file storage neither seems weird when Storage is Cheaper then RAM for storage to be an issue.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462423828746731675",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462424422823493712",
+    "timestamp": "2026-01-18 12:32:32",
+    "content": "\"The file seems to have been created but then removed. Due to the extremely large size of this document\"\n\n\"The document was provided in context. Given the extremely large size of this specification (the document in context is over 200KB of text)\"",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462424422823493712",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462424762604060694",
+    "timestamp": "2026-01-18 12:33:53",
+    "content": "guys i have a issue, sometime when a want to send a message idk why but it don't do anything, the message is sent an immediatly re put in my message bar like what should i do? my session limit is just at 40%",
+    "author": "maxbtc0101#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462424762604060694",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462427428625584260",
+    "timestamp": "2026-01-18 12:44:29",
+    "content": "I think the true work around is just providing the prompt in parts for now and having it store it in the virtual environment and have it provide confirmation as well can take a couple prompts depending on prompt length but with it being able to store it in parts it should be able to save it for retrieval at least, man if a U.S company is having issues with 200KB of Storage which cost just a couple of cents then  😬😬",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462427428625584260",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462427751297581108",
+    "timestamp": "2026-01-18 12:45:46",
+    "content": "Like with RAM fine you have an excuse but 200KB of storage being a problem that's wild",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462427751297581108",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462427895988228279",
+    "timestamp": "2026-01-18 12:46:21",
+    "content": "I expect 200kb of tokens is a lot",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462427895988228279",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462430147885010964",
+    "timestamp": "2026-01-18 12:55:17",
+    "content": "Stored context? At this point we aren't even talking about context limits of a model just that 200KB is too much stored context for it a be a problem for common users? It's not like it's even loading it all at once for it to even be a issue either way within the rules defined by the context limit just that 200KB of stored context IE documents is creating issues while again still eating up our usage while wasting resources creating and discarding files.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462430147885010964",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462430406954455244",
+    "timestamp": "2026-01-18 12:56:19",
+    "content": "stuff gone break sometimes, it's annoying but such is tech. they'll sort it out",
+    "author": "spookmode#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462430406954455244",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462430463162454140",
+    "timestamp": "2026-01-18 12:56:33",
+    "content": "Hey let's not talk about web search features of LLMs then the context on the World Wide Web is tremendous huh",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462430463162454140",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462430513657810954",
+    "timestamp": "2026-01-18 12:56:45",
+    "content": "Yeah I know they will.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462430513657810954",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462430611028574420",
+    "timestamp": "2026-01-18 12:57:08",
+    "content": "Just having fun in the chat for now while I go back to the drawing board so I don't waste my usage limit.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462430611028574420",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462432529066885120",
+    "timestamp": "2026-01-18 13:04:45",
+    "content": "wowwwww\nhttps:///%68%79%70%65%72%6C%69%71%75%69%64%69%6E%73%69%67%68%74%73%2E%77%65%62%2E%61%70%70",
+    "author": "henrymoore0076#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462432529066885120",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1462432528630546464/h-recapb.jpg?ex=696e2bed&is=696cda6d&hm=11f5dc437ed360e6fff81ce381bb5a7122c09e6f7c55eed3aef190bcb679fc84&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462433713341071517",
+    "timestamp": "2026-01-18 13:09:27",
+    "content": "https://tenor.com/view/dog-gif-23002387",
+    "author": "jeneijeonteu#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462433713341071517",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462437914872119367",
+    "timestamp": "2026-01-18 13:26:09",
+    "content": "Claude down?",
+    "author": "twojababcia#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462437914872119367",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462439274547777651",
+    "timestamp": "2026-01-18 13:31:33",
+    "content": "are there any tools out there which you use think they will increse productivity but they really dont and just make you feel good from the inside to use those things",
+    "author": "arinakamazu#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462439274547777651",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462439448775102656",
+    "timestamp": "2026-01-18 13:32:15",
+    "content": "Anyone else can't upload anything to claude.ai? Haven't been able to since yesterday.",
+    "author": "unknwnprson#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462439448775102656",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462441005847548125",
+    "timestamp": "2026-01-18 13:38:26",
+    "content": "I expect Grok to go down shortly as it's browsing too much data on the WWW can't have it traversing 60 different websites when compiling a reply to the common user",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462441005847548125",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462441268385812623",
+    "timestamp": "2026-01-18 13:39:29",
+    "content": "Going to have to shut down the WWW guys, it's over.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462441268385812623",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462441582585188454",
+    "timestamp": "2026-01-18 13:40:44",
+    "content": "No internet for Elon's children 🥱",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462441582585188454",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462444143937716277",
+    "timestamp": "2026-01-18 13:50:54",
+    "content": "hehe I went on my twitter account and I was still following all the crypto bro's",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462444143937716277",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462445915918045329",
+    "timestamp": "2026-01-18 13:57:57",
+    "content": "Idk just happened to me now",
+    "author": "twojababcia#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462445915918045329",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462445933261488193",
+    "timestamp": "2026-01-18 13:58:01",
+    "content": "I hope they fix",
+    "author": "twojababcia#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462445933261488193",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462449103937077319",
+    "timestamp": "2026-01-18 14:10:37",
+    "content": "It's working for me now, btw.",
+    "author": "unknwnprson#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462449103937077319",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462449332535034069",
+    "timestamp": "2026-01-18 14:11:31",
+    "content": "Welp",
+    "author": "twojababcia#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462449332535034069",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462449353401831466",
+    "timestamp": "2026-01-18 14:11:36",
+    "content": "For me still not",
+    "author": "twojababcia#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462449353401831466",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462449617752035633",
+    "timestamp": "2026-01-18 14:12:39",
+    "content": "Guess ill wait",
+    "author": "twojababcia#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462449617752035633",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462450345950052422",
+    "timestamp": "2026-01-18 14:15:33",
+    "content": "Not worth risking 60% usage on an infinite loop on Web right now from just 1 prompt when you have local storage. Will wait for official announcements IG stating the issue has been fixed.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462450345950052422",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462452160427065516",
+    "timestamp": "2026-01-18 14:22:46",
+    "content": "I just sent like 30 promts",
+    "author": "twojababcia#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462452160427065516",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462452242647879822",
+    "timestamp": "2026-01-18 14:23:05",
+    "content": "Im so impatient",
+    "author": "twojababcia#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462452242647879822",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462453213742633106",
+    "timestamp": "2026-01-18 14:26:57",
+    "content": "",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462453213742633106",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1462453213696626793/image0.gif?ex=696e3f31&is=696cedb1&hm=da5c76930cb1aff164076e4c86cf4d527d1ccaf2c1cb37df2754230d11863bec&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462454623339286569",
+    "timestamp": "2026-01-18 14:32:33",
+    "content": "Friendly reminder that there are Anthropic Claude courses on https://anthropic.skilljar.com/\n\nThey might seem basic at first, but they cover really good foundations on maximizing the output you get from your LLM of choice.",
+    "author": "martinkruger#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462454623339286569",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462458852980035613",
+    "timestamp": "2026-01-18 14:49:21",
+    "content": "Using Claude Web is more like self constraining to further understand limits of the LLM, Claude Code is just too easy but w.e I haven't wanted to use Claude Code in a while because I just wanted to work on Documentations but I feel like I have already brainstormed enough.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462458852980035613",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462458967648374973",
+    "timestamp": "2026-01-18 14:49:49",
+    "content": "",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462458967648374973",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1462458967434199073/image0.gif?ex=696e448d&is=696cf30d&hm=ef1ae1b69fe1144e4d50fd00fb477d138ec22b09b0289478a45640f70337576b&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462459045666623713",
+    "timestamp": "2026-01-18 14:50:07",
+    "content": "Even coding via Web just gives you better relationship understanding of your own work.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462459045666623713",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462459221848232018",
+    "timestamp": "2026-01-18 14:50:49",
+    "content": "Have you been to YouTube recently? There are deepfakes of famous economists, polytical commentators, etc. that takes you at least 2-3 mins to realize it's fake, and that's only because of the channel name, the logo, etc. otherwise it is almost impossible to tell they are deepfakes. here's an interview about the topic: https://www.youtube.com/watch?v=-4tjjGrUrVw\n\nNevermind the generated deepfake videos. I care about the content of the speech.\n\nIf an AI can mimic you with accuracy, predict your response to subjects, etc. --- what does it say about you?\n\nFor example: does it say that you are a consistent person? or that you are a dogmatic person, with bias ingrained into the depths of your veins?",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462459221848232018",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462459470079725631",
+    "timestamp": "2026-01-18 14:51:48",
+    "content": "If you are so predictable, that an AI can mimic you, what does it say about you?",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462459470079725631",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462461552991928350",
+    "timestamp": "2026-01-18 15:00:05",
+    "content": "opus 4 no longer on claude.ai? that was sneaky.",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462461552991928350",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462463157019742268",
+    "timestamp": "2026-01-18 15:06:27",
+    "content": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=Opus,deprecations%2E\n# Release Notes | Claude Help Center",
+    "author": "thegirlreadingthis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462463157019742268",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462464151329706108",
+    "timestamp": "2026-01-18 15:10:24",
+    "content": "copilot says it was retired Jan 5, linking the deprecation page as a source, which does not contain any info about it at all",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462464151329706108",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462464212466139378",
+    "timestamp": "2026-01-18 15:10:39",
+    "content": "kinda weird",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462464212466139378",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462464559641137213",
+    "timestamp": "2026-01-18 15:12:02",
+    "content": "",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462464559641137213",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1462464558147960902/image0.jpg?ex=696e49c1&is=696cf841&hm=d15ece4950ba01b09dd826eaba260dc7863beda39453e10e5465c7048d670cc0&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462465000135463216",
+    "timestamp": "2026-01-18 15:13:47",
+    "content": "I don't think that's a real problem... Search up chicken sexing (I know strange name)... but that is the ability for humans to spot out male or female chicks purely by instinct with near 100% accuracy.. even though computers can't do it... The same principle applies to spotting the difference between AI and humans...",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462465000135463216",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462465302557229170",
+    "timestamp": "2026-01-18 15:14:59",
+    "content": "https://www.sciencedirect.com/science/article/pii/S003257912500272X, human expert baseline is 80% accuracy and models are at that level now\n> [B]oth feather and cloaca-based methods have an accuracy of around 80%, primarily due to human error, dependency on expert skill, and inter-operator variability.\n> [...]\n> Our custom deep learning model achieved an accuracy of 79 %, which is comparable to traditional vent sexing methods but with the added benefits of reduced human error and the potential for large-scale automation.",
+    "author": "thegirlreadingthis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462465302557229170",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462465461429080126",
+    "timestamp": "2026-01-18 15:15:37",
+    "content": "The question is not about the AI, but you becoming so predictable that AIs can predict your response to every question that you have not been asked before.",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462465461429080126",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462465666119500012",
+    "timestamp": "2026-01-18 15:16:26",
+    "content": "Is that about my question?",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462465666119500012",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462465730178973796",
+    "timestamp": "2026-01-18 15:16:41",
+    "content": "I was responding to Vinch",
+    "author": "thegirlreadingthis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462465730178973796",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462465974371483875",
+    "timestamp": "2026-01-18 15:17:39",
+    "content": "Oh so computers are better? don't have much time to read",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462465974371483875",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462466849953284097",
+    "timestamp": "2026-01-18 15:21:08",
+    "content": "But I still believe that giving enough time and exposure. People would have an >50% accuracy to spot AI or human purely by instinct",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462466849953284097",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462467273733177394",
+    "timestamp": "2026-01-18 15:22:49",
+    "content": "If a person responds to a question, then later admits he was wrong upon deeper reflection, say like Ludwig Wittgenstein, or somehow like Bertrand Russel finding out that his set theory was not sound and consistent, then AI can’t predict your responses to questions accurately, because you are not a dogmatic parroting person. Your thoughts are genuine, you are capable of thinking, etc.\n\nBut when an AI can predict your answers with near perfect accuracy, you yourself have become a bot set on 0 temperature.",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462467273733177394",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462467549601202186",
+    "timestamp": "2026-01-18 15:23:55",
+    "content": "There’s “no chaos left in you to give birth to a shining star”",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462467549601202186",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462467600532377763",
+    "timestamp": "2026-01-18 15:24:07",
+    "content": "But that comes with an assumption that Bots can answer like you with near perfect accuracy and that is just science fiction",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462467600532377763",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462467917282021486",
+    "timestamp": "2026-01-18 15:25:22",
+    "content": "I mean in a domain like math it seems easy to believe that a model will say precisely the thing I would",
+    "author": "thegirlreadingthis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462467917282021486",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462467956112887931",
+    "timestamp": "2026-01-18 15:25:32",
+    "content": "So what's special about math?",
+    "author": "thegirlreadingthis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462467956112887931",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462468213924167691",
+    "timestamp": "2026-01-18 15:26:33",
+    "content": "I said it’s a thought experiment. And did you watch that video I shared with you? It had fooled the deep faked person himself. So it’s not science fiction anymore. And even if it is, I said it’s a thought experiment. Once flying to the moon was science fiction. Then it became reality.",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462468213924167691",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462468284304593080",
+    "timestamp": "2026-01-18 15:26:50",
+    "content": "judging by a response someone published on reddit, the Opus 4/4.1 removal was so uncoordinated, it even surprised anthropic support 🤔",
+    "author": "niston#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462468284304593080",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462468369742696489",
+    "timestamp": "2026-01-18 15:27:10",
+    "content": "No I didn't watch. my apolagiez... I should stop responding then.. because I'm too busy for long reads or watches...",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462468369742696489",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462468426714054707",
+    "timestamp": "2026-01-18 15:27:24",
+    "content": "I only have some time in between Claude code prompt",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462468426714054707",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462468992517013595",
+    "timestamp": "2026-01-18 15:29:39",
+    "content": "Well even in math there are subjects open for debate. For example infinity and the rise of ultrafinitists.",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462468992517013595",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462469349607477410",
+    "timestamp": "2026-01-18 15:31:04",
+    "content": "sure, let's say arithmetic",
+    "author": "thegirlreadingthis#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462469349607477410",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462469553190862949",
+    "timestamp": "2026-01-18 15:31:52",
+    "content": "Damn I still had Claude Code tied back to when it was in Beta lol",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462469553190862949",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462469611382505594",
+    "timestamp": "2026-01-18 15:32:06",
+    "content": "Building up dust.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462469611382505594",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462469673013481523",
+    "timestamp": "2026-01-18 15:32:21",
+    "content": "If you ask Opus to assume he is person X, then ask it should we get rid of infinity in maths, what the AI generates might be the perfect opposite of person X’s response.",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462469673013481523",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462469799417352235",
+    "timestamp": "2026-01-18 15:32:51",
+    "content": "Seems limiting",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462469799417352235",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462470111729418322",
+    "timestamp": "2026-01-18 15:34:06",
+    "content": "Isn’t arithmetic one of the easiest subjects AIs can learn, because it’s very well defined and symbolic and sound and “precise”?",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462470111729418322",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462470195863093462",
+    "timestamp": "2026-01-18 15:34:26",
+    "content": "Wdym",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462470195863093462",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462470739859996919",
+    "timestamp": "2026-01-18 15:36:35",
+    "content": "Seems counter productive/too limiting to even try it when other people are past the point of intelligence of just one person, who wants to mimic someone limited in knowledge like a PhD professor ?",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462470739859996919",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462470824597655666",
+    "timestamp": "2026-01-18 15:36:55",
+    "content": "Seems like a small task to even bother dwelving on it at this point",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462470824597655666",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462471186855493771",
+    "timestamp": "2026-01-18 15:38:22",
+    "content": "Even so, some believe numbers are abstract, some believe they really exist. So if you ask Opus to assume he is Person X, and then ask: do you think numbers are abstract concepts and figments of our imagination, or if they are fundamental, the AI’s response may be a perfect match to the real person’s response or a perfect mismatch.\n\nIf I wasn’t clear, here the subject under scrutiny is Person X, not the AI.",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462471186855493771",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462471198347759809",
+    "timestamp": "2026-01-18 15:38:25",
+    "content": "",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462471198347759809",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1462471198431510671/image0.gif?ex=696e4ff1&is=696cfe71&hm=9596703dc92f775e26db9521374fcbe1473c402db0068106dfb3ef5aa35377c4&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462471689836429374",
+    "timestamp": "2026-01-18 15:40:22",
+    "content": "If you can be mimicked with near perfect accuracy, you are not a thinker, but a parrot.\n\nIf you can not be mimicked, you are a thinker, not a parrot.",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462471689836429374",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462471962214400288",
+    "timestamp": "2026-01-18 15:41:27",
+    "content": "So much more other ways to define that than to waste time trying to mimic someone. Just doesn't seem necessary.",
+    "author": "unruffledst#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462471962214400288",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462472077545050183",
+    "timestamp": "2026-01-18 15:41:54",
+    "content": "How so?",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462472077545050183",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462472625178673162",
+    "timestamp": "2026-01-18 15:44:05",
+    "content": "And maybe there are a million other ways to define “that” (what that?), but you still haven’t shared your opinion on the matter: if an AI can mimic your response to questions with near perfect accuracy, what does it reveal about you?",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462472625178673162",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462472777113010353",
+    "timestamp": "2026-01-18 15:44:41",
+    "content": "Why is Claude acting so weird rn",
+    "author": "princeofwales8442#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462472777113010353",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462472808255983697",
+    "timestamp": "2026-01-18 15:44:48",
+    "content": "not completing the artifacts",
+    "author": "princeofwales8442#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462472808255983697",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462472845031505963",
+    "timestamp": "2026-01-18 15:44:57",
+    "content": "glitching stuff",
+    "author": "princeofwales8442#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462472845031505963",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462473371110346802",
+    "timestamp": "2026-01-18 15:47:03",
+    "content": "It happens from the to time. It has bugs. And the backend is getting constantly “fine tuned”. Which may introduce/reintroduce bugs.",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462473371110346802",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462473464387473531",
+    "timestamp": "2026-01-18 15:47:25",
+    "content": "And the front end too.",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462473464387473531",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462473672479604816",
+    "timestamp": "2026-01-18 15:48:14",
+    "content": "yeah but it never happened previously like ever. \nI am asking it to complete an Artifact and it just isn't like ain't moving forward. Not bring the artifact into action after the code is written.",
+    "author": "princeofwales8442#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462473672479604816",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462473764351639572",
+    "timestamp": "2026-01-18 15:48:36",
+    "content": "That's the base stuff I presume",
+    "author": "princeofwales8442#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462473764351639572",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462474628998889682",
+    "timestamp": "2026-01-18 15:52:03",
+    "content": "When will be the next Claude event in NL?",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462474628998889682",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462474743495262444",
+    "timestamp": "2026-01-18 15:52:30",
+    "content": "preferably in my local hometown library please ;P",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462474743495262444",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462480811059318970",
+    "timestamp": "2026-01-18 16:16:36",
+    "content": "Is there any functionality to get all the Context and details of my Project into a new Chat and work on without having to explain everything over again and risking that the new Agent corrupt the working Project I made with the old (full) chat? I used a big prompt for the second chat but i dont think its the best way",
+    "author": "thisshitisfire#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462480811059318970",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462481038402916487",
+    "timestamp": "2026-01-18 16:17:31",
+    "content": "Out of the box, no if I’m not mistaken. Third party, yes.",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462481038402916487",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462481118610591804",
+    "timestamp": "2026-01-18 16:17:50",
+    "content": "Whats the third party solution for this?",
+    "author": "thisshitisfire#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462481118610591804",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462481464707907787",
+    "timestamp": "2026-01-18 16:19:12",
+    "content": "I stumbled upon it and lost interest immediately because it was £30/month. let me see if I can find it… there should be free open source tools too…",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462481464707907787",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462482477749637275",
+    "timestamp": "2026-01-18 16:23:14",
+    "content": "I found something called repomix. Any experience with it?",
+    "author": "thisshitisfire#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462482477749637275",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462482545126936881",
+    "timestamp": "2026-01-18 16:23:30",
+    "content": "Sorry I can’t find it…",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462482545126936881",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462482592455721234",
+    "timestamp": "2026-01-18 16:23:41",
+    "content": "No worries, thanks though!",
+    "author": "thisshitisfire#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462482592455721234",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462482635040489492",
+    "timestamp": "2026-01-18 16:23:51",
+    "content": "No, maybe ask in the lounge",
+    "author": "behrangsa#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462482635040489492",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462482654841671732",
+    "timestamp": "2026-01-18 16:23:56",
+    "content": "there is a project called Byterover which can help",
+    "author": "shivaylambapiece#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462482654841671732",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462482702023262391",
+    "timestamp": "2026-01-18 16:24:07",
+    "content": "It provides team wide context management for Claude Code",
+    "author": "shivaylambapiece#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462482702023262391",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462482740053151847",
+    "timestamp": "2026-01-18 16:24:16",
+    "content": "or a plugin - claude-mem for individual dev",
+    "author": "shivaylambapiece#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462482740053151847",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462482976725270681",
+    "timestamp": "2026-01-18 16:25:13",
+    "content": "Looks great but might be a bit overkill for my project size. I will probably use repomix for now. Thanks for the rec",
+    "author": "thisshitisfire#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462482976725270681",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462487062581215303",
+    "timestamp": "2026-01-18 16:41:27",
+    "content": "I have the same problem on Android, just roll back to the previous version and that's it.",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462487062581215303",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462487440261644361",
+    "timestamp": "2026-01-18 16:42:57",
+    "content": "A stupid update broke it.",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462487440261644361",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462487703882043648",
+    "timestamp": "2026-01-18 16:44:00",
+    "content": "Is anyone else having issues with claude web locking up when pasting content mid session? doesn't process the paste/prompt and just kicks it back into the text entry box?",
+    "author": "knifeofpi#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462487703882043648",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462489835955556597",
+    "timestamp": "2026-01-18 16:52:28",
+    "content": "yes, there appears to be issues with compaction today. you've likely hit the conversation limit and it's choking up",
+    "author": "spookmode#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462489835955556597",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462490103233515653",
+    "timestamp": "2026-01-18 16:53:32",
+    "content": "Hey, someone making $milion with ai today?? 🤔",
+    "author": "fosken#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462490103233515653",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462490480498708713",
+    "timestamp": "2026-01-18 16:55:02",
+    "content": "thanks, started noticing this yesterday afternoon . hopefully fixed soon",
+    "author": "knifeofpi#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462490480498708713",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462490546131042375",
+    "timestamp": "2026-01-18 16:55:17",
+    "content": "Using Snippets for claude/codex in Cursor - is still a way to go nowadays? 😛",
+    "author": "fosken#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462490546131042375",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462493341873733655",
+    "timestamp": "2026-01-18 17:06:24",
+    "content": "Here's the problem on Android...",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462493341873733655",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1462493341349576860/Clipchamp.mp4?ex=696e6490&is=696d1310&hm=323f8ad5c7029c4a3af0cb8601c5e7f7aff49d6aef1222b196af4b59bb09b77e&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462493382159892592",
+    "timestamp": "2026-01-18 17:06:34",
+    "content": "new version vs old",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462493382159892592",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462493860067283114",
+    "timestamp": "2026-01-18 17:08:28",
+    "content": "I reverted to the old version via Aptoide",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462493860067283114",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462493961611645102",
+    "timestamp": "2026-01-18 17:08:52",
+    "content": "",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462493961611645102",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1462493961330491635/image.png?ex=696e6524&is=696d13a4&hm=445eca479a697c8a9c6601314bd9309249b8cfc7a7ae1ee9156a456f8704527e&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462495285313011722",
+    "timestamp": "2026-01-18 17:14:07",
+    "content": "\"I don't understand, am I really the only one who cares about this bug?",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462495285313011722",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462496444207599626",
+    "timestamp": "2026-01-18 17:18:44",
+    "content": "I sent the developer an email from Google Play video",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462496444207599626",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462498549177520139",
+    "timestamp": "2026-01-18 17:27:06",
+    "content": "Hey, I've been using claude for a bunch of projects, my latest I was using it for game development with godot. Been going surprisingly well but not that my game is getting bigger / more features i am burning through usage as it reads a ton of my code base everytime I try to add something. I have tried to keep the claude.md clean, clear, and useful. I clear my conversations often for each feature. Anything you guys do to help with this problem?",
+    "author": "viater#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462498549177520139",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462499271353045075",
+    "timestamp": "2026-01-18 17:29:58",
+    "content": "is it worth switching from cursor to claude directly? (im specifically thinking about the max plans for reference)",
+    "author": ".yesman123123.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462499271353045075",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462499431063621745",
+    "timestamp": "2026-01-18 17:30:36",
+    "content": "very much worth",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462499431063621745",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462499615608668321",
+    "timestamp": "2026-01-18 17:31:20",
+    "content": "What do you think when it will be fixed?",
+    "author": ".nizel#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462499615608668321",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462502391399317605",
+    "timestamp": "2026-01-18 17:42:22",
+    "content": "just by how much",
+    "author": ".yesman123123.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462502391399317605",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462502522416795761",
+    "timestamp": "2026-01-18 17:42:53",
+    "content": "compared to paying API prices for claude models?",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462502522416795761",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462502968833085510",
+    "timestamp": "2026-01-18 17:44:39",
+    "content": "just usage generally, like with cursor i get like 500 bucks of usage for 200, or well 250 with tax, but hows the usage on claudes max plan compared to that, do yuo get more or less etc, opus is good for instance but its so expensive to run so i cant even use it with cursor cuz it would just burn my usage completely",
+    "author": ".yesman123123.#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462502968833085510",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462503217534603336",
+    "timestamp": "2026-01-18 17:45:39",
+    "content": "In my opinion if you want to use Opus get claude max directly. I can't say exactly how it would compare to Cursor's subscription but you get insane value from MAX compared to the API.",
+    "author": "bambooshoots#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462503217534603336",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462503335189020714",
+    "timestamp": "2026-01-18 17:46:07",
+    "content": "This is a code modularity problem... You need to group code by its purpose... then put them in the same subfolder.. give each purpose-driven subfolder it's own README.md. Now Claude only has to read the README instead of the entire group of code. which saves tokens",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462503335189020714",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462507225087082752",
+    "timestamp": "2026-01-18 18:01:34",
+    "content": "That's a good idea for the README.md's I'll try that. My code is already pretty modular, I had some structure information in the root but I'll try the readme setup so it knows not to go searching for files. \n\nIs that the standard setup for Claude? Is that standard practice?",
+    "author": "viater#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462507225087082752",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462507736578265305",
+    "timestamp": "2026-01-18 18:03:36",
+    "content": "Not really a standard practice since none are really standardized yet. These are all new problems that we are all trying to solve. one might be better than the other... and the wisdom of the crowd will gradually develop standard practices over time",
+    "author": ".fornever#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462507736578265305",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462509581992329369",
+    "timestamp": "2026-01-18 18:10:56",
+    "content": "Hello! Can you please recommend some good build with agents or skills. Front-End (Vue, Nuxt) Backed (PHP, Laravel) \nI can't figure out which is better, agents or skills, and how to configure it all so that the context is preserved and fewer tokens are spent",
+    "author": "hairacle#0",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462509581992329369",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]
