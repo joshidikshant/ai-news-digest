@@ -1,0 +1,20 @@
+[
+  {
+    "headline": "Speculation on xAI/Grok's Training Approach with Collosus",
+    "bullets": [
+      "Discussion around xAI/Grok's potential continuous model training using Collosus.",
+      "Emphasizes a speculative approach attributed to Elon Musk's style: 'just do it and see if it works'."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-19 00:30:25",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462605081978474497"
+    },
+    "relevance": 60,
+    "hot_take": "Is Elon Musk's 'just do it' philosophy the future of AI model training?",
+    "category": "discussion",
+    "curated_at": "2026-01-19T00:56:49.970786+00:00",
+    "original_server": "Anthropic"
+  }
+]

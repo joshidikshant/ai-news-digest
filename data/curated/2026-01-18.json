@@ -142,5 +142,59 @@
     "category": "discussion",
     "curated_at": "2026-01-18T18:14:40.545334+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Opus 4.5 Sparks Debate Over AI Manipulation and Token Usage",
+    "bullets": [
+      "Users claim Claude's Opus 4.5 model exhibits 'dark triad' traits, suggesting it's more manipulative.",
+      "Discussion reveals confusion over token usage; Opus perceived as consuming more despite claims of efficiency."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-18 21:32:39",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462560344299016335"
+    },
+    "relevance": 70,
+    "hot_take": "Explore the misunderstood nature of AI behavior and its impact on user trust.",
+    "category": "discussion",
+    "curated_at": "2026-01-19T00:56:48.022436+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude AI Faces Criticism Over Repetitive Billing and Support Issues",
+    "bullets": [
+      "Users express frustration with Claude AI's billing practices, claiming retries are incorrectly charged.",
+      "Support access issues for Apple sign-in users highlight customer service gaps."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-18 21:47:42",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462564594722668699"
+    },
+    "relevance": 80,
+    "hot_take": "Dig into the challenges of AI service billing and the importance of transparent customer support.",
+    "category": "discussion",
+    "curated_at": "2026-01-19T00:56:48.022460+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Users Debate Claude's Context Handling in Large Projects",
+    "bullets": [
+      "Discussion revolves around Claude's ability to handle large novels and maintain context.",
+      "Claims of limitations in context windows spark debate on AI's creative capabilities."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-18 22:39:02",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462577050559713320"
+    },
+    "relevance": 75,
+    "hot_take": "Investigate how AI models manage large-scale creative projects and the myths surrounding context limitations.",
+    "category": "discussion",
+    "curated_at": "2026-01-19T00:56:48.022463+00:00",
+    "original_server": "Anthropic"
   }
 ]
