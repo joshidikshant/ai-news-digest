@@ -33,25 +33,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python curate.py
-
-      - name: Generate Visuals (V2)
-        env:
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-        run: python generate_visuals.py || echo "Pillow/GenAI missing or failed, continuing..."
-
-      - name: Generate Videos (V2)
-        env:
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python generate_video.py || echo "Video generation failed, continuing..."
-
-      - name: Commit Media Files
-        run: |
-          git config user.name "AI News Digest Bot"
-          git config user.email "bot@example.com"
-          git add data/media/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "📸 Media: $(date +%Y-%m-%d)" && git push)
-
+        
       - name: Sync to Notion
         env:
           NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
@@ -63,7 +45,13 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python generate_content.py
         
-      - name: Commit State & Drafts
+      - name: Generate LinkedIn carousels
+        run: python generate_carousel.py
+        
+      - name: Commit data files
         run: |
+          git config user.name "AI News Digest Bot"
+          git config user.email "bot@example.com"
           git add data/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "📰 Digest & State: $(date +%Y-%m-%d)" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "📰 Digest: $(date +%Y-%m-%d)" && git push)
+
