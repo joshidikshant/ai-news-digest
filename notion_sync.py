@@ -72,6 +72,16 @@ class NotionSync:
         summary_bullets = item.get('bullets', [])
         summary_text = "\n".join([f"• {b}" for b in summary_bullets])
         
+        # Helper for GitHub URLs
+        def get_github_url(path):
+            if not path: return None
+            clean_path = path.replace("\\", "/") # Windows fix
+            if clean_path.startswith("./"): clean_path = clean_path[2:]
+            return f"https://raw.githubusercontent.com/joshidikshant/ai-news-digest/main/{clean_path}"
+
+        media_url = get_github_url(item.get('media_path'))
+        video_url = get_github_url(item.get('video_path'))
+
         # Prepare all possible properties
         all_properties = {
             "Title": {"title": [{"text": {"content": item.get('headline', 'Untitled')}}]},
@@ -84,13 +94,39 @@ class NotionSync:
             "Date": {"date": {"start": item.get('source', {}).get('timestamp', datetime.now().isoformat())}}
         }
         
+        # Add V2 Media Properties
+        if media_url:
+            all_properties["Visual"] = {"files": [{"name": "Cover Image", "type": "external", "external": {"url": media_url}}]}
+        if video_url:
+            all_properties["Video"] = {"files": [{"name": "Video Short", "type": "external", "external": {"url": video_url}}]}
+        if item.get('video_script'):
+             all_properties["Video Script"] = {"rich_text": [{"text": {"content": item.get('video_script')}}]}
+
         # Add link if exists
         link = item.get('source', {}).get('message_link')
         if link:
             all_properties["Original Link"] = {"url": link}
 
         # Page Children (Content)
-        children = [
+        children = []
+        
+        # V2: Video Player at top
+        if video_url:
+            children.append({
+                "object": "block",
+                "type": "video",
+                "video": {"type": "external", "external": {"url": video_url}}
+            })
+            
+        # V2: Cover Image
+        if media_url:
+            children.append({
+                "object": "block",
+                "type": "image",
+                "image": {"type": "external", "external": {"url": media_url}}
+            })
+
+        children.extend([
             {
                 "object": "block",
                 "type": "heading_2",
@@ -109,7 +145,22 @@ class NotionSync:
                     "icon": {"emoji": "🔥"}
                 }
             }
-        ]
+        ])
+        
+        # Add Script as toggle if exists
+        if item.get('video_script'):
+            children.append({
+                "object": "block",
+                "type": "toggle",
+                "toggle": {
+                    "rich_text": [{"text": {"content": "📜 Video Script"}}],
+                    "children": [{
+                        "object": "block", 
+                        "type": "paragraph", 
+                        "paragraph": {"rich_text": [{"text": {"content": item['video_script']}}]}
+                    }]
+                }
+            })
 
         # Try to sync, removing invalid properties on failure
         # We'll make a copy of properties to modify

@@ -108,10 +108,28 @@ Please curate them according to your instructions.
                 
             print(f"  Extracted items count: {len(items)}", flush=True)
                  
-            # Add metadata
+            # Add metadata and link images
+            msg_map = {str(m['id']): m for m in messages}
+            
             for item in items:
                 item['curated_at'] = datetime.now(python_timezone.utc).isoformat()
                 item['original_server'] = server_name
+                
+                # Link back to raw message for images
+                source = item.get('source', {})
+                msg_id = source.get('message_id')
+                
+                # Fallback: extract from link
+                if not msg_id and 'message_link' in source:
+                    try:
+                        msg_id = source['message_link'].split('/')[-1]
+                    except: pass
+                
+                if msg_id and str(msg_id) in msg_map:
+                    raw_msg = msg_map[str(msg_id)]
+                    item['source_images'] = raw_msg.get('local_images', [])
+                else:
+                    item['source_images'] = []
             
             print(f"  Curated {len(items)} items", flush=True)
             return items

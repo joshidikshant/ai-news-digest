@@ -149,10 +149,40 @@ class DiscordFetcher:
                     async for msg in channel.history(limit=None, after=start_date):
                         parsed = MessageParser.parse_message(msg)
                         parsed['channel_name'] = channel_name
+                        
+                        # Handle Image Attachments (V2)
+                        parsed['local_images'] = []
+                        if msg.attachments:
+                            date_str = msg.created_at.strftime("%Y-%m-%d")
+                            media_dir = os.path.join(self.config.DATA_DIR, "media", "raw", date_str)
+                            os.makedirs(media_dir, exist_ok=True)
+                            
+                            for attachment in msg.attachments:
+                                # Filter: Images only, > 50KB (ignore tiny icons/emojis)
+                                if (attachment.content_type and 
+                                    attachment.content_type.startswith('image/') and 
+                                    attachment.size > 50 * 1024):
+                                    
+                                    filename = f"{msg.id}_{attachment.filename}"
+                                    filepath = os.path.join(media_dir, filename)
+                                    
+                                    # Save only if not exists (deduplication at file level)
+                                    if not os.path.exists(filepath):
+                                        try:
+                                            await attachment.save(filepath)
+                                            parsed['local_images'].append(filepath)
+                                            print(f"    [IMAGE] Saved {filename}")
+                                        except Exception as e:
+                                            print(f"    [ERROR] Failed to save image {filename}: {e}")
+                                    else:
+                                         parsed['local_images'].append(filepath)
+
                         all_messages.append(parsed)
                         
                 except Exception as e:
                     print(f"  Error fetching {channel_name}: {e}")
+                    import traceback
+                    traceback.print_exc()
             
             if all_messages:
                 # Group by date for saving
