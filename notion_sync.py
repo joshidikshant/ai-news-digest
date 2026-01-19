@@ -1,7 +1,8 @@
 import os
 import json
+import glob
 import argparse
-from datetime import datetime
+from datetime import datetime, timedelta, timezone as python_timezone
 from notion_client import Client as NotionClient
 from typing import List, Dict
 
@@ -9,6 +10,8 @@ class Config:
     NOTION_API_KEY = os.getenv("NOTION_API_KEY")
     NOTION_DATABASE_ID = os.getenv("NOTION_DATABASE_ID")
     DATA_DIR = "data"
+    # Sliding window: only process curated files from the last N hours
+    SLIDING_WINDOW_HOURS = 48
 
 class NotionSync:
     def __init__(self):
@@ -72,16 +75,6 @@ class NotionSync:
         summary_bullets = item.get('bullets', [])
         summary_text = "\n".join([f"• {b}" for b in summary_bullets])
         
-        # Helper for GitHub URLs
-        def get_github_url(path):
-            if not path: return None
-            clean_path = path.replace("\\", "/") # Windows fix
-            if clean_path.startswith("./"): clean_path = clean_path[2:]
-            return f"https://raw.githubusercontent.com/joshidikshant/ai-news-digest/main/{clean_path}"
-
-        media_url = get_github_url(item.get('media_path'))
-        video_url = get_github_url(item.get('video_path'))
-
         # Prepare all possible properties
         all_properties = {
             "Title": {"title": [{"text": {"content": item.get('headline', 'Untitled')}}]},
@@ -94,39 +87,13 @@ class NotionSync:
             "Date": {"date": {"start": item.get('source', {}).get('timestamp', datetime.now().isoformat())}}
         }
         
-        # Add V2 Media Properties
-        if media_url:
-            all_properties["Visual"] = {"files": [{"name": "Cover Image", "type": "external", "external": {"url": media_url}}]}
-        if video_url:
-            all_properties["Video"] = {"files": [{"name": "Video Short", "type": "external", "external": {"url": video_url}}]}
-        if item.get('video_script'):
-             all_properties["Video Script"] = {"rich_text": [{"text": {"content": item.get('video_script')}}]}
-
         # Add link if exists
         link = item.get('source', {}).get('message_link')
         if link:
             all_properties["Original Link"] = {"url": link}
 
         # Page Children (Content)
-        children = []
-        
-        # V2: Video Player at top
-        if video_url:
-            children.append({
-                "object": "block",
-                "type": "video",
-                "video": {"type": "external", "external": {"url": video_url}}
-            })
-            
-        # V2: Cover Image
-        if media_url:
-            children.append({
-                "object": "block",
-                "type": "image",
-                "image": {"type": "external", "external": {"url": media_url}}
-            })
-
-        children.extend([
+        children = [
             {
                 "object": "block",
                 "type": "heading_2",
@@ -145,22 +112,7 @@ class NotionSync:
                     "icon": {"emoji": "🔥"}
                 }
             }
-        ])
-        
-        # Add Script as toggle if exists
-        if item.get('video_script'):
-            children.append({
-                "object": "block",
-                "type": "toggle",
-                "toggle": {
-                    "rich_text": [{"text": {"content": "📜 Video Script"}}],
-                    "children": [{
-                        "object": "block", 
-                        "type": "paragraph", 
-                        "paragraph": {"rich_text": [{"text": {"content": item['video_script']}}]}
-                    }]
-                }
-            })
+        ]
 
         # Try to sync, removing invalid properties on failure
         # We'll make a copy of properties to modify
@@ -206,11 +158,32 @@ class NotionSync:
         
         return False
 
-if __name__ == "__main__":
-    import glob
+def get_recent_curated_files(hours: int = 48) -> list:
+    """Get curated files from the last N hours only (sliding window)."""
+    curated_files = glob.glob(os.path.join(Config.DATA_DIR, "curated", "*.json"))
     
+    if not curated_files:
+        return []
+    
+    # Calculate cutoff date
+    now = datetime.now(python_timezone.utc)
+    cutoff = now - timedelta(hours=hours)
+    cutoff_date_str = cutoff.strftime("%Y-%m-%d")
+    
+    # Filter to only recent files
+    recent_files = []
+    for f in sorted(curated_files):
+        date_str = os.path.splitext(os.path.basename(f))[0]
+        if date_str >= cutoff_date_str:
+            recent_files.append(f)
+    
+    return recent_files
+
+
+if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--date", help="Date to sync (YYYY-MM-DD)")
+    parser.add_argument("--all", action="store_true", help="Sync ALL curated files (ignore sliding window)")
     args = parser.parse_args()
     
     syncer = NotionSync()
@@ -218,20 +191,27 @@ if __name__ == "__main__":
     if args.date:
         # Specific date
         syncer.sync_day(args.date)
-    else:
-        # Auto-mode: Process all curated files (Smart Catch-up)
+    elif args.all:
+        # Process ALL curated files
         curated_files = glob.glob(os.path.join(Config.DATA_DIR, "curated", "*.json"))
         curated_files.sort()
+        print(f"Processing ALL {len(curated_files)} curated days...")
+        for f in curated_files:
+            date_str = os.path.splitext(os.path.basename(f))[0]
+            print(f"\n=== Syncing {date_str} ===")
+            syncer.sync_day(date_str)
+    else:
+        # Default: sliding window (last 48 hours)
+        recent_files = get_recent_curated_files(Config.SLIDING_WINDOW_HOURS)
         
-        if not curated_files:
-            print("No curated data found.")
+        if not recent_files:
+            print("No curated data found in the last 48 hours.")
         else:
-            print(f"Starting Notion Sync (Smart Catch-up)...")
-            print(f"Found {len(curated_files)} curated days to process.\n")
+            print(f"Starting Notion Sync (Sliding Window: last {Config.SLIDING_WINDOW_HOURS} hours)...")
+            print(f"Found {len(recent_files)} curated days to process.\n")
             
-            for f in curated_files:
+            for f in recent_files:
                 date_str = os.path.splitext(os.path.basename(f))[0]
                 print(f"=== Syncing {date_str} ===")
                 syncer.sync_day(date_str)
                 print()  # blank line for readability
-

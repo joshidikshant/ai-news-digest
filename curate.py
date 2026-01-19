@@ -3,13 +3,15 @@ import json
 import yaml
 import glob
 import argparse
-from datetime import datetime, timezone as python_timezone
+from datetime import datetime, timedelta, timezone as python_timezone
 from openai import OpenAI
 from typing import List, Dict
 
 class Config:
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
     DATA_DIR = "data"
+    # Sliding window: only process raw files from the last N hours
+    SLIDING_WINDOW_HOURS = 48
     
     @staticmethod
     def load_prompts():
@@ -108,28 +110,10 @@ Please curate them according to your instructions.
                 
             print(f"  Extracted items count: {len(items)}", flush=True)
                  
-            # Add metadata and link images
-            msg_map = {str(m['id']): m for m in messages}
-            
+            # Add metadata
             for item in items:
                 item['curated_at'] = datetime.now(python_timezone.utc).isoformat()
                 item['original_server'] = server_name
-                
-                # Link back to raw message for images
-                source = item.get('source', {})
-                msg_id = source.get('message_id')
-                
-                # Fallback: extract from link
-                if not msg_id and 'message_link' in source:
-                    try:
-                        msg_id = source['message_link'].split('/')[-1]
-                    except: pass
-                
-                if msg_id and str(msg_id) in msg_map:
-                    raw_msg = msg_map[str(msg_id)]
-                    item['source_images'] = raw_msg.get('local_images', [])
-                else:
-                    item['source_images'] = []
             
             print(f"  Curated {len(items)} items", flush=True)
             return items
@@ -142,7 +126,7 @@ Please curate them according to your instructions.
             sys.stderr.flush()
             return []
 
-    def run(self, date_str: str = None):
+    def run(self, date_str: str = None, process_all: bool = False):
         print(f"Starting Curation Run...")
         
         target_files = []
@@ -150,8 +134,7 @@ Please curate them according to your instructions.
             # Specific date
             target_files = glob.glob(os.path.join(Config.DATA_DIR, "raw", "**", f"{date_str}.json"), recursive=True)
         else:
-            # Auto-mode: Find ALL raw files
-            # This allows the pipeline to catch up on any missed days
+            # Find ALL raw files first
             target_files = glob.glob(os.path.join(Config.DATA_DIR, "raw", "**", "*.json"), recursive=True)
             
         if not target_files:
@@ -160,6 +143,14 @@ Please curate them according to your instructions.
 
         # Sort files to process chronologically
         target_files.sort()
+        
+        # Apply sliding window filter unless --all is specified
+        if not date_str and not process_all:
+            now = datetime.now(python_timezone.utc)
+            cutoff = now - timedelta(hours=Config.SLIDING_WINDOW_HOURS)
+            cutoff_date_str = cutoff.strftime("%Y-%m-%d")
+            target_files = [f for f in target_files if os.path.splitext(os.path.basename(f))[0] >= cutoff_date_str]
+            print(f"Sliding window: processing files from last {Config.SLIDING_WINDOW_HOURS} hours only (since {cutoff_date_str})")
         
         print(f"Found {len(target_files)} raw data files to process.")
         
@@ -270,7 +261,8 @@ Please curate them according to your instructions.
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--date", help="Date to curate (YYYY-MM-DD)")
+    parser.add_argument("--all", action="store_true", help="Process ALL raw files (ignore sliding window)")
     args = parser.parse_args()
     
     engine = CurationEngine()
-    engine.run(args.date)
+    engine.run(args.date, process_all=args.all)
