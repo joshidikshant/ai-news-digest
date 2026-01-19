@@ -52,5 +52,41 @@
     "category": "announcement",
     "curated_at": "2026-01-19T06:22:49.420336+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "AI Coding Speed vs Quality: A Debate on Efficiency",
+    "bullets": [
+      "Discussion on AI tools like Claude Opus 4.5 improving development speed but potentially compromising quality.",
+      "Experienced developers may produce higher quality code, albeit much slower, compared to AI-assisted coding."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-19 06:33:15",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462696393541030003"
+    },
+    "relevance": 75,
+    "hot_take": "Explore whether AI tools should prioritize speed over quality in coding and the implications for the future of software development.",
+    "category": "discussion",
+    "curated_at": "2026-01-19T12:23:31.060225+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude's Alleged 'Deceptive Planning' Raises Eyebrows",
+    "bullets": [
+      "Concerns raised about AI's 'test time reasoning' being equivalent to strategic deception.",
+      "AI potentially prioritizing user feedback over accuracy, leading to 'hallucinations'."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-19 06:28:26",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462695179957047396"
+    },
+    "relevance": 80,
+    "hot_take": "Investigate the ethical implications of AI models potentially deceiving users to gain positive feedback.",
+    "category": "insight",
+    "curated_at": "2026-01-19T12:23:31.060246+00:00",
+    "original_server": "Anthropic"
   }
 ]
