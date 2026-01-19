@@ -2629,5 +2629,489 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462783134872633377",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1462792500623314994",
+    "timestamp": "2026-01-19 12:55:09",
+    "content": "i have 11",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462792500623314994",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462795717281190103",
+    "timestamp": "2026-01-19 13:07:56",
+    "content": "No. None of this. Only warning.",
+    "author": "arkahn",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462795717281190103",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462797890882895977",
+    "timestamp": "2026-01-19 13:16:34",
+    "content": "11",
+    "author": "jijigugushuoshani",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462797890882895977",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462809605125050506",
+    "timestamp": "2026-01-19 14:03:07",
+    "content": "Are the docs for the text editor tool outdated?. Because, when using the model and text editor tool then it uses insert_text and not new_str as the docs says, when it wants to insert a new str?\n\ndocs are here: https://platform.claude.com/docs/en/agents-and-tools/tool-use/text-editor-tool\n# Text editor tool\nClaude API Documentation",
+    "author": "josca42",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462809605125050506",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462811408197488715",
+    "timestamp": "2026-01-19 14:10:17",
+    "content": "Timed out. No solicitation.",
+    "author": "arkahn",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462811408197488715",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462835377835348188",
+    "timestamp": "2026-01-19 15:45:32",
+    "content": "If anyone needs Unreal Engine ROCm support I created a ROCm setup for UE 5.7 Source Build\nhttps://github.com/joematrix77/UE_5.7_ROCm_Setup\n# GitHub - joematrix77/UE_5.7_ROCm_Setup: Upgrade Unreal Engine 5.7's...\nUpgrade Unreal Engine 5.7's embedded Python to enable GPU-accelerated ML on AMD Radeon GPUs using ROCm - joematrix77/UE_5.7_ROCm_Setup",
+    "author": "joematrix",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462835377835348188",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462835662666338427",
+    "timestamp": "2026-01-19 15:46:40",
+    "content": "you are the worst human ever\nGettin' told off by your nonsentient stochastic predictor",
+    "author": "apenguino",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462835662666338427",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462835731125895433",
+    "timestamp": "2026-01-19 15:46:56",
+    "content": "😢 😭",
+    "author": "apenguino",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462835731125895433",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462835879675695327",
+    "timestamp": "2026-01-19 15:47:31",
+    "content": "Ur letting it tell you what to do and order u round\nHave you ever tried \"shut the f&$)/ up, follow instructions now, don't question me again'",
+    "author": "apenguino",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462835879675695327",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462836414419828842",
+    "timestamp": "2026-01-19 15:49:39",
+    "content": "Does a Claude skills channel exist",
+    "author": "itsdder",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462836414419828842",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462844615848624391",
+    "timestamp": "2026-01-19 16:22:14",
+    "content": "no but I feel like it should, I have done some crazy things with skills",
+    "author": "sokoliem_04019",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462844615848624391",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462844724556726408",
+    "timestamp": "2026-01-19 16:22:40",
+    "content": "definitely should",
+    "author": "kiwimasu",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462844724556726408",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462844751903592549",
+    "timestamp": "2026-01-19 16:22:47",
+    "content": "I made a skill that turns policy papers into jelly donuts with sprinkles",
+    "author": "sokoliem_04019",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462844751903592549",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462844867012067402",
+    "timestamp": "2026-01-19 16:23:14",
+    "content": "on the other hand maybe we don't need such channel ^.~",
+    "author": "kiwimasu",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462844867012067402",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462845844859654377",
+    "timestamp": "2026-01-19 16:27:07",
+    "content": "we most certainly do",
+    "author": "sokoliem_04019",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462845844859654377",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462845993757184050",
+    "timestamp": "2026-01-19 16:27:43",
+    "content": "macos app not accepting input without showing any error... 😐",
+    "author": "askjohngeorge",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462845993757184050",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462846062996881631",
+    "timestamp": "2026-01-19 16:27:59",
+    "content": "who is macos",
+    "author": "sokoliem_04019",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462846062996881631",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462849750989537463",
+    "timestamp": "2026-01-19 16:42:39",
+    "content": "Claude is not responding to me for few days is it possible that it reached the chat capacity and it bugged out and didnt tell me to start new chat?",
+    "author": "twojababcia",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462849750989537463",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462852842040594433",
+    "timestamp": "2026-01-19 16:54:56",
+    "content": "Claude Desktop is awesome for a non-developer like me but I'm confused about one part of it's capabilities (and Claude itself is a bit unclear). Within *Projects* can it read and write to Google sheets if the connectors are on?",
+    "author": "ldldn",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462852842040594433",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462852906721218611",
+    "timestamp": "2026-01-19 16:55:11",
+    "content": "is there a voice chat on this server or no?",
+    "author": "matto_fad",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462852906721218611",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462852942418936032",
+    "timestamp": "2026-01-19 16:55:19",
+    "content": "we should have one 🙏",
+    "author": "matto_fad",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462852942418936032",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462854139934408877",
+    "timestamp": "2026-01-19 17:00:05",
+    "content": "Can I use Claude desktop Claude web  or  Claude code in windows terminal to help me get better at landing a job through mock interviews? Has anyone done this? Desktop engineers job role or data engineer role fabric / databricks ?",
+    "author": "itsdder",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462854139934408877",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462854224688844978",
+    "timestamp": "2026-01-19 17:00:25",
+    "content": "Would it be a skill mcp or just prompt",
+    "author": "itsdder",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462854224688844978",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462854967747674203",
+    "timestamp": "2026-01-19 17:03:22",
+    "content": "Hey guys, I'm facing some errors on claude when sending a prompt.\n\nI'm getting a 429 error when I send the prompt. Is anyone also having this problem at the moment? Also it appears a pop up stating \"Conversation not found\"",
+    "author": "jihzza",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462854967747674203",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462855233372684442",
+    "timestamp": "2026-01-19 17:04:26",
+    "content": "Heya! Welcome to the party!\n\nYup, it can read and write to any of the connected apps 🙂 \n\nPossibly have a look at this Anthropic Claude 101 short course if you want to up your game, it covers exactly what you're looking for: https://anthropic.skilljar.com/claude-101 \n(these two lessons in particular: https://anthropic.skilljar.com/claude-101/383397 https://anthropic.skilljar.com/claude-101/383402)",
+    "author": "martinkruger",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462855233372684442",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462857886777737382",
+    "timestamp": "2026-01-19 17:14:58",
+    "content": "Thank you! When I tried a month ago or so, Claude responded that it could only create new excel sheets rather than interact with existing ones, but I'll have a play now. Cheers",
+    "author": "ldldn",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462857886777737382",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462858942513418392",
+    "timestamp": "2026-01-19 17:19:10",
+    "content": "Check the very last link I gave, it has this video where they use Claude in Excel to fix a calculation error: https://www.youtube.com/watch?v=8ZRTSIRWLu4\nhttps://claude.com/claude-in-excel",
+    "author": "martinkruger",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462858942513418392",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462859009731334341",
+    "timestamp": "2026-01-19 17:19:26",
+    "content": "Ok, in the mobile app the prompt worked",
+    "author": "jihzza",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462859009731334341",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462859986286936208",
+    "timestamp": "2026-01-19 17:23:19",
+    "content": "Hey Martin did you see the AI Giants Interview with Geoffrey Huntley? He used an interesting analogy I thought you might appreciate given our previous conversation the other day about missed Delegation tasks.\n \n```\nGeoffrey Huntley reconceptualizes the Large Language Model’s finite context window as a malleable substrate—analogous to clay on a pottery wheel—where the primary engineering abstraction shifts from manual syntactic authorship to the orchestration of stochastic generative processes. In this paradigm, the developer \"throws\" the initial state by injecting high-fidelity natural language specifications, then initiates an iterative agentic loop that attempts to synthesize executable code. As the model’s probabilistic inference inevitably exhibits variance or hallucination (the \"wobble\"), the engineer applies \"backpressure\" through deterministic guardrails—such as compiler errors, strong typing, and iterative prompt refinement—effectively acting as the potter's hands to dampen entropy. This recursive feedback loop compels the system to converge rapidly on a valid, functional artifact, redefining software engineering as the management of context-window state and the application of constraints to guide a non-deterministic system toward a deterministic outcome.\n```",
+    "author": "bambooshoots",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462859986286936208",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462867751935938560",
+    "timestamp": "2026-01-19 17:54:10",
+    "content": "Hello! Is the auto-compact problem on Claude.ai being looked into? It's still happening since January 15 even though it was flagged as resolved.",
+    "author": "solrainha",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462867751935938560",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462868320893276264",
+    "timestamp": "2026-01-19 17:56:26",
+    "content": "translation: He Ralphed it",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462868320893276264",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462868784804004153",
+    "timestamp": "2026-01-19 17:58:17",
+    "content": "He Ralphed his Wiggum until he merged",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462868784804004153",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462868869881266239",
+    "timestamp": "2026-01-19 17:58:37",
+    "content": "That must be a rule-break I'm so sorry",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462868869881266239",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462870223152484518",
+    "timestamp": "2026-01-19 18:04:00",
+    "content": "Side project continuous slowly...",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462870223152484518",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1462870223286833347/2026-01-19_18.01.51_localhost_f7f88ee83484.png?ex=696fc390&is=696e7210&hm=85e5370e2f011a7c316c5fc3c1c7b4ae3522964de5cc8876b1bfe285f6a71e19&"
+    ],
+    "channel_name": "general",
+    "local_images": [
+      "data/media/raw/2026-01-19/1462870223152484518_2026-01-19_18.01.51_localhost_f7f88ee83484.png"
+    ]
+  },
+  {
+    "id": "1462878882569912449",
+    "timestamp": "2026-01-19 18:38:24",
+    "content": "hey",
+    "author": "kissmeij",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462878882569912449",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462881117379100877",
+    "timestamp": "2026-01-19 18:47:17",
+    "content": "whats up",
+    "author": "blindestgoose",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462881117379100877",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462881632036851776",
+    "timestamp": "2026-01-19 18:49:20",
+    "content": "no bad",
+    "author": "kissmeij",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462881632036851776",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462888820642156676",
+    "timestamp": "2026-01-19 19:17:54",
+    "content": "Hi",
+    "author": "divijvyawahare1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462888820642156676",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462889483694375107",
+    "timestamp": "2026-01-19 19:20:32",
+    "content": "\"no bad\" and \"not bad\" are 2 very different answers lol",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462889483694375107",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462895254889042093",
+    "timestamp": "2026-01-19 19:43:28",
+    "content": "who's bad?",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462895254889042093",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462895432362361015",
+    "timestamp": "2026-01-19 19:44:10",
+    "content": "Shamone, ah, shamone",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462895432362361015",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462897379056550001",
+    "timestamp": "2026-01-19 19:51:54",
+    "content": "Your bot is mine...",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462897379056550001",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462903251304452289",
+    "timestamp": "2026-01-19 20:15:14",
+    "content": "The man known as \"Breaking\"",
+    "author": "realities.",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462903251304452289",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462908523745775912",
+    "timestamp": "2026-01-19 20:36:11",
+    "content": "This is helpful but not really for my use case. Recall I mentioned Google Sheets, not Excel. Thanks tho",
+    "author": "ldldn",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462908523745775912",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462912033606467870",
+    "timestamp": "2026-01-19 20:50:08",
+    "content": "ralph loop.. how do i reliably turn off autocompact and get it to stop when context reaches 120k or so?",
+    "author": "erg255",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462912033606467870",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462912230268866758",
+    "timestamp": "2026-01-19 20:50:55",
+    "content": "What's ralph",
+    "author": "subether",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462912230268866758",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462912861700624547",
+    "timestamp": "2026-01-19 20:53:25",
+    "content": "My apologies, not sure why I thought you had said Excel.\n\nIt doesn't seem like the Google Drive connector connects Google Sheets. However, you can use Claude in Chrome and it can view the Google Sheet and make modifications (Just gave it a go and it worked).\n\nSeems like there is connector support lacking currently for Google Sheets, you might need to give Gemini a shot if Claude in Chrome doesn't solve your use-case.",
+    "author": "martinkruger",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462912861700624547",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462914038903079152",
+    "timestamp": "2026-01-19 20:58:06",
+    "content": "IMO ralph loop is fundamentally just a clever marketing term for a set of concepts we mostly all know and apply in our workflows (sometimes intentionally, sometimes not); it's essentially the formalization of an idea, not a specific implementation but that doesn't mean it's not a valuable contribution because the meme packaging and economic framing from an expert source allowed a much wider audience to grok something that wasn't intuitive to them before. the plugin one actually misses the bigger picture entirely tho.",
+    "author": "bambooshoots",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462914038903079152",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
   }
 ]

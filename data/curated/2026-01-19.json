@@ -88,5 +88,62 @@
     "category": "insight",
     "curated_at": "2026-01-19T12:23:31.060246+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Unreal Engine 5.7 Now Supports ROCm for AMD GPUs",
+    "bullets": [
+      "Joematrix has released a setup for Unreal Engine 5.7 to support ROCm, enabling GPU-accelerated machine learning on AMD Radeon GPUs.",
+      "This potentially opens up new performance capabilities for developers using Unreal Engine with AMD hardware."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-19 15:45:32",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462835377835348188",
+      "message_id": "1462835377835348188"
+    },
+    "relevance": 80,
+    "hot_take": "Could this level the playing field for AMD users in game development?",
+    "category": "announcement",
+    "curated_at": "2026-01-19T21:00:03.471371+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude API Documentation Confusion: Insert_text vs new_str",
+    "bullets": [
+      "Users are reporting discrepancies between the documentation and actual API behavior for the Claude text editor tool.",
+      "The tool uses 'insert_text', but the docs indicate 'new_str' should be used."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-19 14:03:07",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462809605125050506",
+      "message_id": "1462809605125050506"
+    },
+    "relevance": 70,
+    "hot_take": "Is Anthropic's documentation keeping up with its API developments?",
+    "category": "discussion",
+    "curated_at": "2026-01-19T21:00:03.471385+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude Desktop's Project Capabilities Questioned",
+    "bullets": [
+      "Users are unclear on the extent of Claude Desktop's ability to interact with Google Sheets.",
+      "There's confusion about whether it can read and write data or just create new sheets."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-19 16:54:56",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462852842040594433",
+      "message_id": "1462852842040594433"
+    },
+    "relevance": 65,
+    "hot_take": "Is Claude Desktop's documentation clear enough for non-developers?",
+    "category": "discussion",
+    "curated_at": "2026-01-19T21:00:03.471389+00:00",
+    "original_server": "Anthropic"
   }
 ]
