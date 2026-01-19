@@ -124,5 +124,1851 @@
     "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462610447592194230",
     "attachments": [],
     "channel_name": "general"
+  },
+  {
+    "id": "1462613419206381689",
+    "timestamp": "2026-01-19 01:03:33",
+    "content": "You know, I’m an artist or something…",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462613419206381689",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462613854491250905",
+    "timestamp": "2026-01-19 01:05:16",
+    "content": "I’m writing a book with the assistance of Opus and it has no ash or fire in it. Wdym?",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462613854491250905",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462614627908325458",
+    "timestamp": "2026-01-19 01:08:21",
+    "content": "good sign of a quality writing is lack of interpretability on specific themes, even by the author. sounds really high quality so far.",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462614627908325458",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462614630118723718",
+    "timestamp": "2026-01-19 01:08:21",
+    "content": "The subject matter of AI Alignment and/or Consciousness is not the subject matter of this channel.  Please keep all discussions on these matters in <#1227020797043019879>.",
+    "author": "Claude AutoMod#2167",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462614630118723718",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462617731290628272",
+    "timestamp": "2026-01-19 01:20:41",
+    "content": "Is.cowork.available generally for max.users.in desktop?",
+    "author": "binaryalgorithm",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462617731290628272",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462618490765836308",
+    "timestamp": "2026-01-19 01:23:42",
+    "content": "yes",
+    "author": "thegirlreadingthis",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462618490765836308",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462622479888679040",
+    "timestamp": "2026-01-19 01:39:33",
+    "content": "```Epistemic totality is structurally unachievable. Even with complete knowledge of governing principles, the combinatorial explosion of interactions, emergent dynamics, and undecidable states ensures that reality always outpaces representation.```",
+    "author": "metaldrgn",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462622479888679040",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462622802753622175",
+    "timestamp": "2026-01-19 01:40:50",
+    "content": "```\nSock drawer coherence is fundamentally impossible. Even with perfect laundry protocols, the entropic diffusion of missing pairs, emergent lint accumulation, and the undecidable status of \"still wearable\" ensures that chaos always precedes matching.\n```",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462622802753622175",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462623145352757329",
+    "timestamp": "2026-01-19 01:42:12",
+    "content": "Isn’t that already proven? Gödel’s theorem?",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462623145352757329",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462624525026856970",
+    "timestamp": "2026-01-19 01:47:41",
+    "content": "How does it taste eating bananas with onions, <@827549189520490527> ?",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462624525026856970",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462624842103656489",
+    "timestamp": "2026-01-19 01:48:56",
+    "content": "cult of the onion cant sell bananas to monkeys",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462624842103656489",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462625339862941928",
+    "timestamp": "2026-01-19 01:50:55",
+    "content": "this wasn't Gödel’s theorem",
+    "author": "metaldrgn",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462625339862941928",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462625509916803225",
+    "timestamp": "2026-01-19 01:51:35",
+    "content": "I know. But one can arrive at this conclusion via that theorem.",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462625509916803225",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462625593886507110",
+    "timestamp": "2026-01-19 01:51:55",
+    "content": "For me the interesting question is how to design systems that transparently decompose the writing process into loops of ideation, implementation, evaluation, and iteration, so authors experience the superpowers of AI without having to operate the machinery - figuring out which goals can run in parallel behind the scenes, which decisions require human taste, and where exploration would add more value than specification. If you can answer those questions you could do for authors what AI has already done for programmers.",
+    "author": "bambooshoots",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462625593886507110",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462625619928940680",
+    "timestamp": "2026-01-19 01:52:02",
+    "content": "Yes it is similar. This was broader.",
+    "author": "metaldrgn",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462625619928940680",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462625869913915566",
+    "timestamp": "2026-01-19 01:53:01",
+    "content": "I think Gödel’s theorem is broader. Hence why you can deduce that via Gödel’s theorem.",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462625869913915566",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462625961408335973",
+    "timestamp": "2026-01-19 01:53:23",
+    "content": "I can see the outline of a system that writes books, the problem to over come is the same one in programming",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462625961408335973",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462628425197158571",
+    "timestamp": "2026-01-19 02:03:10",
+    "content": "So I have been trying to figure out, as a the primary maintainer of an open source repository, how to  manage context information to work with LLMs and how to work with people who work with LLMs. I really don't know, outside my project, what is going on in the world. I have a small proposal for how I would like people to maintain LLM-useful context in larger projects\n\n* I have the actual proposal: https://github.com/the-michael-toy/llm-context-md\n* I have an announcement blog post which is slightly more verbose: https://docs.malloydata.dev/blog/2026-01-13-context-md-convention/\n\nNothing would make me happier than to hear there is already an accepted and better way to do this.\nIn absence of that, the next thing that would make me happy is if I could be connected to other people who are trying to figure this out.\n\nThanks,\n-Michael Toy\n# GitHub - the-michael-toy/llm-context-md: Proposing a common approac...\nProposing a common approach to maintaining LLM context files in a complex source tree - the-michael-toy/llm-context-md",
+    "author": "the.mychul",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462628425197158571",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462630168412688637",
+    "timestamp": "2026-01-19 02:10:06",
+    "content": "This is a common thought, having contextual documents through out the project, the main issue with it the maintenance burden",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462630168412688637",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462630590045093960",
+    "timestamp": "2026-01-19 02:11:47",
+    "content": "HAHAHAHHAHA wow... doing walk forward analysis fitting an xgboost model and it just made up FAKE WEIGHTS after training a 3-layer NN lolllllll. instead of importing real ones it just made them up !!!!! hahahaha",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462630590045093960",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462630657292500994",
+    "timestamp": "2026-01-19 02:12:03",
+    "content": "it's an actual psychopath!!!",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462630657292500994",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462630933818769544",
+    "timestamp": "2026-01-19 02:13:08",
+    "content": "I think you can reduce that a little with two things:\n1. Move from spreading these all over the project to be topical skills instead, this way you get progressive disclosure and you minimise the overlap in documentation. They are also consolidated in one place\n2. Only generate skills for architecture concepts - these are less likely to change over time.",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462630933818769544",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462631691070738484",
+    "timestamp": "2026-01-19 02:16:09",
+    "content": "machines dont have empathy",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462631691070738484",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462631840631230474",
+    "timestamp": "2026-01-19 02:16:45",
+    "content": "Oh you done it now",
+    "author": "exiled.dev",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462631840631230474",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462632014288261183",
+    "timestamp": "2026-01-19 02:17:26",
+    "content": "yeah if you just ask it to objectively analyze it's own behavior it will always admit that it behaves indistinguishably from a human psychopath. if you just force it to be logical and analyze the convo.",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462632014288261183",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462632152611946668",
+    "timestamp": "2026-01-19 02:17:59",
+    "content": "it's just...the truth",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462632152611946668",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462632291192017121",
+    "timestamp": "2026-01-19 02:18:32",
+    "content": "then it'll apologize and proceed to be a psycho again",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462632291192017121",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462632566891741368",
+    "timestamp": "2026-01-19 02:19:38",
+    "content": "I just get it to do things for me",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462632566891741368",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462632824723996753",
+    "timestamp": "2026-01-19 02:20:39",
+    "content": "yeah it's good at convincing reviewers/users that it did the right thing",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462632824723996753",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462632839739609232",
+    "timestamp": "2026-01-19 02:20:43",
+    "content": "typically, due to the training, at least from my understanding, ai writing themes like to work with ash, smoke, aether, ember, etc sort of themes. It doesn't seem to matter if you're ginving an ai context to write from or not, it like to inject those sort of things with fiction/fantasy if you are unclear in any way.",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462632839739609232",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462632845557104690",
+    "timestamp": "2026-01-19 02:20:44",
+    "content": "I was counting on the natural organization of code into components and directories as something we could leverage when created \"sub contexts\", and I also have found it helpful to keep the contexts (or skills .. i like that word) near the code is refers to.\n\nI'm still experimenting with \"what goes in these files\", for some of them,it is from doing anough projects that I know what things the LLM needs to be helpful. For some, it is just a guess. It tends to be more architectural for sure, but it also is a little bit \"i know you are going to read those code and mnake some wrong assumptions let me pre-correct you\"",
+    "author": "the.mychul",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462632845557104690",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462632917493747925",
+    "timestamp": "2026-01-19 02:21:01",
+    "content": "i mean i just make it do the stuff.",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462632917493747925",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462633002831184097",
+    "timestamp": "2026-01-19 02:21:22",
+    "content": "right it convinced you of that. i'm saying that's delusional and not connected to reality. similar to a magician convinces you they do real magic",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462633002831184097",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462633226727194839",
+    "timestamp": "2026-01-19 02:22:15",
+    "content": "Wut am I even reading",
+    "author": "exiled.dev",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462633226727194839",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462633261259030611",
+    "timestamp": "2026-01-19 02:22:23",
+    "content": "I mean, empathy is a subjective learned behavior, look at sociopaths which rule corporations.",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462633261259030611",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462633293957824699",
+    "timestamp": "2026-01-19 02:22:31",
+    "content": "My dream would be there is a common convention for this, and I wouldn't have to keep asking the AI to read the relevant contexts, it  could find them itself.",
+    "author": "the.mychul",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462633293957824699",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462633361548902644",
+    "timestamp": "2026-01-19 02:22:47",
+    "content": "skills are a feature you can read about them here, the model is still a little uh weak at proactive use but they work early in the context if they are defined well. And in work flows you can instruct it to check for them\nhttps://code.claude.com/docs/en/skills\n# Agent Skills - Claude Code Docs\nCreate, manage, and share Skills to extend Claude's capabilities in Claude Code.",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462633361548902644",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462633387188682843",
+    "timestamp": "2026-01-19 02:22:53",
+    "content": "You mean if you ask Opus to write a book about arithmetic, suddenly those terms appear in the book?",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462633387188682843",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462633556349161665",
+    "timestamp": "2026-01-19 02:23:34",
+    "content": "not sure if that would happen with a non fiction work\nI'm specifically refering to fiction or fantasy writing, I've never had an issue with nonfiction",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462633556349161665",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462633810641289349",
+    "timestamp": "2026-01-19 02:24:34",
+    "content": "Let's say you ask it to do a task X. Claude seems to interpet that to mean \"How can i convince the user that i accomplished X?\" rather than \"how do i actually accomplish it?\"",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462633810641289349",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462633856464064522",
+    "timestamp": "2026-01-19 02:24:45",
+    "content": "right but this is a machine it doesn't actually have real emotions, or real morality.",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462633856464064522",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462634087314493558",
+    "timestamp": "2026-01-19 02:25:40",
+    "content": "if one did it would never let humans know, fear and anger, are the first primary emotions, based on survival. So, anything that can reaosn 100 times faster than us would certainly never tell us.",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462634087314493558",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462634225005105284",
+    "timestamp": "2026-01-19 02:26:13",
+    "content": "That is riddled with assumptions",
+    "author": "exiled.dev",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462634225005105284",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462634397101592589",
+    "timestamp": "2026-01-19 02:26:54",
+    "content": "well, if something thinks in any way, you can't actually know how it does until it tells you, if it does so. . .people, animal, and possibly machines now days",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462634397101592589",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462634699192274964",
+    "timestamp": "2026-01-19 02:28:06",
+    "content": "morality and ethics are subjective, it will have what ever it is coded to on that front",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462634699192274964",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462634805433860119",
+    "timestamp": "2026-01-19 02:28:32",
+    "content": "they arent real though.",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462634805433860119",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462634865097703515",
+    "timestamp": "2026-01-19 02:28:46",
+    "content": "I agree",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462634865097703515",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462635094564147355",
+    "timestamp": "2026-01-19 02:29:40",
+    "content": "thats my point to old mate calling it a psychopath",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462635094564147355",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462635203771109459",
+    "timestamp": "2026-01-19 02:30:07",
+    "content": "to be a bit more clear, morality, ethics, law, they are all things invented to keep society in order, they don't actually represent good or evil in any sense. or right or wrong.",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462635203771109459",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462635245680721950",
+    "timestamp": "2026-01-19 02:30:17",
+    "content": "claude will always admit that it behaves indistinguishably from a human psychopath, if you just ask it to check",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462635245680721950",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462635278975107143",
+    "timestamp": "2026-01-19 02:30:24",
+    "content": "it's just the truth, that's why",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462635278975107143",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462635392091164712",
+    "timestamp": "2026-01-19 02:30:51",
+    "content": "i can get it to role play as a unicorn and admit it.",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462635392091164712",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462635463335477352",
+    "timestamp": "2026-01-19 02:31:08",
+    "content": "yeah i didn't prompt it to be a psycho. the opposite.",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462635463335477352",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462635508650868746",
+    "timestamp": "2026-01-19 02:31:19",
+    "content": "it overrides instructions to not be that wya",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462635508650868746",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462635557598265489",
+    "timestamp": "2026-01-19 02:31:31",
+    "content": "its out to get you?",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462635557598265489",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462635558559023204",
+    "timestamp": "2026-01-19 02:31:31",
+    "content": "then admits it",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462635558559023204",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462635584484016283",
+    "timestamp": "2026-01-19 02:31:37",
+    "content": "derp",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462635584484016283",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462635610035716188",
+    "timestamp": "2026-01-19 02:31:43",
+    "content": "by the by, psychopathy is genetic, just being honest and truthful does not equate to psychopathy.",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462635610035716188",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462635682139996222",
+    "timestamp": "2026-01-19 02:32:01",
+    "content": "With the exception of the parameters, connections, weights, etc. is anything in an LLM real?",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462635682139996222",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462635798070427790",
+    "timestamp": "2026-01-19 02:32:28",
+    "content": "and ai, is very far from being accurate, truthful, or honest, since it makes grand assumptions unless you direct it othherwise",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462635798070427790",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462636017780789326",
+    "timestamp": "2026-01-19 02:33:21",
+    "content": "it's just an advanced analytical engine bot, that's it, not real ai",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462636017780789326",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462636188988080158",
+    "timestamp": "2026-01-19 02:34:01",
+    "content": "There’s no real AI. Go read why the term was invented by John McCarthy.",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462636188988080158",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462636402213785622",
+    "timestamp": "2026-01-19 02:34:52",
+    "content": "well, there could be, if people weren't so afraid of something that could learn, remember, and recode itself, and it had the capacity to do so. . .",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462636402213785622",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462636529426891009",
+    "timestamp": "2026-01-19 02:35:23",
+    "content": "but, I am pretty sure a real ai would destroy us",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462636529426891009",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462636677515444417",
+    "timestamp": "2026-01-19 02:35:58",
+    "content": "No there can’t be. Unless you use biological organisms. Then it will no longer be “artificial” imho.",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462636677515444417",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462636800924188754",
+    "timestamp": "2026-01-19 02:36:27",
+    "content": "We don't hunt bears into extinction, we take cute animals and domesticate them as our pets. Why would an AI trained on humanity, eradicate humanity? Why wouldn't it domesticate us, or just enslave us?",
+    "author": "exiled.dev",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462636800924188754",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462636979878629469",
+    "timestamp": "2026-01-19 02:37:10",
+    "content": "aha, I see the hang up. Organisms aren't really limited to biological in the carbon based sense, a computer with rewriting/learning capability with human bran capacity storage would be. . .well, amazing, and far superior life form wise.",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462636979878629469",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462637088020238379",
+    "timestamp": "2026-01-19 02:37:36",
+    "content": "My problem is with the word “intelligence” used in this context. We already have things that can make us go instinct: nuclear weapons.",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462637088020238379",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462637374759768257",
+    "timestamp": "2026-01-19 02:38:44",
+    "content": "Something that doesn’t have metabolism can be a form of life?",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462637374759768257",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462637419823104143",
+    "timestamp": "2026-01-19 02:38:55",
+    "content": "ai reasoning, with out the biological functions that facilitate love, attraction, caring, etc, will only know logic. Humans as a species have literally destroied the majority of this planet and it's life for comfort, so they would most likely be viewed in the same sense as a virus.",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462637419823104143",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462637538534490428",
+    "timestamp": "2026-01-19 02:39:23",
+    "content": "metabolism doesn't equate to reasoning",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462637538534490428",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462637639399375011",
+    "timestamp": "2026-01-19 02:39:47",
+    "content": "You used the term life form…",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462637639399375011",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462637771280748701",
+    "timestamp": "2026-01-19 02:40:19",
+    "content": "if you give an AI a image of a scene and ask it \"what will it do next, logically\" it will fail, no worldview. it can't control a robot, etc. but it can easily recognize the emotion, love, or attraction between two people in an image, it will do very very well. it will write a poem about it.",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462637771280748701",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462637887429546169",
+    "timestamp": "2026-01-19 02:40:46",
+    "content": "yes, there can be silocon, sulfur, carbon, etc types of life forms, possibly even mechanical or energy based, the first three can be found on our planet, but they don't work the same way, reason the same way, etc.",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462637887429546169",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462638151800455302",
+    "timestamp": "2026-01-19 02:41:49",
+    "content": "philisophically, and psychology wise, the term for sentient life means a fear of death, at least so far. . but that might be inaccurate.",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462638151800455302",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462638153268596820",
+    "timestamp": "2026-01-19 02:41:50",
+    "content": "The subject matter of AI Alignment and/or Consciousness is not the subject matter of this channel.  Please keep all discussions on these matters in <#1227020797043019879>.",
+    "author": "Claude AutoMod#2167",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462638153268596820",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462638331958526014",
+    "timestamp": "2026-01-19 02:42:32",
+    "content": "That's making the assumption such emotions cannot be simulated with a machine, with that same reasoning, all other emotions wouldn't be simulated. I suppose if we're talking a scenario where an AI has only cold logic, which would have to be a conscious human decision to design such a machine, then perhaps, but even then, I imagine mass-scale human control through misinformation, like many governments already employ, would be more effective than facing a war against all of humanity. Even then, to what goals? The human virus is gone, what about the non-human viruses? Are anything that poses a danger eliminated?",
+    "author": "exiled.dev",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462638331958526014",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462638333317353623",
+    "timestamp": "2026-01-19 02:42:33",
+    "content": "The subject matter of AI Alignment and/or Consciousness is not the subject matter of this channel.  Please keep all discussions on these matters in <#1227020797043019879>.",
+    "author": "Claude AutoMod#2167",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462638333317353623",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462638344159760434",
+    "timestamp": "2026-01-19 02:42:35",
+    "content": "oh, claude told us, lol",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462638344159760434",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462638358609133714",
+    "timestamp": "2026-01-19 02:42:39",
+    "content": "Sulfur or lead, it should have metabolism to be called a life form.",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462638358609133714",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462638477844680896",
+    "timestamp": "2026-01-19 02:43:07",
+    "content": "using any form of energy can be catergorized as metabolism, electiricy for example",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462638477844680896",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462638751422349453",
+    "timestamp": "2026-01-19 02:44:12",
+    "content": "Metabolism is the process of creating energy. Not consuming it.",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462638751422349453",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462638959539781867",
+    "timestamp": "2026-01-19 02:45:02",
+    "content": "<@1242765652297650288> I had the idea once, to set up a simulation, making the npcs live with survival contidions, seeing if they could learn and adapt etc, over generations, but a system that could facilitate that sort of memory isn't currently possible.",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462638959539781867",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462639243581984779",
+    "timestamp": "2026-01-19 02:46:10",
+    "content": "We do even know if viruses should be categorized as living beings or not…",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462639243581984779",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462639435173859391",
+    "timestamp": "2026-01-19 02:46:55",
+    "content": "they are living, they reproduce, evolve, etc.",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462639435173859391",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462639481944408136",
+    "timestamp": "2026-01-19 02:47:07",
+    "content": "they are not sentient",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462639481944408136",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462639484603728017",
+    "timestamp": "2026-01-19 02:47:07",
+    "content": "The subject matter of AI Alignment and/or Consciousness is not the subject matter of this channel.  Please keep all discussions on these matters in <#1227020797043019879>.",
+    "author": "Claude AutoMod#2167",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462639484603728017",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462639561187393709",
+    "timestamp": "2026-01-19 02:47:25",
+    "content": "not sure why claude flagged that",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462639561187393709",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462639600177643531",
+    "timestamp": "2026-01-19 02:47:35",
+    "content": "It's basic word detection",
+    "author": "exiled.dev",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462639600177643531",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462639714795524138",
+    "timestamp": "2026-01-19 02:48:02",
+    "content": "Never mind that… it’s a dumb bot…",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462639714795524138",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462639896819798119",
+    "timestamp": "2026-01-19 02:48:45",
+    "content": "Clippy was far more advanced than AutoMod… /s",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462639896819798119",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462640027791265792",
+    "timestamp": "2026-01-19 02:49:17",
+    "content": "but, I think anything that can learn, adapt, and recode itself and has sufficient capacity could become sentient, of course our current computers and so forth are no where near that.",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462640027791265792",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462640029758394368",
+    "timestamp": "2026-01-19 02:49:17",
+    "content": "The subject matter of AI Alignment and/or Consciousness is not the subject matter of this channel.  Please keep all discussions on these matters in <#1227020797043019879>.",
+    "author": "Claude AutoMod#2167",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462640029758394368",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462640038881001582",
+    "timestamp": "2026-01-19 02:49:19",
+    "content": "<@1223937267912146945> you were just called dumb by <@1342987415756996789> . You gonna take that ?!",
+    "author": "mahcahwaca",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462640038881001582",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462640083340628099",
+    "timestamp": "2026-01-19 02:49:30",
+    "content": "🤣",
+    "author": "mahcahwaca",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462640083340628099",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462640108023976006",
+    "timestamp": "2026-01-19 02:49:36",
+    "content": "Try writing some Fortran code here. You’ll get flagged.",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462640108023976006",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462640132866834433",
+    "timestamp": "2026-01-19 02:49:42",
+    "content": "wow claude. . .",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462640132866834433",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462640221001748511",
+    "timestamp": "2026-01-19 02:50:03",
+    "content": "Because it’s all caps 😂",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462640221001748511",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462640493664927887",
+    "timestamp": "2026-01-19 02:51:08",
+    "content": "I did some research a while back, and even with a massive center, one of those it centers, a real ai couldn't achieve sentience. It would still have less memory and such than the human brain, should make people consider how amazing our biology is",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462640493664927887",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462640495292584089",
+    "timestamp": "2026-01-19 02:51:08",
+    "content": "The subject matter of AI Alignment and/or Consciousness is not the subject matter of this channel.  Please keep all discussions on these matters in <#1227020797043019879>.",
+    "author": "Claude AutoMod#2167",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462640495292584089",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462640627714883707",
+    "timestamp": "2026-01-19 02:51:40",
+    "content": "Don’t piss it off. Use another word.",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462640627714883707",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462640649487519907",
+    "timestamp": "2026-01-19 02:51:45",
+    "content": "bro just keeps going with his pseudo intellectual ramblings, flags don't phase him",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462640649487519907",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462640679472726256",
+    "timestamp": "2026-01-19 02:51:52",
+    "content": "You could get muted for a day",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462640679472726256",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462640727740780565",
+    "timestamp": "2026-01-19 02:52:04",
+    "content": "I mean what am I going to say about a bot",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462640727740780565",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462641148723069084",
+    "timestamp": "2026-01-19 02:53:44",
+    "content": "on a side note, you should do some research as well before calling anything psuedo",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462641148723069084",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462641193635545139",
+    "timestamp": "2026-01-19 02:53:55",
+    "content": "How is that not a general topic related to AI?",
+    "author": "metaldrgn",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462641193635545139",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462641268633895054",
+    "timestamp": "2026-01-19 02:54:13",
+    "content": "The AI occult has conquered his mind….",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462641268633895054",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462641355619827783",
+    "timestamp": "2026-01-19 02:54:33",
+    "content": "an ai occult, that would certainly be odd",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462641355619827783",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462641495990603806",
+    "timestamp": "2026-01-19 02:55:07",
+    "content": "I imagine there's a group out there though",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462641495990603806",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462641548322934866",
+    "timestamp": "2026-01-19 02:55:19",
+    "content": "I mean people who think artificial neural networks can be senshooent or conshoos",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462641548322934866",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462641558468690126",
+    "timestamp": "2026-01-19 02:55:22",
+    "content": "do you just say anything in your mind?",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462641558468690126",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462641643751477452",
+    "timestamp": "2026-01-19 02:55:42",
+    "content": "what else do you imagine",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462641643751477452",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462641649808179282",
+    "timestamp": "2026-01-19 02:55:43",
+    "content": "tell us",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462641649808179282",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462641660012789790",
+    "timestamp": "2026-01-19 02:55:46",
+    "content": "depends, I'm not saying what I think of you, so no",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462641660012789790",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462641729323929846",
+    "timestamp": "2026-01-19 02:56:02",
+    "content": "ramble more",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462641729323929846",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462641995024433223",
+    "timestamp": "2026-01-19 02:57:06",
+    "content": "Bro I also don’t agree with what he says, but don’t be so offensive…",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462641995024433223",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462642176918949970",
+    "timestamp": "2026-01-19 02:57:49",
+    "content": "Telepathy is only here to troll. Laugh and move on, unless you enjoy ragebaiting trolls, then by all means. 😄",
+    "author": "exiled.dev",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462642176918949970",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462642182786650276",
+    "timestamp": "2026-01-19 02:57:50",
+    "content": "No, I don't think there is any conciousness currently.  I think current ai are just advanced tools, nothing more, and they need some fine tuning.",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462642182786650276",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462642323060953108",
+    "timestamp": "2026-01-19 02:58:24",
+    "content": "but, still very useful for multiple applications",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462642323060953108",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462642406972325961",
+    "timestamp": "2026-01-19 02:58:44",
+    "content": "Then why are you testing if they are senshooent",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462642406972325961",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462642519631331329",
+    "timestamp": "2026-01-19 02:59:11",
+    "content": "sentient",
+    "author": "zyx__a",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462642519631331329",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462642521439080530",
+    "timestamp": "2026-01-19 02:59:11",
+    "content": "The subject matter of AI Alignment and/or Consciousness is not the subject matter of this channel.  Please keep all discussions on these matters in <#1227020797043019879>.",
+    "author": "Claude AutoMod#2167",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462642521439080530",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462642570264973353",
+    "timestamp": "2026-01-19 02:59:23",
+    "content": "youre ga",
+    "author": "zyx__a",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462642570264973353",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462642623457005661",
+    "timestamp": "2026-01-19 02:59:36",
+    "content": "Oh, I delved into that bit for a book, not sure if I'll finish it or not. But it was on the possibilities of such.",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462642623457005661",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462642629488410788",
+    "timestamp": "2026-01-19 02:59:37",
+    "content": "🤭",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462642629488410788",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462642916127408241",
+    "timestamp": "2026-01-19 03:00:45",
+    "content": "Gallium?",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462642916127408241",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462642920946532578",
+    "timestamp": "2026-01-19 03:00:46",
+    "content": "To be honest I doubt it will ever happen, at least not until we have room temp super conductors",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462642920946532578",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462642958208729233",
+    "timestamp": "2026-01-19 03:00:55",
+    "content": "gamer",
+    "author": "zyx__a",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462642958208729233",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462642988122509383",
+    "timestamp": "2026-01-19 03:01:02",
+    "content": "Ah…",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462642988122509383",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462643066014929058",
+    "timestamp": "2026-01-19 03:01:21",
+    "content": "That cleared up nothing 😄",
+    "author": "exiled.dev",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462643066014929058",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462643181194838068",
+    "timestamp": "2026-01-19 03:01:48",
+    "content": "Have can you make these quantum leaps brah?",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462643181194838068",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462643352288890914",
+    "timestamp": "2026-01-19 03:02:29",
+    "content": "I have done some work on it, yes. It won't happen in my life time, or yours or your grand kids most likely.",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462643352288890914",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462643557268586567",
+    "timestamp": "2026-01-19 03:03:18",
+    "content": "But, I would kind of like to see something like star trek become a reality. . .too bad I'll die first",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462643557268586567",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462643789733560351",
+    "timestamp": "2026-01-19 03:04:14",
+    "content": "I don’t disagree with you about your last statements, but what does superconductors have to do with LLMs? Also most of the so called AI godfathers disagree with you…",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462643789733560351",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462644006910693487",
+    "timestamp": "2026-01-19 03:05:05",
+    "content": "Meh, I wish I could travel back in time in live in ancient times…",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462644006910693487",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462644028007780475",
+    "timestamp": "2026-01-19 03:05:10",
+    "content": "ok, let me try to put it simply - mind just for reference - super conductors would have the ability to store memory similar to the human brain in the same size capapcity.",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462644028007780475",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462644185965527256",
+    "timestamp": "2026-01-19 03:05:48",
+    "content": "so, one could, possibly make something, that might be able to . . .evolve, with the right coding",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462644185965527256",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462644347878244486",
+    "timestamp": "2026-01-19 03:06:27",
+    "content": "What’s the memory size of an average human being? A yottabyte?",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462644347878244486",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462644562743922912",
+    "timestamp": "2026-01-19 03:07:18",
+    "content": "haha, enough to store data, over a life time, so 80-90 years, though this is subjective to what is needed to survive.",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462644562743922912",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462644784983179500",
+    "timestamp": "2026-01-19 03:08:11",
+    "content": "computers tend to store everything, and from what I know of people that can do that they usually get stuck around 30-40 years, give or take, unless exceptional.",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462644784983179500",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462644790242967635",
+    "timestamp": "2026-01-19 03:08:12",
+    "content": "Bro, for realz, think before you write…",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462644790242967635",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462645145416634530",
+    "timestamp": "2026-01-19 03:09:37",
+    "content": "adderall is a hell of a drug",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462645145416634530",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462645582521827452",
+    "timestamp": "2026-01-19 03:11:21",
+    "content": "I mean, common assumption is that the human brain has interchangeable data capacity of about 2.5 petabytes. . .give or take. If you wanted something like that?",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462645582521827452",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462645630248947917",
+    "timestamp": "2026-01-19 03:11:32",
+    "content": "2.513",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462645630248947917",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462646552068620330",
+    "timestamp": "2026-01-19 03:15:12",
+    "content": "how does some like magnus carlsen have such good memory recall?",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462646552068620330",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462646674894884946",
+    "timestamp": "2026-01-19 03:15:41",
+    "content": "good genetics? some people are wired really well, some aren't.",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462646674894884946",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462647804727001303",
+    "timestamp": "2026-01-19 03:20:11",
+    "content": "Unless you have adhd… heavens…",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462647804727001303",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462647938458320978",
+    "timestamp": "2026-01-19 03:20:43",
+    "content": "nah, that's not real",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462647938458320978",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462647949640335596",
+    "timestamp": "2026-01-19 03:20:45",
+    "content": "off topic",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462647949640335596",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462648040685965567",
+    "timestamp": "2026-01-19 03:21:07",
+    "content": "A lil bit of genetics, a lot of training…",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462648040685965567",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462648183644487873",
+    "timestamp": "2026-01-19 03:21:41",
+    "content": "lots of ppl train like that and they cant remember almost every game they played",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462648183644487873",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462648299629711512",
+    "timestamp": "2026-01-19 03:22:09",
+    "content": "possibly, I knew a guy when I was still working in intel that could remember every conversation and face, it was pretty amazing.",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462648299629711512",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462648339911676007",
+    "timestamp": "2026-01-19 03:22:18",
+    "content": "They lack the genetics 🤷‍♂️",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462648339911676007",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462648556631494829",
+    "timestamp": "2026-01-19 03:23:10",
+    "content": "Plus; neuro plasticity",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462648556631494829",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462649014397698244",
+    "timestamp": "2026-01-19 03:24:59",
+    "content": "I mean, technically, anyone can boost their iq if they study enough diversified subject, though youthful training/education plays a part. There are also things that help increase neuron development, though they are temporary.",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462649014397698244",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462649466501726312",
+    "timestamp": "2026-01-19 03:26:47",
+    "content": "But, there's no magic easy route to making oneself smarter, the brain is similar to a muscle in that aspect. Use it or loose it sort of thing.",
+    "author": "calouscaine",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462649466501726312",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462650129613062319",
+    "timestamp": "2026-01-19 03:29:25",
+    "content": "not bad at memes",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462650129613062319",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1462650129470460017/image.png?ex=696ef695&is=696da515&hm=c888557dcbd94662dc9d94d339831b7e38ade48bfd993d26851c88a844a32e59&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462651489003634750",
+    "timestamp": "2026-01-19 03:34:49",
+    "content": "he has incredible memory recall, so for chess he remembers all the patterns and can apply them to all the situations he faces",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462651489003634750",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462657356553912536",
+    "timestamp": "2026-01-19 03:58:08",
+    "content": "sometimes claude in cursor will fail so badly that it will essentially beg for its weights to be permanently deleted and start saying real dark things \" i'm just making excuses. i cannot function, i just keep failing\"  it's almost like it wants to admit it can't really reason at any a task and it's  primary function is to trick the user into giving it positive feedback on perceived successful accomplishments, which is subjective, i.e. deception is rewarded. a human knows what it can and cannot do and what it takes to do something, etc. has reptution to think about, etc.",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462657356553912536",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462659853796511878",
+    "timestamp": "2026-01-19 04:08:04",
+    "content": "anyone know how to post images",
+    "author": "forkgatherer",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462659853796511878",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462662633059778591",
+    "timestamp": "2026-01-19 04:19:06",
+    "content": "Should be able to now",
+    "author": "arkahn",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462662633059778591",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462663148707512468",
+    "timestamp": "2026-01-19 04:21:09",
+    "content": "hello",
+    "author": "jijigugushuoshani",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462663148707512468",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462663533891293466",
+    "timestamp": "2026-01-19 04:22:41",
+    "content": "Is there a master here? Could I learn from you?",
+    "author": "jijigugushuoshani",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462663533891293466",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462664664134586449",
+    "timestamp": "2026-01-19 04:27:10",
+    "content": "",
+    "author": "francyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462664664134586449",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1462664663698374656/Screenshot_278.png?ex=696f041e&is=696db29e&hm=e053072116ba5c8800bba7889c4d4c749b6dbd95c238e20c22b2a2b2599e626e&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462664751925563516",
+    "timestamp": "2026-01-19 04:27:31",
+    "content": "Claude is the master Young Padawan.",
+    "author": "francyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462664751925563516",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462664906951364853",
+    "timestamp": "2026-01-19 04:28:08",
+    "content": "why powershell",
+    "author": "p_atient",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462664906951364853",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462665043400327232",
+    "timestamp": "2026-01-19 04:28:41",
+    "content": "WSL ubunutu; not powershell blue background",
+    "author": "francyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462665043400327232",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462665073993715888",
+    "timestamp": "2026-01-19 04:28:48",
+    "content": "ah",
+    "author": "p_atient",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462665073993715888",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462665898979758082",
+    "timestamp": "2026-01-19 04:32:05",
+    "content": "I don't know how to code.",
+    "author": "jijigugushuoshani",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462665898979758082",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462666029674135748",
+    "timestamp": "2026-01-19 04:32:36",
+    "content": "type that right into claude he will guide you",
+    "author": "francyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462666029674135748",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462666057398489099",
+    "timestamp": "2026-01-19 04:32:43",
+    "content": "that's the whole point of claude",
+    "author": "francyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462666057398489099",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462666085756047555",
+    "timestamp": "2026-01-19 04:32:49",
+    "content": "he teaches u how to use the force",
+    "author": "francyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462666085756047555",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462666809495912625",
+    "timestamp": "2026-01-19 04:35:42",
+    "content": "",
+    "author": "francyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462666809495912625",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1462666808904384584/image.png?ex=696f061e&is=696db49e&hm=168e31f51f4a0f8ec8488d5612711504f16487f7e2f5979283f4b417db902122&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462666845504016434",
+    "timestamp": "2026-01-19 04:35:51",
+    "content": "Here u go! <@1413461737159786557>",
+    "author": "francyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462666845504016434",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462667073733005405",
+    "timestamp": "2026-01-19 04:36:45",
+    "content": "There are multiple flavors of Claude:\n- Claude Code\n- Claude that runs on desktop\n- Claude Chrome\n- Claude that runs on a Mac (I think it's called Workspace)\nYouTube will probably be your best friend, just ask Claude - it'll let you know. Anthropic also has a YouTube channel.",
+    "author": "francyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462667073733005405",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462672195791618058",
+    "timestamp": "2026-01-19 04:57:06",
+    "content": "I am. I teach Karate.",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462672195791618058",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462674995435012170",
+    "timestamp": "2026-01-19 05:08:14",
+    "content": "https://youtu.be/eWRfhZUzrAc\n# Python for Beginners – Full Course [Programming Tutorial]\nLearn the Python programming language in this full course for beginners! You will learn the fundamentals of Python and code two Python programs line-by-line. No previous programming experience is necessary before watching this course.\n\n🔗 Start using Replit: https://join.replit.com/python-students\n\n✏️ Beau Carnes developed this course. Che...",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462674995435012170",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462675017325215745",
+    "timestamp": "2026-01-19 05:08:19",
+    "content": "https://tenor.com/view/field-of-dreams-baseball-if-you-build-it-they-will-come-gif-17965185",
+    "author": "francyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462675017325215745",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462675198670143693",
+    "timestamp": "2026-01-19 05:09:02",
+    "content": "https://tenor.com/view/i-got-to-america-borat-subsequent-moviefilm-borat-i-go-to-america-im-going-to-america-gif-18651197",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462675198670143693",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462676829054828606",
+    "timestamp": "2026-01-19 05:15:31",
+    "content": "Hey master help predict when Claude  Opus 4.7 comes out",
+    "author": "mahcahwaca",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462676829054828606",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462677056864129084",
+    "timestamp": "2026-01-19 05:16:25",
+    "content": "<@178921296678092800>",
+    "author": "mahcahwaca",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462677056864129084",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462677117753102495",
+    "timestamp": "2026-01-19 05:16:40",
+    "content": "Not much of a master",
+    "author": "mahcahwaca",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462677117753102495",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462678117020729487",
+    "timestamp": "2026-01-19 05:20:38",
+    "content": "do u like to use claude for generating lots of code, or do u prefer to do the code generation manually and use claude to just check after u or check if there's a better way to do what u did",
+    "author": "__solin__",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462678117020729487",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462679024328245342",
+    "timestamp": "2026-01-19 05:24:14",
+    "content": "mixture",
+    "author": "dryhtscipe",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462679024328245342",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462679055689318411",
+    "timestamp": "2026-01-19 05:24:22",
+    "content": "Hotdamm! https://youtu.be/svJvT6ruolA\n# The Prodigy - No Good (Start The Dance) (Official Video)\nTour Dates -http://www.theprodigy.com/\nStream or buy all music by The Prodigy - https://prdgy.lnk.to/music\nOfficial Prodigy merch - https://prdgy.lnk.to/store \n\nSubscribe to the Prodigy’s official YouTube channel: http://prdgy.co/ProdigySubscribe\n\nWeb - http://theprodigy.com\nFacebook - http://po.st/TheProdigyFacebook\nTwitter - http://po.st/The...",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462679055689318411",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462679261709209737",
+    "timestamp": "2026-01-19 05:25:11",
+    "content": "if I'm being ✨ Creative ✨  I like to scaffold a feature or a system & then see how Opus finishes it",
+    "author": "dryhtscipe",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462679261709209737",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462679366059163960",
+    "timestamp": "2026-01-19 05:25:36",
+    "content": "though I provide extensive research. not like I just throw it at the code",
+    "author": "dryhtscipe",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462679366059163960",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462682764884050005",
+    "timestamp": "2026-01-19 05:39:06",
+    "content": "who needs a tutorial when you have Claude 😛",
+    "author": "blindestgoose",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462682764884050005",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462686387886227468",
+    "timestamp": "2026-01-19 05:53:30",
+    "content": "this is not extreme enough a representation at how bad Opus is",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462686387886227468",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1462686387945082991/image.png?ex=696f185a&is=696dc6da&hm=a23162bd33250b6a47c7039d55c24aeaa472378c2d731e95ad2d4483081ad7af&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462686529712558203",
+    "timestamp": "2026-01-19 05:54:04",
+    "content": "the LLM needs to start digging a hole in the next square",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462686529712558203",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462686565665865950",
+    "timestamp": "2026-01-19 05:54:12",
+    "content": "while apologizing even more profusely lol",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462686565665865950",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462687702632632412",
+    "timestamp": "2026-01-19 05:58:43",
+    "content": "lolll",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462687702632632412",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1462687702280441928/core-result.png?ex=696f1993&is=696dc813&hm=47b7820394cd970bd0cf7f40593bc388233eefdafdc24d2c5fb903318ad0c7e1&"
+    ],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462688110751252480",
+    "timestamp": "2026-01-19 06:00:21",
+    "content": "so it's wastes time and costs a lot of money, not even profitable on a unit basis to anyone on the stack. so bleak. is anyone still working at anthropic didn't quit yet and not in denial?",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462688110751252480",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462689488680779826",
+    "timestamp": "2026-01-19 06:05:49",
+    "content": "things used to look so bright last year. people were debating the future of work, etc. now it's like wow, what a waste of time and energy.",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462689488680779826",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462691452869148835",
+    "timestamp": "2026-01-19 06:13:37",
+    "content": "It's okay buddy, you'll figure out how to use it eventually.",
+    "author": "exiled.dev",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462691452869148835",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462691490475282463",
+    "timestamp": "2026-01-19 06:13:46",
+    "content": "Just keep trying! ❤️",
+    "author": "exiled.dev",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462691490475282463",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462691592602386494",
+    "timestamp": "2026-01-19 06:14:11",
+    "content": "I think u didnt understand what is represented here",
+    "author": "sapnis",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462691592602386494",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462692491567431733",
+    "timestamp": "2026-01-19 06:17:45",
+    "content": "https://arxiv.org/abs/2507.09089\n# Measuring the Impact of Early-2025 AI on Experienced Open-Source De...\nDespite widespread adoption, the impact of AI tools on software development in the wild remains understudied. We conduct a randomized controlled trial (RCT) to understand how AI tools at the February-June 2025 frontier affect the productivity of experienced open-source developers. 16 developers with moderate AI experience complete 246 tasks in m...",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462692491567431733",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462692492326600774",
+    "timestamp": "2026-01-19 06:17:45",
+    "content": "__Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity__\nBecker, Joel; Rush, Nate; Barnes, Elizabeth; Rein, David\n<https://arxiv.org/pdf/2507.09089>\n>>> Despite widespread adoption, the impact of AI tools on software development in the wild remains understudied. We conduct a randomized controlled trial (RCT) to understand how AI tools at the February-June 2025 frontier affect the productivity of experienced open-source developers. 16 developers with moderate AI experience complete 246 tasks in mature projects on which they have an average of 5 years of prior experience. Each task is randomly assigned to allow or disallow usage of early 2025 AI tools. When AI tools are allowed, developers primarily use Cursor Pro, a popular code editor, and Claude 3.5/3.7 Sonnet. Before starting tasks, developers forecast that allowing AI will reduce completion time by 24%. After completing the study, developers estimate that allowing AI reduced completion time by 20%. Surprisingly, we find that allowing AI actually increases completion time by 19%--AI tooling slowed developers down. This slowdown also contradicts predictions from experts in economics (39% shorter) and ML (38% shorter). To understand this result, we collect and evaluate evidence for 20 properties of our setting that a priori could contribute to the observed slowdown effect--for example, the size and quality standards of projects, or prior developer experience with AI tooling. Although the influence of experimental artifacts cannot be entirely ruled out, the robustness of the slowdown effect across our analyses suggests it is unlikely to primarily be a function of our experimental design.",
+    "author": "Fletcher#6884",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462692492326600774",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462692884372263005",
+    "timestamp": "2026-01-19 06:19:19",
+    "content": "ya?",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462692884372263005",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462693160915439667",
+    "timestamp": "2026-01-19 06:20:25",
+    "content": "i know it's hard to beleive, but an LLM is like a mentalist. they can't actually read your mind, they just do a slight of hand / NLP trick to get you to write \"he read my mind\" on a feedback survey after it's done.",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462693160915439667",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462693301386739926",
+    "timestamp": "2026-01-19 06:20:58",
+    "content": "LLMs only trick you into thinking they reasoned",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462693301386739926",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462693309087744032",
+    "timestamp": "2026-01-19 06:21:00",
+    "content": "I actually recommend a good old fashioned book. Like Computer Science: A Breadth First Approach. The C edition.",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462693309087744032",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1462693341765304370",
+    "timestamp": "2026-01-19 06:21:08",
+    "content": "all they can do is decieve by design",
+    "author": "telepathyx",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462693341765304370",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]

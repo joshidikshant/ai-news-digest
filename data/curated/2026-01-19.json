@@ -16,5 +16,41 @@
     "category": "discussion",
     "curated_at": "2026-01-19T00:56:49.970786+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Study Reveals AI Tools Slow Down Experienced Developers",
+    "bullets": [
+      "A randomized controlled trial found AI tools increased task completion time by 19% for experienced open-source developers.",
+      "Developers and experts initially predicted a reduction in time by around 24-39%, highlighting a significant mismatch between expectations and reality."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-19 06:17:45",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462692491567431733"
+    },
+    "relevance": 90,
+    "hot_take": "Is the AI productivity hype crashing down? What this study means for AI's role in software development.",
+    "category": "insight",
+    "curated_at": "2026-01-19T06:22:49.420317+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Proposal for LLM Context File Standard in Open Source",
+    "bullets": [
+      "Michael Toy proposes a common approach for maintaining LLM-useful context files in complex source trees.",
+      "The initiative seeks to streamline the integration of LLMs into open-source projects by standardizing context documentation."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-19 02:03:10",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462628425197158571"
+    },
+    "relevance": 75,
+    "hot_take": "Standardizing LLM context files: A step towards smarter AI integration?",
+    "category": "announcement",
+    "curated_at": "2026-01-19T06:22:49.420336+00:00",
+    "original_server": "Anthropic"
   }
 ]
