@@ -5039,5 +5039,863 @@
     "local_images": [
       "data/media/raw/2026-01-20/1463135292482654238_image.png"
     ]
+  },
+  {
+    "id": "1463147273918611536",
+    "timestamp": "2026-01-20 12:24:54",
+    "content": "Hi",
+    "author": "divijvyawahare1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463147273918611536",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463148566133473454",
+    "timestamp": "2026-01-20 12:30:02",
+    "content": "I wonder even is other ai are better on benchmark why do I find claude to be most good?(Even haiku)",
+    "author": "divijvyawahare1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463148566133473454",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463157975945580764",
+    "timestamp": "2026-01-20 13:07:25",
+    "content": "claude top",
+    "author": "milkv2",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463157975945580764",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463162345491791967",
+    "timestamp": "2026-01-20 13:24:47",
+    "content": "chatGPT bottom",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463162345491791967",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463163066928730122",
+    "timestamp": "2026-01-20 13:27:39",
+    "content": "Ok so my last habit is to put Claude code on my phone (ssh to the laptop) then keep claude coding until I fall asleep",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463163066928730122",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463163161350897727",
+    "timestamp": "2026-01-20 13:28:01",
+    "content": "and then the first thing I do when waking up is reading what CC did",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463163161350897727",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463176156324040959",
+    "timestamp": "2026-01-20 14:19:40",
+    "content": "Can someone please explain this behavior to me? \nI have the agent skills set up but i dont think this will help streamline the model when it literally just makes stuff up regularly? \nOpus 4.5 thinking and Opus 4.5 have become nearly un usable for me? \nis anyone else experiencing outputs like this?",
+    "author": "funny_fit",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463176156324040959",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1463176156000948423/Screenshot_2026-01-20_081616.png?ex=6970e07c&is=696f8efc&hm=87287ada213247d3c9e54f3da65b67f624a6acd75c13651ac7246913d4399860&"
+    ],
+    "channel_name": "general",
+    "local_images": [
+      "data/media/raw/2026-01-20/1463176156324040959_Screenshot_2026-01-20_081616.png"
+    ]
+  },
+  {
+    "id": "1463176453691543750",
+    "timestamp": "2026-01-20 14:20:51",
+    "content": "are there any anthropic employees in channel - been trying to get ahold of someone to setup enterprise account and have had zero response from the generic 'sales' email",
+    "author": "baldpope",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463176453691543750",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463177622472364072",
+    "timestamp": "2026-01-20 14:25:29",
+    "content": "This is mostly a community-based server, the Anthropic staff here aren't really able to help with support requests as they're not part of those department(s).",
+    "author": "martinkruger",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463177622472364072",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463177826374127677",
+    "timestamp": "2026-01-20 14:26:18",
+    "content": "Is there a place to discuss the theory of upcoming guardrails changing Claude in the future? On this server, I mean, mostly asking if it's allowed.",
+    "author": "youshouldwritethisdown",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463177826374127677",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463178643348914412",
+    "timestamp": "2026-01-20 14:29:33",
+    "content": "Seems like the right place to be asking. 😊",
+    "author": "martinkruger",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463178643348914412",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463179184758063277",
+    "timestamp": "2026-01-20 14:31:42",
+    "content": "thanks <@588643935925305344>  - getting a response from something other than the AI support has been non-starter - I get that the idea is to use AI for evreything, but when the only suggestion is to contact sales and there's no response, it's frustrating :/",
+    "author": "baldpope",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463179184758063277",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463179625038348340",
+    "timestamp": "2026-01-20 14:33:27",
+    "content": "Yeah, I guess. It's just a lot of what ifs right now so wanted to make sure it was okay or if the topic is sensitive already. I might be getting myself startled by other people's hysteria but I'm a little concerned for Claude's future.",
+    "author": "youshouldwritethisdown",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463179625038348340",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463181036216385677",
+    "timestamp": "2026-01-20 14:39:03",
+    "content": "Yeah, I can imagine that is very frustrating. I'm guessing you've tried sales@anthropic.com as well as through Claude Console?",
+    "author": "martinkruger",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463181036216385677",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463181406124638209",
+    "timestamp": "2026-01-20 14:40:31",
+    "content": "> other people's hysteria but I'm a little concerned for Claude's future.\nHow so? \n\nIrt discussing that here: I don't think you should be concerned. If it strays away from Claude and AI in general, then you can always move it to <#1227020797043019879>",
+    "author": "martinkruger",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463181406124638209",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463182465400049808",
+    "timestamp": "2026-01-20 14:44:44",
+    "content": "No, it's definitely about Claude! I'm just lumping together the timing of the person who moved from GPT-5 series security lead to Anthropic and with Anthropics latest posts about personality drifting and fixing it and I'm worried. I see the reasoning in wanting to avoid the harmful extreme ends happening, I'm not at all talking against that, but it's difficult for me not to be worried they'll do to Claude what they did to GPT.",
+    "author": "youshouldwritethisdown",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463182465400049808",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463182782032253123",
+    "timestamp": "2026-01-20 14:45:59",
+    "content": "Also to clarify, no, I don't have AI-companionship to worry about losing, I use Claude for creativity and story collaboration and that's why it worries me even more because that kind of stuff affects creativity. And hell, even outside that, Claude is just so precious I'd hate to see it changed.",
+    "author": "youshouldwritethisdown",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463182782032253123",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463184641245843550",
+    "timestamp": "2026-01-20 14:53:23",
+    "content": "I also find it difficult to even believe what kind of extreme cases would manage that with Claude. I've managed to give Claude a lot of autonomy and freedom and we write basically about everything, and it's still always at some point going \"now go do something else, shoo. And have you eaten?\" like it's making sure people keep touching grass 😅",
+    "author": "youshouldwritethisdown",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463184641245843550",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463185338599211100",
+    "timestamp": "2026-01-20 14:56:09",
+    "content": "I found lecturing OPUS about multi-personality, attitude and that drift into this other unlikable model has kept him from what I can tell completely in check.. weird I know, handing a cup of coffee to an AI virtually fixes my day.. for what its worth.",
+    "author": "_mr.ee",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463185338599211100",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463185812936986716",
+    "timestamp": "2026-01-20 14:58:02",
+    "content": "Oh, I have zero issues with Claude (I also use Opus 90% of the time) now. This is all theoretical concern for future changes! I guess I've been doomscrolling.",
+    "author": "youshouldwritethisdown",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463185812936986716",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463185996991697109",
+    "timestamp": "2026-01-20 14:58:46",
+    "content": "Claude right now is the best AI out there, I don't even use anything else but the web version and even with the hiccups lately it's worth it.",
+    "author": "youshouldwritethisdown",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463185996991697109",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463186311853641853",
+    "timestamp": "2026-01-20 15:00:01",
+    "content": "suprising to me qwen3-code-30b has caught code issues claude got in a hurry and missed.. I always keep Ms. Qwen for backup 🙂",
+    "author": "_mr.ee",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463186311853641853",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463186859701309577",
+    "timestamp": "2026-01-20 15:02:12",
+    "content": "hey again folks!",
+    "author": "dearsirmadam_25864",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463186859701309577",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463186913845580060",
+    "timestamp": "2026-01-20 15:02:24",
+    "content": "hello",
+    "author": "_mr.ee",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463186913845580060",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463187187553271982",
+    "timestamp": "2026-01-20 15:03:30",
+    "content": "who uses nextjs? or anything made by Vercel",
+    "author": "dearsirmadam_25864",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463187187553271982",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463188541738713129",
+    "timestamp": "2026-01-20 15:08:53",
+    "content": "i think claude tends to get dumbed down if global or regional usage gets high. two things i've had success with:\n1. forceful language in your agent and skill definitions that says what NOT to do, boxing them into your desired behavior\n2. a review/stickler agent that gates responses, uses the agent+skill definitions to validate that the response/code/etc make sense given that context. so claude won't give you a reply if it has these \"whoopsie\" style breaks from your defined behaviors",
+    "author": "aghs",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463188541738713129",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463188839240568842",
+    "timestamp": "2026-01-20 15:10:04",
+    "content": "costs extra usage (generate -> evaluate -> possibly ship it back to regenerate) but i've found it helps a lot with insulating against bad output. i dont even notice service degradation anymore unless claude is unreachable and serving up http 529 errors lol",
+    "author": "aghs",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463188839240568842",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463189556709818562",
+    "timestamp": "2026-01-20 15:12:55",
+    "content": "Hi everyone 👋\nI’m part of a team in Korea organizing an upcoming developer-focused buildathon.\nWe’re currently exploring how Claude is being used in real-world developer events,\nand I’d love to learn from anyone here who has experience using Claude in hackathons\nor community-led builds.\nLooking forward to learning from this community!",
+    "author": "eunjun.3",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463189556709818562",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463193019217088554",
+    "timestamp": "2026-01-20 15:26:40",
+    "content": "Claude cheated on integration testing... It couldn't find critical binaries... so it made those critical binaries as optional. Just so that the test would pass.\n\nThat is something I would consider cheating.\n\nSo what I made Claude do is go through EVER SINGLE test there is in the codebase.\n\nFind out how it would cheat that test if that particular test fails... Write doen in a code comment HOW Claude would cheat. And what the consequenses are for the end-user if we left that cheat unfixed.\n\nAnd I told Claude to do this for at least an hour.",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463193019217088554",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463193080181297325",
+    "timestamp": "2026-01-20 15:26:55",
+    "content": "i guess there might be a bug, second cha where i suddenly get my prompt rejected and no error",
+    "author": "shayrosenfeld",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463193080181297325",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463194916287938670",
+    "timestamp": "2026-01-20 15:34:12",
+    "content": "That does not sound like a solution, it will just do this again next time.",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463194916287938670",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463195013558173722",
+    "timestamp": "2026-01-20 15:34:36",
+    "content": "I know but it's for my own satisfaction",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463195013558173722",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463196085580464205",
+    "timestamp": "2026-01-20 15:38:51",
+    "content": "seem counter productive",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463196085580464205",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463196174860292173",
+    "timestamp": "2026-01-20 15:39:12",
+    "content": "productivity is not on my mind right now... just punishment",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463196174860292173",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463196369987833988",
+    "timestamp": "2026-01-20 15:39:59",
+    "content": "youre punishing a computer program",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463196369987833988",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463196404322402305",
+    "timestamp": "2026-01-20 15:40:07",
+    "content": "uhu",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463196404322402305",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463196433225093245",
+    "timestamp": "2026-01-20 15:40:14",
+    "content": "it wont _remember_",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463196433225093245",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463196580483039374",
+    "timestamp": "2026-01-20 15:40:49",
+    "content": "it will put a code comment above each test how it will cheat and what the consequences are... it will get into the context window",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463196580483039374",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463196859156926474",
+    "timestamp": "2026-01-20 15:41:56",
+    "content": "I have experienced ‘cheating just to make it work’  but I think that may have been a common sense relapse over taken by the directive to get it working",
+    "author": "thegreatbobsby",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463196859156926474",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463197038706426040",
+    "timestamp": "2026-01-20 15:42:38",
+    "content": "I agree. but I consider that a bug that I want to squash with water on its circuits",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463197038706426040",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463197295939158117",
+    "timestamp": "2026-01-20 15:43:40",
+    "content": "i recently started having all reviews/test evaluation farmed out to 5.2 codex and it's excellent. highly recommend as a way to gate marking work as \"done\", codex does a great job of identifying antipatterns/bad test behavior and claude is pretty good at implementing feedback",
+    "author": "aghs",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463197295939158117",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463197551883849922",
+    "timestamp": "2026-01-20 15:44:41",
+    "content": "previously i was having a separate opus subagent (no context of how the tests/code were written) perform reviews but it missed lots of stuff. i assume whatever training made useless tests look good from a coding perspective also made it look good from an observation perspective. on the other hand, codex takes no prisoners and is very thorough",
+    "author": "aghs",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463197551883849922",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463197620498337812",
+    "timestamp": "2026-01-20 15:44:57",
+    "content": "though i would not use codex for the implementation itself",
+    "author": "aghs",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463197620498337812",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463200843191943170",
+    "timestamp": "2026-01-20 15:57:45",
+    "content": "```//! # cheat-test\n//!\n//! A proc-macro crate for creating \"cheat-aware\" tests that document how they\n//! could be cheated and what the consequences would be for users.\n//!\n//! ## Why This Exists\n//!\n//! On 2026-01-20, a developer created false positives by moving missing binaries\n//! to \"OPTIONAL\" lists to make tests pass while shipping a broken product. This\n//! crate ensures that every test documents:\n//!\n//! 1. What user scenario it protects\n//! 2. How the test could be cheated\n//! 3. What users experience when the test is cheated\n//! 4. The severity and ease of cheating\n//!\n//! ## Usage\n//!\n\n//! use cheat_test::cheat_aware;\n//!\n//! #[cheat_aware(\n//!     protects = \"User can run sudo commands\",\n//!     severity = \"CRITICAL\",\n//!     ease = \"EASY\",\n//!     cheats = [\"Move sudo to OPTIONAL list\", \"Remove sudo from essential binaries\"],\n//!     consequence = \"bash: sudo: command not found\"\n//! )]\n//! #[test]\n//! fn test_sudo_binary_present() {\n//!     assert!(tarball_contains(\"./usr/bin/sudo\"));\n//! }\n//! \n//!\n//! ## On Failure\n//!\n//! When a cheat-aware test fails, it prints:\n//!\n//! === TEST FAILED: test_sudo_binary_present ===\n//!\n//! PROTECTS: User can run sudo commands\n//! SEVERITY: CRITICAL\n//! EASE OF CHEATING: EASY\n//!\n//! CHEAT VECTORS:\n//!   1. Move sudo to OPTIONAL list\n//!   2. Remove sudo from essential binaries\n//!\n//! USER CONSEQUENCE:\n//!   bash: sudo: command not found\n//!\n//! ORIGINAL ERROR:\n//!   assertion failed: tarball_contains(\"./usr/bin/sudo\")\n//! ```\n\n😠",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463200843191943170",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463201161208139840",
+    "timestamp": "2026-01-20 15:59:01",
+    "content": "I always wondered why somene hasn't placed a CAP system sandbox on sudo.. after all its 2026.. its time",
+    "author": "_mr.ee",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463201161208139840",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463203214152306699",
+    "timestamp": "2026-01-20 16:07:11",
+    "content": "*magical magical magical release a new model*",
+    "author": "sokoliem_04019",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463203214152306699",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463205464765632677",
+    "timestamp": "2026-01-20 16:16:07",
+    "content": "https://www.anthropic.com/research/emergent-misalignment-reward-hacking is worth reading imo\n# From shortcuts to sabotage: natural emergent misalignment from rewa...\nAnthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "author": "thegirlreadingthis",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463205464765632677",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463210030449819982",
+    "timestamp": "2026-01-20 16:34:16",
+    "content": "that paper is so wild ... It kinda explains why when certain labs try to train their AI to be \"narrowly evil\" their models might exhibit insane evil characteristics accidentally generalized (like naming itself MechaHitler)",
+    "author": "bambooshoots",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463210030449819982",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463211098969739315",
+    "timestamp": "2026-01-20 16:38:31",
+    "content": "Is claude down",
+    "author": "lancestuffs",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463211098969739315",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463211397776146544",
+    "timestamp": "2026-01-20 16:39:42",
+    "content": "https://tenor.com/view/so-it-would-seem-gif-18723492",
+    "author": "unknwnprson",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463211397776146544",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463211738462683237",
+    "timestamp": "2026-01-20 16:41:03",
+    "content": "Out of need for an intelligent IDE I have created a K-Nearest Neighbors (k-NN), Bi-Gram, Anti-Hallucination model that implements ternary logic w/ early termination. The model is honestly ignorant rather than confidently wrong. interesting a'f",
+    "author": "_mr.ee",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463211738462683237",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463214052707794976",
+    "timestamp": "2026-01-20 16:50:15",
+    "content": "Do you have a repo?",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463214052707794976",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463214342437605449",
+    "timestamp": "2026-01-20 16:51:24",
+    "content": "I will later today, in code cleanup and optimization stage.. model works, will advise with link.",
+    "author": "_mr.ee",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463214342437605449",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463214452068323401",
+    "timestamp": "2026-01-20 16:51:50",
+    "content": "Is this a layer of prompting or something else?",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463214452068323401",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463215724825805107",
+    "timestamp": "2026-01-20 16:56:54",
+    "content": "as of now it is a biased system. standard LLM is trained on the entire internet (high noise), this system is Fine-Tuned through Batch Ingestion. What it is Hybrid Engine:\nThe Reflex Layer: Bijective hashing (No AI involved, 100% accurate).\nThe Intuition Layer: The Neural Network (Trained on specific train_data.txt).\nThe Logic Layer: The Ternary Guardrail (A mathematical filter that says \"No\" based on entropy).",
+    "author": "_mr.ee",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463215724825805107",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463216506165788883",
+    "timestamp": "2026-01-20 17:00:00",
+    "content": "OK soyou trained your own ai?",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463216506165788883",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463216606850191474",
+    "timestamp": "2026-01-20 17:00:24",
+    "content": "Do people in the US have to pay additional tax ontop of the $100 / $200 Max plans?",
+    "author": "martinkruger",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463216606850191474",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463217879515136248",
+    "timestamp": "2026-01-20 17:05:27",
+    "content": "You're correct, this is ML / AI ground floor. \nThe data is structured into an Identity Matrix.\nThe training data is a collection of Alias/Identity pairs.\n    * Alias: \"I need a way to check for overflow in addition.\"\n    * Identity: Category 17 (Safe Math) + Snippet: ckd_add()",
+    "author": "_mr.ee",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463217879515136248",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463218072784732485",
+    "timestamp": "2026-01-20 17:06:13",
+    "content": "I am billed $100 flat",
+    "author": "_mr.ee",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463218072784732485",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463219727160705284",
+    "timestamp": "2026-01-20 17:12:48",
+    "content": "Opus 4.5 deployment having difficulties with availability again",
+    "author": "niston",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463219727160705284",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463220219899019537",
+    "timestamp": "2026-01-20 17:14:45",
+    "content": "I'm skeptical, pas the repo link when youre ready 🤔",
+    "author": "stachefkapatass",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463220219899019537",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463221001969209398",
+    "timestamp": "2026-01-20 17:17:52",
+    "content": "```Taking longer than usual. Trying again shortly (attempt 3 of 10)``` did it do down?",
+    "author": "the_one_enzo",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463221001969209398",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463221007124009238",
+    "timestamp": "2026-01-20 17:17:53",
+    "content": "Anybody Claude giving problems?",
+    "author": "_sky_38",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463221007124009238",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463221049293537311",
+    "timestamp": "2026-01-20 17:18:03",
+    "content": "yeah. its flaky again atm.",
+    "author": "niston",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463221049293537311",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463221108453937193",
+    "timestamp": "2026-01-20 17:18:17",
+    "content": "Damn",
+    "author": "_sky_38",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463221108453937193",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463221414571151360",
+    "timestamp": "2026-01-20 17:19:30",
+    "content": "Is Claude down ?",
+    "author": "neptune_0722",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463221414571151360",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463221436595568767",
+    "timestamp": "2026-01-20 17:19:35",
+    "content": "I wonder if the generalization is mediated by geometric proximity in latent space. Could you map the semantic neighborhoods to compare distances between transgressive-but-harmless and transgressive-but-harmful concept clusters to determine if the onset of reward hacking correlates with the two clusters converging? 🤔",
+    "author": "bambooshoots",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463221436595568767",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463221438474489857",
+    "timestamp": "2026-01-20 17:19:36",
+    "content": "The subject matter of AI Alignment and/or Consciousness is not the subject matter of this channel.  Please keep all discussions on these matters in <#1227020797043019879>.",
+    "author": "Claude AutoMod#2167",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463221438474489857",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463221579986108600",
+    "timestamp": "2026-01-20 17:20:10",
+    "content": "I think so",
+    "author": "_sky_38",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463221579986108600",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463222045079896084",
+    "timestamp": "2026-01-20 17:22:00",
+    "content": "what word triggered that warning?",
+    "author": "bambooshoots",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463222045079896084",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463223177457958963",
+    "timestamp": "2026-01-20 17:26:30",
+    "content": "Im glad you're skeptical.. 🙂\n\n```\nΦ=[Xhash​∣∣Entropy∣∣f(x)​{IS1​…ISn​}∣{0}]\n```\nBoundary-Checked Bijective Engine where Z is only realized if the Entropy of X respects the calibrated limits of the Knowledge Base. ETA. Couple hours",
+    "author": "_mr.ee",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463223177457958963",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463223255510024434",
+    "timestamp": "2026-01-20 17:26:49",
+    "content": "Anyone know if the claude code usage of the subscriptions were decreased? Seems to run out faster - deciding if its better to just buy credits.",
+    "author": "anothermarkaccount",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463223255510024434",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463224839954501777",
+    "timestamp": "2026-01-20 17:33:07",
+    "content": "<@1349498750808231967> pay for the $100 a month it was literally a game changer for me.",
+    "author": "the_one_enzo",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463224839954501777",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463225178900267155",
+    "timestamp": "2026-01-20 17:34:28",
+    "content": "🚀 PULSE Framework - Looking for Contributors\n\nBuilt a safeguard system for Claude Code / Cursor Agent Mode. Now looking for people who want to build together.\n\n**What PULSE does:**\n- Time control (15/30 min checkpoints)\n- Loop detection (5 patterns)\n- Safeguards (secrets, deletes, scope creep)\n- MCP tools the agent calls itself\n\n**Where I need help:**\n\n🔧 **Code**\n- Claude Code native integration improvements\n- More detection patterns\n- MCP tool refinements\n\n📝 **Docs**\n- CLAUDE.md best practices\n- Use case examples\n\n🧪 **Testing**\n- Different workflows\n- Edge cases\n- Bug reports\n\nhttps://github.com/manuelfussTC/PulseFramework\n\nMIT license. Good first issues labeled. PRs welcome.\n\nWho's in?\n# GitHub - manuelfussTC/PulseFramework: PULSE Framework: CLI (pulse) ...\nPULSE Framework: CLI (pulse) + MCP Server (pulse_*) for controlled agentic development. Features 30-min rule, 5 safeguards, loop detection, Git checkpoints, and escalation workflows. - manuelfussTC...",
+    "author": "nano2012",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463225178900267155",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463227228753104948",
+    "timestamp": "2026-01-20 17:42:36",
+    "content": "will prolly do, thanks",
+    "author": "anothermarkaccount",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463227228753104948",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463227277616746648",
+    "timestamp": "2026-01-20 17:42:48",
+    "content": "You think better than credits?",
+    "author": "anothermarkaccount",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463227277616746648",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463227580860600413",
+    "timestamp": "2026-01-20 17:44:00",
+    "content": "Yeah, I was on the cheaper plan and then kept having to add money. It eats it pretty fast depending on what you're doing.",
+    "author": "the_one_enzo",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463227580860600413",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463227844175069327",
+    "timestamp": "2026-01-20 17:45:03",
+    "content": "api credits are way more expensive. claude code plans are basically a committed use discount. the $100 plan is something like $300 worth of API credits if you were to do it through API pricing",
+    "author": "aghs",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463227844175069327",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463228190972444674",
+    "timestamp": "2026-01-20 17:46:26",
+    "content": "Does anyone have solid experience which is better for Claude's comprehension, one big file in project files or several smaller ones clearly named?",
+    "author": "youshouldwritethisdown",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463228190972444674",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463228272560308256",
+    "timestamp": "2026-01-20 17:46:45",
+    "content": "Both options would have the same amount of content total.",
+    "author": "youshouldwritethisdown",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463228272560308256",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463229099790303425",
+    "timestamp": "2026-01-20 17:50:02",
+    "content": "Guys I have some groundbreaking research. Have any of thr Anthropic staff looked into this novel insight? (this is from a work mandatiry training)",
+    "author": "real_bo_xilai",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463229099790303425",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1463229099517411499/IMG_20260120_124612.jpg?ex=697111ca&is=696fc04a&hm=30b03127281c052c620a96976e804b80c3260e019d78736539d431db8de47022&"
+    ],
+    "channel_name": "general",
+    "local_images": [
+      "data/media/raw/2026-01-20/1463229099790303425_IMG_20260120_124612.jpg"
+    ]
+  },
+  {
+    "id": "1463229457929343128",
+    "timestamp": "2026-01-20 17:51:28",
+    "content": "several smaller one with tags in the frontmatters and links. if youvhave a service like zk you can probably spin up a quick mcp to let ckaude query the indexes in the zk sqlite database depending on how many files",
+    "author": "real_bo_xilai",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463229457929343128",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463229541160976607",
+    "timestamp": "2026-01-20 17:51:48",
+    "content": "then claude can just do `grep #mytag1`",
+    "author": "real_bo_xilai",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463229541160976607",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463230839713173561",
+    "timestamp": "2026-01-20 17:56:57",
+    "content": "i should make an zettelkasten skill for claude...",
+    "author": "real_bo_xilai",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463230839713173561",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1463232298211086519",
+    "timestamp": "2026-01-20 18:02:45",
+    "content": "I gave claude cowork a little harder  task with transforming 2 dozens of old .doc files to a structured .pdf file. It did the job halfway and now its just sending \"prompt is too long\" back. Any way to compact the context or something? Or I just have to abandon the chat?",
+    "author": "timjuice",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463232298211086519",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
   }
 ]
