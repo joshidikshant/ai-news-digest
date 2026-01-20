@@ -145,5 +145,43 @@
     "category": "discussion",
     "curated_at": "2026-01-19T21:00:03.471389+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude AI Users Complain About Outages and Usage Limits",
+    "bullets": [
+      "Numerous users report frequent outages and stricter usage limits impacting productivity.",
+      "Comparisons made to competitors like ChatGPT and Gemini, suggesting more reliable alternatives."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-19 21:30:34",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462922210652979476",
+      "message_id": "1462922210652979476"
+    },
+    "relevance": 80,
+    "hot_take": "Are AI providers charging a premium for mediocrity? A deep dive into Claude's reliability issues.",
+    "category": "discussion",
+    "curated_at": "2026-01-20T00:51:54.196797+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude AI Subscribers Question Transparency on Usage Limits",
+    "bullets": [
+      "Users express frustration over unclear communication regarding subscription usage limits.",
+      "Discrepancies between documented limits and actual experience prompt calls for transparency."
+    ],
+    "source": {
+      "server": "Anthropic Discord",
+      "channel": "general",
+      "timestamp": "2026-01-19 22:21:56",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462935137116356659",
+      "message_id": "1462935137116356659"
+    },
+    "relevance": 75,
+    "hot_take": "AI Subscription Models: Is Lack of Transparency Driving Customers Away?",
+    "category": "discussion",
+    "curated_at": "2026-01-20T00:51:54.196810+00:00",
+    "original_server": "Anthropic"
   }
 ]

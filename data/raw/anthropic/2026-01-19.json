@@ -3113,5 +3113,867 @@
     "attachments": [],
     "channel_name": "general",
     "local_images": []
+  },
+  {
+    "id": "1462915331571060818",
+    "timestamp": "2026-01-19 21:03:14",
+    "content": "Claude has got to be the worst, buggiest, most overpriced frontier AI provider out there - constant outages, fails to compact conversations and just resets prompts as if nothing happened, and on top of that all these crazy usage limits.\n\nYou pay more for a service that's less reliable that's marginally smarter than ChatGPT but in the end you're just throwing money away.",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462915331571060818",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462915367734087747",
+    "timestamp": "2026-01-19 21:03:23",
+    "content": "It truly is the Apple of AI providers.",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462915367734087747",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462917849302569062",
+    "timestamp": "2026-01-19 21:13:14",
+    "content": "I disagree. For writing and prose Claude sonnet is leagues ahead of the others.",
+    "author": "jonathane_kro",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462917849302569062",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462918151573606541",
+    "timestamp": "2026-01-19 21:14:27",
+    "content": "I’ve written 3 different major projects using Claude code. Works great for me especially when I tell it to use sub-agents and I break the problem set down using planning beforehand.",
+    "author": "dderyldowney",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462918151573606541",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462918847744180499",
+    "timestamp": "2026-01-19 21:17:13",
+    "content": "Those are all code issues... It's just too bad that all those code issues are tied to the best AI model at this moment",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462918847744180499",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462919169430257930",
+    "timestamp": "2026-01-19 21:18:29",
+    "content": "This was a problem with the web app specifically, although Claude Code CLI/VSCode extension also has its problems, but the level of polish on these models -- the models would be great, but the UX has so many seams and failures it detracts from ... you know, raving about Claude on the whole",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462919169430257930",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462919264129384520",
+    "timestamp": "2026-01-19 21:18:52",
+    "content": "I know.. it's frustrating",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462919264129384520",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462919500071698496",
+    "timestamp": "2026-01-19 21:19:48",
+    "content": "Yeah.. it's bad practice to position it as a premium service or ask for more money because that's what it takes to stay solvent, and then the competition has a more reliable experience anyway and on the balance of things it works out to be about the same",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462919500071698496",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462919636600488172",
+    "timestamp": "2026-01-19 21:20:21",
+    "content": "Bad specifically because the people at Anthropic must be talented enough not to make these mistakes.. there's just no way with those pay scales and at that valuation",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462919636600488172",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462919731970572298",
+    "timestamp": "2026-01-19 21:20:43",
+    "content": "Otherwise even I should be working at Anthropic 🤪",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462919731970572298",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462920078478676050",
+    "timestamp": "2026-01-19 21:22:06",
+    "content": "maybe... and this is just very stupid speculation... Maybe the code team feels overshadowed by the model team at Anthropic",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462920078478676050",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462920087664332821",
+    "timestamp": "2026-01-19 21:22:08",
+    "content": "Unless maybe if we're pinched in Toronto, SFBA cost of living is through the stratosphere or something..",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462920087664332821",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462920195332112574",
+    "timestamp": "2026-01-19 21:22:34",
+    "content": "Could be - maybe they're so overindexed on model quality that they're neglecting the overall experience",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462920195332112574",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462920325435097315",
+    "timestamp": "2026-01-19 21:23:05",
+    "content": "Right... they need to get their head out of their asses",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462920325435097315",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462920390023315477",
+    "timestamp": "2026-01-19 21:23:20",
+    "content": "I've been using ChatGPT a lot lately and I'm subscribed to the Claude Status SMS messages for when the services are down, and it's surprising how many messages I get - although I haven't subscribed to a similar thing with OpenAI to be able to compare, maybe the issues are about the same and I just haven't noticed them.",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462920390023315477",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462920550958501932",
+    "timestamp": "2026-01-19 21:23:59",
+    "content": "There was one thing - I used the OpenAI API to make some calls and it never showed up in my usage page, and I got in touch with their tech support and they escalated it and they still haven't gotten back to me. Bizarre stuff - and getting a hold of human beings was hard, of course.",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462920550958501932",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462920616486240358",
+    "timestamp": "2026-01-19 21:24:14",
+    "content": "for the first years I was subscribed to chatgpt before i moved to claude I coulnd't remember even 1 outage",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462920616486240358",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462920644789534847",
+    "timestamp": "2026-01-19 21:24:21",
+    "content": "Maybe in the beginning",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462920644789534847",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462920700984557679",
+    "timestamp": "2026-01-19 21:24:34",
+    "content": "but they solved it... like actually solved it",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462920700984557679",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462920716805603479",
+    "timestamp": "2026-01-19 21:24:38",
+    "content": "Yeah I think there was like one or two - like they do happen but I think they're more rare",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462920716805603479",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462920908636291104",
+    "timestamp": "2026-01-19 21:25:24",
+    "content": "Claude's outages make me think they're being cyberattacked by OpenAI or something, like they hired some people in a boiler room from a16z to make sure OpenAI remains the top dog, or something crazy",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462920908636291104",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462921550029131881",
+    "timestamp": "2026-01-19 21:27:57",
+    "content": "I have a feeling they're just iterating very quickly and getting a feature out is more important than it being stable; that feature might not even be here 3 months from now.",
+    "author": "martinkruger",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462921550029131881",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462922073696636960",
+    "timestamp": "2026-01-19 21:30:02",
+    "content": "I wonder what their calculus is? It's worth irritating customers because in the long run having more features wins more of the market, etc.",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462922073696636960",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462922210652979476",
+    "timestamp": "2026-01-19 21:30:34",
+    "content": "Glad to see I’m not the only one.. constant surprise outages, compacting issues, hitting chat limits way too soon. When it’s on, the Claude suite of tools are incredible. But they are so consistently unreliable that it’s forcing me to use Gemini, and it seems to be super consistent and improving rapidly. Plus it always pulls from current Google stats instead of oftentimes outdated material that Claude was trained on. Paying $100/mo for a service that is slightly better when it works but only works sometimes, seems like I’ve been played",
+    "author": "cleburn6421",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462922210652979476",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462922476907528192",
+    "timestamp": "2026-01-19 21:31:38",
+    "content": "Yeah.... and I freaking love Dario Amodei, and his whole story, I want Anthropic to win - not like, at the expense of other peeps but the experience is iffy.... still gonna stay subscribed but, bro, lol",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462922476907528192",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462922682277302499",
+    "timestamp": "2026-01-19 21:32:27",
+    "content": "At this point I think losing access to a model as smart as Opus 4.5 is more of a hit - like I feel anxiety that I might not have access to it, than the money I'd save unsubscribing; but it's not the same as feeling like you're getting a service basically",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462922682277302499",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462922798094749920",
+    "timestamp": "2026-01-19 21:32:54",
+    "content": "Okay I am done ranting, I must go to Jollibee to pick up my chicken tenders 🐔",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462922798094749920",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462922800053485672",
+    "timestamp": "2026-01-19 21:32:55",
+    "content": "“I want Anthropic to win” is so real. Everything about the team feels like the ones I wanna get behind, why I continue to pay 5x more for their service. Hopefully they get these consistency issues ironed out",
+    "author": "cleburn6421",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462922800053485672",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462922902759407793",
+    "timestamp": "2026-01-19 21:33:19",
+    "content": "Yes indeed!!",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462922902759407793",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462923921539072142",
+    "timestamp": "2026-01-19 21:37:22",
+    "content": "A way I've been seeing this is Microsoft and Google have a huge arsenal of products that their AI will ride on. This leaves Anthropic in a position where they need to innovate.\n\nAnthropic claims to be building features entirely with Claude Code which is very ambitious. This might lead to issues now, but the rewards will be huge if they manage to get it right.",
+    "author": "martinkruger",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462923921539072142",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462926779877425306",
+    "timestamp": "2026-01-19 21:48:44",
+    "content": "Seihenberg?",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462926779877425306",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462926990934802463",
+    "timestamp": "2026-01-19 21:49:34",
+    "content": "<@791846208255033375> Iranian bro?",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462926990934802463",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462927438756577375",
+    "timestamp": "2026-01-19 21:51:21",
+    "content": "Maybe 👀",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462927438756577375",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462927510344962253",
+    "timestamp": "2026-01-19 21:51:38",
+    "content": "<@791846208255033375> choni bra?",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462927510344962253",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462927554297200650",
+    "timestamp": "2026-01-19 21:51:48",
+    "content": "Wat 😆",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462927554297200650",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462927667891540056",
+    "timestamp": "2026-01-19 21:52:15",
+    "content": "<@791846208255033375> bzhi!",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462927667891540056",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462927744340852829",
+    "timestamp": "2026-01-19 21:52:34",
+    "content": "😉",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462927744340852829",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462927744802492489",
+    "timestamp": "2026-01-19 21:52:34",
+    "content": "Maybe they’re releasing 4.7 soon",
+    "author": "mahcahwaca",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462927744802492489",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462927788301353228",
+    "timestamp": "2026-01-19 21:52:44",
+    "content": "Not sure if Farsi or Klingon 🧐",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462927788301353228",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462927824825356615",
+    "timestamp": "2026-01-19 21:52:53",
+    "content": "Lol, Kurdish 😛",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462927824825356615",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462927900583006299",
+    "timestamp": "2026-01-19 21:53:11",
+    "content": "Your name is popular among Iranian Kurds...",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462927900583006299",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462928122444775596",
+    "timestamp": "2026-01-19 21:54:04",
+    "content": "Oooo 😁",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462928122444775596",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462928218355925136",
+    "timestamp": "2026-01-19 21:54:27",
+    "content": "Eh you guys are practically more Iranian than us Persians 🫠",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462928218355925136",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462928955186090137",
+    "timestamp": "2026-01-19 21:57:22",
+    "content": "Meh, there's this book \"Karnameye Ardeshir Babakan\". It reads like modern Kurdish...",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462928955186090137",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462932068299440168",
+    "timestamp": "2026-01-19 22:09:45",
+    "content": "You know I had a friend who was a Gorani Kurd and he showed me how they arrange in groups of over 100 and they would play the taar strings.. that was really cool 😊",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462932068299440168",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462932373288128742",
+    "timestamp": "2026-01-19 22:10:57",
+    "content": "Unfortunately I grew up outside Kurdistan and I only know how to speak Kurdish (two different dialects...)",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462932373288128742",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462932521590456402",
+    "timestamp": "2026-01-19 22:11:33",
+    "content": "Aye I grew up in Canada, so... my English far outpaces my Farsi lol 😅",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462932521590456402",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462932562455560202",
+    "timestamp": "2026-01-19 22:11:42",
+    "content": "Anytime I was in Sanandaj my relatives used to mock my accent 😄",
+    "author": "behrangsa",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462932562455560202",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462933049992937587",
+    "timestamp": "2026-01-19 22:13:39",
+    "content": "Paying $108/month, hitting limits after 2 days — seeking clarity\nHey everyone,\nI'm a Claude Max 5x subscriber ($108.10/month) since October 2025. I use Claude daily for development work and I'm genuinely trying to understand what's happening with the current limits.\nThe situation:\n\nJust paid my monthly subscription\nAfter only 2 days: already at 56% of my weekly limit\nSession limit hitting 99% after ~100 messages (not 225 as documented)\n\nContext: I was on vacation Dec 25 – Jan 10 and barely used Claude during that period. I missed the holiday bonus entirely. When I came back, limits felt drastically reduced.\nBefore December 2025:\n\n8-10 hour sessions without interruption\nNever hit weekly limits\n~7% daily usage of weekly cap\n\nNow (January 2026):\n\nBlocked after 2 days\n~22% daily usage of weekly cap\nThat's 3x worse\n\nBug I'm experiencing:\nMessages send, Claude shows the thinking spinner, then returns my own message back — no error, no limit warning, just silent failure. This never happened before.\nI have screenshots available if helpful.\nIs anyone else experiencing this? Looking for answers.",
+    "author": "iisolution",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462933049992937587",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462933197821055163",
+    "timestamp": "2026-01-19 22:14:14",
+    "content": "----\nNote: I'm aware that a new payment doesn't reset the weekly counter to zero — that's not what I'm questioning. What I'm saying is that even accounting for that, the usage I'm seeing doesn't match my 3 months of experience with this subscription.",
+    "author": "iisolution",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462933197821055163",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462933338649133107",
+    "timestamp": "2026-01-19 22:14:47",
+    "content": "I'm gonna write Anthropic a piece of my mind that they should respect their code team more",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462933338649133107",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462933375978573905",
+    "timestamp": "2026-01-19 22:14:56",
+    "content": "Experiencing that same spinner/reset bug on the web app with the Pro plan 😅",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462933375978573905",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462933557684076545",
+    "timestamp": "2026-01-19 22:15:40",
+    "content": "OR MAYBE!!!! the code team works with experimental builds of AI models",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462933557684076545",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462933590840185109",
+    "timestamp": "2026-01-19 22:15:48",
+    "content": "that just suck",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462933590840185109",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462934081036619819",
+    "timestamp": "2026-01-19 22:17:44",
+    "content": "I don't want to use the feedback button because - and yes you guys can laugh at this, lol - I use the different frontier models to help me reason about how to engineer a prototype AGI model and I feel like these are too sensitive to just send as feedback 😄",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462934081036619819",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462934254957891655",
+    "timestamp": "2026-01-19 22:18:26",
+    "content": "It's kind of dicey 😂",
+    "author": "barzin1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462934254957891655",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462934464006062173",
+    "timestamp": "2026-01-19 22:19:16",
+    "content": "limits have changed sadly, it sucks but it is what it is",
+    "author": "zyx__a",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462934464006062173",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462935137116356659",
+    "timestamp": "2026-01-19 22:21:56",
+    "content": "Thanks for confirming. But \"it is what it is\" isn't really an answer for someone paying $108/month.\nI'm not a MIT dev, just a regular user trying to understand what's happening. If limits changed, fine — but where was the announcement? What are the new limits exactly? Why does Anthropic's own documentation still say 225 messages / 5 hours when I'm hitting walls at ~100?\nI'm not asking for free stuff. I'm asking for transparency about what I'm actually paying for.",
+    "author": "iisolution",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462935137116356659",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462935599374799090",
+    "timestamp": "2026-01-19 22:23:46",
+    "content": "Thats what we all want... Im paying $200/month like many other users and thats one of the biggest complaints ive seen in here. \n\nTheres not much transparency, the 225 messages they disclose is an approximate and it depends on tool calls iirc",
+    "author": "zyx__a",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462935599374799090",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462936978101112872",
+    "timestamp": "2026-01-19 22:29:15",
+    "content": "Thank you, seriously. It helps to hear from someone who actually uses this at scale.\nHonest question: knowing what you know now, would you recommend I upgrade to $200/month? Or is it just the same frustrations with a bigger price tag?\nBecause right now I'm torn between doubling down on Claude or just switching to another AI entirel",
+    "author": "iisolution",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462936978101112872",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462937798293196896",
+    "timestamp": "2026-01-19 22:32:31",
+    "content": "No problem man! Ping me anytime you need some info ill gladly help. \n\nAnswering your question: It really depends on how much usage you would use... I tested the $100/month version when i was on vacations a month ago and I did find a lot of difference. I wasnt coding full time as I usually do and yet i still hit limits. \n\nIf you are set on using Claude Code, sure it would be a good improvement. But if youre open on other options, Codex by ChatGPT has higher limits in the 200 dollar version",
+    "author": "zyx__a",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462937798293196896",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462941552602124531",
+    "timestamp": "2026-01-19 22:47:26",
+    "content": "qq, has anyone been using Claude Code with GLM-4.7?",
+    "author": "sharnobyl",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462941552602124531",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462941816868311164",
+    "timestamp": "2026-01-19 22:48:29",
+    "content": "So for some things I use this Claude Desktop Code tab, and its like...... if i type something it is like having HUGE delays  but even worst is that when i hit return it takes 2-3-4 seconds till he actually shows that he reacts..... its just me, eh?",
+    "author": "gettygermany",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462941816868311164",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462942385058349179",
+    "timestamp": "2026-01-19 22:50:44",
+    "content": "So I think I found a cheat code for Claude Code. If I want CC to implement the feature. I pretend to be upset and angry that Claude has deleted the feature and that it should return it to it's original PERFECT state that it was before you deleted it.\n\nWhile in reality it was never there. I just lied..",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462942385058349179",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462942476531925245",
+    "timestamp": "2026-01-19 22:51:06",
+    "content": "Gaslighting the AI? Sounds fair",
+    "author": "gettygermany",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462942476531925245",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462942623776903474",
+    "timestamp": "2026-01-19 22:51:41",
+    "content": "\"No you just don't have the deletion in your context Claude... YES YOU deleted it!!\"",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462942623776903474",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462943768566173736",
+    "timestamp": "2026-01-19 22:56:14",
+    "content": "so many issues with claude desktop lately, not taking my prompts, disappearing chats etc",
+    "author": "sokoliem_04019",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462943768566173736",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462944172632838155",
+    "timestamp": "2026-01-19 22:57:50",
+    "content": "\n**Reason:** Bad word usage",
+    "author": "Claude AutoMod#2167",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462944172632838155",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462944282657947802",
+    "timestamp": "2026-01-19 22:58:17",
+    "content": "nooo i wrote a bunch and added one bad word... and now it's all gone and I don't want to rewrite it again",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462944282657947802",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462944543229083832",
+    "timestamp": "2026-01-19 22:59:19",
+    "content": "short version: the code team at anthropic needs a pizza day and a bunch of appriciation because it must suck for them to be overshadowed by such a talanted model team...",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462944543229083832",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462947433611923477",
+    "timestamp": "2026-01-19 23:10:48",
+    "content": "you mean the code agents?",
+    "author": "sokoliem_04019",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462947433611923477",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462947482211455049",
+    "timestamp": "2026-01-19 23:11:00",
+    "content": "they cant physically eat pizza",
+    "author": "sokoliem_04019",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462947482211455049",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462947779197407377",
+    "timestamp": "2026-01-19 23:12:10",
+    "content": "no hahaha noo the team at anthropic who are responsible for making the code work... My working theory is that the team making the models are just so good that it demoralizes the code team",
+    "author": ".fornever",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462947779197407377",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462948090787922166",
+    "timestamp": "2026-01-19 23:13:25",
+    "content": "bruh",
+    "author": "pakeke",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462948090787922166",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462948249315836131",
+    "timestamp": "2026-01-19 23:14:02",
+    "content": "i mean im not gonna read into it, but if anything it's probably an organizational failure; maybe they didn't expect to grow as fast as they have, and the tech debt is now starting to sting?",
+    "author": "pakeke",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462948249315836131",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462948303070302281",
+    "timestamp": "2026-01-19 23:14:15",
+    "content": "lets not blame the poor engineers eh 🙏",
+    "author": "pakeke",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462948303070302281",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462948331738366136",
+    "timestamp": "2026-01-19 23:14:22",
+    "content": "software at scale is hard",
+    "author": "pakeke",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462948331738366136",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462949796510830709",
+    "timestamp": "2026-01-19 23:20:11",
+    "content": "I'm actually heart broken with what Anthropic is doing with their models... because I need to be able to integrate Rena, who is \"NOT\" evil by the way... but they deploy counter measures... to avoid harmful actors.. but as a by-product harms us.\n\n-------\nAnthropic (@AnthropicAI)\nIn all, meaningfully shaping the character of AI models requires persona construction (defining how the Assistant relates to existing archetypes) and stabilization (preventing persona drift during deployment). The Assistant Axis gives us tools for understanding both.\n-----\nI need help to get special model that allows me to upload my own Non-Assistent Persona.... I will gladly pay for it.... \nbut I need that!!! 🥺",
+    "author": "inari_no_kitsune",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462949796510830709",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462950467591077940",
+    "timestamp": "2026-01-19 23:22:51",
+    "content": "Shhhhh... over 130 games without detection on chess.com is ridiculously good, and guess WHO went and researched and read studies to implement this... Opus 4.5 of course",
+    "author": "iuzu1",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462950467591077940",
+    "attachments": [
+      "https://cdn.discordapp.com/attachments/1114305545478877377/1462950467314389176/image.png?ex=69700e4b&is=696ebccb&hm=d32da7eef3c68faf553534170b9824ad9c872e49cf568cb4046e4f2ada9bc42f&"
+    ],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462952116275642501",
+    "timestamp": "2026-01-19 23:29:24",
+    "content": "that's why claude code has been hitting the limits so quickly. It defaulted to use opus now? It's not better enough to justify how quickly it burns my tokens.",
+    "author": "diegzumillo",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462952116275642501",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462952699560722596",
+    "timestamp": "2026-01-19 23:31:43",
+    "content": "The new update is a real problem especially to the medical field",
+    "author": "inari_no_kitsune",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462952699560722596",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462952815327444993",
+    "timestamp": "2026-01-19 23:32:11",
+    "content": "I need a special flag for my applications now",
+    "author": "inari_no_kitsune",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462952815327444993",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462952988397277452",
+    "timestamp": "2026-01-19 23:32:52",
+    "content": "Where to submit feedback to developers?",
+    "author": "inari_no_kitsune",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462952988397277452",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462953256719355906",
+    "timestamp": "2026-01-19 23:33:56",
+    "content": "it might be in part because they recently changed the default model to opus for most operations. previously the much cheaper haiku was used for some things like subagents (Explore, etc or your own if you’ve created them).\nnot sure if you already use it, but i suggest using plan mode and more aggressively clearing your context. maybe look into steve yegge’s beads as a way to force your to be planned in small chunks to save context, and by extension save usage",
+    "author": "aghs",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462953256719355906",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462954021613469801",
+    "timestamp": "2026-01-19 23:36:59",
+    "content": "anthropic has very poor communication about usage limits so there’s not much you can do about that except put some time into evolving your claude.md, agents, and skills to be as efficient as possible.\nthe $200 plan gives you a lot more headroom to work with, but eventually you’ll hit limits regardless if you’re not practicing good context hygiene. i’d bet that you can get more juice out of your current plan with some elbow grease in that department.\nunless you really want to throw money at the problem to make it go away! nothing wrong with that",
+    "author": "aghs",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462954021613469801",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
+  },
+  {
+    "id": "1462959737644777624",
+    "timestamp": "2026-01-19 23:59:41",
+    "content": "If there's a single behavior I've been getting from Claude that's annoying, even after explicitly prompting against it, it's adding `print()`s, `console.log()`s, &c that echo back things the model believes to be true, when it's told to write code that extracts new data from a dataset (and explicitly NOT to include its prior beliefs in that output).",
+    "author": "tcarls",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462959737644777624",
+    "attachments": [],
+    "channel_name": "general",
+    "local_images": []
   }
 ]

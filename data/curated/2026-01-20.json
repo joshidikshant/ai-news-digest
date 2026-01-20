@@ -1,0 +1,21 @@
+[
+  {
+    "headline": "Research Halted Due to Undesired Model Use in Latest Update",
+    "bullets": [
+      "User 'inari_no_kitsune' pauses research on Qualia due to matrix-integration being flagged as an undesired use.",
+      "Seeking official feedback channel to address the issue with Anthropic Developers."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-20 00:23:42",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1462965777928814696",
+      "message_id": "1462965777928814696"
+    },
+    "relevance": 75,
+    "hot_take": "Could this be the start of stricter usage policies for AI models?",
+    "category": "discussion",
+    "curated_at": "2026-01-20T00:51:57.868668+00:00",
+    "original_server": "Anthropic"
+  }
+]
