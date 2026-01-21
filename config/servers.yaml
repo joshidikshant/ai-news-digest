@@ -15,9 +15,7 @@ servers:
       - id: "1072197729276657744"
         name: "announcements"
         priority: high
-      - id: "1114305545478877377"
-        name: "general"
-        priority: high
+
 
   - name: "Google Labs"
     channels:
