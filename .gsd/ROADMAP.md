@@ -1,6 +1,6 @@
 # ROADMAP.md
 
-> **Current Phase**: Not started
+> **Current Phase**: Phase 2 — Pillow Providers
 > **Milestone**: v1.0 — Modular Carousel Generator
 
 ## Must-Haves (from SPEC)
@@ -15,12 +15,12 @@
 ## Phases
 
 ### Phase 1: Provider Abstraction Layer
-**Status**: ⬜ Not Started
+**Status**: ✅ Complete
 **Objective**: Create base provider interface and refactor existing code
 **Deliverables**:
-- `providers/base.py` — Abstract base class
-- `providers/__init__.py` — Provider registry
-- Refactor `generate_carousel.py` to use provider pattern
+- `providers/base.py` — Abstract base class ✓
+- `providers/__init__.py` — Provider registry ✓
+- Refactor `generate_carousel.py` to use provider pattern ✓
 
 ### Phase 2: Pillow Providers
 **Status**: ⬜ Not Started  
