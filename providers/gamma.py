@@ -154,11 +154,13 @@ Never miss another breakthrough.
         input_text = self._build_input_text(item)
         
         # Map image quality to Gamma image model
+        # Valid models: dall-e-3, imagen-3-flash, imagen-3-pro, imagen-4-pro, 
+        # imagen-4-ultra, flux-1-pro, flux-1-quick, flux-1-ultra, etc.
         image_model_map = {
             'none': None,
-            'basic': 'nano-banana',
-            'advanced': 'nano-banana-pro',
-            'premium': 'nano-banana-pro'
+            'basic': 'imagen-3-flash',      # Fast, good quality
+            'advanced': 'flux-1-pro',       # Higher quality
+            'premium': 'imagen-4-ultra'     # Best quality
         }
         
         payload = {
