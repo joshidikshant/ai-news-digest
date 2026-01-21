@@ -1,15 +1,15 @@
 # STATE.md — Project Memory
 
-> **Last Updated**: 2026-01-21T21:03:00+05:30
+> **Last Updated**: 2026-01-21T21:13:00+05:30
 
 ## Current Position
 
-- **Phase**: 2 — Pillow Providers
+- **Phase**: 3 — Canva MCP Provider
 - **Task**: Planning complete
 - **Status**: Ready for execution
 
 ## Last Session Summary
-Phase 1 complete ✓. Phase 2 planned with 3 providers: pillow_openai (DALL-E), pillow_unsplash (free), pillow_gemini (optional).
+Phase 1-2 complete. Created provider abstraction + 4 Pillow providers. Phase 3 planned: Canva MCP stub provider.
 - Researched carousel generation APIs (Gamma, Canva, DynaPictures)
 - Discovered Canva MCP server — best option for user's paid plan
 - User decided on modular architecture with pluggable providers
