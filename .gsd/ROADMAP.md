@@ -1,6 +1,6 @@
 # ROADMAP.md
 
-> **Current Phase**: Phase 2 — Pillow Providers
+> **Current Phase**: Phase 3 — Canva MCP Provider
 > **Milestone**: v1.0 — Modular Carousel Generator
 
 ## Must-Haves (from SPEC)
@@ -23,11 +23,12 @@
 - Refactor `generate_carousel.py` to use provider pattern ✓
 
 ### Phase 2: Pillow Providers
-**Status**: ⬜ Not Started  
+**Status**: ✅ Complete
 **Objective**: Implement Pillow-based providers with different image sources
 **Deliverables**:
-- `providers/pillow_openai.py` — Current DALL-E implementation
-- `providers/pillow_gemini.py` — Gemini Imagen implementation
+- `providers/pillow_openai.py` — DALL-E images ✓
+- `providers/pillow_unsplash.py` — Free Unsplash images ✓
+- `providers/pillow_gemini.py` — Gemini Imagen (optional) ✓ementation
 - `providers/pillow_unsplash.py` — Free stock photos
 
 ### Phase 3: Canva MCP Provider
