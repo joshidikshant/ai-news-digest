@@ -9632,5 +9632,68 @@
     "attachments": [],
     "channel_name": "general",
     "local_images": []
+  },
+  {
+    "id": "1463602086749933737",
+    "timestamp": "2026-01-21 18:32:09",
+    "content": "https://tenor.com/view/andrew-cooper-andrew-dance-cooper-dance-feeling-dance-dance-gif-4719076827571292026",
+    "author": "afraidoftime_",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463602086749933737",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1463602357874200608",
+    "timestamp": "2026-01-21 18:33:14",
+    "content": "https://tenor.com/view/jon-hamm-smile-okay-carry-on-cigarette-gif-17266969",
+    "author": "ihavethepower111",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463602357874200608",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1463610189121978378",
+    "timestamp": "2026-01-21 19:04:21",
+    "content": "Hello all, how are ya'll working with Claude Code in developer teams ?",
+    "author": "skadeskoten",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463610189121978378",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1463610304989630575",
+    "timestamp": "2026-01-21 19:04:49",
+    "content": "Do you have a single large repo where all code is being worked on by mutiple devs with multiple claude codes",
+    "author": "skadeskoten",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463610304989630575",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1463610324476231855",
+    "timestamp": "2026-01-21 19:04:53",
+    "content": "or any other ?",
+    "author": "skadeskoten",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463610324476231855",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1463612811237261454",
+    "timestamp": "2026-01-21 19:14:46",
+    "content": "Hi do you know if there is any plugin  / extension where i send a youtube video link to claude code and it gets the transcript or smth like this so it get the content.\nDoes not need to get the frames of the video tho\nmaybe through mcp chrome i was thinking",
+    "author": "mikael_vallenet",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463612811237261454",
+    "attachments": [],
+    "channel_name": "general"
+  },
+  {
+    "id": "1463613088208261203",
+    "timestamp": "2026-01-21 19:15:52",
+    "content": "Claude down? Cant send a message",
+    "author": "neptunecentari",
+    "link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463613088208261203",
+    "attachments": [],
+    "channel_name": "general"
   }
 ]
