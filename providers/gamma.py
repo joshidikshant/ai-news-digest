@@ -163,12 +163,16 @@ Never miss another breakthrough.
             'premium': 'imagen-4-ultra'     # Best quality
         }
         
+        # Get folder ID from env or use default
+        folder_id = os.getenv("GAMMA_FOLDER_ID", "74df73cje79wzca")
+        
         payload = {
             "inputText": input_text,
             "textMode": "preserve",  # Use our structured text as-is
             "format": "social",       # Social media format for carousels
             "numCards": self.NUM_CARDS,
             "exportAs": "pdf",        # Export as PDF for LinkedIn
+            "folderIds": [folder_id], # Array of folder IDs per API docs
             "textOptions": {
                 "tone": "Professional",
                 "audience": "LinkedIn Tech Professionals",
@@ -176,7 +180,7 @@ Never miss another breakthrough.
             },
             "imageOptions": {
                 "source": "aiGenerated" if self.image_quality != 'none' else "unsplash",
-                "model": image_model_map.get(self.image_quality, 'nano-banana-pro')
+                "model": image_model_map.get(self.image_quality, 'imagen-3-flash')
             },
             "cardOptions": {
                 "dimensions": "4x5"   # Portrait for LinkedIn (1080x1350)
