@@ -31,20 +31,13 @@
 - `providers/pillow_gemini.py` — Gemini Imagen (optional) ✓ementation
 - `providers/pillow_unsplash.py` — Free stock photos
 
-### Phase 3: Canva MCP Provider
-**Status**: ⬜ Not Started
-**Objective**: Integrate Canva MCP for carousel generation
-**Deliverables**:
-- `providers/canva_mcp.py` — Canva MCP integration
-- Template discovery and management
-- Export to PDF functionality
-
-### Phase 4: Gamma API Provider (Optional)
-**Status**: ⬜ Not Started
-**Objective**: Add Gamma API as alternative provider
+### Phase 3: Gamma API Provider
+**Status**: 🔄 In Progress
+**Objective**: Implement Gamma API for professional carousel generation
 **Deliverables**:
 - `providers/gamma.py` — Gamma API integration
-- Credit tracking and monitoring
+- Image quality tiers (Unsplash → Premium AI)
+- Credit tracking for cost management
 
 ### Phase 5: CLI & Workflow Integration
 **Status**: ⬜ Not Started

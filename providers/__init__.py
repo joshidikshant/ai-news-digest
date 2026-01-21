@@ -126,9 +126,13 @@ try:
 except ImportError as e:
     pass  # Silently skip if not available
 
+try:
+    from providers import gamma  # Gamma.app API ($15/mo)
+except ImportError as e:
+    pass  # Silently skip if not available
+
 # Future providers:
 # from providers import canva_mcp      # Canva MCP
-# from providers import gamma          # Gamma API
 
 
 __all__ = [

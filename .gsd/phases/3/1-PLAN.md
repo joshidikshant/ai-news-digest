@@ -4,69 +4,79 @@ plan: 1
 wave: 1
 ---
 
-# Plan 3.1: Canva MCP Provider
+# Plan 3.1: Gamma API Provider
 
 ## Objective
 
-Create a Canva MCP provider that leverages the user's existing Canva paid plan for professional carousel generation. This provider uses Canva's AI capabilities and template system.
+Create a Gamma API provider for professional carousel generation with built-in AI images. This is the recommended provider for daily automation at $15/month.
 
 ## Context
 
 - providers/base.py — Base class to inherit from
 - providers/pillow_openai.py — Reference for provider structure
-- Canva MCP Server: `npx @canva/cli@latest mcp`
+- Gamma API: https://gamma.app (Pro plan required for API)
 
 ## Research Notes
 
-Canva MCP capabilities:
-- `create-design` — Generate designs from prompts/templates
-- `export-design` — Export to PDF/PNG for LinkedIn
-- `search-designs` — Find existing templates
-- `autofill` — Populate templates with external data
+Gamma API features:
+- Direct content → carousel generation
+- Multiple AI image quality tiers (Unsplash free → Premium AI)
+- PNG export for LinkedIn
+- Credit-based pricing (~20-120 credits per carousel)
+- Pro plan: ~4,000 credits/month = 133-200 carousels
 
 ## Tasks
 
 <task type="auto">
-  <name>Create canva_mcp provider</name>
+  <name>Create gamma provider</name>
   <files>
-    providers/canva_mcp.py
+    providers/gamma.py
   </files>
   <action>
-    Create `CanvaMCPProvider` with MCP-based carousel generation:
+    Create `GammaProvider` with API-based carousel generation:
     
     1. Provider class structure:
        ```python
-       @register_provider("canva_mcp")
-       class CanvaMCPProvider(CarouselProvider):
-           name = "canva_mcp"
+       @register_provider("gamma")
+       class GammaProvider(CarouselProvider):
+           name = "gamma"
            
-           def __init__(self, theme="dark", template_id=None, **kwargs):
+           # AI image quality tiers
+           IMAGE_QUALITY = {
+               'none': 0,      # Unsplash only (free)
+               'basic': 10,    # Basic AI
+               'advanced': 20, # Advanced AI
+               'premium': 40   # Premium AI (best)
+           }
+           
+           def __init__(self, theme="dark", image_quality="basic", **kwargs):
                super().__init__(theme=theme, **kwargs)
-               self.template_id = template_id or os.getenv("CANVA_TEMPLATE_ID")
-               # MCP client setup (placeholder until MCP integration clear)
+               self.api_key = os.getenv("GAMMA_API_KEY")
+               self.image_quality = image_quality
        ```
     
     2. Key methods:
-       - `async def _create_design(self, item: Dict) -> str` — Create design via MCP
-       - `async def _export_design(self, design_id: str) -> List[Image.Image]` — Export to images
+       - `async def _create_presentation(self, item: Dict) -> str` — Create via API
+       - `async def _export_slides(self, presentation_id: str) -> List[Image.Image]` — Export PNGs
        - `async def generate_carousel(self, item: Dict)` — Main entry point
     
-    3. Fallback behavior:
-       - If Canva MCP unavailable, raise clear error with setup instructions
-       - Log MCP commands for debugging
+    3. API flow:
+       a. POST /presentations with content
+       b. Poll for completion
+       c. GET /presentations/{id}/export?format=png
+       d. Convert to PIL Images
     
-    4. Template mode vs AI mode:
-       - Template mode: Use predefined carousel template
-       - AI mode: Let Canva AI generate design from prompt
+    4. Graceful degradation:
+       - If GAMMA_API_KEY not set, raise clear error
+       - Log API responses for debugging
     
-    NOTE: This is a STUB provider that defines the interface.
-    Full MCP integration requires the Canva CLI to be installed.
+    NOTE: Gamma API v0.3+ required (v0.2 deprecated Jan 2026)
   </action>
-  <verify>python3 -c "from providers import get_provider; p = get_provider('canva_mcp'); print(f'✅ {p.name}')"</verify>
+  <verify>python3 -c "from providers import get_provider; p = get_provider('gamma'); print(f'✅ {p.name}')"</verify>
   <done>
-    - Provider registered as 'canva_mcp'
-    - Clear interface for MCP-based generation
-    - Graceful error when MCP not configured
+    - Provider registered as 'gamma'
+    - API integration structure ready
+    - Image quality tiers configurable
   </done>
 </task>
 
@@ -76,37 +86,33 @@ Canva MCP capabilities:
     providers/__init__.py
   </files>
   <action>
-    Add import for canva_mcp provider:
+    Add import for gamma provider:
     
     ```python
     try:
-        from providers import canva_mcp
+        from providers import gamma
     except ImportError as e:
         pass  # Silently skip if not available
     ```
   </action>
-  <verify>python3 -c "from providers import list_providers; print('canva_mcp' in list_providers())"</verify>
+  <verify>python3 -c "from providers import list_providers; print('gamma' in list_providers())"</verify>
   <done>
-    - 'canva_mcp' appears in list_providers()
+    - 'gamma' appears in list_providers()
   </done>
 </task>
 
 ## Success Criteria
 
-- [ ] `canva_mcp` provider registered
-- [ ] Provider can be instantiated
-- [ ] Clear documentation on MCP setup requirements
-- [ ] Interface ready for full MCP integration
+- [ ] `gamma` provider registered
+- [ ] Provider configurable with image quality tiers
+- [ ] Clear error when GAMMA_API_KEY missing
+- [ ] Ready for API integration when user has Pro subscription
 
-## Notes
+## Cost Analysis
 
-This is a **stub implementation**. Full Canva MCP integration requires:
-1. Canva paid plan (user has ✓)
-2. Canva CLI: `npx @canva/cli@latest mcp`
-3. MCP server running
-4. Antigravity MCP client integration
-
-The stub allows:
-- Testing the fallback chain: canva_mcp → pillow_unsplash
-- Documenting the expected interface
-- Future MCP integration without changing other code
+| Quality | Credits/Carousel | Monthly Capacity (4000 credits) |
+|---------|-----------------|--------------------------------|
+| none (Unsplash) | ~20 | ~200 carousels |
+| basic | ~30 | ~133 carousels |
+| advanced | ~60 | ~66 carousels |
+| premium | ~120 | ~33 carousels |
