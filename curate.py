@@ -33,19 +33,30 @@ class CurationEngine:
             
         print(f"Curating {len(messages)} messages for {server_name} on {date_str}...")
         
-        # Prepare context for LLM
+        # Batch messages to respect OpenAI TPM limit (30,000 tokens/min)
+        # Avg message ~100 tokens. 100 msgs ~ 10k tokens. Safe buffer.
+        BATCH_SIZE = 100
+        all_curated_items = []
+        
+        # Sort chronologically for better reading flow within batches
+        messages.sort(key=lambda x: x['timestamp'])
+        
+        # Create batches
+        batches = [messages[i:i + BATCH_SIZE] for i in range(0, len(messages), BATCH_SIZE)]
+        print(f"  Split into {len(batches)} batches (max {BATCH_SIZE} msgs each) to avoid Rate Limits.")
+
+        import time
         prompt_config = self.config['prompts']['curation']
         system_prompt = prompt_config['system']
         format_instructions = prompt_config['output_format']
-        
-        # Limit to 50 most recent messages to prevent OpenAI Rate Limit (429)
-        # 100k tokens is too much. 50 messages ~ 5k-10k tokens depending on length.
-        messages.sort(key=lambda x: x['timestamp'], reverse=True)
-        messages = messages[:50]
-        
-        messages_text = ""
-        for msg in messages:
-            messages_text += f"""
+
+        for i, batch in enumerate(batches):
+            print(f"  Processing batch {i+1}/{len(batches)} ({len(batch)} items)...")
+            
+            # Formatting
+            messages_text = ""
+            for msg in batch:
+                messages_text += f"""
 ---
 ID: {msg['id']}
 Author: {msg['author']}
@@ -56,8 +67,7 @@ Content:
 {msg['content']}
 ---
 """
-        
-        user_prompt = f"""
+            user_prompt = f"""
 Here are the raw Discord messages from {server_name} for {date_str}.
 Please curate them according to your instructions.
 
@@ -66,68 +76,59 @@ Please curate them according to your instructions.
 {format_instructions}
 """
 
-        try:
-            import sys
-            print(f"  Calling OpenAI API with model {self.model}...", flush=True)
-            sys.stdout.flush()
-            
-            response = self.client.chat.completions.create(
-                model=self.model,
-                messages=[
-                    {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": user_prompt}
-                ],
-                response_format={"type": "json_object"},
-                temperature=0.7
-            )
-            
-            print(f"  OpenAI response received!", flush=True)
-            
-            content = response.choices[0].message.content
-            print(f"  Raw content length: {len(content)} chars", flush=True)
-            print(f"  Content preview: {content[:500]}...", flush=True)
-            
-            result = json.loads(content)
-            print(f"  Parsed JSON type: {type(result)}", flush=True)
-            
-            # Handle multiple response formats
-            if isinstance(result, list):
-                # Direct array of items
-                items = result
-            elif isinstance(result, dict):
-                if 'items' in result:
-                    # Wrapped in items array (expected format)
-                    items = result['items']
-                elif 'headline' in result:
-                    # Single item without wrapper
-                    items = [result]
-                else:
-                    # Unknown format, try to find array values
-                    items = []
-                    for val in result.values():
-                        if isinstance(val, list):
-                            items = val
-                            break
-            else:
-                items = []
+            try:
+                import sys
+                print(f"    Calling OpenAI API...", flush=True)
                 
-            print(f"  Extracted items count: {len(items)}", flush=True)
-                 
-            # Add metadata
-            for item in items:
-                item['curated_at'] = datetime.now(python_timezone.utc).isoformat()
-                item['original_server'] = server_name
-            
-            print(f"  Curated {len(items)} items", flush=True)
-            return items
-            
-        except Exception as e:
-            import traceback
-            print(f"Error curating {server_name}: {e}", flush=True)
-            traceback.print_exc()
-            sys.stdout.flush()
-            sys.stderr.flush()
-            return []
+                response = self.client.chat.completions.create(
+                    model=self.model,
+                    messages=[
+                        {"role": "system", "content": system_prompt},
+                        {"role": "user", "content": user_prompt}
+                    ],
+                    response_format={"type": "json_object"},
+                    temperature=0.7
+                )
+                
+                content = response.choices[0].message.content
+                result = json.loads(content)
+                
+                # Parse Result (same logic as before)
+                batch_items = []
+                if isinstance(result, list):
+                    batch_items = result
+                elif isinstance(result, dict):
+                    if 'items' in result:
+                        batch_items = result['items']
+                    elif 'headline' in result:
+                        batch_items = [result]
+                    else:
+                        for val in result.values():
+                            if isinstance(val, list):
+                                batch_items = val
+                                break
+                
+                print(f"    Extracted {len(batch_items)} items from batch {i+1}.")
+                
+                # Add metadata
+                for item in batch_items:
+                    item['curated_at'] = datetime.now(python_timezone.utc).isoformat()
+                    item['original_server'] = server_name
+                
+                all_curated_items.extend(batch_items)
+                
+                # Rate Limit handling: Wait if we have more batches
+                if i < len(batches) - 1:
+                    print("    Waiting 60s to reset TPM limit...", flush=True)
+                    time.sleep(60)
+                    
+            except Exception as e:
+                print(f"    Error processing batch {i+1}: {e}")
+                import traceback
+                traceback.print_exc()
+
+        print(f"  Total Curated: {len(all_curated_items)} items from {len(messages)} messages.")
+        return all_curated_items
 
     def run(self, date_str: str = None, process_all: bool = False):
         print(f"Starting Curation Run...")
