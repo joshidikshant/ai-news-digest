@@ -107,7 +107,45 @@ You can also trigger it manually via the **Actions** tab -> **AI News Digest Pip
    
    # 4. Generate Content
    python generate_content.py
+   
+   # 5. Generate LinkedIn Carousels
+   python generate_carousel.py --provider pillow_unsplash
    ```
+
+---
+
+## 🎠 LinkedIn Carousel Generation
+
+Generate professional LinkedIn carousel PDFs from your curated news.
+
+### Available Providers
+
+| Provider | Cost | Quality | Best For |
+|----------|------|---------|----------|
+| `pillow_unsplash` | **FREE** | Good | Daily automation |
+| `gamma` | $15/mo | Excellent | Professional content |
+| `pillow_openai` | ~$0.20/carousel | Premium | Special features |
+
+### Quick Start
+
+```bash
+# Free mode (default)
+python generate_carousel.py --provider pillow_unsplash
+
+# List providers
+python generate_carousel.py --list-providers
+
+# With Gamma API
+export GAMMA_API_KEY="your_key"
+python generate_carousel.py --provider gamma
+```
+
+### Environment Variables
+
+| Variable | Description | Default |
+|----------|-------------|---------|
+| `CAROUSEL_PROVIDER` | Default provider | `pillow_unsplash` |
+| `GAMMA_API_KEY` | Gamma.app API key | - |
 
 ---
 
