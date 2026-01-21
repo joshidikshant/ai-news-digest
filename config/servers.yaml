@@ -34,6 +34,12 @@ servers:
         name: "announcements"
         priority: high
 
+  - name: "Community Insights"
+    channels:
+      - id: "1405658683798589481"
+        name: "solutions-and-pain-points"
+        priority: high
+
 schedule:
   frequency_hours: 6
   timezone: "Asia/Kolkata"
