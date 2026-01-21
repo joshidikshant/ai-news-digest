@@ -53,7 +53,7 @@ class GammaProvider(CarouselProvider):
     API_BASE = "https://public-api.gamma.app/v1.0"
     
     # Optimal settings for LinkedIn carousels
-    NUM_CARDS = 10
+    NUM_CARDS = 6
     
     def __init__(
         self, 
@@ -75,12 +75,13 @@ class GammaProvider(CarouselProvider):
         """
         Build input text for Gamma generation.
         
-        Structure: 10 slides for LinkedIn carousel
+        Structure: 6 slides (Crisp format)
         - Slide 1: Hook
-        - Slide 2: Stakes  
-        - Slide 3: Core Insight
-        - Slides 4-9: Content
-        - Slide 10: CTA
+        - Slide 2: Context (The Setup)
+        - Slide 3: Core Insight (The "Aha!")
+        - Slide 4: Key Point 1
+        - Slide 5: Key Point 2
+        - Slide 6: Takeaway / CTA
         """
         headline = item.get('headline', 'AI News Update')
         summary = item.get('summary', '')
@@ -88,17 +89,17 @@ class GammaProvider(CarouselProvider):
         hot_take = item.get('hot_take', '')
         
         # Ensure enough bullets
-        while len(bullets) < 6:
+        while len(bullets) < 2:
             bullets.append(f"Key insight about {headline}")
         
-        input_text = f"""Create a 10-slide LinkedIn carousel about: {headline}
+        input_text = f"""Create a 6-slide LinkedIn carousel about: {headline}
 
 ---
 SLIDE 1: THE HOOK
 {headline}
 
 ---
-SLIDE 2: THE STAKES
+SLIDE 2: THE CONTEXT
 Why This Matters Right Now
 {summary if summary else 'This changes everything.'}
 
@@ -107,31 +108,15 @@ SLIDE 3: THE CORE INSIGHT
 🔥 {hot_take if hot_take else bullets[0]}
 
 ---
-SLIDE 4: KEY POINT 1
+SLIDE 4: KEY DETAIL
 {bullets[0]}
 
 ---
-SLIDE 5: KEY POINT 2
+SLIDE 5: IMPACT
 {bullets[1]}
 
 ---
-SLIDE 6: KEY POINT 3
-{bullets[2]}
-
----
-SLIDE 7: IMPLICATIONS
-{bullets[3] if len(bullets) > 3 else 'This will reshape the industry.'}
-
----
-SLIDE 8: WHAT'S NEXT
-{bullets[4] if len(bullets) > 4 else 'The future is being written now.'}
-
----
-SLIDE 9: THE TAKEAWAY
-{bullets[5] if len(bullets) > 5 else hot_take}
-
----
-SLIDE 10: CALL TO ACTION
+SLIDE 6: THE TAKEAWAY
 Follow for Daily AI Insights
 Never miss another breakthrough.
 """
@@ -405,9 +390,11 @@ Never miss another breakthrough.
             self.theme
         )
         
-        print(f"Generating {len(items)} carousels [gamma:{self.theme}] for {date_str}...")
+        # Limit to top 1 item per day for crisp, high-quality output
+        top_items = items[:1]
+        print(f"Generating {len(top_items)} carousels [gamma:{self.theme}] for {date_str} (Top Story Only)...")
         
-        for item in items:
+        for item in top_items:
             headline = item.get('headline', 'Unknown')
             print(f"\n  Processing: {headline[:50]}...")
             await self.process_item(item, output_dir)

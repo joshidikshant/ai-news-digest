@@ -30,7 +30,7 @@ class TestProviderRegistry:
         from providers import list_providers
         
         result = list_providers()
-        expected = ['pillow_legacy', 'pillow_openai', 'pillow_unsplash', 'pillow_gemini', 'gamma']
+        expected = ['gamma']
         
         for provider in expected:
             assert provider in result, f"Expected {provider} in providers list"
@@ -40,9 +40,9 @@ class TestProviderRegistry:
         from providers import get_provider
         from providers.base import CarouselProvider
         
-        provider = get_provider('pillow_unsplash')
+        provider = get_provider('gamma')
         assert isinstance(provider, CarouselProvider)
-        assert provider.name == 'pillow_unsplash'
+        assert provider.name == 'gamma'
     
     def test_get_provider_unknown_raises_error(self):
         """get_provider should raise error for unknown provider."""
@@ -55,19 +55,12 @@ class TestProviderRegistry:
         """get_provider should pass theme to provider."""
         from providers import get_provider
         
-        provider = get_provider('pillow_unsplash', theme='light')
+        provider = get_provider('gamma', theme='light')
         assert provider.theme == 'light'
 
 
 class TestProviderInstantiation:
     """Tests for individual provider instantiation."""
-    
-    def test_pillow_unsplash_instantiates(self):
-        """pillow_unsplash should instantiate without API key."""
-        from providers import get_provider
-        
-        provider = get_provider('pillow_unsplash')
-        assert provider.name == 'pillow_unsplash'
     
     def test_gamma_instantiates_without_key(self):
         """gamma should instantiate gracefully without API key."""
@@ -83,20 +76,6 @@ class TestProviderInstantiation:
         finally:
             if old_key:
                 os.environ['GAMMA_API_KEY'] = old_key
-    
-    def test_pillow_openai_instantiates_without_key(self):
-        """pillow_openai should instantiate gracefully without API key."""
-        from providers import get_provider
-        
-        # Clear any existing key
-        old_key = os.environ.pop('OPENAI_API_KEY', None)
-        
-        try:
-            provider = get_provider('pillow_openai')
-            assert provider.name == 'pillow_openai'
-        finally:
-            if old_key:
-                os.environ['OPENAI_API_KEY'] = old_key
 
 
 class TestProviderMethods:
@@ -156,6 +135,35 @@ class TestCarouselConfig:
         for theme_name, theme in CarouselConfig.THEMES.items():
             for key in required_keys:
                 assert key in theme, f"Theme {theme_name} missing {key}"
+
+
+class TestGammaProviderSpecifics:
+    """Specific tests for Gamma provider logic."""
+    
+    def test_gamma_num_cards_is_six(self):
+        """Gamma provider should be configured for 6 slides."""
+        from providers import get_provider
+        
+        provider = get_provider('gamma')
+        assert provider.NUM_CARDS == 6
+    
+    def test_gamma_input_text_structure(self):
+        """Gamma input text should follow 6-slide structure."""
+        from providers import get_provider
+        
+        provider = get_provider('gamma')
+        item = {
+            'headline': 'Test Headline',
+            'summary': 'Test Summary',
+            'bullets': ['Point 1', 'Point 2'],
+            'hot_take': 'Hot Take'
+        }
+        
+        text = provider._build_input_text(item)
+        
+        assert "SLIDE 1: THE HOOK" in text
+        assert "SLIDE 6: THE TAKEAWAY" in text
+        assert "SLIDE 7" not in text  # Should NOT have 7 slides
 
 
 if __name__ == '__main__':
