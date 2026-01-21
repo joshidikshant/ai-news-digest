@@ -28,7 +28,7 @@ prompts:
           {
             "headline": "Short punchy headline",
             "bullets": ["Key point 1", "Key point 2"],
-            "source": {"server": "...", "channel": "...", "timestamp": "...", "message_link": "...", "message_id": "..."},
+            "source": {"server": "...", "channel": "...", "timestamp": "...", "message_link": "..."},
             "relevance": 85,
             "hot_take": "Angle for content creation",
             "category": "announcement|insight|tutorial|discussion"

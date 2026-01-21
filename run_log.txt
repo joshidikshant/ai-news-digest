@@ -1,0 +1,256 @@
+digest	Set up job	﻿2026-01-05T19:28:50.3732821Z Current runner version: '2.330.0'
+digest	Set up job	2026-01-05T19:28:50.3769775Z ##[group]Runner Image Provisioner
+digest	Set up job	2026-01-05T19:28:50.3771629Z Hosted Compute Agent
+digest	Set up job	2026-01-05T19:28:50.3772611Z Version: 20251211.462
+digest	Set up job	2026-01-05T19:28:50.3773892Z Commit: 6cbad8c2bb55d58165063d031ccabf57e2d2db61
+digest	Set up job	2026-01-05T19:28:50.3775102Z Build Date: 2025-12-11T16:28:49Z
+digest	Set up job	2026-01-05T19:28:50.3776326Z Worker ID: {45fdaa45-717c-4d4e-b9f6-e261c289eefb}
+digest	Set up job	2026-01-05T19:28:50.3777494Z ##[endgroup]
+digest	Set up job	2026-01-05T19:28:50.3778399Z ##[group]Operating System
+digest	Set up job	2026-01-05T19:28:50.3779439Z Ubuntu
+digest	Set up job	2026-01-05T19:28:50.3780519Z 24.04.3
+digest	Set up job	2026-01-05T19:28:50.3781311Z LTS
+digest	Set up job	2026-01-05T19:28:50.3782186Z ##[endgroup]
+digest	Set up job	2026-01-05T19:28:50.3783050Z ##[group]Runner Image
+digest	Set up job	2026-01-05T19:28:50.3784065Z Image: ubuntu-24.04
+digest	Set up job	2026-01-05T19:28:50.3785218Z Version: 20251215.174.1
+digest	Set up job	2026-01-05T19:28:50.3787181Z Included Software: https://github.com/actions/runner-images/blob/ubuntu24/20251215.174/images/ubuntu/Ubuntu2404-Readme.md
+digest	Set up job	2026-01-05T19:28:50.3790657Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20251215.174
+digest	Set up job	2026-01-05T19:28:50.3792862Z ##[endgroup]
+digest	Set up job	2026-01-05T19:28:50.3794699Z ##[group]GITHUB_TOKEN Permissions
+digest	Set up job	2026-01-05T19:28:50.3797449Z Contents: write
+digest	Set up job	2026-01-05T19:28:50.3798453Z Metadata: read
+digest	Set up job	2026-01-05T19:28:50.3799390Z ##[endgroup]
+digest	Set up job	2026-01-05T19:28:50.3803204Z Secret source: Actions
+digest	Set up job	2026-01-05T19:28:50.3804767Z Prepare workflow directory
+digest	Set up job	2026-01-05T19:28:50.4281666Z Prepare all required actions
+digest	Set up job	2026-01-05T19:28:50.4340532Z Getting action download info
+digest	Set up job	2026-01-05T19:28:50.7036601Z Download action repository 'actions/checkout@v4' (SHA:34e114876b0b11c390a56381ad16ebd13914f8d5)
+digest	Set up job	2026-01-05T19:28:50.8195458Z Download action repository 'actions/setup-python@v5' (SHA:a26af69be951a213d495a4c3e4e4022e16d87065)
+digest	Set up job	2026-01-05T19:28:51.0415270Z Complete job name: digest
+digest	Run actions/checkout@v4	﻿2026-01-05T19:28:51.1112654Z ##[group]Run actions/checkout@v4
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.1113506Z with:
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.1113954Z   repository: joshidikshant/ai-news-digest
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.1114695Z   token: ***
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.1115089Z   ssh-strict: true
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.1115490Z   ssh-user: git
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.1115901Z   persist-credentials: true
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.1116346Z   clean: true
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.1116749Z   sparse-checkout-cone-mode: true
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.1117233Z   fetch-depth: 1
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.1117627Z   fetch-tags: false
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.1118033Z   show-progress: true
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.1118447Z   lfs: false
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.1118826Z   submodules: false
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.1119238Z   set-safe-directory: true
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.1119887Z ##[endgroup]
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2184338Z Syncing repository: joshidikshant/ai-news-digest
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2186118Z ##[group]Getting Git version info
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2186892Z Working directory is '/home/runner/work/ai-news-digest/ai-news-digest'
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2187966Z [command]/usr/bin/git version
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2258159Z git version 2.52.0
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2283929Z ##[endgroup]
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2297631Z Temporarily overriding HOME='/home/runner/work/_temp/33405375-8b95-4bf9-8ca3-df699537da20' before making global git config changes
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2299812Z Adding repository directory to the temporary git global config as a safe directory
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2310500Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/ai-news-digest/ai-news-digest
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2347930Z Deleting the contents of '/home/runner/work/ai-news-digest/ai-news-digest'
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2351609Z ##[group]Initializing the repository
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2355468Z [command]/usr/bin/git init /home/runner/work/ai-news-digest/ai-news-digest
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2447569Z hint: Using 'master' as the name for the initial branch. This default branch name
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2448602Z hint: will change to "main" in Git 3.0. To configure the initial branch name
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2449557Z hint: to use in all of your new repositories, which will suppress this warning,
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2450453Z hint: call:
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2451102Z hint:
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2451754Z hint: 	git config --global init.defaultBranch <name>
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2452354Z hint:
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2453152Z hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2454448Z hint: 'development'. The just-created branch can be renamed via this command:
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2455311Z hint:
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2455949Z hint: 	git branch -m <name>
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2456594Z hint:
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2457216Z hint: Disable this message with "git config set advice.defaultBranchName false"
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2458244Z Initialized empty Git repository in /home/runner/work/ai-news-digest/ai-news-digest/.git/
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2464611Z [command]/usr/bin/git remote add origin https://github.com/joshidikshant/ai-news-digest
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2496729Z ##[endgroup]
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2497758Z ##[group]Disabling automatic garbage collection
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2500863Z [command]/usr/bin/git config --local gc.auto 0
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2527570Z ##[endgroup]
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2528266Z ##[group]Setting up auth
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2534581Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2565563Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2885538Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.2916262Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.3139515Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.3176528Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.3471491Z [command]/usr/bin/git config --local http.https://github.com/.extraheader AUTHORIZATION: basic ***
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.3513237Z ##[endgroup]
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.3515144Z ##[group]Fetching the repository
+digest	Run actions/checkout@v4	2026-01-05T19:28:51.3525159Z [command]/usr/bin/git -c protocol.version=2 fetch --no-tags --prune --no-recurse-submodules --depth=1 origin +9b3e8b738f068b86af2e3030094d89dfb769819b:refs/remotes/origin/main
+digest	Run actions/checkout@v4	2026-01-05T19:28:52.0842021Z From https://github.com/joshidikshant/ai-news-digest
+digest	Run actions/checkout@v4	2026-01-05T19:28:52.0843886Z  * [new ref]         9b3e8b738f068b86af2e3030094d89dfb769819b -> origin/main
+digest	Run actions/checkout@v4	2026-01-05T19:28:52.0876535Z ##[endgroup]
+digest	Run actions/checkout@v4	2026-01-05T19:28:52.0877816Z ##[group]Determining the checkout info
+digest	Run actions/checkout@v4	2026-01-05T19:28:52.0879635Z ##[endgroup]
+digest	Run actions/checkout@v4	2026-01-05T19:28:52.0885949Z [command]/usr/bin/git sparse-checkout disable
+digest	Run actions/checkout@v4	2026-01-05T19:28:52.0926171Z [command]/usr/bin/git config --local --unset-all extensions.worktreeConfig
+digest	Run actions/checkout@v4	2026-01-05T19:28:52.0954115Z ##[group]Checking out the ref
+digest	Run actions/checkout@v4	2026-01-05T19:28:52.0955899Z [command]/usr/bin/git checkout --progress --force -B main refs/remotes/origin/main
+digest	Run actions/checkout@v4	2026-01-05T19:28:52.1619919Z Switched to a new branch 'main'
+digest	Run actions/checkout@v4	2026-01-05T19:28:52.1622194Z branch 'main' set up to track 'origin/main'.
+digest	Run actions/checkout@v4	2026-01-05T19:28:52.1633638Z ##[endgroup]
+digest	Run actions/checkout@v4	2026-01-05T19:28:52.1671085Z [command]/usr/bin/git log -1 --format=%H
+digest	Run actions/checkout@v4	2026-01-05T19:28:52.1693044Z 9b3e8b738f068b86af2e3030094d89dfb769819b
+digest	Set up Python	﻿2026-01-05T19:28:52.2008804Z ##[group]Run actions/setup-python@v5
+digest	Set up Python	2026-01-05T19:28:52.2010026Z with:
+digest	Set up Python	2026-01-05T19:28:52.2011017Z   python-version: 3.11
+digest	Set up Python	2026-01-05T19:28:52.2012008Z   check-latest: false
+digest	Set up Python	2026-01-05T19:28:52.2013241Z   token: ***
+digest	Set up Python	2026-01-05T19:28:52.2014151Z   update-environment: true
+digest	Set up Python	2026-01-05T19:28:52.2015206Z   allow-prereleases: false
+digest	Set up Python	2026-01-05T19:28:52.2016230Z   freethreaded: false
+digest	Set up Python	2026-01-05T19:28:52.2017183Z ##[endgroup]
+digest	Set up Python	2026-01-05T19:28:52.3671937Z ##[group]Installed versions
+digest	Set up Python	2026-01-05T19:28:52.3792988Z Successfully set up CPython (3.11.14)
+digest	Set up Python	2026-01-05T19:28:52.3795240Z ##[endgroup]
+digest	Install dependencies	﻿2026-01-05T19:28:52.3929620Z ##[group]Run pip install -r requirements.txt
+digest	Install dependencies	2026-01-05T19:28:52.3931045Z [36;1mpip install -r requirements.txt[0m
+digest	Install dependencies	2026-01-05T19:28:52.3982823Z shell: /usr/bin/bash -e {0}
+digest	Install dependencies	2026-01-05T19:28:52.3984179Z env:
+digest	Install dependencies	2026-01-05T19:28:52.3985583Z   pythonLocation: /opt/hostedtoolcache/Python/3.11.14/x64
+digest	Install dependencies	2026-01-05T19:28:52.3987775Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.11.14/x64/lib/pkgconfig
+digest	Install dependencies	2026-01-05T19:28:52.3990399Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.11.14/x64
+digest	Install dependencies	2026-01-05T19:28:52.3992448Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.11.14/x64
+digest	Install dependencies	2026-01-05T19:28:52.3994412Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.11.14/x64
+digest	Install dependencies	2026-01-05T19:28:52.3996379Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.11.14/x64/lib
+digest	Install dependencies	2026-01-05T19:28:52.3997780Z ##[endgroup]
+digest	Install dependencies	2026-01-05T19:28:53.2348480Z Collecting discord.py>=2.3.0 (from -r requirements.txt (line 1))
+digest	Install dependencies	2026-01-05T19:28:53.2967855Z   Downloading discord_py-2.6.4-py3-none-any.whl.metadata (7.5 kB)
+digest	Install dependencies	2026-01-05T19:28:53.3971842Z Collecting openai>=1.0.0 (from -r requirements.txt (line 2))
+digest	Install dependencies	2026-01-05T19:28:53.4006539Z   Downloading openai-2.14.0-py3-none-any.whl.metadata (29 kB)
+digest	Install dependencies	2026-01-05T19:28:53.4229563Z Collecting notion-client>=2.0.0 (from -r requirements.txt (line 3))
+digest	Install dependencies	2026-01-05T19:28:53.4265563Z   Downloading notion_client-2.7.0-py2.py3-none-any.whl.metadata (14 kB)
+digest	Install dependencies	2026-01-05T19:28:53.4644189Z Collecting pyyaml>=6.0 (from -r requirements.txt (line 4))
+digest	Install dependencies	2026-01-05T19:28:53.4680556Z   Downloading pyyaml-6.0.3-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (2.4 kB)
+digest	Install dependencies	2026-01-05T19:28:53.4813268Z Collecting python-dateutil>=2.8.0 (from -r requirements.txt (line 5))
+digest	Install dependencies	2026-01-05T19:28:53.4846945Z   Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+digest	Install dependencies	2026-01-05T19:28:53.9792278Z Collecting aiohttp<4,>=3.7.4 (from discord.py>=2.3.0->-r requirements.txt (line 1))
+digest	Install dependencies	2026-01-05T19:28:53.9827390Z   Downloading aiohttp-3.13.3-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (8.1 kB)
+digest	Install dependencies	2026-01-05T19:28:54.0006068Z Collecting aiohappyeyeballs>=2.5.0 (from aiohttp<4,>=3.7.4->discord.py>=2.3.0->-r requirements.txt (line 1))
+digest	Install dependencies	2026-01-05T19:28:54.0037088Z   Downloading aiohappyeyeballs-2.6.1-py3-none-any.whl.metadata (5.9 kB)
+digest	Install dependencies	2026-01-05T19:28:54.0138617Z Collecting aiosignal>=1.4.0 (from aiohttp<4,>=3.7.4->discord.py>=2.3.0->-r requirements.txt (line 1))
+digest	Install dependencies	2026-01-05T19:28:54.0171817Z   Downloading aiosignal-1.4.0-py3-none-any.whl.metadata (3.7 kB)
+digest	Install dependencies	2026-01-05T19:28:54.0325145Z Collecting attrs>=17.3.0 (from aiohttp<4,>=3.7.4->discord.py>=2.3.0->-r requirements.txt (line 1))
+digest	Install dependencies	2026-01-05T19:28:54.0357007Z   Downloading attrs-25.4.0-py3-none-any.whl.metadata (10 kB)
+digest	Install dependencies	2026-01-05T19:28:54.1027775Z Collecting frozenlist>=1.1.1 (from aiohttp<4,>=3.7.4->discord.py>=2.3.0->-r requirements.txt (line 1))
+digest	Install dependencies	2026-01-05T19:28:54.1065453Z   Downloading frozenlist-1.8.0-cp311-cp311-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl.metadata (20 kB)
+digest	Install dependencies	2026-01-05T19:28:54.3538920Z Collecting multidict<7.0,>=4.5 (from aiohttp<4,>=3.7.4->discord.py>=2.3.0->-r requirements.txt (line 1))
+digest	Install dependencies	2026-01-05T19:28:54.3575231Z   Downloading multidict-6.7.0-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (5.3 kB)
+digest	Install dependencies	2026-01-05T19:28:54.4104426Z Collecting propcache>=0.2.0 (from aiohttp<4,>=3.7.4->discord.py>=2.3.0->-r requirements.txt (line 1))
+digest	Install dependencies	2026-01-05T19:28:54.4139242Z   Downloading propcache-0.4.1-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (13 kB)
+digest	Install dependencies	2026-01-05T19:28:54.6562569Z Collecting yarl<2.0,>=1.17.0 (from aiohttp<4,>=3.7.4->discord.py>=2.3.0->-r requirements.txt (line 1))
+digest	Install dependencies	2026-01-05T19:28:54.6599912Z   Downloading yarl-1.22.0-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (75 kB)
+digest	Install dependencies	2026-01-05T19:28:54.6808375Z Collecting idna>=2.0 (from yarl<2.0,>=1.17.0->aiohttp<4,>=3.7.4->discord.py>=2.3.0->-r requirements.txt (line 1))
+digest	Install dependencies	2026-01-05T19:28:54.6841789Z   Downloading idna-3.11-py3-none-any.whl.metadata (8.4 kB)
+digest	Install dependencies	2026-01-05T19:28:54.7143913Z Collecting anyio<5,>=3.5.0 (from openai>=1.0.0->-r requirements.txt (line 2))
+digest	Install dependencies	2026-01-05T19:28:54.7235290Z   Downloading anyio-4.12.0-py3-none-any.whl.metadata (4.3 kB)
+digest	Install dependencies	2026-01-05T19:28:54.7350680Z Collecting distro<2,>=1.7.0 (from openai>=1.0.0->-r requirements.txt (line 2))
+digest	Install dependencies	2026-01-05T19:28:54.7381580Z   Downloading distro-1.9.0-py3-none-any.whl.metadata (6.8 kB)
+digest	Install dependencies	2026-01-05T19:28:54.7672156Z Collecting httpx<1,>=0.23.0 (from openai>=1.0.0->-r requirements.txt (line 2))
+digest	Install dependencies	2026-01-05T19:28:54.7708510Z   Downloading httpx-0.28.1-py3-none-any.whl.metadata (7.1 kB)
+digest	Install dependencies	2026-01-05T19:28:54.8413491Z Collecting jiter<1,>=0.10.0 (from openai>=1.0.0->-r requirements.txt (line 2))
+digest	Install dependencies	2026-01-05T19:28:54.8452419Z   Downloading jiter-0.12.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (5.2 kB)
+digest	Install dependencies	2026-01-05T19:28:55.0013793Z Collecting pydantic<3,>=1.9.0 (from openai>=1.0.0->-r requirements.txt (line 2))
+digest	Install dependencies	2026-01-05T19:28:55.0048597Z   Downloading pydantic-2.12.5-py3-none-any.whl.metadata (90 kB)
+digest	Install dependencies	2026-01-05T19:28:55.0182848Z Collecting sniffio (from openai>=1.0.0->-r requirements.txt (line 2))
+digest	Install dependencies	2026-01-05T19:28:55.0216342Z   Downloading sniffio-1.3.1-py3-none-any.whl.metadata (3.9 kB)
+digest	Install dependencies	2026-01-05T19:28:55.0564414Z Collecting tqdm>4 (from openai>=1.0.0->-r requirements.txt (line 2))
+digest	Install dependencies	2026-01-05T19:28:55.0638203Z   Downloading tqdm-4.67.1-py3-none-any.whl.metadata (57 kB)
+digest	Install dependencies	2026-01-05T19:28:55.0879290Z Collecting typing-extensions<5,>=4.11 (from openai>=1.0.0->-r requirements.txt (line 2))
+digest	Install dependencies	2026-01-05T19:28:55.0910666Z   Downloading typing_extensions-4.15.0-py3-none-any.whl.metadata (3.3 kB)
+digest	Install dependencies	2026-01-05T19:28:55.1194459Z Collecting certifi (from httpx<1,>=0.23.0->openai>=1.0.0->-r requirements.txt (line 2))
+digest	Install dependencies	2026-01-05T19:28:55.1227365Z   Downloading certifi-2026.1.4-py3-none-any.whl.metadata (2.5 kB)
+digest	Install dependencies	2026-01-05T19:28:55.1480902Z Collecting httpcore==1.* (from httpx<1,>=0.23.0->openai>=1.0.0->-r requirements.txt (line 2))
+digest	Install dependencies	2026-01-05T19:28:55.1482055Z   Downloading httpcore-1.0.9-py3-none-any.whl.metadata (21 kB)
+digest	Install dependencies	2026-01-05T19:28:55.1606289Z Collecting h11>=0.16 (from httpcore==1.*->httpx<1,>=0.23.0->openai>=1.0.0->-r requirements.txt (line 2))
+digest	Install dependencies	2026-01-05T19:28:55.1665364Z   Downloading h11-0.16.0-py3-none-any.whl.metadata (8.3 kB)
+digest	Install dependencies	2026-01-05T19:28:55.1789247Z Collecting annotated-types>=0.6.0 (from pydantic<3,>=1.9.0->openai>=1.0.0->-r requirements.txt (line 2))
+digest	Install dependencies	2026-01-05T19:28:55.1820167Z   Downloading annotated_types-0.7.0-py3-none-any.whl.metadata (15 kB)
+digest	Install dependencies	2026-01-05T19:28:55.8464333Z Collecting pydantic-core==2.41.5 (from pydantic<3,>=1.9.0->openai>=1.0.0->-r requirements.txt (line 2))
+digest	Install dependencies	2026-01-05T19:28:55.8499369Z   Downloading pydantic_core-2.41.5-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (7.3 kB)
+digest	Install dependencies	2026-01-05T19:28:55.8672661Z Collecting typing-inspection>=0.4.2 (from pydantic<3,>=1.9.0->openai>=1.0.0->-r requirements.txt (line 2))
+digest	Install dependencies	2026-01-05T19:28:55.8705288Z   Downloading typing_inspection-0.4.2-py3-none-any.whl.metadata (2.6 kB)
+digest	Install dependencies	2026-01-05T19:28:55.8873763Z Collecting six>=1.5 (from python-dateutil>=2.8.0->-r requirements.txt (line 5))
+digest	Install dependencies	2026-01-05T19:28:55.8907241Z   Downloading six-1.17.0-py2.py3-none-any.whl.metadata (1.7 kB)
+digest	Install dependencies	2026-01-05T19:28:55.9204475Z Downloading discord_py-2.6.4-py3-none-any.whl (1.2 MB)
+digest	Install dependencies	2026-01-05T19:28:55.9339825Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 99.4 MB/s  0:00:00
+digest	Install dependencies	2026-01-05T19:28:55.9372551Z Downloading aiohttp-3.13.3-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (1.7 MB)
+digest	Install dependencies	2026-01-05T19:28:55.9530547Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.7/1.7 MB 109.6 MB/s  0:00:00
+digest	Install dependencies	2026-01-05T19:28:55.9565473Z Downloading multidict-6.7.0-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (246 kB)
+digest	Install dependencies	2026-01-05T19:28:55.9628185Z Downloading yarl-1.22.0-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (365 kB)
+digest	Install dependencies	2026-01-05T19:28:55.9695078Z Downloading openai-2.14.0-py3-none-any.whl (1.1 MB)
+digest	Install dependencies	2026-01-05T19:28:55.9778014Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.1/1.1 MB 132.3 MB/s  0:00:00
+digest	Install dependencies	2026-01-05T19:28:55.9809132Z Downloading anyio-4.12.0-py3-none-any.whl (113 kB)
+digest	Install dependencies	2026-01-05T19:28:55.9865482Z Downloading distro-1.9.0-py3-none-any.whl (20 kB)
+digest	Install dependencies	2026-01-05T19:28:55.9917724Z Downloading httpx-0.28.1-py3-none-any.whl (73 kB)
+digest	Install dependencies	2026-01-05T19:28:55.9977838Z Downloading httpcore-1.0.9-py3-none-any.whl (78 kB)
+digest	Install dependencies	2026-01-05T19:28:56.0034758Z Downloading jiter-0.12.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (364 kB)
+digest	Install dependencies	2026-01-05T19:28:56.0106669Z Downloading pydantic-2.12.5-py3-none-any.whl (463 kB)
+digest	Install dependencies	2026-01-05T19:28:56.0186390Z Downloading pydantic_core-2.41.5-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (2.1 MB)
+digest	Install dependencies	2026-01-05T19:28:56.0329143Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.1/2.1 MB 162.6 MB/s  0:00:00
+digest	Install dependencies	2026-01-05T19:28:56.0359941Z Downloading typing_extensions-4.15.0-py3-none-any.whl (44 kB)
+digest	Install dependencies	2026-01-05T19:28:56.0437992Z Downloading notion_client-2.7.0-py2.py3-none-any.whl (16 kB)
+digest	Install dependencies	2026-01-05T19:28:56.0495518Z Downloading pyyaml-6.0.3-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (806 kB)
+digest	Install dependencies	2026-01-05T19:28:56.0606268Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 806.6/806.6 kB 62.2 MB/s  0:00:00
+digest	Install dependencies	2026-01-05T19:28:56.0638862Z Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+digest	Install dependencies	2026-01-05T19:28:56.0705797Z Downloading aiohappyeyeballs-2.6.1-py3-none-any.whl (15 kB)
+digest	Install dependencies	2026-01-05T19:28:56.0759091Z Downloading aiosignal-1.4.0-py3-none-any.whl (7.5 kB)
+digest	Install dependencies	2026-01-05T19:28:56.0811964Z Downloading annotated_types-0.7.0-py3-none-any.whl (13 kB)
+digest	Install dependencies	2026-01-05T19:28:56.0865905Z Downloading attrs-25.4.0-py3-none-any.whl (67 kB)
+digest	Install dependencies	2026-01-05T19:28:56.0921348Z Downloading frozenlist-1.8.0-cp311-cp311-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl (231 kB)
+digest	Install dependencies	2026-01-05T19:28:56.0986594Z Downloading h11-0.16.0-py3-none-any.whl (37 kB)
+digest	Install dependencies	2026-01-05T19:28:56.1041746Z Downloading idna-3.11-py3-none-any.whl (71 kB)
+digest	Install dependencies	2026-01-05T19:28:56.1128539Z Downloading propcache-0.4.1-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (210 kB)
+digest	Install dependencies	2026-01-05T19:28:56.1187919Z Downloading six-1.17.0-py2.py3-none-any.whl (11 kB)
+digest	Install dependencies	2026-01-05T19:28:56.1247322Z Downloading tqdm-4.67.1-py3-none-any.whl (78 kB)
+digest	Install dependencies	2026-01-05T19:28:56.1303975Z Downloading typing_inspection-0.4.2-py3-none-any.whl (14 kB)
+digest	Install dependencies	2026-01-05T19:28:56.1358490Z Downloading certifi-2026.1.4-py3-none-any.whl (152 kB)
+digest	Install dependencies	2026-01-05T19:28:56.1420011Z Downloading sniffio-1.3.1-py3-none-any.whl (10 kB)
+digest	Install dependencies	2026-01-05T19:28:56.2317908Z Installing collected packages: typing-extensions, tqdm, sniffio, six, pyyaml, propcache, multidict, jiter, idna, h11, frozenlist, distro, certifi, attrs, annotated-types, aiohappyeyeballs, yarl, typing-inspection, python-dateutil, pydantic-core, httpcore, anyio, aiosignal, pydantic, httpx, aiohttp, openai, notion-client, discord.py
+digest	Install dependencies	2026-01-05T19:28:59.6457982Z 
+digest	Install dependencies	2026-01-05T19:28:59.6478067Z Successfully installed aiohappyeyeballs-2.6.1 aiohttp-3.13.3 aiosignal-1.4.0 annotated-types-0.7.0 anyio-4.12.0 attrs-25.4.0 certifi-2026.1.4 discord.py-2.6.4 distro-1.9.0 frozenlist-1.8.0 h11-0.16.0 httpcore-1.0.9 httpx-0.28.1 idna-3.11 jiter-0.12.0 multidict-6.7.0 notion-client-2.7.0 openai-2.14.0 propcache-0.4.1 pydantic-2.12.5 pydantic-core-2.41.5 python-dateutil-2.9.0.post0 pyyaml-6.0.3 six-1.17.0 sniffio-1.3.1 tqdm-4.67.1 typing-extensions-4.15.0 typing-inspection-0.4.2 yarl-1.22.0
+digest	Fetch Discord messages	﻿2026-01-05T19:29:00.1128201Z ##[group]Run python discord_fetch.py
+digest	Fetch Discord messages	2026-01-05T19:29:00.1128543Z [36;1mpython discord_fetch.py[0m
+digest	Fetch Discord messages	2026-01-05T19:29:00.1163033Z shell: /usr/bin/bash -e {0}
+digest	Fetch Discord messages	2026-01-05T19:29:00.1163278Z env:
+digest	Fetch Discord messages	2026-01-05T19:29:00.1163545Z   pythonLocation: /opt/hostedtoolcache/Python/3.11.14/x64
+digest	Fetch Discord messages	2026-01-05T19:29:00.1163982Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.11.14/x64/lib/pkgconfig
+digest	Fetch Discord messages	2026-01-05T19:29:00.1164404Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.11.14/x64
+digest	Fetch Discord messages	2026-01-05T19:29:00.1164950Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.11.14/x64
+digest	Fetch Discord messages	2026-01-05T19:29:00.1165339Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.11.14/x64
+digest	Fetch Discord messages	2026-01-05T19:29:00.1165742Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.11.14/x64/lib
+digest	Fetch Discord messages	2026-01-05T19:29:00.1166375Z   DISCORD_TOKEN: ***
+digest	Fetch Discord messages	2026-01-05T19:29:00.1166585Z ##[endgroup]
+digest	Fetch Discord messages	2026-01-05T19:29:00.4516870Z Traceback (most recent call last):
+digest	Fetch Discord messages	2026-01-05T19:29:00.4525045Z   File "/home/runner/work/ai-news-digest/ai-news-digest/discord_fetch.py", line 182, in <module>
+digest	Fetch Discord messages	2026-01-05T19:29:00.4525884Z     main()
+digest	Fetch Discord messages	2026-01-05T19:29:00.4526512Z   File "/home/runner/work/ai-news-digest/ai-news-digest/discord_fetch.py", line 179, in main
+digest	Fetch Discord messages	2026-01-05T19:29:00.4527165Z     fetcher.run()
+digest	Fetch Discord messages	2026-01-05T19:29:00.4527791Z   File "/home/runner/work/ai-news-digest/ai-news-digest/discord_fetch.py", line 173, in run
+digest	Fetch Discord messages	2026-01-05T19:29:00.4528515Z     self.client.run(self.config.TOKEN, bot=False)
+digest	Fetch Discord messages	2026-01-05T19:29:00.4529096Z TypeError: Client.run() got an unexpected keyword argument 'bot'
+digest	Fetch Discord messages	2026-01-05T19:29:00.4841739Z ##[error]Process completed with exit code 1.
+digest	Post Run actions/checkout@v4	﻿2026-01-05T19:29:00.4965865Z Post job cleanup.
+digest	Post Run actions/checkout@v4	2026-01-05T19:29:00.5903448Z [command]/usr/bin/git version
+digest	Post Run actions/checkout@v4	2026-01-05T19:29:00.5939905Z git version 2.52.0
+digest	Post Run actions/checkout@v4	2026-01-05T19:29:00.5984304Z Temporarily overriding HOME='/home/runner/work/_temp/0c374848-4c8f-4e05-8307-2a097d3b6179' before making global git config changes
+digest	Post Run actions/checkout@v4	2026-01-05T19:29:00.5985702Z Adding repository directory to the temporary git global config as a safe directory
+digest	Post Run actions/checkout@v4	2026-01-05T19:29:00.5990957Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/ai-news-digest/ai-news-digest
+digest	Post Run actions/checkout@v4	2026-01-05T19:29:00.6026057Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+digest	Post Run actions/checkout@v4	2026-01-05T19:29:00.6058782Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+digest	Post Run actions/checkout@v4	2026-01-05T19:29:00.6300337Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+digest	Post Run actions/checkout@v4	2026-01-05T19:29:00.6323770Z http.https://github.com/.extraheader
+digest	Post Run actions/checkout@v4	2026-01-05T19:29:00.6336945Z [command]/usr/bin/git config --local --unset-all http.https://github.com/.extraheader
+digest	Post Run actions/checkout@v4	2026-01-05T19:29:00.6368302Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+digest	Post Run actions/checkout@v4	2026-01-05T19:29:00.6589295Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+digest	Post Run actions/checkout@v4	2026-01-05T19:29:00.6625410Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+digest	Complete job	﻿2026-01-05T19:29:00.6952407Z Cleaning up orphan processes

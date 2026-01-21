@@ -1,0 +1,223 @@
+fetch-discord-data	UNKNOWN STEP	﻿2026-01-18T16:37:52.9661596Z Current runner version: '2.331.0'
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9696255Z ##[group]Runner Image Provisioner
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9697482Z Hosted Compute Agent
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9698510Z Version: 20251211.462
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9699487Z Commit: 6cbad8c2bb55d58165063d031ccabf57e2d2db61
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9700676Z Build Date: 2025-12-11T16:28:49Z
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9701958Z Worker ID: {3b47363c-d31c-4a2e-b79e-340172755f82}
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9703288Z ##[endgroup]
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9704234Z ##[group]Operating System
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9705526Z Ubuntu
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9706277Z 24.04.3
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9706940Z LTS
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9707715Z ##[endgroup]
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9708617Z ##[group]Runner Image
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9709483Z Image: ubuntu-24.04
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9710403Z Version: 20260111.209.1
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9712050Z Included Software: https://github.com/actions/runner-images/blob/ubuntu24/20260111.209/images/ubuntu/Ubuntu2404-Readme.md
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9714710Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20260111.209
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9716603Z ##[endgroup]
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9718393Z ##[group]GITHUB_TOKEN Permissions
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9721263Z Contents: write
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9722030Z Metadata: read
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9722911Z ##[endgroup]
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9726424Z Secret source: Actions
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:52.9727574Z Prepare workflow directory
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.0189849Z Prepare all required actions
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.0246606Z Getting action download info
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.2724379Z Download action repository 'actions/checkout@v4' (SHA:34e114876b0b11c390a56381ad16ebd13914f8d5)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.3804592Z Download action repository 'actions/setup-python@v5' (SHA:a26af69be951a213d495a4c3e4e4022e16d87065)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.6052556Z Complete job name: fetch-discord-data
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.6781494Z ##[group]Run actions/checkout@v4
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.6782459Z with:
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.6782857Z   repository: madjin/daily-silk
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.6783542Z   token: ***
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.6783932Z   ssh-strict: true
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.6784330Z   ssh-user: git
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.6784903Z   persist-credentials: true
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.6785357Z   clean: true
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.6785760Z   sparse-checkout-cone-mode: true
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.6786249Z   fetch-depth: 1
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.6786637Z   fetch-tags: false
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.6787038Z   show-progress: true
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.6787448Z   lfs: false
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.6787822Z   submodules: false
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.6788225Z   set-safe-directory: true
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.6788906Z ##[endgroup]
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.7929308Z Syncing repository: madjin/daily-silk
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.7931078Z ##[group]Getting Git version info
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.7931856Z Working directory is '/home/runner/work/daily-silk/daily-silk'
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.7933573Z [command]/usr/bin/git version
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8015890Z git version 2.52.0
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8043589Z ##[endgroup]
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8058342Z Temporarily overriding HOME='/home/runner/work/_temp/e9988e2b-0079-4c95-a928-d8dbdf014801' before making global git config changes
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8072107Z Adding repository directory to the temporary git global config as a safe directory
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8074193Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/daily-silk/daily-silk
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8116595Z Deleting the contents of '/home/runner/work/daily-silk/daily-silk'
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8120672Z ##[group]Initializing the repository
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8124936Z [command]/usr/bin/git init /home/runner/work/daily-silk/daily-silk
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8256886Z hint: Using 'master' as the name for the initial branch. This default branch name
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8258644Z hint: will change to "main" in Git 3.0. To configure the initial branch name
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8260214Z hint: to use in all of your new repositories, which will suppress this warning,
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8261414Z hint: call:
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8262043Z hint:
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8263051Z hint: 	git config --global init.defaultBranch <name>
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8263668Z hint:
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8264239Z hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8265442Z hint: 'development'. The just-created branch can be renamed via this command:
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8266193Z hint:
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8266589Z hint: 	git branch -m <name>
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8267046Z hint:
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8267809Z hint: Disable this message with "git config set advice.defaultBranchName false"
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8269186Z Initialized empty Git repository in /home/runner/work/daily-silk/daily-silk/.git/
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8274003Z [command]/usr/bin/git remote add origin https://github.com/madjin/daily-silk
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8311146Z ##[endgroup]
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8311933Z ##[group]Disabling automatic garbage collection
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8315784Z [command]/usr/bin/git config --local gc.auto 0
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8346063Z ##[endgroup]
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8346785Z ##[group]Setting up auth
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8353069Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8385292Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8758283Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.8791071Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.9019091Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.9050485Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.9285990Z [command]/usr/bin/git config --local http.https://github.com/.extraheader AUTHORIZATION: basic ***
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.9321601Z ##[endgroup]
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.9331056Z ##[group]Fetching the repository
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:53.9333322Z [command]/usr/bin/git -c protocol.version=2 fetch --no-tags --prune --no-recurse-submodules --depth=1 origin +ba2ec1c8ed0e3d717b38578acd0444d49f0833e3:refs/remotes/origin/main
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.2860251Z From https://github.com/madjin/daily-silk
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.2861976Z  * [new ref]         ba2ec1c8ed0e3d717b38578acd0444d49f0833e3 -> origin/main
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.2900124Z ##[endgroup]
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.2901534Z ##[group]Determining the checkout info
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.2903001Z ##[endgroup]
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.2908544Z [command]/usr/bin/git sparse-checkout disable
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.2957244Z [command]/usr/bin/git config --local --unset-all extensions.worktreeConfig
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.2990796Z ##[group]Checking out the ref
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.2995939Z [command]/usr/bin/git checkout --progress --force -B main refs/remotes/origin/main
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.3698398Z Switched to a new branch 'main'
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.3699940Z branch 'main' set up to track 'origin/main'.
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.3710655Z ##[endgroup]
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.3751039Z [command]/usr/bin/git log -1 --format=%H
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.3775884Z ba2ec1c8ed0e3d717b38578acd0444d49f0833e3
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.4098688Z ##[group]Run actions/setup-python@v5
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.4099897Z with:
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.4100723Z   python-version: 3.x
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.4101663Z   check-latest: false
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.4102886Z   token: ***
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.4103774Z   update-environment: true
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.4105011Z   allow-prereleases: false
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.4106018Z   freethreaded: false
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.4106943Z ##[endgroup]
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.5927433Z ##[group]Installed versions
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.6089607Z Successfully set up CPython (3.14.2)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.6090713Z ##[endgroup]
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.6209473Z ##[group]Run python -m pip install --upgrade pip
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.6210007Z [36;1mpython -m pip install --upgrade pip[0m
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.6210370Z [36;1mpip install discord.py[0m
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.6259374Z shell: /usr/bin/bash -e {0}
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.6259741Z env:
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.6260122Z   pythonLocation: /opt/hostedtoolcache/Python/3.14.2/x64
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.6260602Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.14.2/x64/lib/pkgconfig
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.6261058Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.14.2/x64
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.6261466Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.14.2/x64
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.6261870Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.14.2/x64
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.6262280Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.14.2/x64/lib
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:54.6262629Z ##[endgroup]
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:56.5082717Z Requirement already satisfied: pip in /opt/hostedtoolcache/Python/3.14.2/x64/lib/python3.14/site-packages (25.3)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:57.2326845Z Collecting discord.py
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:57.3022201Z   Downloading discord_py-2.6.4-py3-none-any.whl.metadata (7.5 kB)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:57.8373565Z Collecting aiohttp<4,>=3.7.4 (from discord.py)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:57.8451049Z   Downloading aiohttp-3.13.3-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (8.1 kB)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:57.8701381Z Collecting audioop-lts (from discord.py)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:57.8784657Z   Downloading audioop_lts-0.2.2-cp313-abi3-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl.metadata (2.0 kB)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:57.8989783Z Collecting aiohappyeyeballs>=2.5.0 (from aiohttp<4,>=3.7.4->discord.py)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:57.9060976Z   Downloading aiohappyeyeballs-2.6.1-py3-none-any.whl.metadata (5.9 kB)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:57.9212229Z Collecting aiosignal>=1.4.0 (from aiohttp<4,>=3.7.4->discord.py)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:57.9284219Z   Downloading aiosignal-1.4.0-py3-none-any.whl.metadata (3.7 kB)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:57.9494337Z Collecting attrs>=17.3.0 (from aiohttp<4,>=3.7.4->discord.py)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:57.9566768Z   Downloading attrs-25.4.0-py3-none-any.whl.metadata (10 kB)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.0289278Z Collecting frozenlist>=1.1.1 (from aiohttp<4,>=3.7.4->discord.py)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.0382292Z   Downloading frozenlist-1.8.0-cp314-cp314-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl.metadata (20 kB)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.2752461Z Collecting multidict<7.0,>=4.5 (from aiohttp<4,>=3.7.4->discord.py)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.2827717Z   Downloading multidict-6.7.0-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (5.3 kB)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.3404660Z Collecting propcache>=0.2.0 (from aiohttp<4,>=3.7.4->discord.py)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.3483861Z   Downloading propcache-0.4.1-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (13 kB)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.6079307Z Collecting yarl<2.0,>=1.17.0 (from aiohttp<4,>=3.7.4->discord.py)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.6157666Z   Downloading yarl-1.22.0-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (75 kB)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.6475730Z Collecting idna>=2.0 (from yarl<2.0,>=1.17.0->aiohttp<4,>=3.7.4->discord.py)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.6552038Z   Downloading idna-3.11-py3-none-any.whl.metadata (8.4 kB)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.6800665Z Downloading discord_py-2.6.4-py3-none-any.whl (1.2 MB)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.7034667Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 67.1 MB/s  0:00:00
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.7122052Z Downloading aiohttp-3.13.3-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (1.7 MB)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.7239051Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.7/1.7 MB 170.6 MB/s  0:00:00
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.7314232Z Downloading multidict-6.7.0-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (248 kB)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.7423874Z Downloading yarl-1.22.0-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (372 kB)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.7531704Z Downloading aiohappyeyeballs-2.6.1-py3-none-any.whl (15 kB)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.7622912Z Downloading aiosignal-1.4.0-py3-none-any.whl (7.5 kB)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.7715035Z Downloading attrs-25.4.0-py3-none-any.whl (67 kB)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.7810880Z Downloading frozenlist-1.8.0-cp314-cp314-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl (231 kB)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.7908645Z Downloading idna-3.11-py3-none-any.whl (71 kB)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.8002308Z Downloading propcache-0.4.1-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (201 kB)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.8100806Z Downloading audioop_lts-0.2.2-cp313-abi3-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl (85 kB)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:37:58.8605632Z Installing collected packages: propcache, multidict, idna, frozenlist, audioop-lts, attrs, aiohappyeyeballs, yarl, aiosignal, aiohttp, discord.py
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:00.0042176Z 
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:00.0062380Z Successfully installed aiohappyeyeballs-2.6.1 aiohttp-3.13.3 aiosignal-1.4.0 attrs-25.4.0 audioop-lts-0.2.2 discord.py-2.6.4 frozenlist-1.8.0 idna-3.11 multidict-6.7.0 propcache-0.4.1 yarl-1.22.0
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:00.3132394Z ##[group]Run python discord_fetch.py
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:00.3132735Z [36;1mpython discord_fetch.py[0m
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:00.3166311Z shell: /usr/bin/bash -e {0}
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:00.3166555Z env:
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:00.3166804Z   pythonLocation: /opt/hostedtoolcache/Python/3.14.2/x64
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:00.3167232Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.14.2/x64/lib/pkgconfig
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:00.3167655Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.14.2/x64
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:00.3168014Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.14.2/x64
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:00.3168366Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.14.2/x64
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:00.3168732Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.14.2/x64/lib
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:00.3169348Z   DISCORD_TOKEN: ***
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:00.3169552Z ##[endgroup]
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:01.0524544Z [2026-01-18 16:38:01] [INFO    ] discord.client: logging in using static token
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:01.9223132Z [2026-01-18 16:38:01] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 727b3fe2a8a72905d948e5ac8f82529e).
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.2057914Z Logged in as jintern#9151
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.2058818Z Fetching messages from 2026-01-18 to 2026-01-18
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.2059277Z Found 1 new messages across 1 days
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.2059690Z Saved 1 unique entries to data/2026-01-18.json
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.2060109Z Exported 1 entries to data/2026-01-18.md
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.2626256Z ##[group]Run git config --global user.name "GitHub Action"
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.2626696Z [36;1mgit config --global user.name "GitHub Action"[0m
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.2627060Z [36;1mgit config --global user.email "action@github.com"[0m
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.2627374Z [36;1mgit add data/*.json data/*.md[0m
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.2627760Z [36;1mgit commit -m "Add Discord data for $(date +%Y%m%d)" || echo "No changes to commit"[0m
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.2628177Z [36;1mgit push[0m
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.2660589Z shell: /usr/bin/bash -e {0}
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.2660827Z env:
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.2661075Z   pythonLocation: /opt/hostedtoolcache/Python/3.14.2/x64
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.2661484Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.14.2/x64/lib/pkgconfig
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.2661891Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.14.2/x64
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.2662248Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.14.2/x64
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.2662654Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.14.2/x64
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.2663012Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.14.2/x64/lib
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.2663708Z   GITHUB_TOKEN: ***
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.2663903Z ##[endgroup]
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.3187903Z [main 4cb9292] Add Discord data for 20260118
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.3188469Z  2 files changed, 45 insertions(+)
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.3188941Z  create mode 100644 data/2026-01-18.json
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.3189699Z  create mode 100644 data/2026-01-18.md
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.7849324Z To https://github.com/madjin/daily-silk
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.7849891Z    ba2ec1c..4cb9292  main -> main
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.7962919Z Post job cleanup.
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:04.9628452Z Post job cleanup.
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:05.0580460Z [command]/usr/bin/git version
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:05.0621977Z git version 2.52.0
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:05.0661669Z Copying '/home/runner/.gitconfig' to '/home/runner/work/_temp/844b8009-c3a6-4761-acbb-7a21c8994828/.gitconfig'
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:05.0672721Z Temporarily overriding HOME='/home/runner/work/_temp/844b8009-c3a6-4761-acbb-7a21c8994828' before making global git config changes
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:05.0674091Z Adding repository directory to the temporary git global config as a safe directory
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:05.0679175Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/daily-silk/daily-silk
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:05.0721502Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:05.0754370Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:05.0992561Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:05.1014443Z http.https://github.com/.extraheader
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:05.1028553Z [command]/usr/bin/git config --local --unset-all http.https://github.com/.extraheader
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:05.1059597Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:05.1289332Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:05.1321462Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+fetch-discord-data	UNKNOWN STEP	2026-01-18T16:38:05.1649907Z Cleaning up orphan processes

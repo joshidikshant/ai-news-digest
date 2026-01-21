@@ -107,9 +107,9 @@ def is_provider_available(name: str) -> bool:
 # Auto-import providers to trigger registration
 # These imports happen at module load time
 try:
-    from providers import pillow_legacy
-except ImportError:
-    pass  # Provider not yet implemented
+    from providers import pillow_legacy  # Legacy wrapper for existing code
+except ImportError as e:
+    print(f"Warning: Could not import pillow_legacy: {e}")
 
 # Future providers will self-register:
 # from providers import pillow_openai

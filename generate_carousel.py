@@ -372,46 +372,97 @@ def get_recent_curated_files(hours: int = 48) -> List[str]:
 
 
 async def main():
+    # Import provider system
+    try:
+        from providers import get_provider, get_provider_with_fallback, list_providers
+        providers_available = list_providers()
+    except ImportError:
+        providers_available = []
+    
     parser = argparse.ArgumentParser(description="Generate LinkedIn carousel PDFs")
     parser.add_argument("--date", help="Date to process (YYYY-MM-DD)")
     parser.add_argument("--all", action="store_true", help="Process all curated files")
     parser.add_argument("--theme", choices=["dark", "light", "both"], default="both", help="Color theme")
     parser.add_argument("--no-images", action="store_true", help="Skip AI illustration generation")
+    parser.add_argument(
+        "--provider",
+        choices=providers_available if providers_available else None,
+        default=os.getenv("CAROUSEL_PROVIDER", ""),
+        help=f"Carousel provider. Available: {providers_available or 'none (using legacy)'}"
+    )
     args = parser.parse_args()
     
     themes = ["dark", "light"] if args.theme == "both" else [args.theme]
     generate_images = not args.no_images
     
+    # Check if using provider system or legacy
+    use_provider = args.provider and args.provider in providers_available
+    
     for theme in themes:
         print(f"\n{'='*50}")
         print(f"Theme: {theme.upper()}")
+        if use_provider:
+            print(f"Provider: {args.provider}")
         print(f"{'='*50}")
         
-        generator = CarouselGenerator(theme=theme, generate_images=generate_images)
-        
-        if args.date:
-            await generator.process_day_async(args.date)
-        elif args.all:
-            curated_files = glob.glob(os.path.join(Config.DATA_DIR, "curated", "*.json"))
-            curated_files.sort()
-            print(f"Processing ALL {len(curated_files)} curated days...")
-            for f in curated_files:
-                date_str = os.path.splitext(os.path.basename(f))[0]
-                print(f"\n=== {date_str} ===")
-                await generator.process_day_async(date_str)
+        if use_provider:
+            # Use provider system
+            provider = get_provider(
+                args.provider, 
+                theme=theme, 
+                generate_images=generate_images
+            )
+            
+            if args.date:
+                await provider.process_day(args.date)
+            elif args.all:
+                curated_files = glob.glob(os.path.join(Config.DATA_DIR, "curated", "*.json"))
+                curated_files.sort()
+                print(f"Processing ALL {len(curated_files)} curated days...")
+                for f in curated_files:
+                    date_str = os.path.splitext(os.path.basename(f))[0]
+                    print(f"\n=== {date_str} ===")
+                    await provider.process_day(date_str)
+            else:
+                recent_files = get_recent_curated_files(Config.SLIDING_WINDOW_HOURS)
+                
+                if not recent_files:
+                    print(f"No curated data in the last {Config.SLIDING_WINDOW_HOURS} hours.")
+                    continue
+                
+                print(f"Processing {len(recent_files)} days...")
+                for f in recent_files:
+                    date_str = os.path.splitext(os.path.basename(f))[0]
+                    print(f"\n=== {date_str} ===")
+                    await provider.process_day(date_str)
         else:
-            recent_files = get_recent_curated_files(Config.SLIDING_WINDOW_HOURS)
+            # Legacy mode - use CarouselGenerator directly
+            generator = CarouselGenerator(theme=theme, generate_images=generate_images)
             
-            if not recent_files:
-                print(f"No curated data in the last {Config.SLIDING_WINDOW_HOURS} hours.")
-                continue
-            
-            print(f"Processing {len(recent_files)} days...")
-            for f in recent_files:
-                date_str = os.path.splitext(os.path.basename(f))[0]
-                print(f"\n=== {date_str} ===")
-                await generator.process_day_async(date_str)
+            if args.date:
+                await generator.process_day_async(args.date)
+            elif args.all:
+                curated_files = glob.glob(os.path.join(Config.DATA_DIR, "curated", "*.json"))
+                curated_files.sort()
+                print(f"Processing ALL {len(curated_files)} curated days...")
+                for f in curated_files:
+                    date_str = os.path.splitext(os.path.basename(f))[0]
+                    print(f"\n=== {date_str} ===")
+                    await generator.process_day_async(date_str)
+            else:
+                recent_files = get_recent_curated_files(Config.SLIDING_WINDOW_HOURS)
+                
+                if not recent_files:
+                    print(f"No curated data in the last {Config.SLIDING_WINDOW_HOURS} hours.")
+                    continue
+                
+                print(f"Processing {len(recent_files)} days...")
+                for f in recent_files:
+                    date_str = os.path.splitext(os.path.basename(f))[0]
+                    print(f"\n=== {date_str} ===")
+                    await generator.process_day_async(date_str)
 
 
 if __name__ == "__main__":
     asyncio.run(main())
+
