@@ -1,23 +1,20 @@
 """
 Gamma API Provider
 
-LinkedIn carousel generation using Gamma.app's API.
-Based on best practices from "Carousels. - How to AI" guide.
+LinkedIn carousel generation using Gamma.app's official API.
+Docs: https://developers.gamma.app/reference/generate-a-gamma
 
-Workflow:
-1. Gamma Studio mode → Portrait (4:5 / 1080x1350)
-2. 10 slides structure (Hook → Stakes → Insight → Content → CTA)
-3. "Just vibes" text quantity (minimal text, high impact)
-4. Nano Banana Pro for AI images
+API Workflow:
+1. POST /v1.0/generations → Creates generation, returns generationId
+2. Poll GET /v1.0/generations/{id} → Wait for status=completed
+3. Download exportUrl (PDF) from response
 
-Cost: $15/mo Pro plan (~4000 credits)
-- Unsplash only: ~20 credits = 200 carousels/month
-- Basic AI: ~30 credits = 133 carousels/month
-- Premium AI: ~120 credits = 33 carousels/month
+Cost: $15/mo Pro plan
 """
 
 import os
 import asyncio
+import time
 from typing import List, Dict, Optional
 from io import BytesIO
 
@@ -43,37 +40,25 @@ from providers import register_provider
 @register_provider("gamma")
 class GammaProvider(CarouselProvider):
     """
-    LinkedIn carousel provider using Gamma.app API.
+    LinkedIn carousel provider using Gamma.app official API.
     
-    Based on the "Carousels. - How to AI" best practices:
-    - Studio mode with Portrait 4:5 format
-    - 10 slides structure
-    - "Just vibes" (minimal text)
-    - Nano Banana Pro for AI images
+    API Reference: https://developers.gamma.app/reference/generate-a-gamma
     
-    Requires: GAMMA_API_KEY environment variable (Pro plan)
+    Requires: GAMMA_API_KEY environment variable
     """
     
     name = "gamma"
     
-    # Gamma API endpoints
-    API_BASE = "https://api.gamma.app/v1"
+    # Correct Gamma API base URL
+    API_BASE = "https://public-api.gamma.app/v1.0"
     
-    # Optimal slide count from best practices
-    OPTIMAL_SLIDES = 10
-    
-    # AI image quality tiers (credits per slide)
-    IMAGE_QUALITY = {
-        'none': 0,       # Unsplash only
-        'basic': 2,      # Basic AI (Nano Banana)
-        'advanced': 4,   # Advanced AI
-        'premium': 8     # Premium AI (Nano Banana Pro - recommended)
-    }
+    # Optimal settings for LinkedIn carousels
+    NUM_CARDS = 10
     
     def __init__(
         self, 
         theme: str = "dark", 
-        image_quality: str = "premium",  # Default to premium per best practices
+        image_quality: str = "premium",
         **kwargs
     ):
         super().__init__(theme=theme, **kwargs)
@@ -86,236 +71,321 @@ class GammaProvider(CarouselProvider):
         if not AIOHTTP_AVAILABLE:
             print("Warning: aiohttp not installed. Install with: pip install aiohttp")
     
-    def _estimate_credits(self, slides: int = 10) -> int:
-        """Estimate credits for a carousel."""
-        base_credits = 10
-        image_credits = self.IMAGE_QUALITY.get(self.image_quality, 2) * slides
-        return base_credits + image_credits
-    
-    def _build_carousel_outline(self, item: Dict) -> str:
+    def _build_input_text(self, item: Dict) -> str:
         """
-        Build the 10-slide carousel outline following best practices.
+        Build input text for Gamma generation.
         
-        Structure from "Carousels. - How to AI":
-        1. Hook (polarizing/curiosity-gap headline)
-        2. Stakes (why this matters now)
-        3. Core Insight/Thesis
-        4-9. Content slides with specific insights
-        10. CTA
+        Structure: 10 slides for LinkedIn carousel
+        - Slide 1: Hook
+        - Slide 2: Stakes  
+        - Slide 3: Core Insight
+        - Slides 4-9: Content
+        - Slide 10: CTA
         """
         headline = item.get('headline', 'AI News Update')
         summary = item.get('summary', '')
         bullets = item.get('bullets', [])
         hot_take = item.get('hot_take', '')
-        category = item.get('category', 'AI News')
         
-        # Ensure we have enough content for 10 slides
+        # Ensure enough bullets
         while len(bullets) < 6:
             bullets.append(f"Key insight about {headline}")
         
-        outline = f"""# Slide 1: The Hook
+        input_text = f"""Create a 10-slide LinkedIn carousel about: {headline}
+
+---
+SLIDE 1: THE HOOK
 {headline}
 
-# Slide 2: The Stakes  
+---
+SLIDE 2: THE STAKES
 Why This Matters Right Now
-{summary if summary else 'This changes everything for AI.'}
+{summary if summary else 'This changes everything.'}
 
-# Slide 3: The Core Insight
+---
+SLIDE 3: THE CORE INSIGHT
 🔥 {hot_take if hot_take else bullets[0]}
 
-# Slide 4: Key Point 1
+---
+SLIDE 4: KEY POINT 1
 {bullets[0]}
 
-# Slide 5: Key Point 2
+---
+SLIDE 5: KEY POINT 2
 {bullets[1]}
 
-# Slide 6: Key Point 3
+---
+SLIDE 6: KEY POINT 3
 {bullets[2]}
 
-# Slide 7: What This Means
-The implications are massive.
+---
+SLIDE 7: IMPLICATIONS
 {bullets[3] if len(bullets) > 3 else 'This will reshape the industry.'}
 
-# Slide 8: What's Next
+---
+SLIDE 8: WHAT'S NEXT
 {bullets[4] if len(bullets) > 4 else 'The future is being written now.'}
 
-# Slide 9: The Takeaway
+---
+SLIDE 9: THE TAKEAWAY
 {bullets[5] if len(bullets) > 5 else hot_take}
 
-# Slide 10: CTA
+---
+SLIDE 10: CALL TO ACTION
 Follow for Daily AI Insights
 Never miss another breakthrough.
 """
-        return outline
+        return input_text
     
-    async def _create_presentation(self, item: Dict) -> Optional[str]:
+    async def _create_generation(self, item: Dict) -> Optional[str]:
         """
-        Create a presentation via Gamma API using Studio mode.
+        Create a Gamma generation via API.
         
-        Settings based on best practices:
-        - Mode: Studio BETA
-        - Format: Portrait (4:5)
-        - Cards: 10
-        - Text: "Just vibes" (minimal)
-        - Images: Nano Banana Pro
+        POST https://public-api.gamma.app/v1.0/generations
+        Returns: generationId
         """
         if not self.api_key:
-            raise ValueError(
-                "GAMMA_API_KEY not set. Get your API key from gamma.app with a Pro subscription."
-            )
+            raise ValueError("GAMMA_API_KEY not set.")
+        
+        if not AIOHTTP_AVAILABLE:
+            raise RuntimeError("aiohttp not installed. Run: pip install aiohttp")
         
         headline = item.get('headline', 'AI News Update')
-        outline = self._build_carousel_outline(item)
+        input_text = self._build_input_text(item)
         
-        # Gamma API payload based on best practices
-        payload = {
-            "title": headline,
-            "content": outline,
-            "mode": "studio",           # Studio mode for best results
-            "format": "social",          # Social media format
-            "card_size": "portrait",     # Portrait 4:5 (1080x1350)
-            "cards": self.OPTIMAL_SLIDES,
-            "text_quantity": "vibes",    # "Just vibes" - minimal text
-            "theme": self.theme,
-            "image_source": "nano_banana_pro" if self.image_quality == "premium" else "ai",
-            "image_quality": self.image_quality,
+        # Map image quality to Gamma image model
+        image_model_map = {
+            'none': None,
+            'basic': 'nano-banana',
+            'advanced': 'nano-banana-pro',
+            'premium': 'nano-banana-pro'
         }
         
+        payload = {
+            "inputText": input_text,
+            "textMode": "preserve",  # Use our structured text as-is
+            "format": "social",       # Social media format for carousels
+            "numCards": self.NUM_CARDS,
+            "exportAs": "pdf",        # Export as PDF for LinkedIn
+            "textOptions": {
+                "tone": "Professional",
+                "audience": "LinkedIn Tech Professionals",
+                "amount": "brief"     # Minimal text for carousels
+            },
+            "imageOptions": {
+                "source": "aiGenerated" if self.image_quality != 'none' else "unsplash",
+                "model": image_model_map.get(self.image_quality, 'nano-banana-pro')
+            },
+            "cardOptions": {
+                "dimensions": "4x5"   # Portrait for LinkedIn (1080x1350)
+            }
+        }
+        
+        # Remove None values
+        if payload["imageOptions"]["model"] is None:
+            del payload["imageOptions"]["model"]
+        
         headers = {
-            "Authorization": f"Bearer {self.api_key}",
-            "Content-Type": "application/json"
+            "X-API-KEY": self.api_key,
+            "Content-Type": "application/json",
+            "accept": "application/json"
         }
         
         try:
             async with aiohttp.ClientSession() as session:
                 async with session.post(
-                    f"{self.API_BASE}/presentations",
+                    f"{self.API_BASE}/generations",
                     json=payload,
                     headers=headers
                 ) as response:
-                    if response.status == 201:
+                    response_text = await response.text()
+                    
+                    if response.status == 200 or response.status == 201:
                         data = await response.json()
-                        return data.get("id")
+                        gen_id = data.get("generationId") or data.get("id")
+                        print(f"    ✅ Generation started: {gen_id}")
+                        return gen_id
                     elif response.status == 401:
                         raise ValueError("Invalid GAMMA_API_KEY")
                     elif response.status == 402:
-                        raise ValueError("Gamma credits exhausted. Upgrade your plan.")
+                        raise ValueError("Gamma credits exhausted")
                     else:
-                        error = await response.text()
-                        print(f"    ⚠️ Gamma API error: {response.status} - {error}")
+                        print(f"    ⚠️ Gamma API error: {response.status} - {response_text}")
                         return None
         except aiohttp.ClientError as e:
             print(f"    ⚠️ Network error: {e}")
             return None
     
-    async def _wait_for_completion(
+    async def _poll_generation(
         self, 
-        presentation_id: str, 
-        timeout: int = 120
-    ) -> bool:
-        """Poll until presentation is ready."""
+        generation_id: str, 
+        timeout: int = 180,
+        poll_interval: int = 5
+    ) -> Optional[Dict]:
+        """
+        Poll generation status until completed.
+        
+        GET https://public-api.gamma.app/v1.0/generations/{generationId}
+        Returns: Full response with exportUrl when completed
+        """
         if not self.api_key:
-            return False
-            
-        headers = {"Authorization": f"Bearer {self.api_key}"}
+            return None
+        
+        headers = {
+            "X-API-KEY": self.api_key,
+            "accept": "application/json"
+        }
+        
+        start_time = time.time()
         
         async with aiohttp.ClientSession() as session:
-            for _ in range(timeout // 5):
+            while (time.time() - start_time) < timeout:
                 async with session.get(
-                    f"{self.API_BASE}/presentations/{presentation_id}",
+                    f"{self.API_BASE}/generations/{generation_id}",
                     headers=headers
                 ) as response:
                     if response.status == 200:
                         data = await response.json()
-                        if data.get("status") == "completed":
-                            return True
-                        elif data.get("status") == "failed":
-                            print(f"    ⚠️ Presentation generation failed")
-                            return False
+                        status = data.get("status", "").lower()
+                        
+                        if status == "completed":
+                            print(f"    ✅ Generation completed!")
+                            return data
+                        elif status == "failed":
+                            error = data.get("error", "Unknown error")
+                            print(f"    ❌ Generation failed: {error}")
+                            return None
+                        else:
+                            elapsed = int(time.time() - start_time)
+                            print(f"    ⏳ Status: {status} ({elapsed}s)")
+                    else:
+                        response_text = await response.text()
+                        print(f"    ⚠️ Poll error: {response.status} - {response_text}")
                 
-                await asyncio.sleep(5)
+                await asyncio.sleep(poll_interval)
         
-        print(f"    ⚠️ Timeout waiting for presentation")
-        return False
+        print(f"    ⚠️ Timeout after {timeout}s")
+        return None
     
-    async def _export_slides(self, presentation_id: str) -> List["Image.Image"]:
-        """Export presentation slides as images (1080x1350)."""
-        if not self.api_key or not PIL_AVAILABLE:
-            return []
-            
-        headers = {"Authorization": f"Bearer {self.api_key}"}
-        slides = []
-        
-        async with aiohttp.ClientSession() as session:
-            # Get export URLs
-            async with session.get(
-                f"{self.API_BASE}/presentations/{presentation_id}/export",
-                params={"format": "png", "size": "1080x1350"},
-                headers=headers
-            ) as response:
-                if response.status != 200:
-                    return []
-                    
-                data = await response.json()
-                slide_urls = data.get("slides", [])
-            
-            # Download each slide
-            for url in slide_urls[:self.OPTIMAL_SLIDES]:
-                async with session.get(url) as response:
+    async def _download_pdf(self, export_url: str, output_path: str) -> bool:
+        """Download the generated PDF."""
+        try:
+            async with aiohttp.ClientSession() as session:
+                async with session.get(export_url) as response:
                     if response.status == 200:
-                        image_data = await response.read()
-                        img = Image.open(BytesIO(image_data))
-                        # Ensure LinkedIn carousel dimensions (4:5)
-                        if img.size != (self.width, self.height):
-                            img = img.resize(
-                                (self.width, self.height), 
-                                Image.Resampling.LANCZOS
-                            )
-                        slides.append(img)
-        
-        return slides
+                        content = await response.read()
+                        with open(output_path, 'wb') as f:
+                            f.write(content)
+                        return True
+                    else:
+                        print(f"    ⚠️ Download error: {response.status}")
+                        return False
+        except Exception as e:
+            print(f"    ⚠️ Download failed: {e}")
+            return False
     
     async def generate_carousel(self, item: Dict) -> List["Image.Image"]:
         """
-        Generate carousel slides using Gamma API.
+        Generate carousel using Gamma API.
         
-        Following best practices:
-        - 10 slides (Hook → Stakes → Insight → Content × 6 → CTA)
-        - Portrait 4:5 format (1080x1350)
-        - Nano Banana Pro AI images
-        - Minimal text ("Just vibes")
+        Note: Gamma generates PDF directly, so we return empty list
+        and handle PDF separately in process_day.
         """
         if not self.api_key:
             raise ValueError(
                 "GAMMA_API_KEY not set. "
-                "Get your API key from gamma.app with a Pro subscription ($15/mo). "
+                "Get your API key from gamma.app with a Pro subscription."
             )
         
-        if not PIL_AVAILABLE:
-            raise RuntimeError("PIL not available - install with: pip install pillow")
+        print(f"    🚀 Creating Gamma generation ({self.NUM_CARDS} slides)...")
         
-        est_credits = self._estimate_credits()
-        print(f"    🚀 Creating Gamma presentation ({self.OPTIMAL_SLIDES} slides, ~{est_credits} credits)...")
+        # Create generation
+        generation_id = await self._create_generation(item)
+        if not generation_id:
+            raise RuntimeError("Failed to create Gamma generation")
         
-        # Create presentation
-        presentation_id = await self._create_presentation(item)
-        if not presentation_id:
-            raise RuntimeError("Failed to create Gamma presentation")
+        # Poll for completion
+        result = await self._poll_generation(generation_id)
+        if not result:
+            raise RuntimeError("Gamma generation failed or timed out")
         
-        print(f"    ⏳ Generating with Nano Banana Pro...")
+        # Store export URL for PDF download
+        self._last_export_url = result.get("exportUrl")
+        self._last_gamma_url = result.get("gammaUrl")
         
-        # Wait for completion
-        if not await self._wait_for_completion(presentation_id):
-            raise RuntimeError("Gamma presentation generation failed or timed out")
+        if self._last_gamma_url:
+            print(f"    🔗 View: {self._last_gamma_url}")
         
-        print(f"    📥 Exporting {self.OPTIMAL_SLIDES} slides (1080x1350)...")
+        # Return empty list since we'll handle PDF separately
+        return []
+    
+    async def process_item(self, item: Dict, output_dir: str) -> Optional[str]:
+        """
+        Process a single item and download PDF.
         
-        # Export slides
-        slides = await self._export_slides(presentation_id)
+        Overrides base class to handle Gamma's direct PDF export.
+        """
+        import re
         
-        if not slides:
-            raise RuntimeError("Failed to export Gamma slides")
+        headline = item.get('headline', 'untitled')
+        safe_name = re.sub(r'[^\w\s-]', '', headline.lower())
+        safe_name = re.sub(r'[-\s]+', '_', safe_name).strip('_')[:50]
         
-        print(f"    ✅ Generated {len(slides)} slides")
+        try:
+            # Generate via Gamma API
+            await self.generate_carousel(item)
+            
+            # Download PDF if available
+            if hasattr(self, '_last_export_url') and self._last_export_url:
+                os.makedirs(output_dir, exist_ok=True)
+                output_path = os.path.join(output_dir, f"{safe_name}.pdf")
+                
+                print(f"    📥 Downloading PDF...")
+                if await self._download_pdf(self._last_export_url, output_path):
+                    print(f"    ✅ Saved: {output_path}")
+                    return output_path
+                else:
+                    print(f"    ⚠️ PDF download failed")
+                    return None
+            else:
+                print(f"    ⚠️ No export URL available")
+                return None
+                
+        except Exception as e:
+            print(f"    ❌ Error: {e}")
+            return None
+    
+    async def process_day(self, date_str: str):
+        """Process all items for a given date."""
+        import json
         
-        return slides
+        curated_path = os.path.join(
+            CarouselConfig.DATA_DIR, 
+            "curated", 
+            f"{date_str}.json"
+        )
+        
+        if not os.path.exists(curated_path):
+            print(f"No curated data for {date_str}")
+            return
+        
+        with open(curated_path, 'r') as f:
+            items = json.load(f)
+        
+        if not items:
+            print(f"No items in {date_str}")
+            return
+        
+        output_dir = os.path.join(
+            CarouselConfig.DATA_DIR,
+            "carousels",
+            date_str,
+            self.theme
+        )
+        
+        print(f"Generating {len(items)} carousels [gamma:{self.theme}] for {date_str}...")
+        
+        for item in items:
+            headline = item.get('headline', 'Unknown')
+            print(f"\n  Processing: {headline[:50]}...")
+            await self.process_item(item, output_dir)
