@@ -167,6 +167,7 @@ Never miss another breakthrough.
             "format": "social",       # Social media format for carousels
             "numCards": self.NUM_CARDS,
             "exportAs": "pdf",        # Export as PDF for LinkedIn
+            "folderId": os.getenv("GAMMA_FOLDER_ID", "74df73cje79wzca"),  # Save to folder
             "textOptions": {
                 "tone": "Professional",
                 "audience": "LinkedIn Tech Professionals",
