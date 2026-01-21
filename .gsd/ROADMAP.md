@@ -45,13 +45,15 @@
 - `providers/gamma.py` — Gamma API integration
 - Credit tracking and monitoring
 
-### Phase 5: CLI & Configuration
+### Phase 5: CLI & Workflow Integration
 **Status**: ⬜ Not Started
-**Objective**: Complete CLI integration and fallback chains
+**Objective**: Complete CLI integration and GitHub Actions workflow
 **Deliverables**:
 - Updated CLI with `--provider` flag
 - `config/providers.yaml` for fallback configuration
-- GitHub Actions integration
+- Update `.github/workflows/discord-fetch.yml` to uncomment carousel step
+- Provider selection via `CAROUSEL_PROVIDER` environment variable
+- Fallback chain: `canva → pillow_unsplash` (zero-cost default)
 
 ### Phase 6: Testing & Documentation
 **Status**: ⬜ Not Started

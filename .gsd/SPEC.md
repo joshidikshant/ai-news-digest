@@ -4,7 +4,32 @@
 
 ## Vision
 
-Build a **modular LinkedIn Carousel Generator** that allows users to choose between multiple backend providers (Canva MCP, Gamma API, or custom Pillow+AI) for generating professional carousel PDFs from curated AI news content. The system integrates with the existing `ai-news-digest` pipeline and outputs LinkedIn-ready carousels.
+Build a **modular LinkedIn Carousel Generator** that allows users to choose between multiple backend providers (Canva MCP, Gamma API, or custom Pillow+AI) for generating professional carousel PDFs from curated AI news content. The system integrates seamlessly with the existing `ai-news-digest` pipeline and outputs LinkedIn-ready carousels.
+
+## Existing Pipeline Integration
+
+The carousel generator is the **final step** in the existing workflow:
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                     AI NEWS DIGEST PIPELINE                         │
+├─────────────────────────────────────────────────────────────────────┤
+│  discord_fetch.py  →  curate.py  →  notion_sync.py                 │
+│         ↓                ↓               ↓                          │
+│   data/raw/       data/curated/    Notion DB                        │
+│                          ↓                                          │
+│               generate_content.py                                   │
+│                          ↓                                          │
+│               data/content/ (Twitter/LinkedIn text)                 │
+│                          ↓                                          │
+│               generate_carousel.py  ← THIS PROJECT                  │
+│                          ↓                                          │
+│               data/carousels/ (PDF/PNG)                             │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+**Input**: `data/curated/{date}.json` — Curated AI news items
+**Output**: `data/carousels/{date}/{theme}/{name}.pdf` — LinkedIn carousel PDFs
 
 ## Goals
 
@@ -27,10 +52,12 @@ Build a **modular LinkedIn Carousel Generator** that allows users to choose betw
 
 ## Constraints
 
-- **Technical**: Must integrate with existing `curate.py` output format
-- **Budget**: Minimize API costs; prefer free/included options
-- **Existing Assets**: User has Canva paid plan, OpenAI API access
+- **Technical**: Must consume `data/curated/{date}.json` format unchanged
+- **Workflow**: Must run after `generate_content.py` in GitHub Actions
+- **Budget**: Minimize API costs; original DALL-E approach ($0.20/carousel) too expensive
+- **Existing Assets**: User has Canva paid plan, OpenAI API access, Gemini access
 - **Output**: LinkedIn carousel format (1080x1350 portrait, PDF)
+- **48-hour Window**: Already implemented in existing carousel code
 
 ## Providers
 
