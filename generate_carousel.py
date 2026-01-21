@@ -379,23 +379,76 @@ async def main():
     except ImportError:
         providers_available = []
     
-    parser = argparse.ArgumentParser(description="Generate LinkedIn carousel PDFs")
+    parser = argparse.ArgumentParser(
+        description="Generate LinkedIn carousel PDFs from curated AI news",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  # Free mode (default if no provider set)
+  python generate_carousel.py --provider pillow_unsplash
+  
+  # Gamma with fallback to free
+  python generate_carousel.py --provider gamma --fallback pillow_unsplash
+  
+  # Premium DALL-E images
+  python generate_carousel.py --provider pillow_openai
+  
+  # List available providers
+  python generate_carousel.py --list-providers
+"""
+    )
+    
+    # Provider selection
+    parser.add_argument(
+        "--provider", "-p",
+        default=os.getenv("CAROUSEL_PROVIDER", ""),
+        help=f"Carousel provider. Available: {', '.join(providers_available) or 'none (legacy mode)'}"
+    )
+    parser.add_argument(
+        "--fallback", "-f",
+        default=os.getenv("CAROUSEL_FALLBACK", "pillow_unsplash"),
+        help="Fallback provider if primary fails (default: pillow_unsplash)"
+    )
+    parser.add_argument(
+        "--image-quality",
+        choices=["none", "basic", "advanced", "premium"],
+        default=os.getenv("GAMMA_IMAGE_QUALITY", "basic"),
+        help="AI image quality for Gamma provider (default: basic)"
+    )
+    parser.add_argument(
+        "--list-providers",
+        action="store_true",
+        help="List all available providers and exit"
+    )
+    
+    # Processing options
     parser.add_argument("--date", help="Date to process (YYYY-MM-DD)")
     parser.add_argument("--all", action="store_true", help="Process all curated files")
     parser.add_argument("--theme", choices=["dark", "light", "both"], default="both", help="Color theme")
     parser.add_argument("--no-images", action="store_true", help="Skip AI illustration generation")
-    parser.add_argument(
-        "--provider",
-        choices=providers_available if providers_available else None,
-        default=os.getenv("CAROUSEL_PROVIDER", ""),
-        help=f"Carousel provider. Available: {providers_available or 'none (using legacy)'}"
-    )
+    
     args = parser.parse_args()
+    
+    # Handle --list-providers
+    if args.list_providers:
+        print("Available carousel providers:")
+        print()
+        for name in providers_available:
+            try:
+                p = get_provider(name, theme="dark")
+                cost = getattr(p, 'cost_info', 'Unknown')
+                print(f"  • {name}")
+            except Exception as e:
+                print(f"  • {name} (unavailable: {e})")
+        print()
+        print("Usage: python generate_carousel.py --provider <name>")
+        print("Set CAROUSEL_PROVIDER env var for automation")
+        return
     
     themes = ["dark", "light"] if args.theme == "both" else [args.theme]
     generate_images = not args.no_images
     
-    # Check if using provider system or legacy
+    # Validate provider
     use_provider = args.provider and args.provider in providers_available
     
     for theme in themes:

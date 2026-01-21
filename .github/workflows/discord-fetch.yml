@@ -45,9 +45,16 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python generate_content.py
         
-      # PAUSED: Carousel generation (DALL-E costs)
-      # - name: Generate LinkedIn carousels
-      #   run: python generate_carousel.py
+      - name: Generate LinkedIn carousels
+        env:
+          CAROUSEL_PROVIDER: ${{ vars.CAROUSEL_PROVIDER || 'pillow_unsplash' }}
+          CAROUSEL_FALLBACK: pillow_unsplash
+          GAMMA_API_KEY: ${{ secrets.GAMMA_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python generate_carousel.py \
+            --provider "$CAROUSEL_PROVIDER" \
+            --fallback "$CAROUSEL_FALLBACK"
         
       - name: Commit data files
         run: |
