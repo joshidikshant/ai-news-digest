@@ -38,8 +38,11 @@ class CurationEngine:
         system_prompt = prompt_config['system']
         format_instructions = prompt_config['output_format']
         
-        # Batching strategies could be implemented here, but for MVP we send all (or truncate)
-        # We'll just take the top 50 most recent to avoid context limits for now, or batch
+        # Limit to 50 most recent messages to prevent OpenAI Rate Limit (429)
+        # 100k tokens is too much. 50 messages ~ 5k-10k tokens depending on length.
+        messages.sort(key=lambda x: x['timestamp'], reverse=True)
+        messages = messages[:50]
+        
         messages_text = ""
         for msg in messages:
             messages_text += f"""
