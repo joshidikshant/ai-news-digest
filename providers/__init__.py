@@ -109,13 +109,22 @@ def is_provider_available(name: str) -> bool:
 try:
     from providers import pillow_legacy  # Legacy wrapper for existing code
 except ImportError as e:
-    print(f"Warning: Could not import pillow_legacy: {e}")
+    pass  # Silently skip if not available
 
-# Future providers will self-register:
-# from providers import pillow_openai
-# from providers import pillow_unsplash
-# from providers import canva_mcp
-# from providers import gamma
+try:
+    from providers import pillow_openai  # DALL-E powered provider
+except ImportError as e:
+    pass  # Silently skip if not available
+
+try:
+    from providers import pillow_unsplash  # Free Unsplash images
+except ImportError as e:
+    pass  # Silently skip if not available
+
+# Future providers:
+# from providers import pillow_gemini  # Gemini Imagen
+# from providers import canva_mcp      # Canva MCP
+# from providers import gamma          # Gamma API
 
 
 __all__ = [
