@@ -209,8 +209,15 @@ Never miss another breakthrough.
                     if response.status == 200 or response.status == 201:
                         data = await response.json()
                         gen_id = data.get("generationId") or data.get("id")
-                        print(f"    ✅ Generation started: {gen_id}")
-                        return gen_id
+                        print(f"    ✅ Generation created: {gen_id}")
+                        
+                        # Check if response already includes URLs (synchronous generation)
+                        if data.get("gammaUrl") or data.get("exportUrl"):
+                            print(f"    ✅ URLs received directly (no polling needed)")
+                            return data  # Return full response with URLs
+                        
+                        # Otherwise return ID for polling
+                        return {"generationId": gen_id, "_needs_polling": True}
                     elif response.status == 401:
                         raise ValueError("Invalid GAMMA_API_KEY")
                     elif response.status == 402:
@@ -306,12 +313,21 @@ Never miss another breakthrough.
         print(f"    🚀 Creating Gamma generation ({self.NUM_CARDS} slides)...")
         
         # Create generation
-        generation_id = await self._create_generation(item)
-        if not generation_id:
+        # Create generation
+        response_data = await self._create_generation(item)
+        if not response_data:
             raise RuntimeError("Failed to create Gamma generation")
-        
-        # Poll for completion
-        result = await self._poll_generation(generation_id)
+            
+        # Check if we got the result directly (sync) or need to poll (async)
+        if isinstance(response_data, dict) and (response_data.get("gammaUrl") or response_data.get("exportUrl")):
+            result = response_data
+        elif isinstance(response_data, dict) and response_data.get("generationId"):
+            # Need to poll
+            result = await self._poll_generation(response_data["generationId"])
+        else:
+             # Fallback for unexpected format
+             raise RuntimeError(f"Unexpected response from Gamma API: {response_data}")
+
         if not result:
             raise RuntimeError("Gamma generation failed or timed out")
         
