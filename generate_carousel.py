@@ -115,8 +115,10 @@ Environment:
             print(f"No curated data in the last {Config.SLIDING_WINDOW_HOURS} hours.")
             return
         
-        print(f"Processing {len(recent_files)} days...")
-        for f in recent_files:
+        # Limit to the SINGLE most recent day to strictly enforce 1 carousel/run
+        latest_file = recent_files[-1:]
+        print(f"Processing {len(latest_file)} day (latest only)...")
+        for f in latest_file:
             date_str = os.path.splitext(os.path.basename(f))[0]
             print(f"\n=== {date_str} ===")
             await provider.process_day(date_str)
