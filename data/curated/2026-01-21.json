@@ -1,0 +1,38 @@
+[
+  {
+    "headline": "Claude Experiences Outages, Users Frustrated",
+    "bullets": [
+      "Multiple users report issues with Claude being down across different platforms.",
+      "Complaints about service reliability and performance are increasing."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-21 14:52:23",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463546778581471409"
+    },
+    "relevance": 90,
+    "hot_take": "Is Claude's downtime a sign of deeper infrastructure issues at Anthropic?",
+    "category": "insight",
+    "curated_at": "2026-01-22T09:26:00.312592+00:00",
+    "original_server": "Anthropic"
+  },
+  {
+    "headline": "Grok: A Divisive Tool Among Users",
+    "bullets": [
+      "Mixed reviews on Grok's utility for professional work.",
+      "Some users criticize it as gimmicky and lacking real value."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "general",
+      "timestamp": "2026-01-21 17:34:29",
+      "message_link": "https://discord.com/channels/1072196207201501266/1114305545478877377/1463587571006181488"
+    },
+    "relevance": 70,
+    "hot_take": "Is Grok the AI tool we never needed, or is there potential being overlooked?",
+    "category": "discussion",
+    "curated_at": "2026-01-22T09:26:00.312605+00:00",
+    "original_server": "Anthropic"
+  }
+]

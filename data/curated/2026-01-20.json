@@ -17,5 +17,23 @@
     "category": "discussion",
     "curated_at": "2026-01-20T00:51:57.868668+00:00",
     "original_server": "Anthropic"
+  },
+  {
+    "headline": "Claude Now Connects to Your Health Data for Personalized Insights",
+    "bullets": [
+      "Introducing Apple Health, Health Connect, HealthEx, and Function Health integrations.",
+      "Focused on privacy with explicit opt-in and no training use of health data."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "announcements",
+      "timestamp": "2026-01-20 23:33:38",
+      "message_link": "https://discord.com/channels/1072196207201501266/1072197729276657744/1463315566361186344"
+    },
+    "relevance": 95,
+    "hot_take": "Is Claude the future of personalized healthcare management?",
+    "category": "announcement",
+    "curated_at": "2026-01-22T09:25:19.863220+00:00",
+    "original_server": "Anthropic"
   }
 ]
