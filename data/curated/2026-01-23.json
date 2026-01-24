@@ -1,0 +1,20 @@
+[
+  {
+    "headline": "Claude in Excel Gets Beefed Up for Pro Users",
+    "bullets": [
+      "Now supports multiple file uploads via drag and drop.",
+      "Avoids overwriting existing cells and offers longer sessions with auto compaction."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "announcements",
+      "timestamp": "2026-01-23 22:55:41",
+      "message_link": "https://discord.com/channels/1072196207201501266/1072197729276657744/1464393182681891031"
+    },
+    "relevance": 85,
+    "hot_take": "Excel just got a lot smarter for power users. Is this the end of mundane spreadsheet tasks?",
+    "category": "announcement",
+    "curated_at": "2026-01-24T09:13:14.176872+00:00",
+    "original_server": "Anthropic"
+  }
+]
