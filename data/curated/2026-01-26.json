@@ -1,0 +1,20 @@
+[
+  {
+    "headline": "Claude Launches Interactive Tool Integration",
+    "bullets": [
+      "Claude now integrates directly with tools like Slack, Figma, and Asana for real-time collaboration.",
+      "Available on web and desktop for all paid plans, expanding to Claude Cowork soon."
+    ],
+    "source": {
+      "server": "Anthropic",
+      "channel": "announcements",
+      "timestamp": "2026-01-26 18:35:19",
+      "message_link": "https://discord.com/channels/1072196207201501266/1072197729276657744/1465414822362611905"
+    },
+    "relevance": 85,
+    "hot_take": "Explore how Claude's interactive tools could redefine productivity by eliminating the need to switch between apps.",
+    "category": "announcement",
+    "curated_at": "2026-01-27T09:24:56.349865+00:00",
+    "original_server": "Anthropic"
+  }
+]
